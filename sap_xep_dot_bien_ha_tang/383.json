@@ -1,0 +1,4521 @@
+{
+    "id_district": "383",
+    "id_province": 48,
+    "name_province": "Quảng Ngãi",
+    "name_district": "Huyện Trà Bồng",
+    "list_sukien": [
+        {
+            "bidName": "Gói thầu số 06: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0106021338",
+            "publicDate": "2024-09-16 16:23:47",
+            "projectName": "Liên danh Nâng cấp đường Trung tâm xã (TTCX Tân - Bùi)",
+            "bidCloseDate": "2024-09-21 10:00:00",
+            "id_muasamcong": "019b0bf8-c2cc-484f-998f-0537647a5ca1",
+            "tongmuc_dautu": 4916416000.0,
+            "bidNamePlanNew": "PL2400198155",
+            "dotbien_hatang": "Gói thầu số 06: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0105164076",
+            "publicDate": "2023-04-28 15:10:03",
+            "projectName": null,
+            "bidCloseDate": "2023-05-08 15:15:00",
+            "id_muasamcong": "0350b924-cd93-4aff-a00e-3f972ce17bbf",
+            "tongmuc_dautu": 3133773000.0,
+            "bidNamePlanNew": "PL2300060687",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0105164076",
+            "publicDate": "2024-07-29 15:37:53",
+            "projectName": null,
+            "bidCloseDate": "2024-08-03 15:30:00",
+            "id_muasamcong": "057c429d-812b-41db-ab26-bd1f9397fa1b",
+            "tongmuc_dautu": 1852780000.0,
+            "bidNamePlanNew": "PL2400144045",
+            "dotbien_hatang": "Gói thầu số 06: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0105164076",
+            "publicDate": "2024-03-08 14:42:38",
+            "projectName": null,
+            "bidCloseDate": "2024-03-18 15:00:00",
+            "id_muasamcong": "05c6defd-0482-4644-91fd-963ba18c460a",
+            "tongmuc_dautu": 3484860000.0,
+            "bidNamePlanNew": "PL2300249256",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng",
+            "chudautu": "Ủy Ban Nhân Dân xã Trà Hiệp",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-01-20 10:10:25",
+            "projectName": null,
+            "bidCloseDate": "2024-01-29 10:00:00",
+            "id_muasamcong": "05e3d53d-484b-4c93-b6ed-ffce2a142333",
+            "tongmuc_dautu": 1239379000.0,
+            "bidNamePlanNew": "PL2400009671",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "UỶ BAN NHÂN DÂN XÃ TRÀ THỦY",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-09-09 11:33:06",
+            "projectName": null,
+            "bidCloseDate": "2024-09-14 08:00:00",
+            "id_muasamcong": "0776cadc-4278-4358-b280-12d71321ffab",
+            "tongmuc_dautu": 332149000.0,
+            "bidNamePlanNew": "PL2400192206",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng",
+            "chudautu": "Ủy Ban Nhân Dân xã Trà Hiệp",
+            "createdBy": "vn4300867496",
+            "publicDate": "2023-05-05 20:56:23",
+            "projectName": null,
+            "bidCloseDate": "2023-05-15 10:00:00",
+            "id_muasamcong": "09c9bd41-3954-4fc5-a5a1-0f0e903b0615",
+            "tongmuc_dautu": 1401085000.0,
+            "bidNamePlanNew": "PL2300057605",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0105164076",
+            "publicDate": "2023-04-12 14:41:40",
+            "projectName": null,
+            "bidCloseDate": "2023-04-22 15:05:00",
+            "id_muasamcong": "0c14469e-3836-44b8-97ce-a5d18999458f",
+            "tongmuc_dautu": 8228051000.0,
+            "bidNamePlanNew": "PL2300037411",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 7 thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0105164076",
+            "publicDate": "2023-03-21 16:33:56",
+            "projectName": null,
+            "bidCloseDate": "2023-03-31 16:50:00",
+            "id_muasamcong": "0c9afea0-97eb-48da-aeff-da07dad98ba7",
+            "tongmuc_dautu": 8015258097.0,
+            "bidNamePlanNew": "PL2300031715",
+            "dotbien_hatang": "Gói thầu số 7 thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng",
+            "chudautu": "UBND xã Trà Phong",
+            "createdBy": "vn4300867496",
+            "publicDate": "2023-05-24 17:28:39",
+            "projectName": null,
+            "bidCloseDate": "2023-06-03 10:00:00",
+            "id_muasamcong": "0da852ff-570e-439c-95c0-8db19fba2a22",
+            "tongmuc_dautu": 1162202844.0,
+            "bidNamePlanNew": "PL2300057610",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Toàn bộ phần thi công xây dựng",
+            "chudautu": "UBND xã Trà Phong",
+            "createdBy": "vn4300867496",
+            "publicDate": "2022-12-21 01:22:02",
+            "projectName": null,
+            "bidCloseDate": "2022-12-26 10:00:00",
+            "id_muasamcong": "0f9102b2-5c32-4829-a3e2-5ed0b625d9bc",
+            "tongmuc_dautu": 1122845000.0,
+            "bidNamePlanNew": "PL2200034652",
+            "dotbien_hatang": "Toàn bộ phần thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Toàn bộ phần thi công xây dựng",
+            "chudautu": "UBND xã Trà Phong",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-01-17 08:46:04",
+            "projectName": null,
+            "bidCloseDate": "2024-01-26 10:00:00",
+            "id_muasamcong": "0f98923b-e8f7-4e9e-b079-e5ae3a023a56",
+            "tongmuc_dautu": 1157379000.0,
+            "bidNamePlanNew": "PL2400007871",
+            "dotbien_hatang": "Gói thầu số 03: Toàn bộ phần thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0105164076",
+            "publicDate": "2024-07-23 11:35:01",
+            "projectName": "Liên danh VTD",
+            "bidCloseDate": "2024-08-01 15:00:00",
+            "id_muasamcong": "1066c96c-7976-403c-9b9b-97fff51aba6b",
+            "tongmuc_dautu": 9503714000.0,
+            "bidNamePlanNew": "PL2400140080",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng",
+            "chudautu": "UỶ BAN NHÂN DÂN XÃ TRÀ BÙI",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-07-19 13:23:20",
+            "projectName": null,
+            "bidCloseDate": "2024-07-26 10:00:00",
+            "id_muasamcong": "11a15645-bddc-4815-b788-b5f96d0b84f6",
+            "tongmuc_dautu": 451379000.0,
+            "bidNamePlanNew": "PL2400128560",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "UBND xã Trà Phong",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-09-23 20:01:46",
+            "projectName": null,
+            "bidCloseDate": "2024-09-28 08:00:00",
+            "id_muasamcong": "1260bbe4-fa39-48b6-aa2a-e2b036c30e3b",
+            "tongmuc_dautu": 401379000.0,
+            "bidNamePlanNew": "PL2400203972",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0105164076",
+            "publicDate": "2023-04-28 14:23:32",
+            "projectName": null,
+            "bidCloseDate": "2023-05-08 15:30:00",
+            "id_muasamcong": "1343fcc1-9117-4d64-b4f3-78b6279b7bc3",
+            "tongmuc_dautu": 3902912000.0,
+            "bidNamePlanNew": "PL2300053685",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Trường Tiểu học Trà Bình",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-08-05 09:45:34",
+            "projectName": null,
+            "bidCloseDate": "2024-08-10 10:00:00",
+            "id_muasamcong": "15adf540-7dc1-4e0f-9e6a-8dd46a545c28",
+            "tongmuc_dautu": 339379000.0,
+            "bidNamePlanNew": "PL2400151253",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "UBND xã Trà Phong",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-09-23 19:21:53",
+            "projectName": null,
+            "bidCloseDate": "2024-09-28 08:00:00",
+            "id_muasamcong": "16c1614c-71a0-492f-afef-7f0f47b5c08f",
+            "tongmuc_dautu": 195379000.0,
+            "bidNamePlanNew": "PL2400203824",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng",
+            "chudautu": "UBND xã Trà Xinh",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-08-19 16:43:40",
+            "projectName": null,
+            "bidCloseDate": "2024-08-24 10:00:00",
+            "id_muasamcong": "1783c606-df77-44e6-ae24-aad06564b021",
+            "tongmuc_dautu": 147379000.0,
+            "bidNamePlanNew": "PL2400170955",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0105164076",
+            "publicDate": "2024-07-23 11:35:46",
+            "projectName": null,
+            "bidCloseDate": "2024-07-30 15:00:00",
+            "id_muasamcong": "1f6faf68-feb6-4180-8ee8-c703ea2fef21",
+            "tongmuc_dautu": 1912755000.0,
+            "bidNamePlanNew": "PL2400138994",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng",
+            "chudautu": "BAN CHỈ HUY QUÂN SỰ HUYỆN TRÀ BỒNG",
+            "createdBy": "vn4300845622",
+            "publicDate": "2023-02-17 16:34:38",
+            "projectName": null,
+            "bidCloseDate": "2023-02-27 11:00:00",
+            "id_muasamcong": "21710298-3a96-4bc5-be1f-01c58bcf6a82",
+            "tongmuc_dautu": 3161239000.0,
+            "bidNamePlanNew": "PL2300012370",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Hương Trà",
+            "createdBy": "vn4300867496",
+            "publicDate": "2023-01-28 06:56:17",
+            "projectName": null,
+            "bidCloseDate": "2023-02-07 10:00:00",
+            "id_muasamcong": "21cb30c0-80af-4806-ab0e-2b4e88a7fd74",
+            "tongmuc_dautu": 1748470000.0,
+            "bidNamePlanNew": "PL2300003197",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 7 thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0105164076",
+            "publicDate": "2023-03-21 08:19:15",
+            "projectName": null,
+            "bidCloseDate": "2023-03-31 15:00:00",
+            "id_muasamcong": "226b742f-67fd-4c4e-8e6c-2c72cd24214d",
+            "tongmuc_dautu": 5717539000.0,
+            "bidNamePlanNew": "PL2300031751",
+            "dotbien_hatang": "Gói thầu số 7 thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06: Thi công xây dựng + Thiết bị",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0106021338",
+            "publicDate": "2024-02-02 14:36:12",
+            "projectName": "Liên danh công ty Bình Minh - Duy Kỳ",
+            "bidCloseDate": "2024-02-18 16:00:00",
+            "id_muasamcong": "231fa60c-3754-4d8d-a1e0-e230b00151f1",
+            "tongmuc_dautu": 2782626000.0,
+            "bidNamePlanNew": "PL2400002070",
+            "dotbien_hatang": "Gói thầu số 06: Thi công xây dựng + Thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Toàn bộ phần thi công xây dựng",
+            "chudautu": "UBND xã Trà Xinh",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-01-25 15:16:24",
+            "projectName": null,
+            "bidCloseDate": "2024-02-02 10:00:00",
+            "id_muasamcong": "2501222a-e729-440e-8e44-db412564a491",
+            "tongmuc_dautu": 1061379000.0,
+            "bidNamePlanNew": "PL2400010961",
+            "dotbien_hatang": "Gói thầu số 04: Toàn bộ phần thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng",
+            "chudautu": "PHÒNG KINH TẾ VÀ HẠ TẦNG HUYỆN TRÀ BỒNG",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-11-18 20:24:28",
+            "projectName": null,
+            "bidCloseDate": "2024-11-29 08:00:00",
+            "id_muasamcong": "259f38fd-0f16-4b9a-b89b-cbb8609d58fb",
+            "tongmuc_dautu": 1600781000.0,
+            "bidNamePlanNew": "PL2400275913",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0105164076",
+            "publicDate": "2023-03-25 15:37:14",
+            "projectName": null,
+            "bidCloseDate": "2023-04-04 16:05:00",
+            "id_muasamcong": "25f2d559-3cb1-4933-a9ce-32015fc0fd3f",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300037411",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Phòng Lao động - Thương binh và Xã hội huyện Trà Bồng",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-10-14 14:58:11",
+            "projectName": null,
+            "bidCloseDate": "2024-10-19 08:00:00",
+            "id_muasamcong": "26c07dc5-8fd7-4e6a-bbb1-c82226166ecc",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400231061",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Trà Bình",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-08-19 22:20:32",
+            "projectName": null,
+            "bidCloseDate": "2024-08-24 10:00:00",
+            "id_muasamcong": "2786d8c6-7c0e-45dc-a25c-8ccc8da1aba0",
+            "tongmuc_dautu": 297379000.0,
+            "bidNamePlanNew": "PL2400172161",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06: Thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0105164076",
+            "publicDate": "2023-04-24 16:10:13",
+            "projectName": null,
+            "bidCloseDate": "2023-04-28 15:15:00",
+            "id_muasamcong": "29860acf-0a81-4ffb-8445-7c345d86d84c",
+            "tongmuc_dautu": 1207453000.0,
+            "bidNamePlanNew": "PL2300047776",
+            "dotbien_hatang": "Gói thầu số 06: Thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "UỶ BAN NHÂN DÂN XÃ TRÀ THỦY",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-12-16 23:09:55",
+            "projectName": null,
+            "bidCloseDate": "2024-12-21 08:00:00",
+            "id_muasamcong": "29a2a885-91b9-4809-b78f-1f60d61f87ef",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400319042",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0106021338",
+            "publicDate": "2024-09-16 16:22:42",
+            "projectName": null,
+            "bidCloseDate": "2024-09-21 10:05:00",
+            "id_muasamcong": "2b6e84ff-6ea0-4af4-82a0-df3d7aeeb0e8",
+            "tongmuc_dautu": 4411641000.0,
+            "bidNamePlanNew": "PL2400198147",
+            "dotbien_hatang": "Gói thầu số 06: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng",
+            "chudautu": "UỶ BAN NHÂN XÃ TRÀ TÂN",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-11-18 22:17:57",
+            "projectName": null,
+            "bidCloseDate": "2024-11-23 08:00:00",
+            "id_muasamcong": "2c7c5994-d0ab-4a45-8f1b-0bd4f5068cff",
+            "tongmuc_dautu": 291379000.0,
+            "bidNamePlanNew": "PL2400277588",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng",
+            "chudautu": "PHÒNG NÔNG NGHIỆP & PTNT TRÀ BỒNG",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-11-19 21:52:24",
+            "projectName": null,
+            "bidCloseDate": "2024-11-23 08:00:00",
+            "id_muasamcong": "324821f9-225e-4acb-84a9-ff8e67cdfe46",
+            "tongmuc_dautu": 284508000.0,
+            "bidNamePlanNew": "PL2400258359",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0105164076",
+            "publicDate": "2024-07-23 11:43:39",
+            "projectName": null,
+            "bidCloseDate": "2024-07-30 15:25:00",
+            "id_muasamcong": "33f3e106-f18b-4a0f-995d-00ee37b5f76e",
+            "tongmuc_dautu": 586535882.0,
+            "bidNamePlanNew": "PL2400139912",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Trà Sơn",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-06-14 20:01:17",
+            "projectName": null,
+            "bidCloseDate": "2024-06-21 10:00:00",
+            "id_muasamcong": "35683a41-ffbc-4e43-9191-d806fcb79a53",
+            "tongmuc_dautu": 149579000.0,
+            "bidNamePlanNew": "PL2400109419",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng",
+            "chudautu": "PHÒNG KINH TẾ VÀ HẠ TẦNG HUYỆN TRÀ BỒNG",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-11-18 19:33:00",
+            "projectName": null,
+            "bidCloseDate": "2024-11-23 08:00:00",
+            "id_muasamcong": "36f9011f-39bd-4056-b406-ff58be51c198",
+            "tongmuc_dautu": 1111769000.0,
+            "bidNamePlanNew": "PL2400275908",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng và thiết bị",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0105164076",
+            "publicDate": "2023-01-18 13:50:26",
+            "projectName": null,
+            "bidCloseDate": "2023-02-04 14:30:00",
+            "id_muasamcong": "377c107f-20af-4d36-afbd-6f56cfa15c68",
+            "tongmuc_dautu": 7182037000.0,
+            "bidNamePlanNew": "PL2300006148",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng và thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0105164076",
+            "publicDate": "2023-11-02 16:30:23",
+            "projectName": "Liên danh Công ty TNHH Hoàng Yên - Công ty TNHH MTV Thiết bị PCCC Quảng Ngãi",
+            "bidCloseDate": "2023-11-13 15:30:00",
+            "id_muasamcong": "3a09d948-0479-482d-87aa-09765e951b52",
+            "tongmuc_dautu": 6000262000.0,
+            "bidNamePlanNew": "PL2300207955",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "UỶ BAN NHÂN XÃ TRÀ TÂN",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-12-05 10:12:36",
+            "projectName": null,
+            "bidCloseDate": "2024-12-12 08:00:00",
+            "id_muasamcong": "3a52d884-8c47-4a52-babd-e09e838fdf81",
+            "tongmuc_dautu": 227379000.0,
+            "bidNamePlanNew": "PL2400297885",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Trà Sơn",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-06-02 21:55:37",
+            "projectName": null,
+            "bidCloseDate": "2024-06-08 10:00:00",
+            "id_muasamcong": "3b5f122d-ea68-4653-b8e6-30e63f588860",
+            "tongmuc_dautu": 611425936.0,
+            "bidNamePlanNew": "PL2400096813",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Giám sát thi công xây dựng công trình",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0105164076",
+            "publicDate": "2023-04-28 13:59:05",
+            "projectName": null,
+            "bidCloseDate": "2023-05-08 15:10:00",
+            "id_muasamcong": "3bc0a0b2-59ec-42cc-8e86-9f1cb33b4df0",
+            "tongmuc_dautu": 481814000.0,
+            "bidNamePlanNew": "PL2300058920",
+            "dotbien_hatang": "Gói thầu số 03: Giám sát thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Trà Sơn",
+            "createdBy": "vn4300867496",
+            "publicDate": "2023-05-05 16:45:27",
+            "projectName": null,
+            "bidCloseDate": "2023-05-15 10:00:00",
+            "id_muasamcong": "3cd73972-abce-47fa-85d7-88cf86ea66b4",
+            "tongmuc_dautu": 1508398872.0,
+            "bidNamePlanNew": "PL2300051282",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Trà Sơn",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-01-15 19:51:59",
+            "projectName": null,
+            "bidCloseDate": "2024-01-24 10:00:00",
+            "id_muasamcong": "3eb9e189-7c84-4449-b62f-a6a8c7a12348",
+            "tongmuc_dautu": 2381280000.0,
+            "bidNamePlanNew": "PL2400000876",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04:  Thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0106021338",
+            "publicDate": "2024-09-19 09:32:25",
+            "projectName": null,
+            "bidCloseDate": "2024-09-25 15:05:00",
+            "id_muasamcong": "3fe24413-1cda-47b7-a6f9-88e9400e4486",
+            "tongmuc_dautu": 1439779000.0,
+            "bidNamePlanNew": "PL2400197827",
+            "dotbien_hatang": "Gói thầu số 04:  Thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng",
+            "chudautu": "PHÒNG KINH TẾ VÀ HẠ TẦNG HUYỆN TRÀ BỒNG",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-06-14 19:32:00",
+            "projectName": null,
+            "bidCloseDate": "2024-06-21 10:00:00",
+            "id_muasamcong": "3fecc3af-b1cd-416c-8277-a91b96b3d741",
+            "tongmuc_dautu": 415379379.0,
+            "bidNamePlanNew": "PL2400108676",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình",
+            "chudautu": "TRƯỜNG PHỔ THÔNG DÂN TỘC BÁN TRÚ TRUNG HỌC CƠ SỞ TRÀ THANH",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-08-05 14:44:05",
+            "projectName": null,
+            "bidCloseDate": "2024-08-10 10:00:00",
+            "id_muasamcong": "42310cca-d196-4be2-b061-8f1e292c41ae",
+            "tongmuc_dautu": 187379000.0,
+            "bidNamePlanNew": "PL2400151225",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "TRUNG TÂM Y TẾ HUYỆN TRÀ BỒNG",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-08-08 04:35:20",
+            "projectName": null,
+            "bidCloseDate": "2024-08-17 10:00:00",
+            "id_muasamcong": "4395a745-5491-489c-bddd-ac2ebfa20eb3",
+            "tongmuc_dautu": 1440850000.0,
+            "bidNamePlanNew": "PL2400147641",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Giám sát thi công xây dựng công trình",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0106021338",
+            "publicDate": "2024-11-15 10:39:26",
+            "projectName": "Liên danh giám sát đường Trà Thanh – Trà Giáp ",
+            "bidCloseDate": "2024-12-03 15:00:00",
+            "id_muasamcong": "48c87296-0fdf-48a3-ab07-751e57083c30",
+            "tongmuc_dautu": 1467500000.0,
+            "bidNamePlanNew": "PL2300268374",
+            "dotbien_hatang": "Gói thầu số 03: Giám sát thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "UBND xã Trà Xinh",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-09-15 22:20:35",
+            "projectName": null,
+            "bidCloseDate": "2024-09-21 08:00:00",
+            "id_muasamcong": "4bd5c3a8-a104-4237-ae60-e741d18aca2e",
+            "tongmuc_dautu": 516390000.0,
+            "bidNamePlanNew": "PL2400197592",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng Công trình: Sửa chữa nhà làm việc Ban chỉ huy quân sự xã Trà Xinh; Hạng mục: Sân và nhà vệ sinh",
+            "chudautu": "UBND xã Trà Xinh",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-12-05 21:44:50",
+            "projectName": null,
+            "bidCloseDate": "2024-12-12 08:00:00",
+            "id_muasamcong": "52debbe2-f1c3-4139-9f0f-4c21288bed32",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400303566",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng Công trình: Sửa chữa nhà làm việc Ban chỉ huy quân sự xã Trà Xinh; Hạng mục: Sân và nhà vệ sinh",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Phòng Giáo dục và Đào tạo huyện Trà Bông",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-12-12 11:19:58",
+            "projectName": null,
+            "bidCloseDate": "2024-12-19 08:00:00",
+            "id_muasamcong": "53d9a110-3c87-49c1-b891-471d3714b3c5",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400312622",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "GT03: Toàn bộ phần thi công xây dựng công trình",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0106021338",
+            "publicDate": "2024-01-08 16:46:46",
+            "projectName": "Liên danh Công ty TNHH Hoàng Yên - Công ty Cổ phần Xây dựng Giao thông Quảng Ngãi",
+            "bidCloseDate": "2024-01-17 15:30:00",
+            "id_muasamcong": "547b6b93-eaa4-4ee8-b133-307e66deeed1",
+            "tongmuc_dautu": 6611775000.0,
+            "bidNamePlanNew": "PL2400002547",
+            "dotbien_hatang": "GT03: Toàn bộ phần thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "PHÒNG NÔNG NGHIỆP & PTNT TRÀ BỒNG",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-08-19 19:47:07",
+            "projectName": null,
+            "bidCloseDate": "2024-08-24 10:00:00",
+            "id_muasamcong": "54eac5b2-a084-40aa-95d6-b33a475bca4c",
+            "tongmuc_dautu": 191379000.0,
+            "bidNamePlanNew": "PL2400170898",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng",
+            "chudautu": "PHÒNG KINH TẾ VÀ HẠ TẦNG HUYỆN TRÀ BỒNG",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-11-18 20:39:48",
+            "projectName": null,
+            "bidCloseDate": "2024-11-23 08:00:00",
+            "id_muasamcong": "5aae1d92-44e8-4cfd-8514-3fc92641a3a2",
+            "tongmuc_dautu": 290883000.0,
+            "bidNamePlanNew": "PL2400275911",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "UỶ BAN NHÂN DÂN XÃ TRÀ BÙI",
+            "createdBy": "vn4300867496",
+            "publicDate": "2023-07-08 12:42:14",
+            "projectName": null,
+            "bidCloseDate": "2023-07-18 10:00:00",
+            "id_muasamcong": "5c796fff-ae57-4eed-a713-216470cd0a3c",
+            "tongmuc_dautu": 1498566944.0,
+            "bidNamePlanNew": "PL2300106637",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "CÔNG AN HUYỆN TRÀ BỒNG",
+            "createdBy": "vn4300894891",
+            "publicDate": "2024-08-16 18:01:10",
+            "projectName": null,
+            "bidCloseDate": "2024-08-22 08:30:00",
+            "id_muasamcong": "5e39ec22-a821-469d-8ebf-efa4ae9c44e8",
+            "tongmuc_dautu": 2290447000.0,
+            "bidNamePlanNew": "PL2400103397",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng",
+            "chudautu": "UỶ BAN NHÂN DÂN XÃ TRÀ GIANG",
+            "createdBy": "vn4300845622",
+            "publicDate": "2023-05-22 08:23:49",
+            "projectName": null,
+            "bidCloseDate": "2023-06-01 08:23:00",
+            "id_muasamcong": "5f48378c-d505-4e24-87bf-dcfc968e42c7",
+            "tongmuc_dautu": 1714654000.0,
+            "bidNamePlanNew": "PL2300067604",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0105164076",
+            "publicDate": "2023-03-21 08:23:58",
+            "projectName": null,
+            "bidCloseDate": "2023-03-31 15:05:00",
+            "id_muasamcong": "66f89842-bd93-4838-b2c7-1499d17917ae",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300031658",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "UBND xã Trà Xinh",
+            "createdBy": "vn4300867496",
+            "publicDate": "2023-05-13 12:18:23",
+            "projectName": null,
+            "bidCloseDate": "2023-05-22 10:00:00",
+            "id_muasamcong": "67b64573-bf6b-4b2f-b235-0c1ada0a77a6",
+            "tongmuc_dautu": 2376879000.0,
+            "bidNamePlanNew": "PL2300057583",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0106021338",
+            "publicDate": "2024-02-02 14:41:04",
+            "projectName": "LIÊN DANH NHÀ THẦU CÔNG TY TNHH XÂY DỰNG TRỌNG NGHĨA - CÔNG TY TNHH MỘT THÀNH VIÊN XÂY DỰNG TRÚC TÍN",
+            "bidCloseDate": "2024-02-18 15:30:00",
+            "id_muasamcong": "6985c44d-46a4-490f-a221-b48c3256c27c",
+            "tongmuc_dautu": 6942572000.0,
+            "bidNamePlanNew": "PL2400001741",
+            "dotbien_hatang": "Gói thầu số 06: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng",
+            "chudautu": "ỦY BAN NHÂN DÂN XÃ TRÀ THANH",
+            "createdBy": "vn4300867496",
+            "publicDate": "2023-06-26 21:17:12",
+            "projectName": null,
+            "bidCloseDate": "2023-07-06 10:00:00",
+            "id_muasamcong": "6c6706d7-9c21-4636-995e-92567ea1b018",
+            "tongmuc_dautu": 1423025000.0,
+            "bidNamePlanNew": "PL2300092021",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng",
+            "chudautu": "UỶ BAN NHÂN XÃ TRÀ TÂN",
+            "createdBy": "vn4300867496",
+            "publicDate": "2023-05-29 10:21:47",
+            "projectName": null,
+            "bidCloseDate": "2023-06-02 10:00:00",
+            "id_muasamcong": "6cbaf060-d977-4c99-9344-877a6306f3f0",
+            "tongmuc_dautu": 1428679790.0,
+            "bidNamePlanNew": "PL2300057603",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0105164076",
+            "publicDate": "2023-12-13 11:44:08",
+            "projectName": null,
+            "bidCloseDate": "2023-12-23 15:10:00",
+            "id_muasamcong": "6de2fb7b-5922-4885-968c-9aa18cfd970f",
+            "tongmuc_dautu": 2992365000.0,
+            "bidNamePlanNew": "PL2300249189",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0105164076",
+            "publicDate": "2023-11-21 09:32:25",
+            "projectName": null,
+            "bidCloseDate": "2023-12-01 10:00:00",
+            "id_muasamcong": "6e042e10-418b-49a5-b528-99aabbf006dd",
+            "tongmuc_dautu": 2444954000.0,
+            "bidNamePlanNew": "PL2300227155",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng",
+            "chudautu": "Ủy Ban Nhân Dân xã Trà Hiệp",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-10-04 14:38:21",
+            "projectName": null,
+            "bidCloseDate": "2024-10-10 08:00:00",
+            "id_muasamcong": "72223ac8-e4b9-4813-8fae-259fd74f0897",
+            "tongmuc_dautu": 582421000.0,
+            "bidNamePlanNew": "PL2400205011",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng",
+            "chudautu": "PHÒNG KINH TẾ VÀ HẠ TẦNG HUYỆN TRÀ BỒNG",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-11-18 20:50:25",
+            "projectName": null,
+            "bidCloseDate": "2024-11-23 08:00:00",
+            "id_muasamcong": "72a54b1c-475b-446e-9738-c0287578bd92",
+            "tongmuc_dautu": 592000000.0,
+            "bidNamePlanNew": "PL2400275910",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 3: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0105164076",
+            "publicDate": "2024-07-23 11:42:57",
+            "projectName": null,
+            "bidCloseDate": "2024-07-30 15:30:00",
+            "id_muasamcong": "7424a8cc-5e75-430c-9d76-a5f3550bf85e",
+            "tongmuc_dautu": 944130000.0,
+            "bidNamePlanNew": "PL2400138294",
+            "dotbien_hatang": "Gói thầu số 3: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0105164076",
+            "publicDate": "2023-06-07 08:54:35",
+            "projectName": "Công ty TNHH MTV XD Trúc Tín - Công ty TNHH xây dựng Hoàn Thịnh",
+            "bidCloseDate": "2023-06-15 17:30:00",
+            "id_muasamcong": "75a38543-8e96-423d-8060-05a77f474da9",
+            "tongmuc_dautu": 5945000000.0,
+            "bidNamePlanNew": "PL2300031658",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Phòng Giáo dục và Đào tạo huyện Trà Bông",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-07-19 15:26:16",
+            "projectName": "LDNT Đồng Tâm - Hoàng Minh",
+            "bidCloseDate": "2024-07-26 10:00:00",
+            "id_muasamcong": "7d049f56-942a-463e-95ab-6b223ae447f2",
+            "tongmuc_dautu": 1695589000.0,
+            "bidNamePlanNew": "PL2400128559",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng",
+            "chudautu": "PHÒNG KINH TẾ VÀ HẠ TẦNG HUYỆN TRÀ BỒNG",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-11-18 20:04:14",
+            "projectName": null,
+            "bidCloseDate": "2024-11-23 08:00:00",
+            "id_muasamcong": "7ed68db4-2e1a-492e-9324-b58663ccff62",
+            "tongmuc_dautu": 1000000000.0,
+            "bidNamePlanNew": "PL2400275909",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng công trình",
+            "chudautu": "Sở Giao thông vận tải tỉnh Quảng Ngãi",
+            "createdBy": "vn4300227030",
+            "publicDate": "2023-05-11 15:22:33",
+            "projectName": null,
+            "bidCloseDate": "2023-05-19 07:30:00",
+            "id_muasamcong": "854c6229-61bc-4619-964d-2e87f80b8fd2",
+            "tongmuc_dautu": 3905000000.0,
+            "bidNamePlanNew": "PL2300062370",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0105164076",
+            "publicDate": "2023-12-13 11:46:14",
+            "projectName": null,
+            "bidCloseDate": "2023-12-23 15:15:00",
+            "id_muasamcong": "85756a22-e509-4bad-ac33-50c20775a733",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300249256",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "UỶ BAN NHÂN DÂN XÃ TRÀ BÙI",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-12-09 14:04:36",
+            "projectName": null,
+            "bidCloseDate": "2024-12-14 08:00:00",
+            "id_muasamcong": "85b58204-341e-4de2-a238-a17bf1996104",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400306842",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng và thiết bị",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0105164076",
+            "publicDate": "2024-02-03 10:16:04",
+            "projectName": "Liên danh Công ty Tín Phát - Hoàn Thịnh - Đông Tây",
+            "bidCloseDate": "2024-02-19 15:00:00",
+            "id_muasamcong": "871dfb1d-faf7-47ff-b40d-7debda68c64f",
+            "tongmuc_dautu": 3893969000.0,
+            "bidNamePlanNew": "PL2400001767",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng và thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Hương Trà",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-07-19 12:56:25",
+            "projectName": null,
+            "bidCloseDate": "2024-07-26 10:00:00",
+            "id_muasamcong": "872e11f5-150c-4eaa-8b65-cf8ff07e8719",
+            "tongmuc_dautu": 655873000.0,
+            "bidNamePlanNew": "PL2400136545",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0106021338",
+            "publicDate": "2024-09-16 16:19:08",
+            "projectName": null,
+            "bidCloseDate": "2024-09-25 15:00:00",
+            "id_muasamcong": "8d208f60-cd84-4f4f-b388-67dad7372177",
+            "tongmuc_dautu": 4520332000.0,
+            "bidNamePlanNew": "PL2400196073",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03:Thi công xây dựng công trình",
+            "chudautu": "Sở Giao thông vận tải tỉnh Quảng Ngãi",
+            "createdBy": "vn4300227030",
+            "publicDate": "2024-08-28 15:04:49",
+            "projectName": null,
+            "bidCloseDate": "2024-09-06 07:00:00",
+            "id_muasamcong": "8d29fa37-fbc3-40dc-bba3-6135a82e524d",
+            "tongmuc_dautu": 3785542000.0,
+            "bidNamePlanNew": "PL2400169654",
+            "dotbien_hatang": "Gói thầu số 03:Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng + Thiết bị",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0106021338",
+            "publicDate": "2024-12-16 15:00:56",
+            "projectName": "Liên danh Công ty TNHH Hoàng Yên – Công ty TNHH tư vấn đầu tư và xây dựng công trình Việt - Công ty TNHH MTV Thiết bị PCCC Quảng Ngãi",
+            "bidCloseDate": "2024-12-25 15:00:00",
+            "id_muasamcong": "8db1b8b8-b5af-45a9-bb08-7e5255b2d84e",
+            "tongmuc_dautu": 8351558000.0,
+            "bidNamePlanNew": "PL2400314645",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng + Thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Toàn bộ phần thi công xây dựng",
+            "chudautu": "UBND xã Trà Phong",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-01-17 09:14:20",
+            "projectName": null,
+            "bidCloseDate": "2024-01-26 10:00:00",
+            "id_muasamcong": "90c5268f-3fea-4875-a885-e4c43272e87a",
+            "tongmuc_dautu": 1137379000.0,
+            "bidNamePlanNew": "PL2400007870",
+            "dotbien_hatang": "Gói thầu số 03: Toàn bộ phần thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0106021338",
+            "publicDate": "2024-11-11 14:44:54",
+            "projectName": null,
+            "bidCloseDate": "2024-11-16 15:10:00",
+            "id_muasamcong": "91b69d85-32d4-4aef-83ae-085766669089",
+            "tongmuc_dautu": 3326335115.0,
+            "bidNamePlanNew": "PL2400264223",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng",
+            "chudautu": "PHÒNG KINH TẾ VÀ HẠ TẦNG HUYỆN TRÀ BỒNG",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-08-22 12:30:47",
+            "projectName": null,
+            "bidCloseDate": "2024-08-28 10:00:00",
+            "id_muasamcong": "92f17953-1e8b-45a2-9386-1ec63024a172",
+            "tongmuc_dautu": 781379000.0,
+            "bidNamePlanNew": "PL2400172130",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng",
+            "chudautu": "PHÒNG KINH TẾ VÀ HẠ TẦNG HUYỆN TRÀ BỒNG",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-11-18 21:04:39",
+            "projectName": null,
+            "bidCloseDate": "2024-11-23 08:00:00",
+            "id_muasamcong": "95f5d780-b6dc-4c9f-93cc-97b39fef665f",
+            "tongmuc_dautu": 537379000.0,
+            "bidNamePlanNew": "PL2400275912",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0105164076",
+            "publicDate": "2023-05-27 08:39:19",
+            "projectName": "Liên danh nhà thầu Công ty TNHH Xây dựng Trọng Nghĩa - Công ty TNHH MTV Xây dựng Hoàng Minh",
+            "bidCloseDate": "2023-06-06 15:30:00",
+            "id_muasamcong": "96a201d5-3485-4695-bc3d-2dc9db128a3c",
+            "tongmuc_dautu": 5201740000.0,
+            "bidNamePlanNew": "PL2300070578",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng",
+            "chudautu": "UỶ BAN NHÂN XÃ TRÀ TÂN",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-09-30 10:23:27",
+            "projectName": null,
+            "bidCloseDate": "2024-10-05 08:00:00",
+            "id_muasamcong": "9ad9f5cb-0da7-44fc-a832-7b900da8a539",
+            "tongmuc_dautu": 1551379000.0,
+            "bidNamePlanNew": "PL2400214687",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0105164076",
+            "publicDate": "2024-07-23 11:44:10",
+            "projectName": null,
+            "bidCloseDate": "2024-07-30 15:30:00",
+            "id_muasamcong": "9c023c43-107c-43de-bae2-9f1f8d772d56",
+            "tongmuc_dautu": 821465000.0,
+            "bidNamePlanNew": "PL2400139977",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Toàn bộ phần thi công xây dựng",
+            "chudautu": "ủy ban nhân dân thị trấn Trà Xuân",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-03-24 12:36:05",
+            "projectName": " Liên danh Công ty TNHH MTV SX&TM Kỳ Anh và Công ty TNHH ĐTXD Bình Minh",
+            "bidCloseDate": "2024-04-02 10:00:00",
+            "id_muasamcong": "9c0b1cb0-9f26-4747-8e0c-61a9a61a75be",
+            "tongmuc_dautu": 2923456789.0,
+            "bidNamePlanNew": "PL2400036683",
+            "dotbien_hatang": "Gói thầu số 03: Toàn bộ phần thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng",
+            "chudautu": "PHÒNG KINH TẾ VÀ HẠ TẦNG HUYỆN TRÀ BỒNG",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-11-21 11:15:52",
+            "projectName": null,
+            "bidCloseDate": "2024-11-28 08:00:00",
+            "id_muasamcong": "9e9dc543-4981-4774-8ddb-591dc92d84bb",
+            "tongmuc_dautu": 397537000.0,
+            "bidNamePlanNew": "PL2400281245",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng",
+            "chudautu": "Trung tâm Chính trị huyện Trà Bồng",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-09-09 11:47:51",
+            "projectName": null,
+            "bidCloseDate": "2024-09-14 08:00:00",
+            "id_muasamcong": "9ef22a4c-ec53-49e2-9f89-87962bcadf6a",
+            "tongmuc_dautu": 234009000.0,
+            "bidNamePlanNew": "PL2400192219",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 09: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0106021338",
+            "publicDate": "2024-11-19 08:20:39",
+            "projectName": "Liên danh Tuyến đường Trà Thanh đi Trà Giáp",
+            "bidCloseDate": "2024-12-03 15:05:00",
+            "id_muasamcong": "a02364e7-01d1-47bc-92f0-b9621647296d",
+            "tongmuc_dautu": 53223043000.0,
+            "bidNamePlanNew": "PL2300268374",
+            "dotbien_hatang": "Gói thầu số 09: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Trà Tây",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-08-05 04:57:00",
+            "projectName": null,
+            "bidCloseDate": "2024-08-10 10:00:00",
+            "id_muasamcong": "a1b29ae1-c28a-4eeb-b2b4-596caa40008a",
+            "tongmuc_dautu": 600000000.0,
+            "bidNamePlanNew": "PL2400146419",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng",
+            "chudautu": "ỦY BAN NHÂN DÂN XÃ TRÀ THANH",
+            "createdBy": "vn4300867496",
+            "publicDate": "2023-06-26 21:31:57",
+            "projectName": null,
+            "bidCloseDate": "2023-07-06 10:00:00",
+            "id_muasamcong": "a1eba096-308b-4cd7-ab4a-eafedeea6877",
+            "tongmuc_dautu": 1354829355.0,
+            "bidNamePlanNew": "PL2300092016",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Trà Bình",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-08-19 22:55:24",
+            "projectName": null,
+            "bidCloseDate": "2024-08-24 10:00:00",
+            "id_muasamcong": "a3ec0c39-d50e-4afa-97dc-018172bbccd8",
+            "tongmuc_dautu": 329379000.0,
+            "bidNamePlanNew": "PL2400172162",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0106021338",
+            "publicDate": "2024-11-12 09:59:26",
+            "projectName": null,
+            "bidCloseDate": "2024-11-16 15:00:00",
+            "id_muasamcong": "a4ce9029-1d86-46ec-9c96-24977c6325ab",
+            "tongmuc_dautu": 1379168000.0,
+            "bidNamePlanNew": "PL2400264229",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng",
+            "chudautu": "UBND xã Trà Xinh",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-01-25 15:14:28",
+            "projectName": null,
+            "bidCloseDate": "2024-02-02 10:00:00",
+            "id_muasamcong": "a5357683-cf51-4d60-acf7-a4f31ef73276",
+            "tongmuc_dautu": 1073968000.0,
+            "bidNamePlanNew": "PL2400010759",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0105164076",
+            "publicDate": "2024-02-03 10:16:21",
+            "projectName": null,
+            "bidCloseDate": "2024-02-19 15:00:00",
+            "id_muasamcong": "acd81140-3b5b-488c-9f30-62fb8798726a",
+            "tongmuc_dautu": 3600000000.0,
+            "bidNamePlanNew": "PL2400001785",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "UỶ BAN NHÂN DÂN XÃ TRÀ GIANG",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-09-23 22:02:48",
+            "projectName": null,
+            "bidCloseDate": "2024-09-28 08:00:00",
+            "id_muasamcong": "ad1747a5-6bba-4080-82bb-be80d1df0195",
+            "tongmuc_dautu": 129379000.0,
+            "bidNamePlanNew": "PL2400208146",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng",
+            "chudautu": "Ủy Ban Nhân Dân Xã Tịnh Giang",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-09-19 14:16:37",
+            "projectName": null,
+            "bidCloseDate": "2024-09-26 08:00:00",
+            "id_muasamcong": "ae77a4a5-93b9-4ed6-9051-69431adeebb9",
+            "tongmuc_dautu": 320211000.0,
+            "bidNamePlanNew": "PL2400196809",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng",
+            "chudautu": "UỶ BAN NHÂN XÃ TRÀ TÂN",
+            "createdBy": "vn4300867496",
+            "publicDate": "2023-05-23 23:41:39",
+            "projectName": null,
+            "bidCloseDate": "2023-06-02 10:00:00",
+            "id_muasamcong": "afb16a81-7ede-4d52-85ad-2b534367a249",
+            "tongmuc_dautu": 1603621590.0,
+            "bidNamePlanNew": "PL2300057602",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0105164076",
+            "publicDate": "2023-04-28 09:04:34",
+            "projectName": null,
+            "bidCloseDate": "2023-05-08 15:20:00",
+            "id_muasamcong": "b5623e16-9520-4973-9d3f-72bb888e7f6c",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300060687",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Toàn bộ phần thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-05-14 16:52:45",
+            "projectName": null,
+            "bidCloseDate": "2024-05-19 10:00:00",
+            "id_muasamcong": "b5e1dac6-1ad2-43fc-aff6-cf3549c762aa",
+            "tongmuc_dautu": 853579000.0,
+            "bidNamePlanNew": "PL2400054476",
+            "dotbien_hatang": "Gói thầu số 02: Toàn bộ phần thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 3: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0106021338",
+            "publicDate": "2024-09-09 11:00:39",
+            "projectName": null,
+            "bidCloseDate": "2024-09-14 15:00:00",
+            "id_muasamcong": "b7ff2457-f046-4278-b122-94786e2e587d",
+            "tongmuc_dautu": 587056000.0,
+            "bidNamePlanNew": "PL2400166938",
+            "dotbien_hatang": "Gói thầu số 3: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "TRƯỜNG PHỔ THÔNG DÂN TỘC BÁN TRÚ THCS TRÀ SƠN",
+            "createdBy": "vn4300899628",
+            "publicDate": "2024-08-25 20:54:14",
+            "projectName": null,
+            "bidCloseDate": "2024-08-31 05:00:00",
+            "id_muasamcong": "baa1a790-a9e3-4588-9d99-30b2ef796e94",
+            "tongmuc_dautu": 873070000.0,
+            "bidNamePlanNew": "PL2400151516",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng",
+            "chudautu": "TRƯỜNG MẦM NON SỐ 2 SƠN TRÀ",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-08-05 19:33:38",
+            "projectName": null,
+            "bidCloseDate": "2024-08-10 10:00:00",
+            "id_muasamcong": "bc3ad014-498a-4595-b2c3-b366a9eb0071",
+            "tongmuc_dautu": 175379000.0,
+            "bidNamePlanNew": "PL2400151887",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Phòng Giáo dục và Đào tạo huyện Trà Bông",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-07-19 15:29:40",
+            "projectName": null,
+            "bidCloseDate": "2024-07-26 10:00:00",
+            "id_muasamcong": "bc82fbbe-a156-46d4-8972-5493fbbb1bd7",
+            "tongmuc_dautu": 957700000.0,
+            "bidNamePlanNew": "PL2400128557",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Trà Tây",
+            "createdBy": "vn4300867496",
+            "publicDate": "2023-05-23 23:56:10",
+            "projectName": null,
+            "bidCloseDate": "2023-06-02 10:00:00",
+            "id_muasamcong": "bdcbacb7-c60d-4ab9-929c-3b0de6dc3ccc",
+            "tongmuc_dautu": 1128769000.0,
+            "bidNamePlanNew": "PL2300063599",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Phòng Giáo dục và Đào tạo huyện Trà Bông",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-12-12 11:21:27",
+            "projectName": null,
+            "bidCloseDate": "2024-12-19 08:00:00",
+            "id_muasamcong": "bf411f6f-12cd-4873-a842-a7ae105677d9",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400312613",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "UỶ BAN NHÂN DÂN XÃ TRÀ THỦY",
+            "createdBy": "vn4300867496",
+            "publicDate": "2023-05-29 10:43:58",
+            "projectName": null,
+            "bidCloseDate": "2023-06-08 10:00:00",
+            "id_muasamcong": "c1575343-56b0-4932-93d3-40f5d1c3a142",
+            "tongmuc_dautu": 1010688750.0,
+            "bidNamePlanNew": "PL2300059213",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 1: Thi công xây dựng công trình + lắp đặt thiết bị",
+            "chudautu": "UBND xã Bình Mỹ",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-11-23 22:47:03",
+            "projectName": null,
+            "bidCloseDate": "2024-12-03 08:00:00",
+            "id_muasamcong": "c20b8e9c-a446-43a2-8871-3bd1f1a2d634",
+            "tongmuc_dautu": 934441600.0,
+            "bidNamePlanNew": "PL2400275914",
+            "dotbien_hatang": "Gói thầu số 1: Thi công xây dựng công trình + lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "UỶ BAN NHÂN DÂN XÃ TRÀ GIANG",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-07-11 23:56:27",
+            "projectName": null,
+            "bidCloseDate": "2024-07-18 10:00:00",
+            "id_muasamcong": "c3a0e8a0-16fa-4c70-9671-488e29749676",
+            "tongmuc_dautu": 591379000.0,
+            "bidNamePlanNew": "PL2400129781",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Trà Lâm",
+            "createdBy": "vn4300841931",
+            "publicDate": "2023-07-01 08:19:08",
+            "projectName": null,
+            "bidCloseDate": "2023-07-11 08:30:00",
+            "id_muasamcong": "c5a5198f-57bc-48fd-804f-fb52adb61d0a",
+            "tongmuc_dautu": 1200410000.0,
+            "bidNamePlanNew": "PL2300071822",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng",
+            "chudautu": "UBND xã Trà Xinh",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-12-09 03:40:56",
+            "projectName": null,
+            "bidCloseDate": "2024-12-14 08:00:00",
+            "id_muasamcong": "c61439d6-180f-4b92-b206-7a632b360780",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400306840",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng",
+            "chudautu": "ủy ban nhân dân thị trấn Trà Xuân",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-07-19 13:10:47",
+            "projectName": null,
+            "bidCloseDate": "2024-07-26 10:00:00",
+            "id_muasamcong": "c7256e70-ba42-425e-bfc0-d9c5b324647c",
+            "tongmuc_dautu": 629379000.0,
+            "bidNamePlanNew": "PL2400136544",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng",
+            "chudautu": "UỶ BAN NHÂN DÂN XÃ TRÀ PHÚ",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-09-30 10:32:41",
+            "projectName": null,
+            "bidCloseDate": "2024-10-05 08:00:00",
+            "id_muasamcong": "c8430677-d179-4aa1-9dfa-741982c98a72",
+            "tongmuc_dautu": 276490000.0,
+            "bidNamePlanNew": "PL2400214691",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Trường Phổ thông dân tộc nội trú THCS Tây Trà",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-07-19 13:29:56",
+            "projectName": null,
+            "bidCloseDate": "2024-07-26 10:00:00",
+            "id_muasamcong": "cab0f69f-27ac-4e99-8d4c-17d8641cb9a5",
+            "tongmuc_dautu": 301379000.0,
+            "bidNamePlanNew": "PL2400138724",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Trà Lâm",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-04-12 15:17:01",
+            "projectName": null,
+            "bidCloseDate": "2024-04-21 10:00:00",
+            "id_muasamcong": "cc43c680-e333-4527-b904-3eac32f27a5f",
+            "tongmuc_dautu": 1292929229.0,
+            "bidNamePlanNew": "PL2400044276",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Phòng Giáo dục và Đào tạo huyện Trà Bông",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-07-19 15:31:49",
+            "projectName": "LDNT ĐTHM",
+            "bidCloseDate": "2024-07-26 10:00:00",
+            "id_muasamcong": "cc6765ff-081a-41a0-b9e1-9e7d1b819f8f",
+            "tongmuc_dautu": 1500284428.0,
+            "bidNamePlanNew": "PL2400128556",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "UỶ BAN NHÂN DÂN XÃ TRÀ THỦY",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-08-25 14:03:16",
+            "projectName": null,
+            "bidCloseDate": "2024-08-31 08:00:00",
+            "id_muasamcong": "cc86c1ad-10c8-481e-966e-4329069d27da",
+            "tongmuc_dautu": 401269000.0,
+            "bidNamePlanNew": "PL2400179917",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Toàn bộ phần thi công xây dựng",
+            "chudautu": "UBND xã Trà Xinh",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-01-25 15:26:23",
+            "projectName": null,
+            "bidCloseDate": "2024-02-01 10:00:00",
+            "id_muasamcong": "ce84a7b7-5516-44da-9267-4e8b66581f48",
+            "tongmuc_dautu": 1268379000.0,
+            "bidNamePlanNew": "PL2400010984",
+            "dotbien_hatang": "Gói thầu số 03: Toàn bộ phần thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 2: Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Trà Lâm",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-08-05 04:26:24",
+            "projectName": null,
+            "bidCloseDate": "2024-08-10 10:00:00",
+            "id_muasamcong": "cfef9f85-b6a6-4764-b891-c094d883783e",
+            "tongmuc_dautu": 499702841.0,
+            "bidNamePlanNew": "PL2400150605",
+            "dotbien_hatang": "Gói thầu số 2: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "TRƯỜNG MẦM NON SỐ 2 TRÀ TÂY",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-08-05 20:00:26",
+            "projectName": null,
+            "bidCloseDate": "2024-08-10 10:00:00",
+            "id_muasamcong": "d1f48263-dbd9-495c-8c14-3c2bb2d826f7",
+            "tongmuc_dautu": 175379000.0,
+            "bidNamePlanNew": "PL2400150615",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Phòng Giáo dục và Đào tạo huyện Trà Bông",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-07-19 15:34:40",
+            "projectName": null,
+            "bidCloseDate": "2024-07-26 10:00:00",
+            "id_muasamcong": "d5abf9c7-e979-4fed-b57a-34e79883e7fd",
+            "tongmuc_dautu": 1031662000.0,
+            "bidNamePlanNew": "PL2400128555",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0106021338",
+            "publicDate": "2024-09-27 16:01:15",
+            "projectName": null,
+            "bidCloseDate": "2024-10-06 15:00:00",
+            "id_muasamcong": "d942e855-ffc6-4da0-a3eb-3cf17a808e9e",
+            "tongmuc_dautu": 5784116000.0,
+            "bidNamePlanNew": "PL2400206799",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0105164076",
+            "publicDate": "2023-12-25 17:37:45",
+            "projectName": null,
+            "bidCloseDate": "2024-01-04 15:30:00",
+            "id_muasamcong": "da39d40f-949e-48cf-bfef-b727baa2e1f8",
+            "tongmuc_dautu": 7130914000.0,
+            "bidNamePlanNew": "PL2300239991",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0106021338",
+            "publicDate": "2024-11-11 14:44:28",
+            "projectName": "Liên danh nâng cấp, sửa chữa tuyến đường Lê Trung Đình",
+            "bidCloseDate": "2024-11-16 15:05:00",
+            "id_muasamcong": "da92bbd4-fc4c-4b05-b9a0-2648139f4f7b",
+            "tongmuc_dautu": 2719426889.0,
+            "bidNamePlanNew": "PL2400264221",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Trà Lâm",
+            "createdBy": "vn4300867496",
+            "publicDate": "2023-05-16 08:55:58",
+            "projectName": null,
+            "bidCloseDate": "2023-05-26 10:00:00",
+            "id_muasamcong": "db3f25fb-da34-45d1-9659-353d1e76d1b6",
+            "tongmuc_dautu": 1428125000.0,
+            "bidNamePlanNew": "PL2300057597",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "UỶ BAN NHÂN XÃ TRÀ TÂN",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-01-20 10:11:12",
+            "projectName": null,
+            "bidCloseDate": "2024-01-29 10:00:00",
+            "id_muasamcong": "e41f4611-9563-49d6-9266-4b77f1c08094",
+            "tongmuc_dautu": 1399379000.0,
+            "bidNamePlanNew": "PL2400009537",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Phòng Giáo dục và Đào tạo huyện Trà Bông",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-07-19 15:27:36",
+            "projectName": null,
+            "bidCloseDate": "2024-07-26 10:00:00",
+            "id_muasamcong": "e4cc009f-ad41-4eb1-b83a-25cbb3ef0a7b",
+            "tongmuc_dautu": 1168735000.0,
+            "bidNamePlanNew": "PL2400128558",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng công trình",
+            "chudautu": "TRƯỜNG PHỔ THÔNG DÂN TỘC BÁN TRÚ TIỂU HỌC VÀ TRUNG HỌC CƠ SỞ TRÀ THUỶ",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-08-05 03:51:20",
+            "projectName": null,
+            "bidCloseDate": "2024-08-10 10:00:00",
+            "id_muasamcong": "e715f1ea-f151-4a15-819a-540f626c0541",
+            "tongmuc_dautu": 197979000.0,
+            "bidNamePlanNew": "PL2400145074",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Hương Trà",
+            "createdBy": "vn4300867496",
+            "publicDate": "2023-05-14 11:07:35",
+            "projectName": null,
+            "bidCloseDate": "2023-05-22 10:00:00",
+            "id_muasamcong": "e7881c12-bbe7-4fdd-9481-beb4c6190a92",
+            "tongmuc_dautu": 1246988000.0,
+            "bidNamePlanNew": "PL2300060011",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình",
+            "chudautu": "UỶ BAN NHÂN DÂN XÃ TRÀ PHÚ",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-09-23 21:03:56",
+            "projectName": null,
+            "bidCloseDate": "2024-09-28 08:00:00",
+            "id_muasamcong": "ea2d5572-2293-4e4a-9169-3e1c93170192",
+            "tongmuc_dautu": 356789000.0,
+            "bidNamePlanNew": "PL2400204486",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng và phát triển quỹ đất huyện Trà Bồng",
+            "createdBy": "vn0105164076",
+            "publicDate": "2023-11-02 17:42:57",
+            "projectName": "Liên danh nhà thầu Công ty TNHH MTV XD Trúc Tín + Công ty TNHH MTV Thiết bị PCCC Quảng Ngãi",
+            "bidCloseDate": "2023-11-13 15:20:00",
+            "id_muasamcong": "edcdc51e-4dcd-44e3-bd23-7cf4a415eec1",
+            "tongmuc_dautu": 4423608000.0,
+            "bidNamePlanNew": "PL2300208374",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "UỶ BAN NHÂN DÂN XÃ TRÀ THỦY",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-09-30 17:58:47",
+            "projectName": null,
+            "bidCloseDate": "2024-10-05 08:00:00",
+            "id_muasamcong": "ee4cb2f9-5388-4e8e-bac5-e3b9118b965d",
+            "tongmuc_dautu": 1271894000.0,
+            "bidNamePlanNew": "PL2400214690",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06: Thi công xây dựng",
+            "chudautu": "Công an huyện Trà Bồng",
+            "createdBy": "vn4300712929",
+            "publicDate": "2023-03-02 16:59:50",
+            "projectName": "LIÊN DANH CÔNG TY CP SẢN XUẤT THƯƠNG MẠI VÀ DỊCH VỤ ĐẠI NGUYÊN VÀ CÔNG TY TNHH DỊCH VỤ THIẾT BỊ TIÊN PHONG",
+            "bidCloseDate": "2023-03-12 09:00:00",
+            "id_muasamcong": "f1ee40d0-c94e-42c1-952f-462865398954",
+            "tongmuc_dautu": 7934815627.0,
+            "bidNamePlanNew": "PL2300009319",
+            "dotbien_hatang": "Gói thầu số 06: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng",
+            "chudautu": "UỶ BAN NHÂN XÃ TRÀ TÂN",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-08-26 22:01:50",
+            "projectName": null,
+            "bidCloseDate": "2024-08-31 08:00:00",
+            "id_muasamcong": "f76b551f-d415-4230-b4c3-48acdb12258f",
+            "tongmuc_dautu": 251724418.0,
+            "bidNamePlanNew": "PL2400179940",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "UỶ BAN NHÂN DÂN XÃ TRÀ THỦY",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-09-16 18:02:20",
+            "projectName": null,
+            "bidCloseDate": "2024-09-21 08:00:00",
+            "id_muasamcong": "f9de3d64-db99-4366-ab65-2739a313f68a",
+            "tongmuc_dautu": 147725000.0,
+            "bidNamePlanNew": "PL2400199396",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng",
+            "chudautu": "UBND xã Bình An",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-08-26 18:13:32",
+            "projectName": null,
+            "bidCloseDate": "2024-08-31 08:00:00",
+            "id_muasamcong": "fce48e70-870e-404f-937b-62a2d8e98e69",
+            "tongmuc_dautu": 216340000.0,
+            "bidNamePlanNew": "PL2400179930",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Trà Sơn",
+            "createdBy": "vn4300867496",
+            "publicDate": "2023-05-05 16:54:10",
+            "projectName": null,
+            "bidCloseDate": "2023-05-15 10:00:00",
+            "id_muasamcong": "fd2250f8-ac6d-4529-be0d-ec564ef775f9",
+            "tongmuc_dautu": 1427640000.0,
+            "bidNamePlanNew": "PL2300050402",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Trà Bình",
+            "createdBy": "vn4300867496",
+            "publicDate": "2024-11-12 13:00:08",
+            "projectName": null,
+            "bidCloseDate": "2024-11-16 08:00:00",
+            "id_muasamcong": "ff870ab6-1ab5-40c9-8a3f-4fc752d5e350",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400265939",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng",
+            "link_muasamcong": ""
+        }
+    ],
+    "so_dot_bien": 139,
+    "thu_tu_sap_xep": 108,
+    "polygon": [
+        [
+            [
+                108.587594,
+                15.342343
+            ],
+            [
+                108.586183,
+                15.339974
+            ],
+            [
+                108.585159,
+                15.338524
+            ],
+            [
+                108.583571,
+                15.336761
+            ],
+            [
+                108.582946,
+                15.336234
+            ],
+            [
+                108.582194,
+                15.335766
+            ],
+            [
+                108.581347,
+                15.33542
+            ],
+            [
+                108.580342,
+                15.335011
+            ],
+            [
+                108.579905,
+                15.33467
+            ],
+            [
+                108.579563,
+                15.334176
+            ],
+            [
+                108.579224,
+                15.333498
+            ],
+            [
+                108.578856,
+                15.332576
+            ],
+            [
+                108.578662,
+                15.33167
+            ],
+            [
+                108.57868,
+                15.330109
+            ],
+            [
+                108.578661,
+                15.328975
+            ],
+            [
+                108.578511,
+                15.328361
+            ],
+            [
+                108.577989,
+                15.32713
+            ],
+            [
+                108.577281,
+                15.325561
+            ],
+            [
+                108.576945,
+                15.324638
+            ],
+            [
+                108.576949,
+                15.324271
+            ],
+            [
+                108.577112,
+                15.323844
+            ],
+            [
+                108.577465,
+                15.323297
+            ],
+            [
+                108.578344,
+                15.32225
+            ],
+            [
+                108.579618,
+                15.321192
+            ],
+            [
+                108.580097,
+                15.320707
+            ],
+            [
+                108.58026,
+                15.320249
+            ],
+            [
+                108.580267,
+                15.319637
+            ],
+            [
+                108.580057,
+                15.318685
+            ],
+            [
+                108.580009,
+                15.317398
+            ],
+            [
+                108.580115,
+                15.316419
+            ],
+            [
+                108.580312,
+                15.315717
+            ],
+            [
+                108.580675,
+                15.314343
+            ],
+            [
+                108.58108,
+                15.313413
+            ],
+            [
+                108.583039,
+                15.307555
+            ],
+            [
+                108.583299,
+                15.306884
+            ],
+            [
+                108.587937,
+                15.299813
+            ],
+            [
+                108.58832,
+                15.299419
+            ],
+            [
+                108.588797,
+                15.299088
+            ],
+            [
+                108.589683,
+                15.298822
+            ],
+            [
+                108.593358,
+                15.297299
+            ],
+            [
+                108.597749,
+                15.296642
+            ],
+            [
+                108.598318,
+                15.296556
+            ],
+            [
+                108.59961,
+                15.29657
+            ],
+            [
+                108.600714,
+                15.296582
+            ],
+            [
+                108.601378,
+                15.296406
+            ],
+            [
+                108.602172,
+                15.295955
+            ],
+            [
+                108.603952,
+                15.294687
+            ],
+            [
+                108.605193,
+                15.29369
+            ],
+            [
+                108.60727,
+                15.28993
+            ],
+            [
+                108.608616,
+                15.288076
+            ],
+            [
+                108.609162,
+                15.287133
+            ],
+            [
+                108.61208,
+                15.282846
+            ],
+            [
+                108.612878,
+                15.282058
+            ],
+            [
+                108.613039,
+                15.281753
+            ],
+            [
+                108.613204,
+                15.281112
+            ],
+            [
+                108.613212,
+                15.280408
+            ],
+            [
+                108.613376,
+                15.279797
+            ],
+            [
+                108.613601,
+                15.279401
+            ],
+            [
+                108.614274,
+                15.27852
+            ],
+            [
+                108.617344,
+                15.274664
+            ],
+            [
+                108.617856,
+                15.274026
+            ],
+            [
+                108.618681,
+                15.273545
+            ],
+            [
+                108.619821,
+                15.273128
+            ],
+            [
+                108.620486,
+                15.272859
+            ],
+            [
+                108.620869,
+                15.272496
+            ],
+            [
+                108.621032,
+                15.272038
+            ],
+            [
+                108.623297,
+                15.266856
+            ],
+            [
+                108.623622,
+                15.266033
+            ],
+            [
+                108.623699,
+                15.264808
+            ],
+            [
+                108.623693,
+                15.262542
+            ],
+            [
+                108.623647,
+                15.26098
+            ],
+            [
+                108.623729,
+                15.260214
+            ],
+            [
+                108.626606,
+                15.260214
+            ],
+            [
+                108.630251,
+                15.26014
+            ],
+            [
+                108.632931,
+                15.260617
+            ],
+            [
+                108.635297,
+                15.261688
+            ],
+            [
+                108.636444,
+                15.261998
+            ],
+            [
+                108.63798,
+                15.261865
+            ],
+            [
+                108.639828,
+                15.261212
+            ],
+            [
+                108.641754,
+                15.260719
+            ],
+            [
+                108.642141,
+                15.260619
+            ],
+            [
+                108.638211,
+                15.258803
+            ],
+            [
+                108.635137,
+                15.256548
+            ],
+            [
+                108.63382,
+                15.254959
+            ],
+            [
+                108.632118,
+                15.249523
+            ],
+            [
+                108.632027,
+                15.249059
+            ],
+            [
+                108.632081,
+                15.248504
+            ],
+            [
+                108.632424,
+                15.247721
+            ],
+            [
+                108.633105,
+                15.246478
+            ],
+            [
+                108.636153,
+                15.242435
+            ],
+            [
+                108.636308,
+                15.241418
+            ],
+            [
+                108.636174,
+                15.240536
+            ],
+            [
+                108.635494,
+                15.238946
+            ],
+            [
+                108.632075,
+                15.241604
+            ],
+            [
+                108.631271,
+                15.241984
+            ],
+            [
+                108.630648,
+                15.24202
+            ],
+            [
+                108.625726,
+                15.241105
+            ],
+            [
+                108.62098,
+                15.240364
+            ],
+            [
+                108.617698,
+                15.239768
+            ],
+            [
+                108.616594,
+                15.239195
+            ],
+            [
+                108.6162,
+                15.238673
+            ],
+            [
+                108.616039,
+                15.237161
+            ],
+            [
+                108.61615,
+                15.235592
+            ],
+            [
+                108.616891,
+                15.233811
+            ],
+            [
+                108.616916,
+                15.231663
+            ],
+            [
+                108.614911,
+                15.228832
+            ],
+            [
+                108.614103,
+                15.225187
+            ],
+            [
+                108.614485,
+                15.221389
+            ],
+            [
+                108.615476,
+                15.218084
+            ],
+            [
+                108.614876,
+                15.216579
+            ],
+            [
+                108.610737,
+                15.211719
+            ],
+            [
+                108.609886,
+                15.211061
+            ],
+            [
+                108.608647,
+                15.211048
+            ],
+            [
+                108.607117,
+                15.211495
+            ],
+            [
+                108.605345,
+                15.212873
+            ],
+            [
+                108.600802,
+                15.208788
+            ],
+            [
+                108.600508,
+                15.208532
+            ],
+            [
+                108.600288,
+                15.208205
+            ],
+            [
+                108.600147,
+                15.207554
+            ],
+            [
+                108.599722,
+                15.205746
+            ],
+            [
+                108.599444,
+                15.204083
+            ],
+            [
+                108.599323,
+                15.201629
+            ],
+            [
+                108.599221,
+                15.200834
+            ],
+            [
+                108.599002,
+                15.200471
+            ],
+            [
+                108.598819,
+                15.200216
+            ],
+            [
+                108.598189,
+                15.200173
+            ],
+            [
+                108.597372,
+                15.200165
+            ],
+            [
+                108.596257,
+                15.200261
+            ],
+            [
+                108.595998,
+                15.200186
+            ],
+            [
+                108.595741,
+                15.199931
+            ],
+            [
+                108.595323,
+                15.199114
+            ],
+            [
+                108.594707,
+                15.197773
+            ],
+            [
+                108.594208,
+                15.195928
+            ],
+            [
+                108.594144,
+                15.194989
+            ],
+            [
+                108.594225,
+                15.194449
+            ],
+            [
+                108.594416,
+                15.193945
+            ],
+            [
+                108.594908,
+                15.193157
+            ],
+            [
+                108.595892,
+                15.191472
+            ],
+            [
+                108.596616,
+                15.189856
+            ],
+            [
+                108.599922,
+                15.184786
+            ],
+            [
+                108.600111,
+                15.184536
+            ],
+            [
+                108.600115,
+                15.184175
+            ],
+            [
+                108.600122,
+                15.183489
+            ],
+            [
+                108.600104,
+                15.18183
+            ],
+            [
+                108.599951,
+                15.178978
+            ],
+            [
+                108.599838,
+                15.177479
+            ],
+            [
+                108.600077,
+                15.176039
+            ],
+            [
+                108.600422,
+                15.175068
+            ],
+            [
+                108.600724,
+                15.174639
+            ],
+            [
+                108.601477,
+                15.173672
+            ],
+            [
+                108.601818,
+                15.173063
+            ],
+            [
+                108.602087,
+                15.172272
+            ],
+            [
+                108.60217,
+                15.171515
+            ],
+            [
+                108.601919,
+                15.170683
+            ],
+            [
+                108.601589,
+                15.170318
+            ],
+            [
+                108.601072,
+                15.17006
+            ],
+            [
+                108.60011,
+                15.169834
+            ],
+            [
+                108.597964,
+                15.169161
+            ],
+            [
+                108.595263,
+                15.168339
+            ],
+            [
+                108.593747,
+                15.167781
+            ],
+            [
+                108.591921,
+                15.166734
+            ],
+            [
+                108.588351,
+                15.163953
+            ],
+            [
+                108.58511,
+                15.161718
+            ],
+            [
+                108.581167,
+                15.159114
+            ],
+            [
+                108.579324,
+                15.157904
+            ],
+            [
+                108.578026,
+                15.157402
+            ],
+            [
+                108.577177,
+                15.157339
+            ],
+            [
+                108.576229,
+                15.157456
+            ],
+            [
+                108.575743,
+                15.157739
+            ],
+            [
+                108.574399,
+                15.158446
+            ],
+            [
+                108.572644,
+                15.159293
+            ],
+            [
+                108.571229,
+                15.159675
+            ],
+            [
+                108.568699,
+                15.160189
+            ],
+            [
+                108.567509,
+                15.16032
+            ],
+            [
+                108.566806,
+                15.160132
+            ],
+            [
+                108.565993,
+                15.159835
+            ],
+            [
+                108.565367,
+                15.159359
+            ],
+            [
+                108.564854,
+                15.158776
+            ],
+            [
+                108.564197,
+                15.157759
+            ],
+            [
+                108.563249,
+                15.156269
+            ],
+            [
+                108.561973,
+                15.154235
+            ],
+            [
+                108.561065,
+                15.15253
+            ],
+            [
+                108.558133,
+                15.147573
+            ],
+            [
+                108.557661,
+                15.146666
+            ],
+            [
+                108.557223,
+                15.145976
+            ],
+            [
+                108.556155,
+                15.145279
+            ],
+            [
+                108.552358,
+                15.142965
+            ],
+            [
+                108.549871,
+                15.141333
+            ],
+            [
+                108.548911,
+                15.140889
+            ],
+            [
+                108.546101,
+                15.139885
+            ],
+            [
+                108.544141,
+                15.13925
+            ],
+            [
+                108.542552,
+                15.138583
+            ],
+            [
+                108.541447,
+                15.13785
+            ],
+            [
+                108.540198,
+                15.136754
+            ],
+            [
+                108.538364,
+                15.134858
+            ],
+            [
+                108.536785,
+                15.133717
+            ],
+            [
+                108.535971,
+                15.132998
+            ],
+            [
+                108.53408,
+                15.131366
+            ],
+            [
+                108.531126,
+                15.129962
+            ],
+            [
+                108.529171,
+                15.128931
+            ],
+            [
+                108.528324,
+                15.128308
+            ],
+            [
+                108.527365,
+                15.127829
+            ],
+            [
+                108.526402,
+                15.127638
+            ],
+            [
+                108.525103,
+                15.12766
+            ],
+            [
+                108.5241,
+                15.127685
+            ],
+            [
+                108.523656,
+                15.127608
+            ],
+            [
+                108.52336,
+                15.12746
+            ],
+            [
+                108.523104,
+                15.127205
+            ],
+            [
+                108.522852,
+                15.126517
+            ],
+            [
+                108.522716,
+                15.125433
+            ],
+            [
+                108.522527,
+                15.122508
+            ],
+            [
+                108.522286,
+                15.117708
+            ],
+            [
+                108.522299,
+                15.116625
+            ],
+            [
+                108.522079,
+                15.11637
+            ],
+            [
+                108.521821,
+                15.116187
+            ],
+            [
+                108.521228,
+                15.116145
+            ],
+            [
+                108.519963,
+                15.116347
+            ],
+            [
+                108.517434,
+                15.116824
+            ],
+            [
+                108.515353,
+                15.117054
+            ],
+            [
+                108.513274,
+                15.117103
+            ],
+            [
+                108.511197,
+                15.116936
+            ],
+            [
+                108.50344,
+                15.116887
+            ],
+            [
+                108.503218,
+                15.116812
+            ],
+            [
+                108.502962,
+                15.116521
+            ],
+            [
+                108.50034,
+                15.112235
+            ],
+            [
+                108.500012,
+                15.11169
+            ],
+            [
+                108.499653,
+                15.110712
+            ],
+            [
+                108.499186,
+                15.109372
+            ],
+            [
+                108.498826,
+                15.10843
+            ],
+            [
+                108.498461,
+                15.107885
+            ],
+            [
+                108.49776,
+                15.107516
+            ],
+            [
+                108.496393,
+                15.106996
+            ],
+            [
+                108.493953,
+                15.106211
+            ],
+            [
+                108.492546,
+                15.105907
+            ],
+            [
+                108.491099,
+                15.105891
+            ],
+            [
+                108.489058,
+                15.105868
+            ],
+            [
+                108.487943,
+                15.105928
+            ],
+            [
+                108.486122,
+                15.106197
+            ],
+            [
+                108.485376,
+                15.106477
+            ],
+            [
+                108.484366,
+                15.107151
+            ],
+            [
+                108.483242,
+                15.108041
+            ],
+            [
+                108.480696,
+                15.10996
+            ],
+            [
+                108.479456,
+                15.110892
+            ],
+            [
+                108.478807,
+                15.111136
+            ],
+            [
+                108.478227,
+                15.111067
+            ],
+            [
+                108.477134,
+                15.110615
+            ],
+            [
+                108.476364,
+                15.110167
+            ],
+            [
+                108.475659,
+                15.109657
+            ],
+            [
+                108.47515,
+                15.109023
+            ],
+            [
+                108.474647,
+                15.107824
+            ],
+            [
+                108.473757,
+                15.106621
+            ],
+            [
+                108.472924,
+                15.105984
+            ],
+            [
+                108.471132,
+                15.104582
+            ],
+            [
+                108.469205,
+                15.103618
+            ],
+            [
+                108.468367,
+                15.103483
+            ],
+            [
+                108.467526,
+                15.103537
+            ],
+            [
+                108.465969,
+                15.104085
+            ],
+            [
+                108.464927,
+                15.104827
+            ],
+            [
+                108.462638,
+                15.107125
+            ],
+            [
+                108.461202,
+                15.108364
+            ],
+            [
+                108.460295,
+                15.108605
+            ],
+            [
+                108.459132,
+                15.108592
+            ],
+            [
+                108.457258,
+                15.108634
+            ],
+            [
+                108.455445,
+                15.10899
+            ],
+            [
+                108.454267,
+                15.109334
+            ],
+            [
+                108.454901,
+                15.110332
+            ],
+            [
+                108.455273,
+                15.111538
+            ],
+            [
+                108.455936,
+                15.114286
+            ],
+            [
+                108.456495,
+                15.11602
+            ],
+            [
+                108.456869,
+                15.117
+            ],
+            [
+                108.457437,
+                15.11802
+            ],
+            [
+                108.458861,
+                15.120045
+            ],
+            [
+                108.459693,
+                15.121557
+            ],
+            [
+                108.459988,
+                15.122761
+            ],
+            [
+                108.460016,
+                15.123588
+            ],
+            [
+                108.459853,
+                15.124299
+            ],
+            [
+                108.459107,
+                15.12538
+            ],
+            [
+                108.457695,
+                15.127091
+            ],
+            [
+                108.457067,
+                15.127948
+            ],
+            [
+                108.456671,
+                15.128807
+            ],
+            [
+                108.456565,
+                15.129575
+            ],
+            [
+                108.456554,
+                15.130439
+            ],
+            [
+                108.456662,
+                15.131116
+            ],
+            [
+                108.45708,
+                15.131684
+            ],
+            [
+                108.457882,
+                15.132519
+            ],
+            [
+                108.459491,
+                15.133664
+            ],
+            [
+                108.461062,
+                15.13477
+            ],
+            [
+                108.461673,
+                15.135303
+            ],
+            [
+                108.462282,
+                15.136061
+            ],
+            [
+                108.462849,
+                15.137118
+            ],
+            [
+                108.463408,
+                15.138889
+            ],
+            [
+                108.463928,
+                15.140585
+            ],
+            [
+                108.464544,
+                15.14245
+            ],
+            [
+                108.465486,
+                15.144451
+            ],
+            [
+                108.466433,
+                15.146001
+            ],
+            [
+                108.467382,
+                15.147401
+            ],
+            [
+                108.46837,
+                15.148839
+            ],
+            [
+                108.469164,
+                15.150312
+            ],
+            [
+                108.469727,
+                15.151671
+            ],
+            [
+                108.470003,
+                15.152856
+            ],
+            [
+                108.469838,
+                15.153756
+            ],
+            [
+                108.469278,
+                15.155289
+            ],
+            [
+                108.468605,
+                15.156708
+            ],
+            [
+                108.467642,
+                15.159305
+            ],
+            [
+                108.468524,
+                15.160199
+            ],
+            [
+                108.469559,
+                15.160962
+            ],
+            [
+                108.47132,
+                15.162333
+            ],
+            [
+                108.472526,
+                15.163229
+            ],
+            [
+                108.472948,
+                15.163459
+            ],
+            [
+                108.473757,
+                15.163731
+            ],
+            [
+                108.476533,
+                15.164175
+            ],
+            [
+                108.477999,
+                15.16438
+            ],
+            [
+                108.478847,
+                15.164577
+            ],
+            [
+                108.479308,
+                15.164807
+            ],
+            [
+                108.479576,
+                15.165036
+            ],
+            [
+                108.47984,
+                15.165564
+            ],
+            [
+                108.480471,
+                15.167749
+            ],
+            [
+                108.480462,
+                15.168538
+            ],
+            [
+                108.480337,
+                15.169287
+            ],
+            [
+                108.479965,
+                15.171311
+            ],
+            [
+                108.479553,
+                15.173446
+            ],
+            [
+                108.479401,
+                15.174853
+            ],
+            [
+                108.479428,
+                15.175867
+            ],
+            [
+                108.480293,
+                15.177904
+            ],
+            [
+                108.48173,
+                15.180549
+            ],
+            [
+                108.482103,
+                15.181604
+            ],
+            [
+                108.482393,
+                15.18326
+            ],
+            [
+                108.482572,
+                15.184463
+            ],
+            [
+                108.482654,
+                15.185684
+            ],
+            [
+                108.482369,
+                15.18692
+            ],
+            [
+                108.481733,
+                15.188415
+            ],
+            [
+                108.481528,
+                15.189427
+            ],
+            [
+                108.48152,
+                15.190065
+            ],
+            [
+                108.481627,
+                15.190817
+            ],
+            [
+                108.482224,
+                15.192589
+            ],
+            [
+                108.483734,
+                15.195609
+            ],
+            [
+                108.484661,
+                15.197328
+            ],
+            [
+                108.486675,
+                15.200167
+            ],
+            [
+                108.487586,
+                15.201604
+            ],
+            [
+                108.488004,
+                15.202172
+            ],
+            [
+                108.488076,
+                15.202623
+            ],
+            [
+                108.487955,
+                15.203035
+            ],
+            [
+                108.487719,
+                15.203408
+            ],
+            [
+                108.487096,
+                15.203776
+            ],
+            [
+                108.48632,
+                15.20403
+            ],
+            [
+                108.483336,
+                15.204748
+            ],
+            [
+                108.480119,
+                15.205538
+            ],
+            [
+                108.47853,
+                15.205933
+            ],
+            [
+                108.475478,
+                15.20742
+            ],
+            [
+                108.472718,
+                15.20874
+            ],
+            [
+                108.472214,
+                15.208923
+            ],
+            [
+                108.471749,
+                15.208992
+            ],
+            [
+                108.471363,
+                15.208951
+            ],
+            [
+                108.470904,
+                15.208607
+            ],
+            [
+                108.47007,
+                15.207246
+            ],
+            [
+                108.469241,
+                15.205435
+            ],
+            [
+                108.468486,
+                15.203962
+            ],
+            [
+                108.467727,
+                15.202752
+            ],
+            [
+                108.46704,
+                15.20203
+            ],
+            [
+                108.466275,
+                15.201421
+            ],
+            [
+                108.465699,
+                15.201114
+            ],
+            [
+                108.465121,
+                15.200957
+            ],
+            [
+                108.464463,
+                15.201025
+            ],
+            [
+                108.46287,
+                15.201758
+            ],
+            [
+                108.461121,
+                15.202527
+            ],
+            [
+                108.459081,
+                15.203499
+            ],
+            [
+                108.45663,
+                15.204861
+            ],
+            [
+                108.454332,
+                15.206299
+            ],
+            [
+                108.451724,
+                15.207846
+            ],
+            [
+                108.450203,
+                15.208993
+            ],
+            [
+                108.448021,
+                15.210508
+            ],
+            [
+                108.446814,
+                15.211245
+            ],
+            [
+                108.446075,
+                15.21165
+            ],
+            [
+                108.44534,
+                15.211716
+            ],
+            [
+                108.444297,
+                15.211667
+            ],
+            [
+                108.442656,
+                15.211554
+            ],
+            [
+                108.441617,
+                15.21113
+            ],
+            [
+                108.440891,
+                15.210445
+            ],
+            [
+                108.439989,
+                15.209248
+            ],
+            [
+                108.438755,
+                15.208786
+            ],
+            [
+                108.438081,
+                15.208779
+            ],
+            [
+                108.436786,
+                15.209147
+            ],
+            [
+                108.435825,
+                15.209682
+            ],
+            [
+                108.43531,
+                15.210496
+            ],
+            [
+                108.434913,
+                15.210874
+            ],
+            [
+                108.433729,
+                15.211298
+            ],
+            [
+                108.432831,
+                15.211288
+            ],
+            [
+                108.432274,
+                15.210953
+            ],
+            [
+                108.431666,
+                15.210236
+            ],
+            [
+                108.43122,
+                15.209958
+            ],
+            [
+                108.430603,
+                15.20995
+            ],
+            [
+                108.428913,
+                15.210478
+            ],
+            [
+                108.427557,
+                15.210616
+            ],
+            [
+                108.427563,
+                15.211927
+            ],
+            [
+                108.427449,
+                15.214163
+            ],
+            [
+                108.427367,
+                15.215402
+            ],
+            [
+                108.426382,
+                15.21563
+            ],
+            [
+                108.425346,
+                15.21597
+            ],
+            [
+                108.424521,
+                15.21596
+            ],
+            [
+                108.423238,
+                15.215493
+            ],
+            [
+                108.422172,
+                15.214075
+            ],
+            [
+                108.420507,
+                15.210992
+            ],
+            [
+                108.419793,
+                15.21033
+            ],
+            [
+                108.416737,
+                15.209904
+            ],
+            [
+                108.416359,
+                15.210503
+            ],
+            [
+                108.41484,
+                15.21206
+            ],
+            [
+                108.412464,
+                15.21405
+            ],
+            [
+                108.411176,
+                15.21514
+            ],
+            [
+                108.410375,
+                15.2158
+            ],
+            [
+                108.409714,
+                15.216295
+            ],
+            [
+                108.408987,
+                15.216554
+            ],
+            [
+                108.408022,
+                15.216577
+            ],
+            [
+                108.406096,
+                15.21622
+            ],
+            [
+                108.40342,
+                15.215218
+            ],
+            [
+                108.402598,
+                15.21484
+            ],
+            [
+                108.402068,
+                15.214516
+            ],
+            [
+                108.401793,
+                15.214445
+            ],
+            [
+                108.401479,
+                15.21471
+            ],
+            [
+                108.400322,
+                15.216303
+            ],
+            [
+                108.398119,
+                15.218923
+            ],
+            [
+                108.396261,
+                15.22148
+            ],
+            [
+                108.394723,
+                15.223236
+            ],
+            [
+                108.393152,
+                15.224825
+            ],
+            [
+                108.390792,
+                15.22756
+            ],
+            [
+                108.389356,
+                15.229419
+            ],
+            [
+                108.387321,
+                15.232341
+            ],
+            [
+                108.385392,
+                15.235064
+            ],
+            [
+                108.38464,
+                15.235976
+            ],
+            [
+                108.383528,
+                15.2367
+            ],
+            [
+                108.38155,
+                15.237782
+            ],
+            [
+                108.377572,
+                15.239627
+            ],
+            [
+                108.373332,
+                15.241846
+            ],
+            [
+                108.368924,
+                15.243888
+            ],
+            [
+                108.369263,
+                15.244669
+            ],
+            [
+                108.3696,
+                15.245276
+            ],
+            [
+                108.370009,
+                15.245683
+            ],
+            [
+                108.37066,
+                15.245958
+            ],
+            [
+                108.371588,
+                15.24617
+            ],
+            [
+                108.371931,
+                15.246341
+            ],
+            [
+                108.372237,
+                15.24668
+            ],
+            [
+                108.37247,
+                15.247318
+            ],
+            [
+                108.372462,
+                15.247921
+            ],
+            [
+                108.372244,
+                15.248823
+            ],
+            [
+                108.371786,
+                15.249688
+            ],
+            [
+                108.371223,
+                15.250552
+            ],
+            [
+                108.370696,
+                15.251349
+            ],
+            [
+                108.370449,
+                15.251815
+            ],
+            [
+                108.370269,
+                15.252482
+            ],
+            [
+                108.37019,
+                15.253252
+            ],
+            [
+                108.370343,
+                15.254794
+            ],
+            [
+                108.37067,
+                15.256237
+            ],
+            [
+                108.370958,
+                15.258048
+            ],
+            [
+                108.371249,
+                15.259525
+            ],
+            [
+                108.37134,
+                15.260564
+            ],
+            [
+                108.371291,
+                15.261702
+            ],
+            [
+                108.371103,
+                15.262972
+            ],
+            [
+                108.370848,
+                15.264107
+            ],
+            [
+                108.370387,
+                15.26514
+            ],
+            [
+                108.370064,
+                15.266107
+            ],
+            [
+                108.369919,
+                15.266742
+            ],
+            [
+                108.369878,
+                15.267243
+            ],
+            [
+                108.369972,
+                15.267981
+            ],
+            [
+                108.370137,
+                15.268552
+            ],
+            [
+                108.370475,
+                15.269092
+            ],
+            [
+                108.371254,
+                15.270206
+            ],
+            [
+                108.373023,
+                15.272102
+            ],
+            [
+                108.374335,
+                15.273339
+            ],
+            [
+                108.374808,
+                15.274115
+            ],
+            [
+                108.375041,
+                15.274821
+            ],
+            [
+                108.37503,
+                15.275657
+            ],
+            [
+                108.374921,
+                15.276125
+            ],
+            [
+                108.374641,
+                15.276456
+            ],
+            [
+                108.373635,
+                15.276947
+            ],
+            [
+                108.370929,
+                15.278321
+            ],
+            [
+                108.369298,
+                15.279206
+            ],
+            [
+                108.368221,
+                15.27983
+            ],
+            [
+                108.367699,
+                15.280225
+            ],
+            [
+                108.367314,
+                15.28069
+            ],
+            [
+                108.367172,
+                15.281023
+            ],
+            [
+                108.367193,
+                15.282161
+            ],
+            [
+                108.367486,
+                15.283538
+            ],
+            [
+                108.367408,
+                15.284273
+            ],
+            [
+                108.367157,
+                15.285007
+            ],
+            [
+                108.366703,
+                15.285504
+            ],
+            [
+                108.365695,
+                15.286161
+            ],
+            [
+                108.362952,
+                15.287736
+            ],
+            [
+                108.361873,
+                15.288527
+            ],
+            [
+                108.361037,
+                15.28922
+            ],
+            [
+                108.360544,
+                15.290052
+            ],
+            [
+                108.360015,
+                15.290983
+            ],
+            [
+                108.359864,
+                15.292052
+            ],
+            [
+                108.359847,
+                15.293358
+            ],
+            [
+                108.359908,
+                15.295371
+            ],
+            [
+                108.360583,
+                15.295245
+            ],
+            [
+                108.361756,
+                15.295026
+            ],
+            [
+                108.364364,
+                15.294725
+            ],
+            [
+                108.364979,
+                15.295901
+            ],
+            [
+                108.365881,
+                15.297535
+            ],
+            [
+                108.367475,
+                15.298271
+            ],
+            [
+                108.371891,
+                15.300107
+            ],
+            [
+                108.373529,
+                15.300759
+            ],
+            [
+                108.374784,
+                15.301405
+            ],
+            [
+                108.378852,
+                15.303571
+            ],
+            [
+                108.379864,
+                15.303713
+            ],
+            [
+                108.381435,
+                15.30362
+            ],
+            [
+                108.383622,
+                15.3032
+            ],
+            [
+                108.386617,
+                15.30238
+            ],
+            [
+                108.38781,
+                15.301874
+            ],
+            [
+                108.388735,
+                15.301364
+            ],
+            [
+                108.389391,
+                15.300926
+            ],
+            [
+                108.390166,
+                15.300154
+            ],
+            [
+                108.390941,
+                15.299383
+            ],
+            [
+                108.391637,
+                15.298759
+            ],
+            [
+                108.392061,
+                15.298541
+            ],
+            [
+                108.392828,
+                15.298438
+            ],
+            [
+                108.393896,
+                15.298711
+            ],
+            [
+                108.39527,
+                15.298987
+            ],
+            [
+                108.398495,
+                15.299787
+            ],
+            [
+                108.399753,
+                15.300136
+            ],
+            [
+                108.401396,
+                15.300378
+            ],
+            [
+                108.402313,
+                15.3005
+            ],
+            [
+                108.402732,
+                15.300654
+            ],
+            [
+                108.402922,
+                15.300805
+            ],
+            [
+                108.403183,
+                15.301328
+            ],
+            [
+                108.403197,
+                15.303335
+            ],
+            [
+                108.403053,
+                15.305638
+            ],
+            [
+                108.403035,
+                15.307162
+            ],
+            [
+                108.4031,
+                15.308054
+            ],
+            [
+                108.403323,
+                15.308577
+            ],
+            [
+                108.404158,
+                15.309219
+            ],
+            [
+                108.406639,
+                15.310636
+            ],
+            [
+                108.407765,
+                15.309949
+            ],
+            [
+                108.409036,
+                15.309369
+            ],
+            [
+                108.411343,
+                15.308466
+            ],
+            [
+                108.412959,
+                15.307779
+            ],
+            [
+                108.414421,
+                15.307164
+            ],
+            [
+                108.415458,
+                15.306878
+            ],
+            [
+                108.41607,
+                15.306885
+            ],
+            [
+                108.416529,
+                15.306965
+            ],
+            [
+                108.417024,
+                15.307194
+            ],
+            [
+                108.418235,
+                15.308286
+            ],
+            [
+                108.420012,
+                15.310053
+            ],
+            [
+                108.422394,
+                15.312422
+            ],
+            [
+                108.423195,
+                15.313196
+            ],
+            [
+                108.424328,
+                15.313968
+            ],
+            [
+                108.42539,
+                15.314724
+            ],
+            [
+                108.425958,
+                15.315214
+            ],
+            [
+                108.426298,
+                15.315589
+            ],
+            [
+                108.426599,
+                15.316039
+            ],
+            [
+                108.426899,
+                15.316563
+            ],
+            [
+                108.427599,
+                15.318764
+            ],
+            [
+                108.428222,
+                15.321001
+            ],
+            [
+                108.428392,
+                15.322787
+            ],
+            [
+                108.428389,
+                15.324553
+            ],
+            [
+                108.428274,
+                15.325329
+            ],
+            [
+                108.429024,
+                15.325878
+            ],
+            [
+                108.429879,
+                15.32611
+            ],
+            [
+                108.431251,
+                15.326125
+            ],
+            [
+                108.43354,
+                15.32593
+            ],
+            [
+                108.435087,
+                15.32567
+            ],
+            [
+                108.435491,
+                15.325397
+            ],
+            [
+                108.435667,
+                15.324955
+            ],
+            [
+                108.435566,
+                15.323899
+            ],
+            [
+                108.435668,
+                15.320236
+            ],
+            [
+                108.435685,
+                15.318793
+            ],
+            [
+                108.435588,
+                15.317404
+            ],
+            [
+                108.435892,
+                15.315908
+            ],
+            [
+                108.436651,
+                15.314584
+            ],
+            [
+                108.437811,
+                15.313265
+            ],
+            [
+                108.438737,
+                15.312332
+            ],
+            [
+                108.439255,
+                15.312061
+            ],
+            [
+                108.439769,
+                15.312066
+            ],
+            [
+                108.440967,
+                15.312302
+            ],
+            [
+                108.442679,
+                15.312599
+            ],
+            [
+                108.445253,
+                15.312462
+            ],
+            [
+                108.446799,
+                15.312258
+            ],
+            [
+                108.448293,
+                15.311664
+            ],
+            [
+                108.449564,
+                15.310569
+            ],
+            [
+                108.450199,
+                15.310021
+            ],
+            [
+                108.451001,
+                15.309919
+            ],
+            [
+                108.456087,
+                15.310088
+            ],
+            [
+                108.461066,
+                15.309645
+            ],
+            [
+                108.462496,
+                15.309605
+            ],
+            [
+                108.469807,
+                15.310188
+            ],
+            [
+                108.471521,
+                15.310207
+            ],
+            [
+                108.473463,
+                15.310396
+            ],
+            [
+                108.474775,
+                15.310633
+            ],
+            [
+                108.47611,
+                15.311342
+            ],
+            [
+                108.477696,
+                15.312424
+            ],
+            [
+                108.477827,
+                15.311195
+            ],
+            [
+                108.477953,
+                15.310252
+            ],
+            [
+                108.478245,
+                15.3097
+            ],
+            [
+                108.478535,
+                15.309371
+            ],
+            [
+                108.479342,
+                15.308825
+            ],
+            [
+                108.48049,
+                15.308449
+            ],
+            [
+                108.482093,
+                15.308245
+            ],
+            [
+                108.483523,
+                15.308205
+            ],
+            [
+                108.484722,
+                15.308274
+            ],
+            [
+                108.486372,
+                15.309015
+            ],
+            [
+                108.48745,
+                15.309638
+            ],
+            [
+                108.488745,
+                15.311318
+            ],
+            [
+                108.489366,
+                15.311991
+            ],
+            [
+                108.489932,
+                15.312441
+            ],
+            [
+                108.490898,
+                15.312952
+            ],
+            [
+                108.492489,
+                15.313803
+            ],
+            [
+                108.493738,
+                15.314538
+            ],
+            [
+                108.494419,
+                15.31499
+            ],
+            [
+                108.49504,
+                15.315608
+            ],
+            [
+                108.49571,
+                15.316948
+            ],
+            [
+                108.496941,
+                15.319238
+            ],
+            [
+                108.498112,
+                15.321749
+            ],
+            [
+                108.498894,
+                15.323313
+            ],
+            [
+                108.4994,
+                15.32404
+            ],
+            [
+                108.500707,
+                15.324665
+            ],
+            [
+                108.503272,
+                15.325305
+            ],
+            [
+                108.505041,
+                15.325602
+            ],
+            [
+                108.506185,
+                15.325615
+            ],
+            [
+                108.507447,
+                15.32524
+            ],
+            [
+                108.510204,
+                15.324161
+            ],
+            [
+                108.513079,
+                15.322805
+            ],
+            [
+                108.514975,
+                15.322049
+            ],
+            [
+                108.515889,
+                15.322114
+            ],
+            [
+                108.517481,
+                15.322854
+            ],
+            [
+                108.51868,
+                15.323034
+            ],
+            [
+                108.52017,
+                15.322717
+            ],
+            [
+                108.52253,
+                15.321411
+            ],
+            [
+                108.524829,
+                15.320326
+            ],
+            [
+                108.525977,
+                15.31995
+            ],
+            [
+                108.526721,
+                15.319958
+            ],
+            [
+                108.527119,
+                15.320129
+            ],
+            [
+                108.527626,
+                15.320746
+            ],
+            [
+                108.528353,
+                15.322142
+            ],
+            [
+                108.52908,
+                15.323482
+            ],
+            [
+                108.52953,
+                15.324153
+            ],
+            [
+                108.531055,
+                15.325725
+            ],
+            [
+                108.534561,
+                15.329095
+            ],
+            [
+                108.535298,
+                15.329658
+            ],
+            [
+                108.536718,
+                15.330396
+            ],
+            [
+                108.538542,
+                15.330915
+            ],
+            [
+                108.541049,
+                15.331665
+            ],
+            [
+                108.542016,
+                15.33212
+            ],
+            [
+                108.542921,
+                15.332907
+            ],
+            [
+                108.544053,
+                15.333974
+            ],
+            [
+                108.544847,
+                15.334483
+            ],
+            [
+                108.54653,
+                15.334862
+            ],
+            [
+                108.54841,
+                15.335382
+            ],
+            [
+                108.550691,
+                15.335963
+            ],
+            [
+                108.551832,
+                15.336197
+            ],
+            [
+                108.552632,
+                15.336206
+            ],
+            [
+                108.553436,
+                15.335937
+            ],
+            [
+                108.554874,
+                15.335176
+            ],
+            [
+                108.556313,
+                15.334414
+            ],
+            [
+                108.557975,
+                15.334099
+            ],
+            [
+                108.559175,
+                15.334112
+            ],
+            [
+                108.560145,
+                15.33429
+            ],
+            [
+                108.561738,
+                15.335029
+            ],
+            [
+                108.563667,
+                15.336327
+            ],
+            [
+                108.566448,
+                15.338078
+            ],
+            [
+                108.569112,
+                15.340106
+            ],
+            [
+                108.570979,
+                15.341848
+            ],
+            [
+                108.572228,
+                15.342694
+            ],
+            [
+                108.572741,
+                15.342811
+            ],
+            [
+                108.57337,
+                15.342762
+            ],
+            [
+                108.574234,
+                15.342272
+            ],
+            [
+                108.574807,
+                15.342167
+            ],
+            [
+                108.575318,
+                15.34245
+            ],
+            [
+                108.577023,
+                15.343413
+            ],
+            [
+                108.578503,
+                15.343984
+            ],
+            [
+                108.579985,
+                15.344389
+            ],
+            [
+                108.58204,
+                15.344744
+            ],
+            [
+                108.58324,
+                15.344757
+            ],
+            [
+                108.584158,
+                15.344545
+            ],
+            [
+                108.585309,
+                15.343891
+            ],
+            [
+                108.58669,
+                15.343129
+            ],
+            [
+                108.587594,
+                15.342343
+            ]
+        ]
+    ]
+}

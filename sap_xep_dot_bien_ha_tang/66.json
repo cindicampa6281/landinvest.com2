@@ -1,0 +1,5560 @@
+{
+    "id_district": "66",
+    "id_province": 60,
+    "name_province": "Tuyên Quang",
+    "name_district": "Huyện Sơn Dương",
+    "list_sukien": [
+        {
+            "bidName": "Thi công xây dựng công trình (Bao gồm thiết bị)",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209-04",
+            "publicDate": "2024-11-12 08:10:00",
+            "projectName": null,
+            "bidCloseDate": "2024-11-22 08:45:00",
+            "id_muasamcong": "0047a716-2b0b-4d08-8e54-5d89c67ca62d",
+            "tongmuc_dautu": 11385985000.0,
+            "bidNamePlanNew": "PL2400248265",
+            "dotbien_hatang": "Thi công xây dựng công trình (Bao gồm thiết bị)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án (bao gồm: Thiết bị, đấu nối điện nước và chi phí bảo vệ môi trường)",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2024-11-27 16:05:21",
+            "projectName": "Liên danh Nguyên Phong - Thiên Mộc Xanh",
+            "bidCloseDate": "2024-12-06 09:16:00",
+            "id_muasamcong": "01f1d695-243c-4fde-a6a6-2b646c23b6d2",
+            "tongmuc_dautu": 12837859000.0,
+            "bidNamePlanNew": "PL2400284161",
+            "dotbien_hatang": "Thi công xây dựng dự án (bao gồm: Thiết bị, đấu nối điện nước và chi phí bảo vệ môi trường)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp và vật liệu phụ",
+            "chudautu": "Viễn thông Tuyên Quang",
+            "createdBy": "vn5000136433",
+            "publicDate": "2023-04-17 10:53:52",
+            "projectName": null,
+            "bidCloseDate": "2023-04-27 08:00:00",
+            "id_muasamcong": "03ae89df-478b-493c-af37-d7130f089a57",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300051480",
+            "dotbien_hatang": "Thi công xây lắp và vật liệu phụ",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình (bao gồm thiết bị)",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2024-12-16 21:23:29",
+            "projectName": null,
+            "bidCloseDate": "2024-12-27 09:00:00",
+            "id_muasamcong": "06299f8f-3692-4ceb-b98c-d23d19d9fea3",
+            "tongmuc_dautu": 5322000000.0,
+            "bidNamePlanNew": "PL2400288828",
+            "dotbien_hatang": "Thi công xây dựng công trình (bao gồm thiết bị)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Phòng Tài chính - Kế hoạch huyện Sơn DƯơng",
+            "createdBy": "vnz000036854",
+            "publicDate": "2024-11-21 10:31:23",
+            "projectName": null,
+            "bidCloseDate": "2024-11-28 08:10:00",
+            "id_muasamcong": "06eb2e18-fe6c-4d1d-8135-f5172bf94164",
+            "tongmuc_dautu": 316848107.0,
+            "bidNamePlanNew": "PL2400276827",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công xây dựng công trình: Xây dựng đường giao thông thôn Định Chung, Đồng Luộc, Đá Ngựa, Phương Cẩm, xã Phúc Ứng, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2024-06-27 16:35:37",
+            "projectName": null,
+            "bidCloseDate": "2024-07-05 10:10:00",
+            "id_muasamcong": "0ae7bbac-feb4-408f-bbcb-6514dd940254",
+            "tongmuc_dautu": 1658140000.0,
+            "bidNamePlanNew": "PL2400115228",
+            "dotbien_hatang": "Thi công xây dựng công xây dựng công trình: Xây dựng đường giao thông thôn Định Chung, Đồng Luộc, Đá Ngựa, Phương Cẩm, xã Phúc Ứng, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình (Bao gồm cả chi phí thiết bị",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2023-06-25 11:36:39",
+            "projectName": null,
+            "bidCloseDate": "2023-07-01 09:00:00",
+            "id_muasamcong": "0aee81a2-f34d-4145-88bb-69f891782f49",
+            "tongmuc_dautu": 2578120000.0,
+            "bidNamePlanNew": "PL2300100940",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình (Bao gồm cả chi phí thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Xây dựng cầu bản và đường dẫn 2 đầu cầu, thôn Đồng Khuân, xã Hợp Thành, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2024-09-22 09:56:48",
+            "projectName": null,
+            "bidCloseDate": "2024-09-30 09:00:00",
+            "id_muasamcong": "0b9cc7e6-42da-47e1-9adb-2e21aea92b6d",
+            "tongmuc_dautu": 1120000000.0,
+            "bidNamePlanNew": "PL2400200658",
+            "dotbien_hatang": "Thi công xây dựng công trình: Xây dựng cầu bản và đường dẫn 2 đầu cầu, thôn Đồng Khuân, xã Hợp Thành, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Xây dựng đường giao thông thôn Mới, xã Minh Thanh, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2024-07-02 11:24:29",
+            "projectName": null,
+            "bidCloseDate": "2024-07-09 08:00:00",
+            "id_muasamcong": "0ec7ec0e-7661-4550-be29-6cf1b75db4a2",
+            "tongmuc_dautu": 2292000000.0,
+            "bidNamePlanNew": "PL2400114657",
+            "dotbien_hatang": "Thi công xây dựng công trình: Xây dựng đường giao thông thôn Mới, xã Minh Thanh, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án (bao gồm phí bảo vệ môi trường): Nâng cấp tuyến đường từ tổ dân phố Đăng Châu đi qua các tổ dân phố: Thịnh Tiến, Tân An, An Kỳ đến tổ dân phố Kỳ Lâm, thị trấn Sơn Dương, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2025-02-22 17:00:51",
+            "projectName": null,
+            "bidCloseDate": "2025-03-03 08:30:00",
+            "id_muasamcong": "0fc78f55-51b9-4b7c-b480-7c7c7246a678",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400257541",
+            "dotbien_hatang": "Thi công xây dựng dự án (bao gồm phí bảo vệ môi trường): Nâng cấp tuyến đường từ tổ dân phố Đăng Châu đi qua các tổ dân phố: Thịnh Tiến, Tân An, An Kỳ đến tổ dân phố Kỳ Lâm, thị trấn Sơn Dương, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Xây dựng đường ĐH17 đoạn từ thôn Phúc Lợi đi QL2C, xã Phúc Ứng, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2023-05-23 17:15:56",
+            "projectName": null,
+            "bidCloseDate": "2023-05-31 08:00:00",
+            "id_muasamcong": "1231097d-f71a-4b6a-9bac-67e4c8984e88",
+            "tongmuc_dautu": 3450000000.0,
+            "bidNamePlanNew": "PL2300077472",
+            "dotbien_hatang": "Thi công xây dựng công trình: Xây dựng đường ĐH17 đoạn từ thôn Phúc Lợi đi QL2C, xã Phúc Ứng, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình Xây dựng đường giao thông thôn Bình Yên, xã Chi Thiết, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "Uỷ ban nhân dân xã Chi Thiết",
+            "createdBy": "vn5000226609",
+            "publicDate": "2023-06-20 15:25:49",
+            "projectName": null,
+            "bidCloseDate": "2023-06-27 09:24:00",
+            "id_muasamcong": "12567202-d775-4dc3-8014-21ef03031916",
+            "tongmuc_dautu": 1290012194.0,
+            "bidNamePlanNew": "PL2300092074",
+            "dotbien_hatang": "Thi công xây dựng công trình Xây dựng đường giao thông thôn Bình Yên, xã Chi Thiết, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Xây dựng nhà lớp học 02 tầng 04 phòng, bếp ăn trường Mầm non Hào Phú, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2023-01-11 21:21:02",
+            "projectName": null,
+            "bidCloseDate": "2023-01-19 14:00:00",
+            "id_muasamcong": "128abd8d-c431-44e1-a337-0013746cfb6d",
+            "tongmuc_dautu": 3690861000.0,
+            "bidNamePlanNew": "PL2200085166",
+            "dotbien_hatang": "Thi công xây dựng công trình: Xây dựng nhà lớp học 02 tầng 04 phòng, bếp ăn trường Mầm non Hào Phú, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Xây dựng nhà lớp học 02 tầng trường mầm non Hợp Thành, xã Hợp Thành, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2024-05-22 08:01:37",
+            "projectName": null,
+            "bidCloseDate": "2024-05-31 08:00:00",
+            "id_muasamcong": "160e0132-04a5-42dc-914e-84c09a1ebab3",
+            "tongmuc_dautu": 7726210000.0,
+            "bidNamePlanNew": "PL2400082099",
+            "dotbien_hatang": "Thi công xây dựng công trình: Xây dựng nhà lớp học 02 tầng trường mầm non Hợp Thành, xã Hợp Thành, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình (bao gồm cả phí môi trường, thuế tài nguyên): Xây dựng đường trục xã đoạn từ Nhà văn hóa thôn Lẹm đến cổng ông Cầm Lai, đoạn từ nghĩa trang thôn Ba Khe đến đường ĐT 185 và đoạn từ thôn Trung Tâm đi thôn Khuân Phầy",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209-01",
+            "publicDate": "2023-08-08 08:39:57",
+            "projectName": null,
+            "bidCloseDate": "2023-08-15 08:00:00",
+            "id_muasamcong": "1628c0aa-d9ab-470e-91f4-840beefa3645",
+            "tongmuc_dautu": 4804000000.0,
+            "bidNamePlanNew": "PL2300131581",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình (bao gồm cả phí môi trường, thuế tài nguyên): Xây dựng đường trục xã đoạn từ Nhà văn hóa thôn Lẹm đến cổng ông Cầm Lai, đoạn từ nghĩa trang thôn Ba Khe đến đường ĐT 185 và đoạn từ thôn Trung Tâm đi thôn Khuân Phầy",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2024-09-18 17:14:01",
+            "projectName": null,
+            "bidCloseDate": "2024-09-27 08:00:00",
+            "id_muasamcong": "17d93de6-67b0-4f0e-a9df-8449df6d26c8",
+            "tongmuc_dautu": 5084486000.0,
+            "bidNamePlanNew": "PL2400201803",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng đường trục xã Phúc Ứng, huyện Sơn Dương, tỉnh Tuyên Quang (Bao gồm: Chi phí xây dựng, phí bảo vệ môi trưởng).",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2023-12-22 18:45:14",
+            "projectName": null,
+            "bidCloseDate": "2024-01-03 10:10:00",
+            "id_muasamcong": "1a1bac27-82fe-454c-bc0f-9c67803ca80d",
+            "tongmuc_dautu": 7960928000.0,
+            "bidNamePlanNew": "PL2300258404",
+            "dotbien_hatang": "Thi công xây dựng đường trục xã Phúc Ứng, huyện Sơn Dương, tỉnh Tuyên Quang (Bao gồm: Chi phí xây dựng, phí bảo vệ môi trưởng).",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình: Xây dựng đường giao thông thôn Lục Liêu, thôn Cây Thị, xã Tân Thanh, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209-01",
+            "publicDate": "2023-08-08 09:36:13",
+            "projectName": null,
+            "bidCloseDate": "2023-08-15 09:00:00",
+            "id_muasamcong": "1fd6bc84-5006-4457-af8d-b906f691185b",
+            "tongmuc_dautu": 1534051000.0,
+            "bidNamePlanNew": "PL2300126896",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình: Xây dựng đường giao thông thôn Lục Liêu, thôn Cây Thị, xã Tân Thanh, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01 thi công xây dựng dự án: Xây dựng đường trục xã Kháng Nhật (Đoạn từ Nhà văn hóa thôn Lẹm đi đèo Kháng Nhật), huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2024-06-26 08:38:37",
+            "projectName": null,
+            "bidCloseDate": "2024-07-03 08:00:00",
+            "id_muasamcong": "218173af-5775-48fa-bf17-6d2b04fcca9c",
+            "tongmuc_dautu": 1993000000.0,
+            "bidNamePlanNew": "PL2400113016",
+            "dotbien_hatang": "Gói thầu số 01 thi công xây dựng dự án: Xây dựng đường trục xã Kháng Nhật (Đoạn từ Nhà văn hóa thôn Lẹm đi đèo Kháng Nhật), huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình (bao gồm thiết bị)",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209-06",
+            "publicDate": "2024-05-23 15:01:11",
+            "projectName": null,
+            "bidCloseDate": "2024-05-30 10:00:00",
+            "id_muasamcong": "2426c632-ecab-4bf4-95df-bba095310e5c",
+            "tongmuc_dautu": 1532000000.0,
+            "bidNamePlanNew": "PL2400079259",
+            "dotbien_hatang": "Thi công xây dựng công trình (bao gồm thiết bị)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Xây dựng nhà 02 tầng gồm phòng hành chính quản trị, phòng chức năng; nhà bếp trường Mầm non Tam Đa, xã Tam Đa, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2024-07-30 09:25:23",
+            "projectName": null,
+            "bidCloseDate": "2024-08-08 08:00:00",
+            "id_muasamcong": "250548bb-b858-46b5-874c-41831dc3041c",
+            "tongmuc_dautu": 9400000000.0,
+            "bidNamePlanNew": "PL2400139581",
+            "dotbien_hatang": "Thi công xây dựng công trình: Xây dựng nhà 02 tầng gồm phòng hành chính quản trị, phòng chức năng; nhà bếp trường Mầm non Tam Đa, xã Tam Đa, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình Cải tạo, nâng cấp hồ thủy lợi thôn Đồng Min, xã Bình Yên, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2023-04-02 09:39:22",
+            "projectName": null,
+            "bidCloseDate": "2023-04-08 08:00:00",
+            "id_muasamcong": "269a1ee4-84d9-4b09-ba12-091fbe8adf93",
+            "tongmuc_dautu": 2396000000.0,
+            "bidNamePlanNew": "PL2300040688",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình Cải tạo, nâng cấp hồ thủy lợi thôn Đồng Min, xã Bình Yên, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Xây dựng Trường Mầm non Phúc Ứng, huyện Sơn Dương, tỉnh Tuyên Quang (Bao gồm: Chi phí xây dựng, chi phí thiết bị).",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2023-12-02 14:58:41",
+            "projectName": null,
+            "bidCloseDate": "2023-12-12 10:30:00",
+            "id_muasamcong": "27342b18-a53e-4b80-a068-0615bd091e5a",
+            "tongmuc_dautu": 11131465000.0,
+            "bidNamePlanNew": "PL2300237305",
+            "dotbien_hatang": "Thi công xây dựng công trình: Xây dựng Trường Mầm non Phúc Ứng, huyện Sơn Dương, tỉnh Tuyên Quang (Bao gồm: Chi phí xây dựng, chi phí thiết bị).",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án (bao gồm phí bảo vệ môi trường): Cải tạo, nâng cấp đường ĐH.09 Đông Lợi - Tam Đa - Hào Phú, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2024-12-13 14:56:40",
+            "projectName": null,
+            "bidCloseDate": "2024-12-23 08:30:00",
+            "id_muasamcong": "2bc8193a-23b8-437c-b5af-48b65cbdcd6b",
+            "tongmuc_dautu": 15536967000.0,
+            "bidNamePlanNew": "PL2400230448",
+            "dotbien_hatang": "Thi công xây dựng dự án (bao gồm phí bảo vệ môi trường): Cải tạo, nâng cấp đường ĐH.09 Đông Lợi - Tam Đa - Hào Phú, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình (Phí bảo vệ môi trường): Dự án: Cải tạo, nâng cấp đường ĐH08 đoạn từ thôn Đá Trơn đi thôn Làng Mông, xã Đông Thọ, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209-05",
+            "publicDate": "2023-08-31 16:56:25",
+            "projectName": "Liên danh Công ty TNHH Long Thắng và Công ty TNHH 27-7",
+            "bidCloseDate": "2023-09-11 10:10:00",
+            "id_muasamcong": "2c3fca73-6fa5-4536-87f2-82ab92c636ef",
+            "tongmuc_dautu": 19544803000.0,
+            "bidNamePlanNew": "PL2300121775",
+            "dotbien_hatang": "Thi công xây dựng công trình (Phí bảo vệ môi trường): Dự án: Cải tạo, nâng cấp đường ĐH08 đoạn từ thôn Đá Trơn đi thôn Làng Mông, xã Đông Thọ, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 26: Thi công xây dựng hạng mục di dời đường dây thông tin liên lạc của Viettel và VNPT Tuyên Quang",
+            "chudautu": "Sở Giao thông vận tải tỉnh Tuyên Quang",
+            "createdBy": "vn5000833836",
+            "publicDate": "2023-08-30 16:55:40",
+            "projectName": null,
+            "bidCloseDate": "2023-09-10 09:00:00",
+            "id_muasamcong": "3267376e-6ea8-4536-882a-19ca71b4f489",
+            "tongmuc_dautu": 2212119000.0,
+            "bidNamePlanNew": "PL2300094861",
+            "dotbien_hatang": "Gói thầu số 26: Thi công xây dựng hạng mục di dời đường dây thông tin liên lạc của Viettel và VNPT Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình (Bao gồm thiết bị)",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2024-08-27 11:28:16",
+            "projectName": null,
+            "bidCloseDate": "2024-09-05 09:00:00",
+            "id_muasamcong": "36a07aba-5f5a-4cf8-9291-17d778cf4989",
+            "tongmuc_dautu": 5233000000.0,
+            "bidNamePlanNew": "PL2400161549",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình (Bao gồm thiết bị)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình (bao gồm thiết bị): Xây dựng nhà 03 tầng gồm phòng học bộ môn, phòng hành chính quản trị, sân bê tông, cổng, tường rào và hạng mục phụ trợ trường THCS Kỳ Lâm, Thị trấn Sơn Dương, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2024-09-09 09:37:42",
+            "projectName": null,
+            "bidCloseDate": "2024-09-18 10:10:00",
+            "id_muasamcong": "373444bc-26e1-4c8a-b4e0-3cf1beaf6b62",
+            "tongmuc_dautu": 13226502000.0,
+            "bidNamePlanNew": "PL2400181270",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình (bao gồm thiết bị): Xây dựng nhà 03 tầng gồm phòng học bộ môn, phòng hành chính quản trị, sân bê tông, cổng, tường rào và hạng mục phụ trợ trường THCS Kỳ Lâm, Thị trấn Sơn Dương, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình (Bao gồm: Chi phí xây dựng, thiết bị, phí bảo vệ môi trường và thuế tài nguyên)",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2023-09-25 10:11:26",
+            "projectName": "Công ty Tây Hồ và Công ty Long Thắng",
+            "bidCloseDate": "2023-10-06 08:00:00",
+            "id_muasamcong": "398b2f16-6b60-4bc8-8786-06398177011d",
+            "tongmuc_dautu": 6757000000.0,
+            "bidNamePlanNew": "PL2300160602",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình (Bao gồm: Chi phí xây dựng, thiết bị, phí bảo vệ môi trường và thuế tài nguyên)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình Xây dựng công trình cấp nước thôn Thanh Sơn, Thanh Bình, Đồng Chùa, Ninh Hòa, xã Hợp Hòa, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209-01",
+            "publicDate": "2023-06-12 17:19:39",
+            "projectName": null,
+            "bidCloseDate": "2023-06-19 15:00:00",
+            "id_muasamcong": "3a7f0365-29c2-482a-82af-01ce14209a19",
+            "tongmuc_dautu": 2550000000.0,
+            "bidNamePlanNew": "PL2300090180",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình Xây dựng công trình cấp nước thôn Thanh Sơn, Thanh Bình, Đồng Chùa, Ninh Hòa, xã Hợp Hòa, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Xây dựng nhà 02 tầng gồm phòng hành chính quản trị, phòng học, phòng chức năng; nhà bếp, mái che trường Mầm non Tân Thanh, xã Tân Thanh, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2024-09-17 20:52:58",
+            "projectName": null,
+            "bidCloseDate": "2024-09-26 08:00:00",
+            "id_muasamcong": "3c32d20c-22a9-4722-94b7-522081a91091",
+            "tongmuc_dautu": 7310000000.0,
+            "bidNamePlanNew": "PL2400200034",
+            "dotbien_hatang": "Thi công xây dựng công trình: Xây dựng nhà 02 tầng gồm phòng hành chính quản trị, phòng học, phòng chức năng; nhà bếp, mái che trường Mầm non Tân Thanh, xã Tân Thanh, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình ( Bao gồm: Chi phí xây dựng, chi phí thiết bị): Xây dựng hạng mục phụ trợ nhà văn hóa thôn Đồng Chanh, thôn Đồng Tậu, xã Lương Thiện, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209-06",
+            "publicDate": "2023-09-19 09:38:34",
+            "projectName": null,
+            "bidCloseDate": "2023-09-26 09:00:00",
+            "id_muasamcong": "3f21f91a-dcb9-4dc9-b245-56ea413a25b2",
+            "tongmuc_dautu": 1136927000.0,
+            "bidNamePlanNew": "PL2300162814",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình ( Bao gồm: Chi phí xây dựng, chi phí thiết bị): Xây dựng hạng mục phụ trợ nhà văn hóa thôn Đồng Chanh, thôn Đồng Tậu, xã Lương Thiện, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Xây dựng đường giao thông thôn Cả, xã Minh Thanh, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2023-03-21 21:18:49",
+            "projectName": null,
+            "bidCloseDate": "2023-03-29 08:00:00",
+            "id_muasamcong": "3f3208ce-5e1c-40a0-b9e6-895396367bc5",
+            "tongmuc_dautu": 2260000000.0,
+            "bidNamePlanNew": "PL2300034944",
+            "dotbien_hatang": "Thi công xây dựng công trình: Xây dựng đường giao thông thôn Cả, xã Minh Thanh, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình: Xây dựng khuân viên,  công trình phụ trợ UBND xã Trung Yên, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209-06",
+            "publicDate": "2023-11-06 16:23:09",
+            "projectName": null,
+            "bidCloseDate": "2023-11-11 09:00:00",
+            "id_muasamcong": "3f93f898-7f8b-4e21-92c1-64630937514f",
+            "tongmuc_dautu": 1699253000.0,
+            "bidNamePlanNew": "PL2300204936",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình: Xây dựng khuân viên,  công trình phụ trợ UBND xã Trung Yên, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình cải tạo, nâng cấp đường ĐH.17 đoạn từ thôn Tân Thượng, xã Phúc Ứng đi QL2C,\nhuyện Sơn Dương, tỉnh Tuyên Quang.",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2024-10-27 09:50:49",
+            "projectName": null,
+            "bidCloseDate": "2024-11-07 08:00:00",
+            "id_muasamcong": "40f5716e-553f-42ec-8f6a-46b812b3f396",
+            "tongmuc_dautu": 6415857000.0,
+            "bidNamePlanNew": "PL2400218992",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình cải tạo, nâng cấp đường ĐH.17 đoạn từ thôn Tân Thượng, xã Phúc Ứng đi QL2C,\nhuyện Sơn Dương, tỉnh Tuyên Quang.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Xây dựng nhà lớp học 03 tầng 12 phòng, 01 mái che trường Tiểu học Hào Phú, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2023-02-10 15:11:21",
+            "projectName": "Liên danh Công ty TNHH xây dựng HDM và Công ty TNHH tư vấn xây dựng Duy Hưng",
+            "bidCloseDate": "2023-02-21 09:30:00",
+            "id_muasamcong": "4127b45b-5bd5-47c4-9b43-71a20f2516e7",
+            "tongmuc_dautu": 8849072000.0,
+            "bidNamePlanNew": "PL2300011360",
+            "dotbien_hatang": "Thi công xây dựng công trình: Xây dựng nhà lớp học 03 tầng 12 phòng, 01 mái che trường Tiểu học Hào Phú, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Xây dựng nhà hành chính quản trị 02 tầng và các hạng mục phụ trợ trường Mầm non Quyết Thắng, xã Quyết Thắng, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2024-10-27 09:28:41",
+            "projectName": "Liên danh Công ty Quý Anh và Quang Anh",
+            "bidCloseDate": "2024-11-05 08:00:00",
+            "id_muasamcong": "4543f534-6768-4a48-a255-1fe4bed597fd",
+            "tongmuc_dautu": 8460000000.0,
+            "bidNamePlanNew": "PL2400244728",
+            "dotbien_hatang": "Thi công xây dựng công trình: Xây dựng nhà hành chính quản trị 02 tầng và các hạng mục phụ trợ trường Mầm non Quyết Thắng, xã Quyết Thắng, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01 thi công xây dựng công trình (Bao gồm cả phí bảo vệ môi trường) : Cải tạo, nâng cấp tuyến đường ĐH.17 đoạn từ UBND xã Phúc Ứng đi Km70 QL2C và đoạn từ thôn Đồng Luộc đi thôn Phúc Lợi, xã Phúc Ứng, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209-05",
+            "publicDate": "2024-09-22 20:26:09",
+            "projectName": "Công ty TNHH Tuấn Hưng và Công ty TNHH Hoàng Hà",
+            "bidCloseDate": "2024-10-01 10:10:00",
+            "id_muasamcong": "46738e78-56a9-44dd-b22a-fb1d2c594ef5",
+            "tongmuc_dautu": 13409905000.0,
+            "bidNamePlanNew": "PL2400188168",
+            "dotbien_hatang": "Gói thầu số 01 thi công xây dựng công trình (Bao gồm cả phí bảo vệ môi trường) : Cải tạo, nâng cấp tuyến đường ĐH.17 đoạn từ UBND xã Phúc Ứng đi Km70 QL2C và đoạn từ thôn Đồng Luộc đi thôn Phúc Lợi, xã Phúc Ứng, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình (bao gồm chi phí thiết bị, thí nghiệm ép tĩnh cọc, phí bảo vệ môi trường và thuế tài nguyên)",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2023-04-13 16:36:10",
+            "projectName": null,
+            "bidCloseDate": "2023-04-24 08:00:00",
+            "id_muasamcong": "492054bd-3ab9-4708-bee9-328d4b0b0f94",
+            "tongmuc_dautu": 9241835000.0,
+            "bidNamePlanNew": "PL2300042140",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình (bao gồm chi phí thiết bị, thí nghiệm ép tĩnh cọc, phí bảo vệ môi trường và thuế tài nguyên)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình:Nâng cấp, cải tạo đường từ đường 13B vào Trung tâm giáo dục thường xuyên, thị trấn Sơn Dương, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209-02",
+            "publicDate": "2023-10-06 08:10:09",
+            "projectName": null,
+            "bidCloseDate": "2023-10-13 10:00:00",
+            "id_muasamcong": "4aa713c6-3ab7-4cb3-a6a6-b224de89a1b2",
+            "tongmuc_dautu": 3580100000.0,
+            "bidNamePlanNew": "PL2300180245",
+            "dotbien_hatang": "Thi công xây dựng công trình:Nâng cấp, cải tạo đường từ đường 13B vào Trung tâm giáo dục thường xuyên, thị trấn Sơn Dương, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2023-01-11 20:30:09",
+            "projectName": null,
+            "bidCloseDate": "2023-01-19 08:00:00",
+            "id_muasamcong": "4abf7c6c-e2a6-4b7a-bbae-651bd28b0444",
+            "tongmuc_dautu": 1846678000.0,
+            "bidNamePlanNew": "PL2300003588",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp và vật liệu phụ",
+            "chudautu": "Viễn thông Tuyên Quang",
+            "createdBy": "vn5000136433",
+            "publicDate": "2023-05-10 09:45:49",
+            "projectName": null,
+            "bidCloseDate": "2023-05-17 09:00:00",
+            "id_muasamcong": "4bd17ed7-95e8-480a-b6f8-d007c3316ca2",
+            "tongmuc_dautu": 376272751.0,
+            "bidNamePlanNew": "PL2300066366",
+            "dotbien_hatang": "Thi công xây lắp và vật liệu phụ",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình xây dựng Trường Mầm non Hoa Hồng, thị trấn Sơn Dương, tỉnh Tuyên Quang năm 2022",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2023-05-06 17:33:49",
+            "projectName": "Liên danh Anh Tuấn - Tuấn Hưng",
+            "bidCloseDate": "2023-05-17 08:00:00",
+            "id_muasamcong": "4c55074b-85e8-48f4-b335-60f392603d86",
+            "tongmuc_dautu": 12950000000.0,
+            "bidNamePlanNew": "PL2300059494",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình xây dựng Trường Mầm non Hoa Hồng, thị trấn Sơn Dương, tỉnh Tuyên Quang năm 2022",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "- Gói thầu số 01: Thi công xây dựng công trình (Bao gồm chi phí thiết bị và di chuyển cột điện).",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209-06",
+            "publicDate": "2023-09-29 08:53:27",
+            "projectName": null,
+            "bidCloseDate": "2023-10-10 09:00:00",
+            "id_muasamcong": "4c5eaf71-1bc3-4b43-ad04-86f659681bcc",
+            "tongmuc_dautu": 6215238000.0,
+            "bidNamePlanNew": "PL2300169303",
+            "dotbien_hatang": "- Gói thầu số 01: Thi công xây dựng công trình (Bao gồm chi phí thiết bị và di chuyển cột điện).",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng công trình",
+            "chudautu": "Sở Giao thông vận tải tỉnh Tuyên Quang",
+            "createdBy": "vn5000227401",
+            "publicDate": "2023-06-28 15:23:11",
+            "projectName": "Liên danh Công ty TNHH Long Thắng và Công ty TNHH đầu tư và xây dựng Thành Hưng",
+            "bidCloseDate": "2023-07-08 15:30:00",
+            "id_muasamcong": "4c9a80d8-cea5-4d0b-b987-faedbe8bb10f",
+            "tongmuc_dautu": 10453733000.0,
+            "bidNamePlanNew": "PL2300103152",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình: Xây dựng phòng học điểm trường Tân Trào, trường Mầm non Hợp Hòa, xã Hợp Hòa, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209-01",
+            "publicDate": "2023-05-29 14:28:37",
+            "projectName": null,
+            "bidCloseDate": "2023-06-03 09:00:00",
+            "id_muasamcong": "4e3cab51-3b36-4acc-9691-56efe8352df9",
+            "tongmuc_dautu": 1215000000.0,
+            "bidNamePlanNew": "PL2300077291",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình: Xây dựng phòng học điểm trường Tân Trào, trường Mầm non Hợp Hòa, xã Hợp Hòa, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2023-11-01 13:33:59",
+            "projectName": null,
+            "bidCloseDate": "2023-11-08 15:00:00",
+            "id_muasamcong": "5002d257-29fe-4e98-98ff-e986350000bf",
+            "tongmuc_dautu": 2552000000.0,
+            "bidNamePlanNew": "PL2300204621",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình (Bao gồm phí Bảo vệ môi trường)",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209-06",
+            "publicDate": "2023-09-21 16:49:11",
+            "projectName": null,
+            "bidCloseDate": "2023-09-30 09:00:00",
+            "id_muasamcong": "506d62b3-02ab-4bb6-8704-8613af0a373c",
+            "tongmuc_dautu": 2626000000.0,
+            "bidNamePlanNew": "PL2300169335",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình (Bao gồm phí Bảo vệ môi trường)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 22: Thi công xây dựng hạng mục di dời đường dây 10kV, 35kV, trạm biến áp, đường dây 0,4kV",
+            "chudautu": "Sở Giao thông vận tải tỉnh Tuyên Quang",
+            "createdBy": "vn5000833836",
+            "publicDate": "2023-06-14 20:33:41",
+            "projectName": null,
+            "bidCloseDate": "2023-06-24 17:30:00",
+            "id_muasamcong": "50f11e04-0cd1-4d94-939b-45e8e2fbbfdb",
+            "tongmuc_dautu": 4943352000.0,
+            "bidNamePlanNew": "PL2300070328",
+            "dotbien_hatang": "Gói thầu số 22: Thi công xây dựng hạng mục di dời đường dây 10kV, 35kV, trạm biến áp, đường dây 0,4kV",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình xây dựng trường Mầm non Tam Đa, huyện Sơn Dương, tỉnh Tuyên Quang năm 2022",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2022-12-12 09:36:50",
+            "projectName": null,
+            "bidCloseDate": "2022-12-22 08:00:00",
+            "id_muasamcong": "523578b8-d694-4e52-97fe-6698b53aeb6e",
+            "tongmuc_dautu": 10314226000.0,
+            "bidNamePlanNew": "PL2200068470",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình xây dựng trường Mầm non Tam Đa, huyện Sơn Dương, tỉnh Tuyên Quang năm 2022",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Xây dựng đường giao thông liên thôn Hoàng Lâu – Khuân Đào, xã Trung Yên, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209-05",
+            "publicDate": "2023-08-10 15:07:53",
+            "projectName": null,
+            "bidCloseDate": "2023-08-18 10:10:00",
+            "id_muasamcong": "538a0972-a63d-4a7f-a38a-4dca71b13d9c",
+            "tongmuc_dautu": 4780999000.0,
+            "bidNamePlanNew": "PL2300132493",
+            "dotbien_hatang": "Thi công xây dựng công trình: Xây dựng đường giao thông liên thôn Hoàng Lâu – Khuân Đào, xã Trung Yên, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Xây dựng đường giao thông thôn Ninh Phú, xã Chi Thiết, huyện Sơn Dương, tỉnh Tuyên Quang;",
+            "chudautu": "Uỷ ban nhân dân xã Chi Thiết",
+            "createdBy": "vn5000226609",
+            "publicDate": "2023-06-20 15:29:05",
+            "projectName": null,
+            "bidCloseDate": "2023-06-27 09:24:00",
+            "id_muasamcong": "538f6fbb-cc5d-41f4-b498-a8e8d84565af",
+            "tongmuc_dautu": 1268440850.0,
+            "bidNamePlanNew": "PL2300092080",
+            "dotbien_hatang": "Thi công xây dựng công trình: Xây dựng đường giao thông thôn Ninh Phú, xã Chi Thiết, huyện Sơn Dương, tỉnh Tuyên Quang;",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Chỉnh trang khuôn viên trụ sở làm việc Huyện ủy Sơn Dương",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2024-01-08 11:27:44",
+            "projectName": null,
+            "bidCloseDate": "2024-01-16 08:00:00",
+            "id_muasamcong": "53ae9405-f588-4676-b233-fff1a5babf03",
+            "tongmuc_dautu": 1620000000.0,
+            "bidNamePlanNew": "PL2300268986",
+            "dotbien_hatang": "Thi công xây dựng công trình: Chỉnh trang khuôn viên trụ sở làm việc Huyện ủy Sơn Dương",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2023-05-12 16:12:17",
+            "projectName": null,
+            "bidCloseDate": "2023-05-20 09:00:00",
+            "id_muasamcong": "5533e144-ebf8-4505-9b36-8166025abdb9",
+            "tongmuc_dautu": 1261906837.0,
+            "bidNamePlanNew": "PL2300064034",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209-04",
+            "publicDate": "2023-08-15 14:13:49",
+            "projectName": null,
+            "bidCloseDate": "2023-08-22 14:30:00",
+            "id_muasamcong": "554771b7-3f0b-4ecd-983e-8a9537405b94",
+            "tongmuc_dautu": 4624000000.0,
+            "bidNamePlanNew": "PL2300140652",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình (Bao gồm: chi phí xây dựng, thiết bị)",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209-03",
+            "publicDate": "2023-10-06 09:52:21",
+            "projectName": null,
+            "bidCloseDate": "2023-10-16 09:00:00",
+            "id_muasamcong": "597d2c9d-58b6-4a87-bef1-2a02f0c54f90",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300180187",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình (Bao gồm: chi phí xây dựng, thiết bị)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2023-08-08 10:42:06",
+            "projectName": null,
+            "bidCloseDate": "2023-08-15 11:00:00",
+            "id_muasamcong": "5a4a4b66-62c0-4984-9d9f-6f0bdaaa7274",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300131518",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 14: Thi công xây dựng đoạn từ km4+100 đến Km9+744 Dự án: Tuyến đường từ thị trấn Sơn Dương đi xã Tân Trào, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn0108243329",
+            "publicDate": "2024-12-03 14:53:09",
+            "projectName": null,
+            "bidCloseDate": "2024-12-14 09:00:00",
+            "id_muasamcong": "5d22c8ac-b8af-4005-9a97-abb02f4203a1",
+            "tongmuc_dautu": 105805999000.0,
+            "bidNamePlanNew": "PL2400026653",
+            "dotbien_hatang": "Gói thầu số 14: Thi công xây dựng đoạn từ km4+100 đến Km9+744 Dự án: Tuyến đường từ thị trấn Sơn Dương đi xã Tân Trào, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình (Bao gồm xây dựng, thiết bị)",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2024-07-30 09:14:37",
+            "projectName": null,
+            "bidCloseDate": "2024-08-06 08:00:00",
+            "id_muasamcong": "649fd359-357c-46d3-baf1-85dba1589612",
+            "tongmuc_dautu": 1630000000.0,
+            "bidNamePlanNew": "PL2400147755",
+            "dotbien_hatang": "Thi công xây dựng công trình (Bao gồm xây dựng, thiết bị)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 1: Thi công xây lắp và cung cấp vật tư",
+            "chudautu": "Viễn thông Tuyên Quang",
+            "createdBy": "vn5000136433",
+            "publicDate": "2024-08-02 19:24:31",
+            "projectName": null,
+            "bidCloseDate": "2024-08-12 08:00:00",
+            "id_muasamcong": "64bd74d0-4c6e-48a5-9a1f-d815638f09de",
+            "tongmuc_dautu": 4172445030.0,
+            "bidNamePlanNew": "PL2400155849",
+            "dotbien_hatang": "Gói thầu số 1: Thi công xây lắp và cung cấp vật tư",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01 - Thi công xây dựng công trình cải tạo, sửa chữa hệ thống chiếu sáng đô thị huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2024-12-25 23:01:45",
+            "projectName": null,
+            "bidCloseDate": "2025-01-06 10:00:00",
+            "id_muasamcong": "64de27b4-0549-4e56-93d8-a781639d0e90",
+            "tongmuc_dautu": 2198263000.0,
+            "bidNamePlanNew": "PL2400327588",
+            "dotbien_hatang": "Gói thầu số 01 - Thi công xây dựng công trình cải tạo, sửa chữa hệ thống chiếu sáng đô thị huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình (Bao gồm thiết bị)",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2024-10-07 14:08:35",
+            "projectName": null,
+            "bidCloseDate": "2024-10-14 08:45:00",
+            "id_muasamcong": "659a722d-431c-49f0-bbb3-b5dcec299a7a",
+            "tongmuc_dautu": 2467233000.0,
+            "bidNamePlanNew": "PL2400216387",
+            "dotbien_hatang": "Thi công xây dựng công trình (Bao gồm thiết bị)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình (Bao gồm chi phí thiết bị, phí bảo vệ môi trường, thuế tài nguyên môi trường)",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2023-09-29 19:30:15",
+            "projectName": null,
+            "bidCloseDate": "2023-10-10 08:00:00",
+            "id_muasamcong": "65a2eaa7-9fc1-4145-b5a8-216c92f5cb2d",
+            "tongmuc_dautu": 7902000000.0,
+            "bidNamePlanNew": "PL2300166802",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình (Bao gồm chi phí thiết bị, phí bảo vệ môi trường, thuế tài nguyên môi trường)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Quy hoạch, xây dựng khu dân cư thôn Phú Xuân, xã Tam Đa, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2024-12-18 10:06:55",
+            "projectName": null,
+            "bidCloseDate": "2024-12-26 08:00:00",
+            "id_muasamcong": "6654b3f5-064b-4358-9194-c56c728d2728",
+            "tongmuc_dautu": 1400000000.0,
+            "bidNamePlanNew": "PL2400281600",
+            "dotbien_hatang": "Thi công xây dựng công trình: Quy hoạch, xây dựng khu dân cư thôn Phú Xuân, xã Tam Đa, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình (bao gồm thiết bị): Xây dựng nhà 02 tầng, gồm phòng học bộ môn, phòng\n chức năng, phòng hành chính quản trị trường TH&THCS Đông Thọ huyện Sơn Dương, tỉnh Tuyên Quang.",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2024-12-20 11:29:35",
+            "projectName": "Liên danh Công ty Thái Dương và Cơ Điện 389",
+            "bidCloseDate": "2024-12-30 08:10:00",
+            "id_muasamcong": "6684d0d7-adb1-4d7b-a680-95d5358e2020",
+            "tongmuc_dautu": 6630000000.0,
+            "bidNamePlanNew": "PL2400314454",
+            "dotbien_hatang": "Thi công xây dựng công trình (bao gồm thiết bị): Xây dựng nhà 02 tầng, gồm phòng học bộ môn, phòng\n chức năng, phòng hành chính quản trị trường TH&THCS Đông Thọ huyện Sơn Dương, tỉnh Tuyên Quang.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Xây dựng mặt bằng khu vui chơi của xã cho trẻ em và người cao tuổi xã Tam Đa, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2023-06-28 20:32:51",
+            "projectName": null,
+            "bidCloseDate": "2023-07-07 14:00:00",
+            "id_muasamcong": "6736fd35-4076-4646-903d-a3e7983d4b63",
+            "tongmuc_dautu": 1871291000.0,
+            "bidNamePlanNew": "PL2300104411",
+            "dotbien_hatang": "Thi công xây dựng công trình: Xây dựng mặt bằng khu vui chơi của xã cho trẻ em và người cao tuổi xã Tam Đa, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình ( Phí bảo vệ tài nguyên và môi trường:Xây dựng đường trục xã Lương Thiện, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2025-02-11 08:03:04",
+            "projectName": null,
+            "bidCloseDate": "2025-02-23 08:30:00",
+            "id_muasamcong": "67c1df9a-082c-41fe-9fcc-aae325e2e378",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500018058",
+            "dotbien_hatang": "Thi công xây dựng công trình ( Phí bảo vệ tài nguyên và môi trường:Xây dựng đường trục xã Lương Thiện, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình Xây dựng đường trục xã Kháng Nhật, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2025-02-19 10:42:49",
+            "projectName": null,
+            "bidCloseDate": "2025-02-26 07:43:00",
+            "id_muasamcong": "69e7a7fb-db9b-4ee2-a7d0-4bfffd6f64c2",
+            "tongmuc_dautu": 1280000000.0,
+            "bidNamePlanNew": "PL2500024119",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình Xây dựng đường trục xã Kháng Nhật, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: thi công xây dựng công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2023-05-12 16:10:47",
+            "projectName": null,
+            "bidCloseDate": "2023-05-20 09:00:00",
+            "id_muasamcong": "6ec13e56-cfc8-48e4-b9e6-d64d7e3f239a",
+            "tongmuc_dautu": 1287996351.0,
+            "bidNamePlanNew": "PL2300063992",
+            "dotbien_hatang": "Gói thầu số 01: thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 33: Thi công xây dựng, lắp đặt thiết bị trạm bơm khai thác nước ngầm",
+            "chudautu": "Sở Giao thông vận tải tỉnh Tuyên Quang",
+            "createdBy": "vn5000833836",
+            "publicDate": "2024-01-30 15:26:51",
+            "projectName": null,
+            "bidCloseDate": "2024-02-03 09:30:00",
+            "id_muasamcong": "72d5079d-0819-4004-b0eb-68c9506cbbb7",
+            "tongmuc_dautu": 4400511000.0,
+            "bidNamePlanNew": "PL2300259869",
+            "dotbien_hatang": "Gói thầu số 33: Thi công xây dựng, lắp đặt thiết bị trạm bơm khai thác nước ngầm",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2023-04-18 10:38:56",
+            "projectName": null,
+            "bidCloseDate": "2023-04-25 15:00:00",
+            "id_muasamcong": "74ca136e-8e20-4de9-8dcb-9ee6fa00bd04",
+            "tongmuc_dautu": 1597353000.0,
+            "bidNamePlanNew": "PL2300050353",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng và lắp đặt thiết bị công trình",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng các công trình dân dụng và công nghiệp tỉnh Tuyên Quang",
+            "createdBy": "vn5000834766",
+            "publicDate": "2022-10-07 16:07:16",
+            "projectName": null,
+            "bidCloseDate": "2022-10-18 09:00:00",
+            "id_muasamcong": "784486f1-a9f1-47f5-88ea-2f39a6b8d518",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2200003750",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng và lắp đặt thiết bị công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình bao gồm chi phí thiết bị: Xây dựng trường Mầm non Đông Thọ 2, xã Đông Thọ, huyện Sơn Dương, tỉnh Tuyên Quang (giai đoạn 2)",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2024-12-30 16:34:34",
+            "projectName": null,
+            "bidCloseDate": "2025-01-09 07:40:00",
+            "id_muasamcong": "7b2b6867-37f2-4874-af0c-3ccb74d1bbc6",
+            "tongmuc_dautu": 6400000000.0,
+            "bidNamePlanNew": "PL2400331839",
+            "dotbien_hatang": "Thi công xây dựng công trình bao gồm chi phí thiết bị: Xây dựng trường Mầm non Đông Thọ 2, xã Đông Thọ, huyện Sơn Dương, tỉnh Tuyên Quang (giai đoạn 2)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Xây dựng nhà 03 tầng gồm phòng học, phòng học bộ môn trường Tiểu học Phú Lương, xã Phú Lương, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2024-05-02 15:39:48",
+            "projectName": "Liên danh Công ty Quang Anh và Công ty Quý Anh",
+            "bidCloseDate": "2024-05-13 08:00:00",
+            "id_muasamcong": "809d4966-1d9c-44af-af38-4b5a5ca324fc",
+            "tongmuc_dautu": 8433000000.0,
+            "bidNamePlanNew": "PL2400063154",
+            "dotbien_hatang": "Thi công xây dựng công trình: Xây dựng nhà 03 tầng gồm phòng học, phòng học bộ môn trường Tiểu học Phú Lương, xã Phú Lương, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp hạng mục công trình hệ thống dẫn nước và khu quản lý công trình đầu mối",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng các công trình nông nghiệp và phát triển nông thôn tỉnh Tuyên Quang",
+            "createdBy": "vn5000833071",
+            "publicDate": "2023-12-28 10:26:27",
+            "projectName": "Liên danh PTA - Quang Minh",
+            "bidCloseDate": "2024-01-18 08:00:00",
+            "id_muasamcong": "820f39dd-eb30-42ff-aafd-9bb7a86bd2db",
+            "tongmuc_dautu": 70719240000.0,
+            "bidNamePlanNew": "PL2300240065",
+            "dotbien_hatang": "Thi công xây lắp hạng mục công trình hệ thống dẫn nước và khu quản lý công trình đầu mối",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Xây dựng đường giao thông thôn Bình Dân, thôn Đồng Min, xã Bình Yên, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209-02",
+            "publicDate": "2023-08-23 09:04:30",
+            "projectName": null,
+            "bidCloseDate": "2023-08-30 10:00:00",
+            "id_muasamcong": "82115a95-d338-49b5-bbfb-598e176f5115",
+            "tongmuc_dautu": 2925551000.0,
+            "bidNamePlanNew": "PL2300143074",
+            "dotbien_hatang": "Thi công xây dựng công trình: Xây dựng đường giao thông thôn Bình Dân, thôn Đồng Min, xã Bình Yên, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình (Bao gồm chi phí xây dựng, thiết bị)",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209-04",
+            "publicDate": "2023-11-30 08:39:16",
+            "projectName": null,
+            "bidCloseDate": "2023-12-07 09:30:00",
+            "id_muasamcong": "85064241-0b2b-4f59-b4c9-dbaa7843f8f8",
+            "tongmuc_dautu": 2500000000.0,
+            "bidNamePlanNew": "PL2300235712",
+            "dotbien_hatang": "Thi công xây dựng công trình (Bao gồm chi phí xây dựng, thiết bị)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Xây dựng nhà lớp học 02 tầng 08 phòng trường THCS Thiện Kế, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2023-02-08 14:18:12",
+            "projectName": null,
+            "bidCloseDate": "2023-02-20 09:06:00",
+            "id_muasamcong": "8a2815d5-8ad9-48c8-9837-3558b64a3d81",
+            "tongmuc_dautu": 6528462000.0,
+            "bidNamePlanNew": "PL2300008546",
+            "dotbien_hatang": "Thi công xây dựng công trình: Xây dựng nhà lớp học 02 tầng 08 phòng trường THCS Thiện Kế, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Tư vấn giám sát thi công xây dựng công trình: Dự án: Cải tạo, nâng cấp đường ĐH08 đoạn từ thôn Đá Trơn đi thôn Làng Mông, xã Đông Thọ, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209-05",
+            "publicDate": "2023-08-05 08:54:22",
+            "projectName": null,
+            "bidCloseDate": "2023-08-25 10:10:00",
+            "id_muasamcong": "8c12d460-f5d2-4b3b-bb54-ad27f790b7fd",
+            "tongmuc_dautu": 536329000.0,
+            "bidNamePlanNew": "PL2300121775",
+            "dotbien_hatang": "Tư vấn giám sát thi công xây dựng công trình: Dự án: Cải tạo, nâng cấp đường ĐH08 đoạn từ thôn Đá Trơn đi thôn Làng Mông, xã Đông Thọ, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình (Bao gồm cả phí thu thuế môi trường): Xây dựng khuôn viên, công trình phụ trợ Ủy ban nhân dân xã Vĩnh Lợi, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209-05",
+            "publicDate": "2023-09-26 09:06:59",
+            "projectName": null,
+            "bidCloseDate": "2023-10-03 10:15:00",
+            "id_muasamcong": "8d06608a-712b-41d7-a558-9fa93cd78964",
+            "tongmuc_dautu": 2516398000.0,
+            "bidNamePlanNew": "PL2300169416",
+            "dotbien_hatang": "Thi công xây dựng công trình (Bao gồm cả phí thu thuế môi trường): Xây dựng khuôn viên, công trình phụ trợ Ủy ban nhân dân xã Vĩnh Lợi, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 13: Thi công xây dựng đoạn từ km0+00 đến Km4+100 Dự án: Tuyến đường từ thị trấn Sơn Dương đi xã Tân Trào, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn0108243329",
+            "publicDate": "2024-12-03 14:53:35",
+            "projectName": null,
+            "bidCloseDate": "2024-12-14 09:30:00",
+            "id_muasamcong": "8d8d8154-c522-4f05-ba58-b5d8e1cf974e",
+            "tongmuc_dautu": 152691426000.0,
+            "bidNamePlanNew": "PL2400026653",
+            "dotbien_hatang": "Gói thầu số 13: Thi công xây dựng đoạn từ km0+00 đến Km4+100 Dự án: Tuyến đường từ thị trấn Sơn Dương đi xã Tân Trào, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Xây dựng nhà lớp học 03 tầng 15 phòng, 01 mái che trường THCS Thượng Ấm, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209-03",
+            "publicDate": "2023-09-08 09:15:36",
+            "projectName": "CÔNG TY TNHH MỘT THÀNH VIÊN ANH PHÁT TUYÊN QUANG - CÔNG TY TNHH VIỆT THANH TUYÊN QUANG",
+            "bidCloseDate": "2023-09-19 09:10:00",
+            "id_muasamcong": "8f7c498f-de00-4a77-acbd-031139e79d6d",
+            "tongmuc_dautu": 9513865000.0,
+            "bidNamePlanNew": "PL2300156303",
+            "dotbien_hatang": "Thi công xây dựng công trình: Xây dựng nhà lớp học 03 tầng 15 phòng, 01 mái che trường THCS Thượng Ấm, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình (Sửa chữa, nâng cấp công trình thủy lợi Lống Chấy (Chéng Lồng), xã Thiện Kế, huyện Sơn Dương)",
+            "chudautu": "Ban quản lý khai thác công trình thủy lợi Tuyên Quang",
+            "createdBy": "vnz000005380",
+            "publicDate": "2023-09-15 07:46:46",
+            "projectName": null,
+            "bidCloseDate": "2023-09-25 09:00:00",
+            "id_muasamcong": "8fbbd851-89cf-4cdc-b1b3-2dc616cca114",
+            "tongmuc_dautu": 1707403610.0,
+            "bidNamePlanNew": "PL2300131007",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình (Sửa chữa, nâng cấp công trình thủy lợi Lống Chấy (Chéng Lồng), xã Thiện Kế, huyện Sơn Dương)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Xây dựng đường trục xã Đông Thọ, đoạn từ ĐT.186 (thôn Đông Khê) đi đến đường ĐH.21 (Bảo tàng Không quân) và đoạn từ ĐH.04 đến ĐH.21",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2023-03-21 21:50:04",
+            "projectName": null,
+            "bidCloseDate": "2023-03-29 08:15:00",
+            "id_muasamcong": "906a0745-e770-49ba-b166-d2cfe6156cb0",
+            "tongmuc_dautu": 2145432000.0,
+            "bidNamePlanNew": "PL2300028613",
+            "dotbien_hatang": "Thi công xây dựng công trình: Xây dựng đường trục xã Đông Thọ, đoạn từ ĐT.186 (thôn Đông Khê) đi đến đường ĐH.21 (Bảo tàng Không quân) và đoạn từ ĐH.04 đến ĐH.21",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình (bao gồm thiết bị): Xây dựng nhà 02 tầng gồm các phòng chức năng trường THCS Ninh Lai, xã Ninh Lai, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2024-09-04 08:05:14",
+            "projectName": null,
+            "bidCloseDate": "2024-09-11 09:00:00",
+            "id_muasamcong": "90ccda60-3147-40b1-a88b-18f0a60dcc1f",
+            "tongmuc_dautu": 4500000000.0,
+            "bidNamePlanNew": "PL2400180005",
+            "dotbien_hatang": "Thi công xây dựng công trình (bao gồm thiết bị): Xây dựng nhà 02 tầng gồm các phòng chức năng trường THCS Ninh Lai, xã Ninh Lai, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 12: Tư vấn giám sát thi công xây dựng công trình: Tuyến đường từ thị trấn Sơn Dương đi xã Tân Trào, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn0108243329",
+            "publicDate": "2024-11-25 19:18:32",
+            "projectName": "Liên danh Tư vấn giám sát dự án Sơn Dương",
+            "bidCloseDate": "2024-12-14 09:30:00",
+            "id_muasamcong": "9182721b-87ed-41e4-beea-2f34badc928a",
+            "tongmuc_dautu": 2055910000.0,
+            "bidNamePlanNew": "PL2400026653",
+            "dotbien_hatang": "Gói thầu số 12: Tư vấn giám sát thi công xây dựng công trình: Tuyến đường từ thị trấn Sơn Dương đi xã Tân Trào, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng: Xây dựng 02 phòng học\nđiểm trường mầm non thôn Hải Mô Đông, xã Đại Phú,\n huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2024-06-24 11:12:16",
+            "projectName": null,
+            "bidCloseDate": "2024-07-01 09:00:00",
+            "id_muasamcong": "924b5dfa-7b50-474c-842b-564d1bbe740f",
+            "tongmuc_dautu": 1111000000.0,
+            "bidNamePlanNew": "PL2400098749",
+            "dotbien_hatang": "Thi công xây dựng: Xây dựng 02 phòng học\nđiểm trường mầm non thôn Hải Mô Đông, xã Đại Phú,\n huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Xây dựng nhà lớp học, phòng học chức năng 03 tầng 09 phòng trường THCS Hợp Thành, xã Hợp Thành, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2024-10-28 15:07:16",
+            "projectName": "Liên danh Công ty Tuấn Hưng và Hải Quang",
+            "bidCloseDate": "2024-11-06 08:00:00",
+            "id_muasamcong": "92ba83f9-3438-4dcc-af6a-90655a083d53",
+            "tongmuc_dautu": 6900000000.0,
+            "bidNamePlanNew": "PL2400246533",
+            "dotbien_hatang": "Thi công xây dựng công trình: Xây dựng nhà lớp học, phòng học chức năng 03 tầng 09 phòng trường THCS Hợp Thành, xã Hợp Thành, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng công trình",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng các công trình dân dụng và công nghiệp tỉnh Tuyên Quang",
+            "createdBy": "vn5000834766",
+            "publicDate": "2023-06-16 07:40:41",
+            "projectName": null,
+            "bidCloseDate": "2023-06-26 09:00:00",
+            "id_muasamcong": "946f38f6-9c44-466f-a934-623356133b7f",
+            "tongmuc_dautu": 4901119798.0,
+            "bidNamePlanNew": "PL2300091311",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2023-09-25 08:48:53",
+            "projectName": null,
+            "bidCloseDate": "2023-09-29 17:00:00",
+            "id_muasamcong": "9590f34c-8de1-494b-a1bf-0815f26c10c6",
+            "tongmuc_dautu": 2593857000.0,
+            "bidNamePlanNew": "PL2300169139",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình (Bao gồm: Phí bảo vệ môi trường + An toàn giao thông): Chỉnh trang đô thị, thị trấn Sơn Dương, huyện Sơn Dương, tỉnh Tuyên Quang (Giai đoạn 2)",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209-05",
+            "publicDate": "2023-08-28 15:33:37",
+            "projectName": null,
+            "bidCloseDate": "2023-09-08 10:10:00",
+            "id_muasamcong": "959d9ae7-b4cc-41dc-85fe-7ba13c19b26d",
+            "tongmuc_dautu": 6330955000.0,
+            "bidNamePlanNew": "PL2300126154",
+            "dotbien_hatang": "Thi công xây dựng công trình (Bao gồm: Phí bảo vệ môi trường + An toàn giao thông): Chỉnh trang đô thị, thị trấn Sơn Dương, huyện Sơn Dương, tỉnh Tuyên Quang (Giai đoạn 2)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2023-09-08 10:41:19",
+            "projectName": "Liên danh Công ty TNHH xây dựng và thương mại dịch vụ Tuệ Lâm và Công ty TNHH một thành viên Trang Hoà",
+            "bidCloseDate": "2023-09-15 11:00:00",
+            "id_muasamcong": "98020ea9-7967-4525-8d9b-680b12a5a67f",
+            "tongmuc_dautu": 3568140000.0,
+            "bidNamePlanNew": "PL2300131518",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2024-07-05 11:03:55",
+            "projectName": null,
+            "bidCloseDate": "2024-07-12 15:00:00",
+            "id_muasamcong": "992b4d9c-2610-48dc-b1dd-40d5bc38107a",
+            "tongmuc_dautu": 1135520000.0,
+            "bidNamePlanNew": "PL2400124118",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình:Xây dựng đường trục xã Đông Thọ: Đoạn từ ĐT186 đi Ban nghiên cứu không quân và đoạn từ đường ĐH21 đi ĐH04, xã Đông Thọ, huyện Sơn Dương, tỉnh Tuyên quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209-05",
+            "publicDate": "2023-07-10 08:43:13",
+            "projectName": null,
+            "bidCloseDate": "2023-07-17 10:10:00",
+            "id_muasamcong": "a112004f-da8f-48a9-9ccc-3c08babe7da6",
+            "tongmuc_dautu": 4279638000.0,
+            "bidNamePlanNew": "PL2300111611",
+            "dotbien_hatang": "Thi công xây dựng công trình:Xây dựng đường trục xã Đông Thọ: Đoạn từ ĐT186 đi Ban nghiên cứu không quân và đoạn từ đường ĐH21 đi ĐH04, xã Đông Thọ, huyện Sơn Dương, tỉnh Tuyên quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Xây dựng đường giao thông thôn Liên Thắng - Lãng Cư, xã Quyết Thắng, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209-04",
+            "publicDate": "2023-05-10 08:54:32",
+            "projectName": null,
+            "bidCloseDate": "2023-05-17 09:30:00",
+            "id_muasamcong": "a2f0293a-d237-464b-a50a-4144b8c9699d",
+            "tongmuc_dautu": 1748000000.0,
+            "bidNamePlanNew": "PL2300064145",
+            "dotbien_hatang": "Thi công xây dựng công trình: Xây dựng đường giao thông thôn Liên Thắng - Lãng Cư, xã Quyết Thắng, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình: Sửa chữa, nâng cấp công trình hồ Nhà Ván, xã Tam Đa, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2023-02-23 14:49:07",
+            "projectName": null,
+            "bidCloseDate": "2023-03-03 10:07:00",
+            "id_muasamcong": "ad0e77f8-8ee8-4817-9d98-2822722d1d3d",
+            "tongmuc_dautu": 1031713000.0,
+            "bidNamePlanNew": "PL2300013210",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình: Sửa chữa, nâng cấp công trình hồ Nhà Ván, xã Tam Đa, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Xây dựng nhà văn hóa thôn Ninh Lai, xã Ninh Lai, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "Uỷ ban nhân dân xã Ninh Lai",
+            "createdBy": "vnz000030085",
+            "publicDate": "2024-09-17 19:44:01",
+            "projectName": null,
+            "bidCloseDate": "2024-09-24 08:10:00",
+            "id_muasamcong": "ae3bef10-24e7-4a82-8168-64077696f3f6",
+            "tongmuc_dautu": 2460000000.0,
+            "bidNamePlanNew": "PL2400137583",
+            "dotbien_hatang": "Thi công xây dựng công trình: Xây dựng nhà văn hóa thôn Ninh Lai, xã Ninh Lai, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình:Xây dựng đường giao thông thôn Cò, xã Minh Thanh, huyện Sơn Dương, tỉnh Tuyên Quang.",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2023-07-05 18:23:39",
+            "projectName": null,
+            "bidCloseDate": "2023-07-12 09:00:00",
+            "id_muasamcong": "afe1b4d1-0a47-45fb-a07a-0ee1f1f18080",
+            "tongmuc_dautu": 1618000000.0,
+            "bidNamePlanNew": "PL2300111263",
+            "dotbien_hatang": "Thi công xây dựng công trình:Xây dựng đường giao thông thôn Cò, xã Minh Thanh, huyện Sơn Dương, tỉnh Tuyên Quang.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình:Xây dựng đường giao thông thôn Sài Lĩnh – Lãng Cư, xã Quyết Thắng, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209-04",
+            "publicDate": "2023-09-20 10:03:47",
+            "projectName": null,
+            "bidCloseDate": "2023-09-27 09:08:00",
+            "id_muasamcong": "afe3b43e-2c52-45d5-bbb7-99221b40bbc5",
+            "tongmuc_dautu": 3552000000.0,
+            "bidNamePlanNew": "PL2300161169",
+            "dotbien_hatang": "Thi công xây dựng công trình:Xây dựng đường giao thông thôn Sài Lĩnh – Lãng Cư, xã Quyết Thắng, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình Xây dựng đường giao thông thôn Khán Cầu, xã Chi Thiết, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "Uỷ ban nhân dân xã Chi Thiết",
+            "createdBy": "vn5000226609",
+            "publicDate": "2023-06-20 14:19:01",
+            "projectName": null,
+            "bidCloseDate": "2023-06-27 09:24:00",
+            "id_muasamcong": "b0d829e5-5a9e-4b23-bfce-8b51159140fe",
+            "tongmuc_dautu": 1282579155.0,
+            "bidNamePlanNew": "PL2300092079",
+            "dotbien_hatang": "Thi công xây dựng công trình Xây dựng đường giao thông thôn Khán Cầu, xã Chi Thiết, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình (Bao gồm: Chi phí xây dựng; chi phí đấu nối đường nước; chi phí đấu nối đường điện; thí nghiệm và phí bảo vệ môi trường)",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209-03",
+            "publicDate": "2023-06-30 09:38:40",
+            "projectName": null,
+            "bidCloseDate": "2023-07-10 09:20:00",
+            "id_muasamcong": "b20ed6f2-4dac-4e0a-bead-7d8ac63880f5",
+            "tongmuc_dautu": 9580000000.0,
+            "bidNamePlanNew": "PL2300103261",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình (Bao gồm: Chi phí xây dựng; chi phí đấu nối đường nước; chi phí đấu nối đường điện; thí nghiệm và phí bảo vệ môi trường)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Xây dựng trường Mầm non Cấp Tiến, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2023-12-08 16:56:19",
+            "projectName": null,
+            "bidCloseDate": "2023-12-18 08:00:00",
+            "id_muasamcong": "b3084ab3-1111-4470-aa63-b21d6f96488f",
+            "tongmuc_dautu": 10420000000.0,
+            "bidNamePlanNew": "PL2300244564",
+            "dotbien_hatang": "Thi công xây dựng công trình: Xây dựng trường Mầm non Cấp Tiến, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Xây dựng  tràn liên hợp thôn Thanh Sơn, tràn liên hợp thôn Đồng Báo xã Hợp Hòa, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209-04",
+            "publicDate": "2023-08-23 09:55:29",
+            "projectName": null,
+            "bidCloseDate": "2023-08-30 09:00:00",
+            "id_muasamcong": "b5bb384e-67cf-4295-b716-b2c940043739",
+            "tongmuc_dautu": 1828000000.0,
+            "bidNamePlanNew": "PL2300145510",
+            "dotbien_hatang": "Thi công xây dựng công trình: Xây dựng  tràn liên hợp thôn Thanh Sơn, tràn liên hợp thôn Đồng Báo xã Hợp Hòa, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án (bao gồm phí bảo vệ môi trường)",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2024-12-13 11:02:50",
+            "projectName": null,
+            "bidCloseDate": "2024-12-23 08:00:00",
+            "id_muasamcong": "b5c6c311-e0d2-4e8f-be92-b53407678fc9",
+            "tongmuc_dautu": 11540186000.0,
+            "bidNamePlanNew": "PL2400276116",
+            "dotbien_hatang": "Thi công xây dựng dự án (bao gồm phí bảo vệ môi trường)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp cụm công trình đầu mối; đường thi công kết hợp quản lý vận hành",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng các công trình nông nghiệp và phát triển nông thôn tỉnh Tuyên Quang",
+            "createdBy": "vn5000833071",
+            "publicDate": "2023-08-29 16:35:46",
+            "projectName": null,
+            "bidCloseDate": "2023-09-19 09:00:00",
+            "id_muasamcong": "b5c97d79-427f-466b-a740-27578fa6969b",
+            "tongmuc_dautu": 113900000000.0,
+            "bidNamePlanNew": "PL2300151872",
+            "dotbien_hatang": "Thi công xây lắp cụm công trình đầu mối; đường thi công kết hợp quản lý vận hành",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình (bao gồm thiết bị): Xây dựng trường Tiểu học 19-8, xã Minh Thanh, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2024-06-17 14:15:55",
+            "projectName": "Liên danh Hưng Thịnh và Thành Long",
+            "bidCloseDate": "2024-06-26 09:30:00",
+            "id_muasamcong": "b6e9cc6c-95b8-4491-a8c9-d347add940ea",
+            "tongmuc_dautu": 8717000000.0,
+            "bidNamePlanNew": "PL2400105498",
+            "dotbien_hatang": "Thi công xây dựng công trình (bao gồm thiết bị): Xây dựng trường Tiểu học 19-8, xã Minh Thanh, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Xây dựng đường giao thông thôn Tân Thượng, xã Lương Thiện, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209-02",
+            "publicDate": "2023-06-06 10:03:00",
+            "projectName": null,
+            "bidCloseDate": "2023-06-13 09:17:00",
+            "id_muasamcong": "b8108ac9-9b43-4022-aac3-0a5289127c8a",
+            "tongmuc_dautu": 3525411000.0,
+            "bidNamePlanNew": "PL2300077402",
+            "dotbien_hatang": "Thi công xây dựng công trình: Xây dựng đường giao thông thôn Tân Thượng, xã Lương Thiện, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Xây dựng nhà 02 tầng gồm phòng học bộ môn, phòng chức năng; nhà bếp trường Mầm non Đông Thọ, xã Đông Thọ, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209-01",
+            "publicDate": "2024-11-08 17:16:41",
+            "projectName": null,
+            "bidCloseDate": "2024-11-15 07:40:00",
+            "id_muasamcong": "bf1778d2-4867-4f82-8929-4ccb5e52192c",
+            "tongmuc_dautu": 6343556000.0,
+            "bidNamePlanNew": "PL2400254284",
+            "dotbien_hatang": "Thi công xây dựng công trình: Xây dựng nhà 02 tầng gồm phòng học bộ môn, phòng chức năng; nhà bếp trường Mầm non Đông Thọ, xã Đông Thọ, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Giám sát thi công xây dựng và lắp đặt thiết bị gói thầu số 20",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng các công trình nông nghiệp và phát triển nông thôn tỉnh Tuyên Quang",
+            "createdBy": "vn5000833071",
+            "publicDate": "2023-08-31 14:26:30",
+            "projectName": null,
+            "bidCloseDate": "2023-09-11 09:00:00",
+            "id_muasamcong": "c1563fc5-6f26-4464-8d42-675150a6e58d",
+            "tongmuc_dautu": 1866434000.0,
+            "bidNamePlanNew": "PL2300151872",
+            "dotbien_hatang": "Giám sát thi công xây dựng và lắp đặt thiết bị gói thầu số 20",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình (Bao gồm chi phí xây dựng và chi phí bảo vệ môi trường)",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2023-08-04 16:44:56",
+            "projectName": null,
+            "bidCloseDate": "2023-08-11 09:00:00",
+            "id_muasamcong": "c2005b03-5b1d-4aa6-a204-be223f08f72c",
+            "tongmuc_dautu": 3644000000.0,
+            "bidNamePlanNew": "PL2300131520",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình (Bao gồm chi phí xây dựng và chi phí bảo vệ môi trường)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình (Bao gồm thiết bị)",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2024-08-27 16:05:32",
+            "projectName": null,
+            "bidCloseDate": "2024-09-09 16:15:00",
+            "id_muasamcong": "c3018b4b-5aca-4f27-b14d-794b000853fb",
+            "tongmuc_dautu": 8539685000.0,
+            "bidNamePlanNew": "PL2400175823",
+            "dotbien_hatang": "Thi công xây dựng công trình (Bao gồm thiết bị)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Xây dựng đường giao thông thôn Sài Lĩnh, xã Quyết Thắng, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209-04",
+            "publicDate": "2023-10-03 15:24:03",
+            "projectName": null,
+            "bidCloseDate": "2023-10-10 09:30:00",
+            "id_muasamcong": "c3c6420d-1e65-414e-a35f-bbb4b1ae6c2c",
+            "tongmuc_dautu": 1770000000.0,
+            "bidNamePlanNew": "PL2300174823",
+            "dotbien_hatang": "Thi công xây dựng công trình: Xây dựng đường giao thông thôn Sài Lĩnh, xã Quyết Thắng, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình (bao gồm cả chi phí thiết bị): Xây dựng phòng học trường Tiểu học và THCS Chi Thiết, xã Chi Thiết, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209-01",
+            "publicDate": "2023-05-29 14:45:44",
+            "projectName": null,
+            "bidCloseDate": "2023-06-03 09:15:00",
+            "id_muasamcong": "c3fc70a1-380a-45a7-bb16-ef428ede8b7b",
+            "tongmuc_dautu": 1680571000.0,
+            "bidNamePlanNew": "PL2300077119",
+            "dotbien_hatang": "Thi công xây dựng công trình (bao gồm cả chi phí thiết bị): Xây dựng phòng học trường Tiểu học và THCS Chi Thiết, xã Chi Thiết, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2024-06-06 10:10:25",
+            "projectName": null,
+            "bidCloseDate": "2024-06-13 14:30:00",
+            "id_muasamcong": "c80370b4-bf8e-40cb-92c6-e83a45991564",
+            "tongmuc_dautu": 1990000000.0,
+            "bidNamePlanNew": "PL2400092262",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Quy hoạch, xây dựng khu dân cư thôn Phú Xuân, xã Tam Đa, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2024-11-27 16:03:27",
+            "projectName": null,
+            "bidCloseDate": "2024-12-04 08:00:00",
+            "id_muasamcong": "c994b6a3-a8c6-4f77-b5bf-b3074e6b87ba",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400281600",
+            "dotbien_hatang": "Thi công xây dựng công trình: Quy hoạch, xây dựng khu dân cư thôn Phú Xuân, xã Tam Đa, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án (bao gồm chi phí đảm bảo an toàn giao thông): Nâng cấp tuyến đường 13B đoạn từ QL.37 (tổ dân phố Quyết Thắng) đến tổ dân phố Thịnh Tiến, thị trấn Sơn Dương, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2024-11-13 08:08:48",
+            "projectName": null,
+            "bidCloseDate": "2024-11-22 08:30:00",
+            "id_muasamcong": "d0af74cd-9587-4729-bd71-0748f780e807",
+            "tongmuc_dautu": 5531330000.0,
+            "bidNamePlanNew": "PL2400262057",
+            "dotbien_hatang": "Thi công xây dựng dự án (bao gồm chi phí đảm bảo an toàn giao thông): Nâng cấp tuyến đường 13B đoạn từ QL.37 (tổ dân phố Quyết Thắng) đến tổ dân phố Thịnh Tiến, thị trấn Sơn Dương, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình:Xây dựng nhà lớp học 03 tầng 12 phòng, 01 mái che trường Tiểu học Thượng Ấm, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2023-04-13 20:24:24",
+            "projectName": "CÔNG TY QUANG ANH VÀ CÔNG TY PHÙNG VIỆT",
+            "bidCloseDate": "2023-04-24 08:05:00",
+            "id_muasamcong": "d12b5364-8a6b-48b7-ae0d-baab601c2db8",
+            "tongmuc_dautu": 8786000000.0,
+            "bidNamePlanNew": "PL2300042613",
+            "dotbien_hatang": "Thi công xây dựng công trình:Xây dựng nhà lớp học 03 tầng 12 phòng, 01 mái che trường Tiểu học Thượng Ấm, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2023-05-18 18:00:07",
+            "projectName": null,
+            "bidCloseDate": "2023-05-25 08:00:00",
+            "id_muasamcong": "d359a48e-673a-4cd3-bcbe-0827b6539d3e",
+            "tongmuc_dautu": 1261795151.0,
+            "bidNamePlanNew": "PL2300064039",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng Dự án: Xây dựng rãnh thoát nước thải khu dân cư tại các thôn Ninh Tân, Thai Bạ, Làng Sinh, xã Thiện Kế, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2024-06-18 10:35:25",
+            "projectName": null,
+            "bidCloseDate": "2024-06-26 08:00:00",
+            "id_muasamcong": "d59c0451-4269-4a13-98c3-0305565dab87",
+            "tongmuc_dautu": 1115000000.0,
+            "bidNamePlanNew": "PL2400105032",
+            "dotbien_hatang": "Thi công xây dựng Dự án: Xây dựng rãnh thoát nước thải khu dân cư tại các thôn Ninh Tân, Thai Bạ, Làng Sinh, xã Thiện Kế, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Xây dựng nhà lớp học 03 tầng 09 phòng, 01 mái che trường Tiểu học Hồng Lạc, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2023-03-04 09:36:42",
+            "projectName": null,
+            "bidCloseDate": "2023-03-14 09:30:00",
+            "id_muasamcong": "d6553787-7b80-4424-a319-527bf67951ab",
+            "tongmuc_dautu": 7731634000.0,
+            "bidNamePlanNew": "PL2300021453",
+            "dotbien_hatang": "Thi công xây dựng công trình: Xây dựng nhà lớp học 03 tầng 09 phòng, 01 mái che trường Tiểu học Hồng Lạc, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án (Bao gồm chi phí đảm bảo giao thông, phí bảo vệ môi trường): Cải tạo, nâng cấp đường ĐH.02 Bình Yên - Lương Thiện (đoạn Km0 đến Km4+500), huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2025-02-12 08:01:25",
+            "projectName": null,
+            "bidCloseDate": "2025-02-21 08:30:00",
+            "id_muasamcong": "d867dd1b-5cdc-4254-a787-8537cabb59dc",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500014659",
+            "dotbien_hatang": "Thi công xây dựng dự án (Bao gồm chi phí đảm bảo giao thông, phí bảo vệ môi trường): Cải tạo, nâng cấp đường ĐH.02 Bình Yên - Lương Thiện (đoạn Km0 đến Km4+500), huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án: Cải tạo, nâng cấp đường giao thông liên xã Đông Lợi, Chi Thiết, huyện Sơn Dương, tỉnh Tuyên Quang.",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2024-07-04 10:36:05",
+            "projectName": null,
+            "bidCloseDate": "2024-07-13 11:00:00",
+            "id_muasamcong": "d9533e13-c0a0-45d7-a5ca-4c376a11f71a",
+            "tongmuc_dautu": 8523000000.0,
+            "bidNamePlanNew": "PL2400116836",
+            "dotbien_hatang": "Thi công xây dựng dự án: Cải tạo, nâng cấp đường giao thông liên xã Đông Lợi, Chi Thiết, huyện Sơn Dương, tỉnh Tuyên Quang.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình:Xây dựng một số hạng mục\n công trình thực hiện kế hoạch phát triển một số sản phẩm du lịch \nTân Trào giai đoạn 2021 – 2025",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209-04",
+            "publicDate": "2023-04-27 10:43:29",
+            "projectName": null,
+            "bidCloseDate": "2023-05-09 09:06:00",
+            "id_muasamcong": "de842580-d2c0-4a9e-91a1-1d039311c39a",
+            "tongmuc_dautu": 3895390000.0,
+            "bidNamePlanNew": "PL2300056326",
+            "dotbien_hatang": "Thi công xây dựng công trình:Xây dựng một số hạng mục\n công trình thực hiện kế hoạch phát triển một số sản phẩm du lịch \nTân Trào giai đoạn 2021 – 2025",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01 - Thi công xây dựng công trình (bao gồm thiết bị): Chỉnh trang khuân viên khu nhà làm việc Huyện ủy và nâng cấp, sửa chữa hội trường Huyện ủy Sơn Dương, huyện Sơn Dương, tỉnh Tuyên Quang.",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2024-11-11 07:55:31",
+            "projectName": "Liên danh Công ty Hưng Định - Tây Hồ",
+            "bidCloseDate": "2024-11-20 08:00:00",
+            "id_muasamcong": "e054dac4-cb52-40dc-b9ac-ad291499a7c5",
+            "tongmuc_dautu": 5028325000.0,
+            "bidNamePlanNew": "PL2400259931",
+            "dotbien_hatang": "Gói thầu số 01 - Thi công xây dựng công trình (bao gồm thiết bị): Chỉnh trang khuân viên khu nhà làm việc Huyện ủy và nâng cấp, sửa chữa hội trường Huyện ủy Sơn Dương, huyện Sơn Dương, tỉnh Tuyên Quang.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Kế hoạch lựa chọn nhà thầu thi công xây dựng công trình: Xây dựng cầu liên thôn Đồng Giang - Cầu Đá, xã Hợp Hoà, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2023-06-21 11:22:28",
+            "projectName": null,
+            "bidCloseDate": "2023-06-28 14:00:00",
+            "id_muasamcong": "e2a65935-7e31-4a62-bcbc-db89685dcd2b",
+            "tongmuc_dautu": 2360000000.0,
+            "bidNamePlanNew": "PL2300096424",
+            "dotbien_hatang": "Kế hoạch lựa chọn nhà thầu thi công xây dựng công trình: Xây dựng cầu liên thôn Đồng Giang - Cầu Đá, xã Hợp Hoà, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình Xây dựng rãnh thoát nước khu dân cư chợ, xã Trung Yên, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209-01",
+            "publicDate": "2023-04-19 10:58:49",
+            "projectName": null,
+            "bidCloseDate": "2023-04-26 10:00:00",
+            "id_muasamcong": "e534099b-44bb-4218-9a3b-357d1c6ff419",
+            "tongmuc_dautu": 1787406000.0,
+            "bidNamePlanNew": "PL2300048199",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình Xây dựng rãnh thoát nước khu dân cư chợ, xã Trung Yên, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08: Thi công xây lắp công trình",
+            "chudautu": "Phòng giao dịch Ngân hàng Chính sách Xã hội huyện Sơn Dương",
+            "createdBy": "vnz000027840",
+            "publicDate": "2023-06-24 09:39:17",
+            "projectName": null,
+            "bidCloseDate": "2023-07-04 09:30:00",
+            "id_muasamcong": "e5d704d9-8017-4658-893d-ca90a638ff22",
+            "tongmuc_dautu": 3840832772.0,
+            "bidNamePlanNew": "PL2300097513",
+            "dotbien_hatang": "Gói thầu số 08: Thi công xây lắp công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Xây dựng đường giao thông thôn Khấu Lấu, Lập Binh, xã Bình Yên, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2023-08-23 16:27:48",
+            "projectName": null,
+            "bidCloseDate": "2023-08-31 08:30:00",
+            "id_muasamcong": "e6c6d1f7-1005-4ce0-a5f4-279f2e0d1200",
+            "tongmuc_dautu": 3548233000.0,
+            "bidNamePlanNew": "PL2300143120",
+            "dotbien_hatang": "Thi công xây dựng công trình: Xây dựng đường giao thông thôn Khấu Lấu, Lập Binh, xã Bình Yên, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Xây dựng tuyến đường từ Quốc lộ 2C tổ dân phố Xây Dựng đến đường tránh thị trấn Sơn Dương, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2025-02-19 14:16:43",
+            "projectName": null,
+            "bidCloseDate": "2025-03-04 08:30:00",
+            "id_muasamcong": "e7a00a7a-ff0c-4ba1-b737-e720b0fc10f5",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400298490",
+            "dotbien_hatang": "Thi công xây dựng công trình: Xây dựng tuyến đường từ Quốc lộ 2C tổ dân phố Xây Dựng đến đường tránh thị trấn Sơn Dương, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình (bao gồm thiết bị): Xây dựng nhà lớp học 02 tầng gồm phòng học bộ môn, phòng chức năng, nhà bếp trường Tiểu học Phúc Ứng, xã Phúc Ứng, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2024-11-27 09:23:52",
+            "projectName": "Liên danh Công ty Hà Tuyên và Duy Quyền",
+            "bidCloseDate": "2024-12-06 08:00:00",
+            "id_muasamcong": "e7bd1a4d-e40e-46a3-beef-8bc7503b555b",
+            "tongmuc_dautu": 8425013000.0,
+            "bidNamePlanNew": "PL2400257254",
+            "dotbien_hatang": "Thi công xây dựng công trình (bao gồm thiết bị): Xây dựng nhà lớp học 02 tầng gồm phòng học bộ môn, phòng chức năng, nhà bếp trường Tiểu học Phúc Ứng, xã Phúc Ứng, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209-04",
+            "publicDate": "2023-08-28 08:57:37",
+            "projectName": "Liên danh công ty Hưng Thịnh và công ty Quang Đăng",
+            "bidCloseDate": "2023-09-08 14:30:00",
+            "id_muasamcong": "ec054e83-f8cf-452b-b32a-897f86bfd504",
+            "tongmuc_dautu": 6504686000.0,
+            "bidNamePlanNew": "PL2300151340",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình (Bao gồm phí bảo vệ môi trường): Xây dựng đường giao thông liên thôn Yên Thượng - Trung Long, xã Trung Yên, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209-01",
+            "publicDate": "2023-05-15 13:21:42",
+            "projectName": null,
+            "bidCloseDate": "2023-05-20 09:15:00",
+            "id_muasamcong": "f0ce61cc-9c59-4bea-9bae-a81a19073b10",
+            "tongmuc_dautu": 997000000.0,
+            "bidNamePlanNew": "PL2300059565",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình (Bao gồm phí bảo vệ môi trường): Xây dựng đường giao thông liên thôn Yên Thượng - Trung Long, xã Trung Yên, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình (Bao gồm phí môi trường): Chỉnh trang khuôn viên trụ sở làm việc của HĐND và UBND huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209-05",
+            "publicDate": "2023-09-18 16:40:00",
+            "projectName": null,
+            "bidCloseDate": "2023-09-28 10:10:00",
+            "id_muasamcong": "f13e2752-dd40-45fa-a8cb-9415a3174c97",
+            "tongmuc_dautu": 7365702000.0,
+            "bidNamePlanNew": "PL2300167259",
+            "dotbien_hatang": "Thi công xây dựng công trình (Bao gồm phí môi trường): Chỉnh trang khuôn viên trụ sở làm việc của HĐND và UBND huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án (bao gồm chi phí thiết bị, phí bảo vệ môi trường)",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2024-12-27 15:20:24",
+            "projectName": null,
+            "bidCloseDate": "2025-01-06 09:15:00",
+            "id_muasamcong": "f1701083-ad76-48cc-a18d-f28d3ae6d39b",
+            "tongmuc_dautu": 14872000000.0,
+            "bidNamePlanNew": "PL2400272020",
+            "dotbien_hatang": "Thi công xây dựng dự án (bao gồm chi phí thiết bị, phí bảo vệ môi trường)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 1: Thi công xây lắp và cung cấp vật tư",
+            "chudautu": "Viễn thông Tuyên Quang",
+            "createdBy": "vn5000136433",
+            "publicDate": "2024-07-25 10:44:41",
+            "projectName": null,
+            "bidCloseDate": "2024-08-03 08:00:00",
+            "id_muasamcong": "f29e24d7-25f2-4f51-a0be-ef02180a0845",
+            "tongmuc_dautu": 1922894205.0,
+            "bidNamePlanNew": "PL2400146992",
+            "dotbien_hatang": "Gói thầu số 1: Thi công xây lắp và cung cấp vật tư",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Tư vấn giám sát thi công xây dựng dự án: Cải tạo, nâng cấp đường ĐH.02 Bình Yên - Lương Thiện (đoạn Km0 đến Km4+500), huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2025-02-13 16:00:44",
+            "projectName": null,
+            "bidCloseDate": "2025-03-03 08:10:00",
+            "id_muasamcong": "f2fc123a-76d3-4e28-a6ae-82615e7fc624",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500014659",
+            "dotbien_hatang": "Tư vấn giám sát thi công xây dựng dự án: Cải tạo, nâng cấp đường ĐH.02 Bình Yên - Lương Thiện (đoạn Km0 đến Km4+500), huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Xây dựng 06 phòng học trường Mầm non Phú Lương, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2023-07-05 17:31:24",
+            "projectName": null,
+            "bidCloseDate": "2023-07-12 14:00:00",
+            "id_muasamcong": "f7099a64-fdc1-468c-9c21-953c615bc90d",
+            "tongmuc_dautu": 4520000000.0,
+            "bidNamePlanNew": "PL2300111207",
+            "dotbien_hatang": "Thi công xây dựng công trình: Xây dựng 06 phòng học trường Mầm non Phú Lương, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Tư vấn giám sát thi công xây dựng công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000877079",
+            "publicDate": "2022-11-29 18:08:51",
+            "projectName": null,
+            "bidCloseDate": "2022-12-09 15:30:00",
+            "id_muasamcong": "f8027111-d001-42f5-b2fe-cb009b592151",
+            "tongmuc_dautu": 1572419000.0,
+            "bidNamePlanNew": "PL2200044680",
+            "dotbien_hatang": "Gói thầu số 02: Tư vấn giám sát thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "VIỆN KIỂM SÁT NHÂN DÂN TỈNH TUYÊN QUANG",
+            "createdBy": "vn0108171480",
+            "publicDate": "2024-10-25 17:22:52",
+            "projectName": null,
+            "bidCloseDate": "2024-11-04 10:00:00",
+            "id_muasamcong": "f8ec6d1b-3829-4692-9098-2d59eb70664d",
+            "tongmuc_dautu": 19125109400.0,
+            "bidNamePlanNew": "PL2400235547",
+            "dotbien_hatang": "Thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Chỉnh trang trung tâm xã Minh Thanh, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209-02",
+            "publicDate": "2023-09-21 15:56:33",
+            "projectName": null,
+            "bidCloseDate": "2023-09-28 10:30:00",
+            "id_muasamcong": "f97178cc-1c56-424c-a28b-e2c2cc9cdcb0",
+            "tongmuc_dautu": 2662868000.0,
+            "bidNamePlanNew": "PL2300168802",
+            "dotbien_hatang": "Thi công xây dựng công trình: Chỉnh trang trung tâm xã Minh Thanh, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Xây dựng mới chợ trung tâm xã Phúc Ứng, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2023-10-09 14:24:52",
+            "projectName": null,
+            "bidCloseDate": "2023-10-17 08:00:00",
+            "id_muasamcong": "fa21adf6-257f-4aa4-bc46-07cd8dbe725f",
+            "tongmuc_dautu": 1540000000.0,
+            "bidNamePlanNew": "PL2300179744",
+            "dotbien_hatang": "Thi công xây dựng công trình: Xây dựng mới chợ trung tâm xã Phúc Ứng, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Xây dựng trường Mầm non Đông Lợi, xã Đông Lợi, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN SƠN DƯƠNG",
+            "createdBy": "vn5000835209",
+            "publicDate": "2023-03-24 09:04:34",
+            "projectName": "CÔNG TY AN PHÁT VÀ CÔNG TY TUẤN HƯNG",
+            "bidCloseDate": "2023-04-04 09:45:00",
+            "id_muasamcong": "fd6eb17b-02c6-4c49-a236-13a10acb49cd",
+            "tongmuc_dautu": 10855000000.0,
+            "bidNamePlanNew": "PL2300032077",
+            "dotbien_hatang": "Thi công xây dựng công trình: Xây dựng trường Mầm non Đông Lợi, xã Đông Lợi, huyện Sơn Dương, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        }
+    ],
+    "so_dot_bien": 142,
+    "thu_tu_sap_xep": 101,
+    "polygon": [
+        [
+            [
+                105.499331,
+                21.772432
+            ],
+            [
+                105.499486,
+                21.755843
+            ],
+            [
+                105.499488,
+                21.755651
+            ],
+            [
+                105.509165,
+                21.750344
+            ],
+            [
+                105.509305,
+                21.749202
+            ],
+            [
+                105.509685,
+                21.748126
+            ],
+            [
+                105.510444,
+                21.74602
+            ],
+            [
+                105.510967,
+                21.744675
+            ],
+            [
+                105.511539,
+                21.743554
+            ],
+            [
+                105.512399,
+                21.742791
+            ],
+            [
+                105.51393,
+                21.741868
+            ],
+            [
+                105.515413,
+                21.740834
+            ],
+            [
+                105.516225,
+                21.739891
+            ],
+            [
+                105.516318,
+                21.73913
+            ],
+            [
+                105.516219,
+                21.73819
+            ],
+            [
+                105.515927,
+                21.737027
+            ],
+            [
+                105.515492,
+                21.736222
+            ],
+            [
+                105.514818,
+                21.735374
+            ],
+            [
+                105.513232,
+                21.73417
+            ],
+            [
+                105.511068,
+                21.732409
+            ],
+            [
+                105.509338,
+                21.731295
+            ],
+            [
+                105.508281,
+                21.73085
+            ],
+            [
+                105.507178,
+                21.73063
+            ],
+            [
+                105.50617,
+                21.730409
+            ],
+            [
+                105.505113,
+                21.72992
+            ],
+            [
+                105.504296,
+                21.729161
+            ],
+            [
+                105.503428,
+                21.727955
+            ],
+            [
+                105.501892,
+                21.726297
+            ],
+            [
+                105.50005,
+                21.724069
+            ],
+            [
+                105.499957,
+                21.723654
+            ],
+            [
+                105.499954,
+                21.722949
+            ],
+            [
+                105.500225,
+                21.72187
+            ],
+            [
+                105.50063,
+                21.719754
+            ],
+            [
+                105.500627,
+                21.718883
+            ],
+            [
+                105.500442,
+                21.718344
+            ],
+            [
+                105.50012,
+                21.717889
+            ],
+            [
+                105.499204,
+                21.71756
+            ],
+            [
+                105.498152,
+                21.71748
+            ],
+            [
+                105.4971,
+                21.717524
+            ],
+            [
+                105.496139,
+                21.717569
+            ],
+            [
+                105.495453,
+                21.717571
+            ],
+            [
+                105.494995,
+                21.717365
+            ],
+            [
+                105.494628,
+                21.717076
+            ],
+            [
+                105.494305,
+                21.716247
+            ],
+            [
+                105.493932,
+                21.714257
+            ],
+            [
+                105.49351,
+                21.711314
+            ],
+            [
+                105.493141,
+                21.710195
+            ],
+            [
+                105.492727,
+                21.709574
+            ],
+            [
+                105.492221,
+                21.708829
+            ],
+            [
+                105.491439,
+                21.707546
+            ],
+            [
+                105.490883,
+                21.705473
+            ],
+            [
+                105.490514,
+                21.704603
+            ],
+            [
+                105.490193,
+                21.704148
+            ],
+            [
+                105.489688,
+                21.703693
+            ],
+            [
+                105.489184,
+                21.703446
+            ],
+            [
+                105.48804,
+                21.703408
+            ],
+            [
+                105.485936,
+                21.70329
+            ],
+            [
+                105.485387,
+                21.703125
+            ],
+            [
+                105.483645,
+                21.702094
+            ],
+            [
+                105.482269,
+                21.700936
+            ],
+            [
+                105.481489,
+                21.700233
+            ],
+            [
+                105.480343,
+                21.699324
+            ],
+            [
+                105.479472,
+                21.698788
+            ],
+            [
+                105.478509,
+                21.69821
+            ],
+            [
+                105.477822,
+                21.697672
+            ],
+            [
+                105.477546,
+                21.697217
+            ],
+            [
+                105.47759,
+                21.696719
+            ],
+            [
+                105.47768,
+                21.696263
+            ],
+            [
+                105.478044,
+                21.695805
+            ],
+            [
+                105.478455,
+                21.695472
+            ],
+            [
+                105.479094,
+                21.695222
+            ],
+            [
+                105.480054,
+                21.694929
+            ],
+            [
+                105.481333,
+                21.694593
+            ],
+            [
+                105.482384,
+                21.694258
+            ],
+            [
+                105.483342,
+                21.693633
+            ],
+            [
+                105.486217,
+                21.691592
+            ],
+            [
+                105.487083,
+                21.690677
+            ],
+            [
+                105.487674,
+                21.689763
+            ],
+            [
+                105.488082,
+                21.688642
+            ],
+            [
+                105.488125,
+                21.68773
+            ],
+            [
+                105.488168,
+                21.687107
+            ],
+            [
+                105.48761,
+                21.684247
+            ],
+            [
+                105.487284,
+                21.682589
+            ],
+            [
+                105.48696,
+                21.681304
+            ],
+            [
+                105.486729,
+                21.680807
+            ],
+            [
+                105.486271,
+                21.680394
+            ],
+            [
+                105.485767,
+                21.680146
+            ],
+            [
+                105.485126,
+                21.679941
+            ],
+            [
+                105.484439,
+                21.679735
+            ],
+            [
+                105.483387,
+                21.679531
+            ],
+            [
+                105.482289,
+                21.67941
+            ],
+            [
+                105.481648,
+                21.679121
+            ],
+            [
+                105.48128,
+                21.678708
+            ],
+            [
+                105.479714,
+                21.675187
+            ],
+            [
+                105.47953,
+                21.674855
+            ],
+            [
+                105.479437,
+                21.674358
+            ],
+            [
+                105.479618,
+                21.673984
+            ],
+            [
+                105.479892,
+                21.673693
+            ],
+            [
+                105.480485,
+                21.673401
+            ],
+            [
+                105.481445,
+                21.673191
+            ],
+            [
+                105.481993,
+                21.672982
+            ],
+            [
+                105.482221,
+                21.672649
+            ],
+            [
+                105.48231,
+                21.67211
+            ],
+            [
+                105.482306,
+                21.670866
+            ],
+            [
+                105.482253,
+                21.668667
+            ],
+            [
+                105.482568,
+                21.667215
+            ],
+            [
+                105.483292,
+                21.664766
+            ],
+            [
+                105.483699,
+                21.66352
+            ],
+            [
+                105.483787,
+                21.662483
+            ],
+            [
+                105.483784,
+                21.661653
+            ],
+            [
+                105.483688,
+                21.660243
+            ],
+            [
+                105.483869,
+                21.659496
+            ],
+            [
+                105.484187,
+                21.658998
+            ],
+            [
+                105.484915,
+                21.657959
+            ],
+            [
+                105.485961,
+                21.656214
+            ],
+            [
+                105.486778,
+                21.654428
+            ],
+            [
+                105.488908,
+                21.648864
+            ],
+            [
+                105.489225,
+                21.647909
+            ],
+            [
+                105.490403,
+                21.644546
+            ],
+            [
+                105.490765,
+                21.643632
+            ],
+            [
+                105.491083,
+                21.642967
+            ],
+            [
+                105.491356,
+                21.642593
+            ],
+            [
+                105.492223,
+                21.64201
+            ],
+            [
+                105.493318,
+                21.641468
+            ],
+            [
+                105.494368,
+                21.640801
+            ],
+            [
+                105.495463,
+                21.640175
+            ],
+            [
+                105.496878,
+                21.639466
+            ],
+            [
+                105.49747,
+                21.638884
+            ],
+            [
+                105.497925,
+                21.63826
+            ],
+            [
+                105.498151,
+                21.637596
+            ],
+            [
+                105.498968,
+                21.63581
+            ],
+            [
+                105.499511,
+                21.634191
+            ],
+            [
+                105.500101,
+                21.632903
+            ],
+            [
+                105.500372,
+                21.631948
+            ],
+            [
+                105.500368,
+                21.630663
+            ],
+            [
+                105.500226,
+                21.629336
+            ],
+            [
+                105.4999,
+                21.627678
+            ],
+            [
+                105.499073,
+                21.626353
+            ],
+            [
+                105.498151,
+                21.624074
+            ],
+            [
+                105.498057,
+                21.623494
+            ],
+            [
+                105.496992,
+                21.61935
+            ],
+            [
+                105.49699,
+                21.618935
+            ],
+            [
+                105.49708,
+                21.618437
+            ],
+            [
+                105.497306,
+                21.61769
+            ],
+            [
+                105.497943,
+                21.6169
+            ],
+            [
+                105.499447,
+                21.61536
+            ],
+            [
+                105.500131,
+                21.614861
+            ],
+            [
+                105.500632,
+                21.614527
+            ],
+            [
+                105.501244,
+                21.614183
+            ],
+            [
+                105.501891,
+                21.613814
+            ],
+            [
+                105.504557,
+                21.613114
+            ],
+            [
+                105.505657,
+                21.612484
+            ],
+            [
+                105.506659,
+                21.611362
+            ],
+            [
+                105.508899,
+                21.608087
+            ],
+            [
+                105.510137,
+                21.606024
+            ],
+            [
+                105.51047,
+                21.605127
+            ],
+            [
+                105.510708,
+                21.604769
+            ],
+            [
+                105.511042,
+                21.604544
+            ],
+            [
+                105.512095,
+                21.604138
+            ],
+            [
+                105.513146,
+                21.603418
+            ],
+            [
+                105.51391,
+                21.60261
+            ],
+            [
+                105.514482,
+                21.601757
+            ],
+            [
+                105.515339,
+                21.600277
+            ],
+            [
+                105.516627,
+                21.598908
+            ],
+            [
+                105.518012,
+                21.597516
+            ],
+            [
+                105.51887,
+                21.596528
+            ],
+            [
+                105.519155,
+                21.595811
+            ],
+            [
+                105.519582,
+                21.594556
+            ],
+            [
+                105.520057,
+                21.59348
+            ],
+            [
+                105.520772,
+                21.592538
+            ],
+            [
+                105.522204,
+                21.591056
+            ],
+            [
+                105.523015,
+                21.590001
+            ],
+            [
+                105.523824,
+                21.588566
+            ],
+            [
+                105.52449,
+                21.587355
+            ],
+            [
+                105.52506,
+                21.585921
+            ],
+            [
+                105.525485,
+                21.584353
+            ],
+            [
+                105.526008,
+                21.583142
+            ],
+            [
+                105.526437,
+                21.582604
+            ],
+            [
+                105.527346,
+                21.582444
+            ],
+            [
+                105.529405,
+                21.582258
+            ],
+            [
+                105.530459,
+                21.582121
+            ],
+            [
+                105.532039,
+                21.582161
+            ],
+            [
+                105.533189,
+                21.582202
+            ],
+            [
+                105.534195,
+                21.582198
+            ],
+            [
+                105.534961,
+                21.582017
+            ],
+            [
+                105.535821,
+                21.581387
+            ],
+            [
+                105.537251,
+                21.579682
+            ],
+            [
+                105.538921,
+                21.577975
+            ],
+            [
+                105.540401,
+                21.576493
+            ],
+            [
+                105.541545,
+                21.575235
+            ],
+            [
+                105.542404,
+                21.574136
+            ],
+            [
+                105.542403,
+                21.574046
+            ],
+            [
+                105.542403,
+                21.574045
+            ],
+            [
+                105.542403,
+                21.573867
+            ],
+            [
+                105.542017,
+                21.573242
+            ],
+            [
+                105.54072,
+                21.572261
+            ],
+            [
+                105.539903,
+                21.571368
+            ],
+            [
+                105.539228,
+                21.570296
+            ],
+            [
+                105.539178,
+                21.569625
+            ],
+            [
+                105.539173,
+                21.568461
+            ],
+            [
+                105.538979,
+                21.567745
+            ],
+            [
+                105.538064,
+                21.56645
+            ],
+            [
+                105.535853,
+                21.564062
+            ],
+            [
+                105.53398,
+                21.562725
+            ],
+            [
+                105.532922,
+                21.561564
+            ],
+            [
+                105.531575,
+                21.559867
+            ],
+            [
+                105.530034,
+                21.557678
+            ],
+            [
+                105.529696,
+                21.556896
+            ],
+            [
+                105.529549,
+                21.555911
+            ],
+            [
+                105.529544,
+                21.554568
+            ],
+            [
+                105.529348,
+                21.55336
+            ],
+            [
+                105.529057,
+                21.552242
+            ],
+            [
+                105.527747,
+                21.547702
+            ],
+            [
+                105.527265,
+                21.546853
+            ],
+            [
+                105.526689,
+                21.546228
+            ],
+            [
+                105.525728,
+                21.545515
+            ],
+            [
+                105.525056,
+                21.545069
+            ],
+            [
+                105.524815,
+                21.544622
+            ],
+            [
+                105.523847,
+                21.541626
+            ],
+            [
+                105.522779,
+                21.537577
+            ],
+            [
+                105.522055,
+                21.536147
+            ],
+            [
+                105.521093,
+                21.534897
+            ],
+            [
+                105.520325,
+                21.534227
+            ],
+            [
+                105.51951,
+                21.534006
+            ],
+            [
+                105.518217,
+                21.53401
+            ],
+            [
+                105.517117,
+                21.534327
+            ],
+            [
+                105.515588,
+                21.535272
+            ],
+            [
+                105.514823,
+                21.535722
+            ],
+            [
+                105.513627,
+                21.535815
+            ],
+            [
+                105.512333,
+                21.535595
+            ],
+            [
+                105.511374,
+                21.535106
+            ],
+            [
+                105.510653,
+                21.534436
+            ],
+            [
+                105.509067,
+                21.53274
+            ],
+            [
+                105.507636,
+                21.531668
+            ],
+            [
+                105.50704,
+                21.530961
+            ],
+            [
+                105.50601,
+                21.529396
+            ],
+            [
+                105.505036,
+                21.528336
+            ],
+            [
+                105.504279,
+                21.527984
+            ],
+            [
+                105.503632,
+                21.527986
+            ],
+            [
+                105.503182,
+                21.528072
+            ],
+            [
+                105.502486,
+                21.528412
+            ],
+            [
+                105.501811,
+                21.528688
+            ],
+            [
+                105.501654,
+                21.528689
+            ],
+            [
+                105.501429,
+                21.528647
+            ],
+            [
+                105.501225,
+                21.5285
+            ],
+            [
+                105.500841,
+                21.527994
+            ],
+            [
+                105.500365,
+                21.527066
+            ],
+            [
+                105.499618,
+                21.52597
+            ],
+            [
+                105.499302,
+                21.525633
+            ],
+            [
+                105.498761,
+                21.52536
+            ],
+            [
+                105.498243,
+                21.525193
+            ],
+            [
+                105.497589,
+                21.525026
+            ],
+            [
+                105.496936,
+                21.52488
+            ],
+            [
+                105.496756,
+                21.5249
+            ],
+            [
+                105.496932,
+                21.525353
+            ],
+            [
+                105.496951,
+                21.526225
+            ],
+            [
+                105.496848,
+                21.526792
+            ],
+            [
+                105.496745,
+                21.527092
+            ],
+            [
+                105.496324,
+                21.527524
+            ],
+            [
+                105.495827,
+                21.527954
+            ],
+            [
+                105.495295,
+                21.528164
+            ],
+            [
+                105.494872,
+                21.52822
+            ],
+            [
+                105.494449,
+                21.528166
+            ],
+            [
+                105.493994,
+                21.527811
+            ],
+            [
+                105.493387,
+                21.527044
+            ],
+            [
+                105.49241,
+                21.524028
+            ],
+            [
+                105.491921,
+                21.522383
+            ],
+            [
+                105.491615,
+                21.521286
+            ],
+            [
+                105.491036,
+                21.519998
+            ],
+            [
+                105.489884,
+                21.519013
+            ],
+            [
+                105.487945,
+                21.517647
+            ],
+            [
+                105.486856,
+                21.517321
+            ],
+            [
+                105.48595,
+                21.517269
+            ],
+            [
+                105.485044,
+                21.517491
+            ],
+            [
+                105.483655,
+                21.518044
+            ],
+            [
+                105.481301,
+                21.519093
+            ],
+            [
+                105.477228,
+                21.521163
+            ],
+            [
+                105.475177,
+                21.522377
+            ],
+            [
+                105.473789,
+                21.523094
+            ],
+            [
+                105.473426,
+                21.52304
+            ],
+            [
+                105.473062,
+                21.522712
+            ],
+            [
+                105.472211,
+                21.521232
+            ],
+            [
+                105.471298,
+                21.519369
+            ],
+            [
+                105.470752,
+                21.518547
+            ],
+            [
+                105.469904,
+                21.518001
+            ],
+            [
+                105.469359,
+                21.517673
+            ],
+            [
+                105.463399,
+                21.51596
+            ],
+            [
+                105.462916,
+                21.515962
+            ],
+            [
+                105.462011,
+                21.516458
+            ],
+            [
+                105.460262,
+                21.517835
+            ],
+            [
+                105.459236,
+                21.518277
+            ],
+            [
+                105.458571,
+                21.518279
+            ],
+            [
+                105.457966,
+                21.518006
+            ],
+            [
+                105.455724,
+                21.516146
+            ],
+            [
+                105.456445,
+                21.514992
+            ],
+            [
+                105.456622,
+                21.513509
+            ],
+            [
+                105.456377,
+                21.512357
+            ],
+            [
+                105.456011,
+                21.511535
+            ],
+            [
+                105.455647,
+                21.510987
+            ],
+            [
+                105.45492,
+                21.510495
+            ],
+            [
+                105.453409,
+                21.510389
+            ],
+            [
+                105.449874,
+                21.510646
+            ],
+            [
+                105.440684,
+                21.509682
+            ],
+            [
+                105.439474,
+                21.509411
+            ],
+            [
+                105.437597,
+                21.508373
+            ],
+            [
+                105.434903,
+                21.506926
+            ],
+            [
+                105.432097,
+                21.506354
+            ],
+            [
+                105.430602,
+                21.506024
+            ],
+            [
+                105.429398,
+                21.505293
+            ],
+            [
+                105.427884,
+                21.504035
+            ],
+            [
+                105.425093,
+                21.500584
+            ],
+            [
+                105.424163,
+                21.499021
+            ],
+            [
+                105.42395,
+                21.498424
+            ],
+            [
+                105.423659,
+                21.497517
+            ],
+            [
+                105.423545,
+                21.497199
+            ],
+            [
+                105.423444,
+                21.497128
+            ],
+            [
+                105.423356,
+                21.49714
+            ],
+            [
+                105.423206,
+                21.497282
+            ],
+            [
+                105.421586,
+                21.499879
+            ],
+            [
+                105.419751,
+                21.50282
+            ],
+            [
+                105.41903,
+                21.504469
+            ],
+            [
+                105.418613,
+                21.506336
+            ],
+            [
+                105.418434,
+                21.50738
+            ],
+            [
+                105.418194,
+                21.507984
+            ],
+            [
+                105.417712,
+                21.508369
+            ],
+            [
+                105.416413,
+                21.508729
+            ],
+            [
+                105.415508,
+                21.509006
+            ],
+            [
+                105.415085,
+                21.509227
+            ],
+            [
+                105.414241,
+                21.509887
+            ],
+            [
+                105.412916,
+                21.511647
+            ],
+            [
+                105.412314,
+                21.512472
+            ],
+            [
+                105.411831,
+                21.512802
+            ],
+            [
+                105.411287,
+                21.512859
+            ],
+            [
+                105.410501,
+                21.512751
+            ],
+            [
+                105.409109,
+                21.512041
+            ],
+            [
+                105.407718,
+                21.51177
+            ],
+            [
+                105.406872,
+                21.511772
+            ],
+            [
+                105.40651,
+                21.511882
+            ],
+            [
+                105.405485,
+                21.512708
+            ],
+            [
+                105.404337,
+                21.513205
+            ],
+            [
+                105.40313,
+                21.513647
+            ],
+            [
+                105.402314,
+                21.513676
+            ],
+            [
+                105.401649,
+                21.513568
+            ],
+            [
+                105.400438,
+                21.512967
+            ],
+            [
+                105.398076,
+                21.511271
+            ],
+            [
+                105.397289,
+                21.51067
+            ],
+            [
+                105.396502,
+                21.510232
+            ],
+            [
+                105.396079,
+                21.510124
+            ],
+            [
+                105.395112,
+                21.510455
+            ],
+            [
+                105.393965,
+                21.510732
+            ],
+            [
+                105.392031,
+                21.510956
+            ],
+            [
+                105.390219,
+                21.51129
+            ],
+            [
+                105.389554,
+                21.511456
+            ],
+            [
+                105.389132,
+                21.511896
+            ],
+            [
+                105.388441,
+                21.513407
+            ],
+            [
+                105.388143,
+                21.514945
+            ],
+            [
+                105.387969,
+                21.517525
+            ],
+            [
+                105.387669,
+                21.518459
+            ],
+            [
+                105.386885,
+                21.519284
+            ],
+            [
+                105.385376,
+                21.519891
+            ],
+            [
+                105.384349,
+                21.520113
+            ],
+            [
+                105.383503,
+                21.520335
+            ],
+            [
+                105.382961,
+                21.520885
+            ],
+            [
+                105.382298,
+                21.521874
+            ],
+            [
+                105.381695,
+                21.522315
+            ],
+            [
+                105.38091,
+                21.522536
+            ],
+            [
+                105.379096,
+                21.522595
+            ],
+            [
+                105.377072,
+                21.522737
+            ],
+            [
+                105.375621,
+                21.522905
+            ],
+            [
+                105.37393,
+                21.523458
+            ],
+            [
+                105.371636,
+                21.524506
+            ],
+            [
+                105.370125,
+                21.524729
+            ],
+            [
+                105.368493,
+                21.524677
+            ],
+            [
+                105.365831,
+                21.523915
+            ],
+            [
+                105.364984,
+                21.523587
+            ],
+            [
+                105.364257,
+                21.52293
+            ],
+            [
+                105.363711,
+                21.522053
+            ],
+            [
+                105.363104,
+                21.520847
+            ],
+            [
+                105.362376,
+                21.520135
+            ],
+            [
+                105.361347,
+                21.519369
+            ],
+            [
+                105.358867,
+                21.518606
+            ],
+            [
+                105.353848,
+                21.518013
+            ],
+            [
+                105.352579,
+                21.51807
+            ],
+            [
+                105.350404,
+                21.518569
+            ],
+            [
+                105.349256,
+                21.518846
+            ],
+            [
+                105.34823,
+                21.519122
+            ],
+            [
+                105.347625,
+                21.519123
+            ],
+            [
+                105.346899,
+                21.518905
+            ],
+            [
+                105.345447,
+                21.518305
+            ],
+            [
+                105.344358,
+                21.517868
+            ],
+            [
+                105.343752,
+                21.51732
+            ],
+            [
+                105.343568,
+                21.516113
+            ],
+            [
+                105.343203,
+                21.515016
+            ],
+            [
+                105.341081,
+                21.512495
+            ],
+            [
+                105.340113,
+                21.512058
+            ],
+            [
+                105.339146,
+                21.511896
+            ],
+            [
+                105.338601,
+                21.511622
+            ],
+            [
+                105.338056,
+                21.511074
+            ],
+            [
+                105.337509,
+                21.509703
+            ],
+            [
+                105.337265,
+                21.508935
+            ],
+            [
+                105.337263,
+                21.508057
+            ],
+            [
+                105.337503,
+                21.507014
+            ],
+            [
+                105.338285,
+                21.505585
+            ],
+            [
+                105.33949,
+                21.504046
+            ],
+            [
+                105.33949,
+                21.503826
+            ],
+            [
+                105.339248,
+                21.503662
+            ],
+            [
+                105.338764,
+                21.503663
+            ],
+            [
+                105.338341,
+                21.503774
+            ],
+            [
+                105.333024,
+                21.504278
+            ],
+            [
+                105.332178,
+                21.504664
+            ],
+            [
+                105.329945,
+                21.505931
+            ],
+            [
+                105.327469,
+                21.506704
+            ],
+            [
+                105.326441,
+                21.506816
+            ],
+            [
+                105.324752,
+                21.506574
+            ],
+            [
+                105.32483,
+                21.507874
+            ],
+            [
+                105.324732,
+                21.508925
+            ],
+            [
+                105.324131,
+                21.50993
+            ],
+            [
+                105.322927,
+                21.511211
+            ],
+            [
+                105.321522,
+                21.512172
+            ],
+            [
+                105.320081,
+                21.512842
+            ],
+            [
+                105.318774,
+                21.513118
+            ],
+            [
+                105.317701,
+                21.513246
+            ],
+            [
+                105.315809,
+                21.513099
+            ],
+            [
+                105.314379,
+                21.512812
+            ],
+            [
+                105.310282,
+                21.510847
+            ],
+            [
+                105.307967,
+                21.50939
+            ],
+            [
+                105.305931,
+                21.508349
+            ],
+            [
+                105.304822,
+                21.508142
+            ],
+            [
+                105.303793,
+                21.508127
+            ],
+            [
+                105.302738,
+                21.508448
+            ],
+            [
+                105.301127,
+                21.509259
+            ],
+            [
+                105.299146,
+                21.510844
+            ],
+            [
+                105.297341,
+                21.512765
+            ],
+            [
+                105.296439,
+                21.51441
+            ],
+            [
+                105.295539,
+                21.516968
+            ],
+            [
+                105.295017,
+                21.520005
+            ],
+            [
+                105.294794,
+                21.522245
+            ],
+            [
+                105.294926,
+                21.524434
+            ],
+            [
+                105.295558,
+                21.52651
+            ],
+            [
+                105.296434,
+                21.528833
+            ],
+            [
+                105.29685,
+                21.530153
+            ],
+            [
+                105.296903,
+                21.531294
+            ],
+            [
+                105.296737,
+                21.532371
+            ],
+            [
+                105.29585,
+                21.533882
+            ],
+            [
+                105.294797,
+                21.534839
+            ],
+            [
+                105.293894,
+                21.535662
+            ],
+            [
+                105.292297,
+                21.536499
+            ],
+            [
+                105.289032,
+                21.538057
+            ],
+            [
+                105.285217,
+                21.540578
+            ],
+            [
+                105.28337,
+                21.541484
+            ],
+            [
+                105.280708,
+                21.542043
+            ],
+            [
+                105.278638,
+                21.542185
+            ],
+            [
+                105.276271,
+                21.542259
+            ],
+            [
+                105.272183,
+                21.54246
+            ],
+            [
+                105.270135,
+                21.543171
+            ],
+            [
+                105.268952,
+                21.543728
+            ],
+            [
+                105.267992,
+                21.544492
+            ],
+            [
+                105.266961,
+                21.54607
+            ],
+            [
+                105.26661,
+                21.546938
+            ],
+            [
+                105.266386,
+                21.547882
+            ],
+            [
+                105.266521,
+                21.548935
+            ],
+            [
+                105.267067,
+                21.549818
+            ],
+            [
+                105.268604,
+                21.551345
+            ],
+            [
+                105.272029,
+                21.554262
+            ],
+            [
+                105.273691,
+                21.55572
+            ],
+            [
+                105.274397,
+                21.556723
+            ],
+            [
+                105.274726,
+                21.557932
+            ],
+            [
+                105.274729,
+                21.559119
+            ],
+            [
+                105.274228,
+                21.560398
+            ],
+            [
+                105.273426,
+                21.561678
+            ],
+            [
+                105.272522,
+                21.562684
+            ],
+            [
+                105.270913,
+                21.563845
+            ],
+            [
+                105.264257,
+                21.567888
+            ],
+            [
+                105.263186,
+                21.56863
+            ],
+            [
+                105.258427,
+                21.57233
+            ],
+            [
+                105.254513,
+                21.576221
+            ],
+            [
+                105.251117,
+                21.58025
+            ],
+            [
+                105.249126,
+                21.583445
+            ],
+            [
+                105.248095,
+                21.586211
+            ],
+            [
+                105.247796,
+                21.587672
+            ],
+            [
+                105.24745,
+                21.591416
+            ],
+            [
+                105.247529,
+                21.593539
+            ],
+            [
+                105.247179,
+                21.594726
+            ],
+            [
+                105.246526,
+                21.595503
+            ],
+            [
+                105.245773,
+                21.596372
+            ],
+            [
+                105.24497,
+                21.597286
+            ],
+            [
+                105.244116,
+                21.598155
+            ],
+            [
+                105.243991,
+                21.598589
+            ],
+            [
+                105.244799,
+                21.60014
+            ],
+            [
+                105.246512,
+                21.601872
+            ],
+            [
+                105.24762,
+                21.602692
+            ],
+            [
+                105.250338,
+                21.603373
+            ],
+            [
+                105.250942,
+                21.603829
+            ],
+            [
+                105.251094,
+                21.604331
+            ],
+            [
+                105.251095,
+                21.605015
+            ],
+            [
+                105.250872,
+                21.606728
+            ],
+            [
+                105.24947,
+                21.61093
+            ],
+            [
+                105.248819,
+                21.612255
+            ],
+            [
+                105.247689,
+                21.613512
+            ],
+            [
+                105.247237,
+                21.614334
+            ],
+            [
+                105.247038,
+                21.615111
+            ],
+            [
+                105.246737,
+                21.616024
+            ],
+            [
+                105.246536,
+                21.616298
+            ],
+            [
+                105.246134,
+                21.61639
+            ],
+            [
+                105.243166,
+                21.616806
+            ],
+            [
+                105.239444,
+                21.617222
+            ],
+            [
+                105.236225,
+                21.617866
+            ],
+            [
+                105.234993,
+                21.618027
+            ],
+            [
+                105.233433,
+                21.617801
+            ],
+            [
+                105.233031,
+                21.617893
+            ],
+            [
+                105.232328,
+                21.618807
+            ],
+            [
+                105.230871,
+                21.620498
+            ],
+            [
+                105.22826,
+                21.62388
+            ],
+            [
+                105.227457,
+                21.625251
+            ],
+            [
+                105.226378,
+                21.626964
+            ],
+            [
+                105.225726,
+                21.628198
+            ],
+            [
+                105.225174,
+                21.629249
+            ],
+            [
+                105.224974,
+                21.629797
+            ],
+            [
+                105.225026,
+                21.630596
+            ],
+            [
+                105.225619,
+                21.631358
+            ],
+            [
+                105.230787,
+                21.635161
+            ],
+            [
+                105.233604,
+                21.637932
+            ],
+            [
+                105.235827,
+                21.641172
+            ],
+            [
+                105.236572,
+                21.642646
+            ],
+            [
+                105.237335,
+                21.644594
+            ],
+            [
+                105.237539,
+                21.645872
+            ],
+            [
+                105.23754,
+                21.646625
+            ],
+            [
+                105.23732,
+                21.648056
+            ],
+            [
+                105.2371,
+                21.649097
+            ],
+            [
+                105.23588,
+                21.653065
+            ],
+            [
+                105.234704,
+                21.657107
+            ],
+            [
+                105.234203,
+                21.658751
+            ],
+            [
+                105.233898,
+                21.660363
+            ],
+            [
+                105.2338,
+                21.663847
+            ],
+            [
+                105.23425,
+                21.666622
+            ],
+            [
+                105.234503,
+                21.667763
+            ],
+            [
+                105.235092,
+                21.668561
+            ],
+            [
+                105.235849,
+                21.669336
+            ],
+            [
+                105.236605,
+                21.669928
+            ],
+            [
+                105.237713,
+                21.670611
+            ],
+            [
+                105.238771,
+                21.671203
+            ],
+            [
+                105.239829,
+                21.671704
+            ],
+            [
+                105.242195,
+                21.672477
+            ],
+            [
+                105.244764,
+                21.67334
+            ],
+            [
+                105.246854,
+                21.674456
+            ],
+            [
+                105.248366,
+                21.675458
+            ],
+            [
+                105.249374,
+                21.676506
+            ],
+            [
+                105.250434,
+                21.677874
+            ],
+            [
+                105.25109,
+                21.678786
+            ],
+            [
+                105.251443,
+                21.679653
+            ],
+            [
+                105.251874,
+                21.681273
+            ],
+            [
+                105.251908,
+                21.684632
+            ],
+            [
+                105.251188,
+                21.688011
+            ],
+            [
+                105.250536,
+                21.689473
+            ],
+            [
+                105.249956,
+                21.691023
+            ],
+            [
+                105.24895,
+                21.692988
+            ],
+            [
+                105.24875,
+                21.694084
+            ],
+            [
+                105.248778,
+                21.695339
+            ],
+            [
+                105.249334,
+                21.696799
+            ],
+            [
+                105.250042,
+                21.698761
+            ],
+            [
+                105.251734,
+                21.702114
+            ],
+            [
+                105.253501,
+                21.704759
+            ],
+            [
+                105.254551,
+                21.705997
+            ],
+            [
+                105.254661,
+                21.706127
+            ],
+            [
+                105.25688,
+                21.708132
+            ],
+            [
+                105.25824,
+                21.708769
+            ],
+            [
+                105.260179,
+                21.709337
+            ],
+            [
+                105.262949,
+                21.710017
+            ],
+            [
+                105.264108,
+                21.710381
+            ],
+            [
+                105.265972,
+                21.711017
+            ],
+            [
+                105.266929,
+                21.711518
+            ],
+            [
+                105.267635,
+                21.712156
+            ],
+            [
+                105.268846,
+                21.713523
+            ],
+            [
+                105.270084,
+                21.7161
+            ],
+            [
+                105.271348,
+                21.718929
+            ],
+            [
+                105.272438,
+                21.722922
+            ],
+            [
+                105.272797,
+                21.726436
+            ],
+            [
+                105.272578,
+                21.730477
+            ],
+            [
+                105.272231,
+                21.733308
+            ],
+            [
+                105.271581,
+                21.7355
+            ],
+            [
+                105.270152,
+                21.738813
+            ],
+            [
+                105.267441,
+                21.743382
+            ],
+            [
+                105.26586,
+                21.745918
+            ],
+            [
+                105.263902,
+                21.749117
+            ],
+            [
+                105.2632,
+                21.750853
+            ],
+            [
+                105.262624,
+                21.752703
+            ],
+            [
+                105.261924,
+                21.755489
+            ],
+            [
+                105.261071,
+                21.757271
+            ],
+            [
+                105.259765,
+                21.759053
+            ],
+            [
+                105.257729,
+                21.761225
+            ],
+            [
+                105.256875,
+                21.762139
+            ],
+            [
+                105.256323,
+                21.763601
+            ],
+            [
+                105.256074,
+                21.764925
+            ],
+            [
+                105.255925,
+                21.766158
+            ],
+            [
+                105.255977,
+                21.766888
+            ],
+            [
+                105.256205,
+                21.76787
+            ],
+            [
+                105.257519,
+                21.770059
+            ],
+            [
+                105.258879,
+                21.771251
+            ],
+            [
+                105.261155,
+                21.772408
+            ],
+            [
+                105.264567,
+                21.773274
+            ],
+            [
+                105.267564,
+                21.773269
+            ],
+            [
+                105.270766,
+                21.772683
+            ],
+            [
+                105.272708,
+                21.772431
+            ],
+            [
+                105.27306,
+                21.772431
+            ],
+            [
+                105.273715,
+                21.772521
+            ],
+            [
+                105.274119,
+                21.772703
+            ],
+            [
+                105.275456,
+                21.77391
+            ],
+            [
+                105.277068,
+                21.774547
+            ],
+            [
+                105.278731,
+                21.774681
+            ],
+            [
+                105.279436,
+                21.774725
+            ],
+            [
+                105.280745,
+                21.774678
+            ],
+            [
+                105.282709,
+                21.774218
+            ],
+            [
+                105.285024,
+                21.773301
+            ],
+            [
+                105.287867,
+                21.771858
+            ],
+            [
+                105.290131,
+                21.770804
+            ],
+            [
+                105.291754,
+                21.770515
+            ],
+            [
+                105.292025,
+                21.77026
+            ],
+            [
+                105.292313,
+                21.769592
+            ],
+            [
+                105.292594,
+                21.769277
+            ],
+            [
+                105.292846,
+                21.768962
+            ],
+            [
+                105.293208,
+                21.768641
+            ],
+            [
+                105.293603,
+                21.768404
+            ],
+            [
+                105.294035,
+                21.768268
+            ],
+            [
+                105.294647,
+                21.768216
+            ],
+            [
+                105.295367,
+                21.768013
+            ],
+            [
+                105.29642,
+                21.767673
+            ],
+            [
+                105.297707,
+                21.767165
+            ],
+            [
+                105.298073,
+                21.766956
+            ],
+            [
+                105.298217,
+                21.766787
+            ],
+            [
+                105.298287,
+                21.766648
+            ],
+            [
+                105.298287,
+                21.766437
+            ],
+            [
+                105.298137,
+                21.766152
+            ],
+            [
+                105.297523,
+                21.76558
+            ],
+            [
+                105.297379,
+                21.76531
+            ],
+            [
+                105.297414,
+                21.765141
+            ],
+            [
+                105.297558,
+                21.76504
+            ],
+            [
+                105.29799,
+                21.765005
+            ],
+            [
+                105.298747,
+                21.765038
+            ],
+            [
+                105.299431,
+                21.765037
+            ],
+            [
+                105.300295,
+                21.764967
+            ],
+            [
+                105.300871,
+                21.764798
+            ],
+            [
+                105.301483,
+                21.764527
+            ],
+            [
+                105.302058,
+                21.764121
+            ],
+            [
+                105.302562,
+                21.76385
+            ],
+            [
+                105.303354,
+                21.763646
+            ],
+            [
+                105.304146,
+                21.763577
+            ],
+            [
+                105.304398,
+                21.763577
+            ],
+            [
+                105.305011,
+                21.763677
+            ],
+            [
+                105.305695,
+                21.763878
+            ],
+            [
+                105.30895,
+                21.764126
+            ],
+            [
+                105.311322,
+                21.764058
+            ],
+            [
+                105.312203,
+                21.763803
+            ],
+            [
+                105.314505,
+                21.762656
+            ],
+            [
+                105.316605,
+                21.762017
+            ],
+            [
+                105.320263,
+                21.761248
+            ],
+            [
+                105.321551,
+                21.761245
+            ],
+            [
+                105.322365,
+                21.761307
+            ],
+            [
+                105.32379,
+                21.762066
+            ],
+            [
+                105.325147,
+                21.762698
+            ],
+            [
+                105.325757,
+                21.762761
+            ],
+            [
+                105.32657,
+                21.762569
+            ],
+            [
+                105.327719,
+                21.76136
+            ],
+            [
+                105.328668,
+                21.760977
+            ],
+            [
+                105.329549,
+                21.761039
+            ],
+            [
+                105.330905,
+                21.76129
+            ],
+            [
+                105.331718,
+                21.761225
+            ],
+            [
+                105.332666,
+                21.760652
+            ],
+            [
+                105.333138,
+                21.759635
+            ],
+            [
+                105.333404,
+                21.757476
+            ],
+            [
+                105.333741,
+                21.756396
+            ],
+            [
+                105.334214,
+                21.75595
+            ],
+            [
+                105.33523,
+                21.755694
+            ],
+            [
+                105.336924,
+                21.755437
+            ],
+            [
+                105.337805,
+                21.755181
+            ],
+            [
+                105.338346,
+                21.754736
+            ],
+            [
+                105.338885,
+                21.753655
+            ],
+            [
+                105.339356,
+                21.751813
+            ],
+            [
+                105.339693,
+                21.751114
+            ],
+            [
+                105.340436,
+                21.750223
+            ],
+            [
+                105.341382,
+                21.749015
+            ],
+            [
+                105.342057,
+                21.747934
+            ],
+            [
+                105.342799,
+                21.746282
+            ],
+            [
+                105.343001,
+                21.745774
+            ],
+            [
+                105.343339,
+                21.745456
+            ],
+            [
+                105.344221,
+                21.745708
+            ],
+            [
+                105.347137,
+                21.746591
+            ],
+            [
+                105.347951,
+                21.746589
+            ],
+            [
+                105.348492,
+                21.746397
+            ],
+            [
+                105.349369,
+                21.744681
+            ],
+            [
+                105.349436,
+                21.74411
+            ],
+            [
+                105.349096,
+                21.743539
+            ],
+            [
+                105.347737,
+                21.742081
+            ],
+            [
+                105.34665,
+                21.741004
+            ],
+            [
+                105.346513,
+                21.740497
+            ],
+            [
+                105.34651,
+                21.739481
+            ],
+            [
+                105.346643,
+                21.738401
+            ],
+            [
+                105.346981,
+                21.737766
+            ],
+            [
+                105.34759,
+                21.737383
+            ],
+            [
+                105.34996,
+                21.736807
+            ],
+            [
+                105.351653,
+                21.736168
+            ],
+            [
+                105.352194,
+                21.735723
+            ],
+            [
+                105.352193,
+                21.735278
+            ],
+            [
+                105.351989,
+                21.734834
+            ],
+            [
+                105.350359,
+                21.733378
+            ],
+            [
+                105.349747,
+                21.732617
+            ],
+            [
+                105.349474,
+                21.731983
+            ],
+            [
+                105.349473,
+                21.731284
+            ],
+            [
+                105.349742,
+                21.730649
+            ],
+            [
+                105.351433,
+                21.729439
+            ],
+            [
+                105.353057,
+                21.728483
+            ],
+            [
+                105.354005,
+                21.728164
+            ],
+            [
+                105.35509,
+                21.728288
+            ],
+            [
+                105.356243,
+                21.728667
+            ],
+            [
+                105.357262,
+                21.729617
+            ],
+            [
+                105.358213,
+                21.730821
+            ],
+            [
+                105.358961,
+                21.731454
+            ],
+            [
+                105.360521,
+                21.732086
+            ],
+            [
+                105.362691,
+                21.732907
+            ],
+            [
+                105.364251,
+                21.733157
+            ],
+            [
+                105.36547,
+                21.733091
+            ],
+            [
+                105.367231,
+                21.732389
+            ],
+            [
+                105.370006,
+                21.730986
+            ],
+            [
+                105.370615,
+                21.730857
+            ],
+            [
+                105.371225,
+                21.730983
+            ],
+            [
+                105.371583,
+                21.731476
+            ],
+            [
+                105.371809,
+                21.731837
+            ],
+            [
+                105.37181,
+                21.732108
+            ],
+            [
+                105.371586,
+                21.73238
+            ],
+            [
+                105.370364,
+                21.732955
+            ],
+            [
+                105.370204,
+                21.733227
+            ],
+            [
+                105.370141,
+                21.733529
+            ],
+            [
+                105.370271,
+                21.734011
+            ],
+            [
+                105.370951,
+                21.735968
+            ],
+            [
+                105.371501,
+                21.737052
+            ],
+            [
+                105.373246,
+                21.740153
+            ],
+            [
+                105.378721,
+                21.748113
+            ],
+            [
+                105.379303,
+                21.749167
+            ],
+            [
+                105.37995,
+                21.750461
+            ],
+            [
+                105.379983,
+                21.751004
+            ],
+            [
+                105.379984,
+                21.751305
+            ],
+            [
+                105.379664,
+                21.751999
+            ],
+            [
+                105.37899,
+                21.752604
+            ],
+            [
+                105.378011,
+                21.753585
+            ],
+            [
+                105.37737,
+                21.754431
+            ],
+            [
+                105.377114,
+                21.754944
+            ],
+            [
+                105.376443,
+                21.756754
+            ],
+            [
+                105.375932,
+                21.758292
+            ],
+            [
+                105.375548,
+                21.759077
+            ],
+            [
+                105.375067,
+                21.759801
+            ],
+            [
+                105.374233,
+                21.760677
+            ],
+            [
+                105.373639,
+                21.761387
+            ],
+            [
+                105.373351,
+                21.76187
+            ],
+            [
+                105.373224,
+                21.762443
+            ],
+            [
+                105.373287,
+                21.768155
+            ],
+            [
+                105.373159,
+                21.768698
+            ],
+            [
+                105.37329,
+                21.7693
+            ],
+            [
+                105.373935,
+                21.770143
+            ],
+            [
+                105.375356,
+                21.771767
+            ],
+            [
+                105.376002,
+                21.77279
+            ],
+            [
+                105.376263,
+                21.774056
+            ],
+            [
+                105.376268,
+                21.776226
+            ],
+            [
+                105.375694,
+                21.778337
+            ],
+            [
+                105.375248,
+                21.779725
+            ],
+            [
+                105.375186,
+                21.78087
+            ],
+            [
+                105.375197,
+                21.78515
+            ],
+            [
+                105.375458,
+                21.786295
+            ],
+            [
+                105.376007,
+                21.787228
+            ],
+            [
+                105.378722,
+                21.791321
+            ],
+            [
+                105.3804,
+                21.792945
+            ],
+            [
+                105.381625,
+                21.793907
+            ],
+            [
+                105.382786,
+                21.794748
+            ],
+            [
+                105.384333,
+                21.795649
+            ],
+            [
+                105.385171,
+                21.795768
+            ],
+            [
+                105.386522,
+                21.795764
+            ],
+            [
+                105.387744,
+                21.795279
+            ],
+            [
+                105.389352,
+                21.794793
+            ],
+            [
+                105.390317,
+                21.79467
+            ],
+            [
+                105.391348,
+                21.794788
+            ],
+            [
+                105.392443,
+                21.795148
+            ],
+            [
+                105.394055,
+                21.795927
+            ],
+            [
+                105.394636,
+                21.796529
+            ],
+            [
+                105.394896,
+                21.797493
+            ],
+            [
+                105.39516,
+                21.799964
+            ],
+            [
+                105.395488,
+                21.802073
+            ],
+            [
+                105.395684,
+                21.803097
+            ],
+            [
+                105.396589,
+                21.804723
+            ],
+            [
+                105.397882,
+                21.806649
+            ],
+            [
+                105.399948,
+                21.808874
+            ],
+            [
+                105.401303,
+                21.809896
+            ],
+            [
+                105.402335,
+                21.810375
+            ],
+            [
+                105.403043,
+                21.810555
+            ],
+            [
+                105.403945,
+                21.810552
+            ],
+            [
+                105.405166,
+                21.809947
+            ],
+            [
+                105.406388,
+                21.809582
+            ],
+            [
+                105.407354,
+                21.80964
+            ],
+            [
+                105.408579,
+                21.810179
+            ],
+            [
+                105.409804,
+                21.81096
+            ],
+            [
+                105.410999,
+                21.812072
+            ],
+            [
+                105.412292,
+                21.814058
+            ],
+            [
+                105.414299,
+                21.818092
+            ],
+            [
+                105.415723,
+                21.820741
+            ],
+            [
+                105.416434,
+                21.821644
+            ],
+            [
+                105.417854,
+                21.822665
+            ],
+            [
+                105.418435,
+                21.823266
+            ],
+            [
+                105.418565,
+                21.823628
+            ],
+            [
+                105.418373,
+                21.82411
+            ],
+            [
+                105.417668,
+                21.825077
+            ],
+            [
+                105.417027,
+                21.826103
+            ],
+            [
+                105.416771,
+                21.826646
+            ],
+            [
+                105.416837,
+                21.827189
+            ],
+            [
+                105.41703,
+                21.827309
+            ],
+            [
+                105.417545,
+                21.827307
+            ],
+            [
+                105.418639,
+                21.826883
+            ],
+            [
+                105.419474,
+                21.826459
+            ],
+            [
+                105.420183,
+                21.826517
+            ],
+            [
+                105.421472,
+                21.827056
+            ],
+            [
+                105.422567,
+                21.827234
+            ],
+            [
+                105.424757,
+                21.827349
+            ],
+            [
+                105.42701,
+                21.827404
+            ],
+            [
+                105.429008,
+                21.827941
+            ],
+            [
+                105.431523,
+                21.82908
+            ],
+            [
+                105.433392,
+                21.829798
+            ],
+            [
+                105.434101,
+                21.829977
+            ],
+            [
+                105.435259,
+                21.829854
+            ],
+            [
+                105.436804,
+                21.829488
+            ],
+            [
+                105.437963,
+                21.829485
+            ],
+            [
+                105.439895,
+                21.829661
+            ],
+            [
+                105.441764,
+                21.830319
+            ],
+            [
+                105.443634,
+                21.831097
+            ],
+            [
+                105.444667,
+                21.831999
+            ],
+            [
+                105.445441,
+                21.8326
+            ],
+            [
+                105.446537,
+                21.832958
+            ],
+            [
+                105.449822,
+                21.833432
+            ],
+            [
+                105.450917,
+                21.833429
+            ],
+            [
+                105.451689,
+                21.833246
+            ],
+            [
+                105.452975,
+                21.8327
+            ],
+            [
+                105.456194,
+                21.830484
+            ],
+            [
+                105.457278,
+                21.829071
+            ],
+            [
+                105.457982,
+                21.827743
+            ],
+            [
+                105.458494,
+                21.826958
+            ],
+            [
+                105.458815,
+                21.826716
+            ],
+            [
+                105.459331,
+                21.826714
+            ],
+            [
+                105.459588,
+                21.826834
+            ],
+            [
+                105.459783,
+                21.827255
+            ],
+            [
+                105.459849,
+                21.827737
+            ],
+            [
+                105.459854,
+                21.829425
+            ],
+            [
+                105.459985,
+                21.830088
+            ],
+            [
+                105.460502,
+                21.830569
+            ],
+            [
+                105.461276,
+                21.830989
+            ],
+            [
+                105.461985,
+                21.831349
+            ],
+            [
+                105.462502,
+                21.83195
+            ],
+            [
+                105.46315,
+                21.833033
+            ],
+            [
+                105.464443,
+                21.834778
+            ],
+            [
+                105.465089,
+                21.835439
+            ],
+            [
+                105.466766,
+                21.836278
+            ],
+            [
+                105.468766,
+                21.837478
+            ],
+            [
+                105.47038,
+                21.838679
+            ],
+            [
+                105.471478,
+                21.839701
+            ],
+            [
+                105.472835,
+                21.841325
+            ],
+            [
+                105.474324,
+                21.843491
+            ],
+            [
+                105.475875,
+                21.845355
+            ],
+            [
+                105.476843,
+                21.846015
+            ],
+            [
+                105.478197,
+                21.846373
+            ],
+            [
+                105.479485,
+                21.846369
+            ],
+            [
+                105.480514,
+                21.846005
+            ],
+            [
+                105.481092,
+                21.845581
+            ],
+            [
+                105.481283,
+                21.844857
+            ],
+            [
+                105.481472,
+                21.84432
+            ],
+            [
+                105.481654,
+                21.844079
+            ],
+            [
+                105.482056,
+                21.843701
+            ],
+            [
+                105.483226,
+                21.843149
+            ],
+            [
+                105.483921,
+                21.842838
+            ],
+            [
+                105.484615,
+                21.842322
+            ],
+            [
+                105.4852,
+                21.842011
+            ],
+            [
+                105.485932,
+                21.841769
+            ],
+            [
+                105.486628,
+                21.841698
+            ],
+            [
+                105.488459,
+                21.841693
+            ],
+            [
+                105.490694,
+                21.841721
+            ],
+            [
+                105.491609,
+                21.841649
+            ],
+            [
+                105.492744,
+                21.84144
+            ],
+            [
+                105.493659,
+                21.84106
+            ],
+            [
+                105.494133,
+                21.840613
+            ],
+            [
+                105.494498,
+                21.840098
+            ],
+            [
+                105.494789,
+                21.839411
+            ],
+            [
+                105.49497,
+                21.838793
+            ],
+            [
+                105.495148,
+                21.837524
+            ],
+            [
+                105.495366,
+                21.836974
+            ],
+            [
+                105.496022,
+                21.835841
+            ],
+            [
+                105.497004,
+                21.833883
+            ],
+            [
+                105.497258,
+                21.833265
+            ],
+            [
+                105.497367,
+                21.832888
+            ],
+            [
+                105.497219,
+                21.832408
+            ],
+            [
+                105.49666,
+                21.831343
+            ],
+            [
+                105.496606,
+                21.831326
+            ],
+            [
+                105.495528,
+                21.830808
+            ],
+            [
+                105.494819,
+                21.829806
+            ],
+            [
+                105.494031,
+                21.827686
+            ],
+            [
+                105.493922,
+                21.825266
+            ],
+            [
+                105.494487,
+                21.820905
+            ],
+            [
+                105.49498,
+                21.817845
+            ],
+            [
+                105.494841,
+                21.81417
+            ],
+            [
+                105.494729,
+                21.810884
+            ],
+            [
+                105.493884,
+                21.806937
+            ],
+            [
+                105.493474,
+                21.804793
+            ],
+            [
+                105.493821,
+                21.80324
+            ],
+            [
+                105.494872,
+                21.801
+            ],
+            [
+                105.495171,
+                21.800086
+            ],
+            [
+                105.495266,
+                21.798579
+            ],
+            [
+                105.495263,
+                21.797666
+            ],
+            [
+                105.495614,
+                21.797026
+            ],
+            [
+                105.496216,
+                21.796476
+            ],
+            [
+                105.496668,
+                21.795973
+            ],
+            [
+                105.497268,
+                21.794738
+            ],
+            [
+                105.497716,
+                21.793185
+            ],
+            [
+                105.497739,
+                21.792477
+            ],
+            [
+                105.496721,
+                21.789559
+            ],
+            [
+                105.496712,
+                21.786911
+            ],
+            [
+                105.496603,
+                21.784629
+            ],
+            [
+                105.496094,
+                21.782895
+            ],
+            [
+                105.494978,
+                21.780616
+            ],
+            [
+                105.494874,
+                21.779795
+            ],
+            [
+                105.494871,
+                21.778882
+            ],
+            [
+                105.496274,
+                21.776595
+            ],
+            [
+                105.498379,
+                21.773667
+            ],
+            [
+                105.499331,
+                21.772432
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,2683 @@
+{
+    "id_district": "541",
+    "id_province": 19,
+    "name_province": "Đồng Nai",
+    "name_district": "Huyện Nhơn Trạch",
+    "list_sukien": [
+        {
+            "bidName": "Gói thầu số XL-01: Thi công xây dựng Nâng cấp cải tạo nhà chỉ huy; xây mới nhà ăn, bếp nấu Lữ đoàn 87",
+            "chudautu": "Binh chủng Hóa học",
+            "createdBy": "vnz000008557",
+            "publicDate": "2023-03-31 15:21:33",
+            "projectName": null,
+            "bidCloseDate": "2023-04-10 08:00:00",
+            "id_muasamcong": "01e5d592-3e8b-4402-9d16-c17000e0ac6f",
+            "tongmuc_dautu": 14902668000.0,
+            "bidNamePlanNew": "PL2300039123",
+            "dotbien_hatang": "Gói thầu số XL-01: Thi công xây dựng Nâng cấp cải tạo nhà chỉ huy; xây mới nhà ăn, bếp nấu Lữ đoàn 87",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06 (xây dựng): Thi công xây dựng phần tuyến, cống kỹ thuật, cây xanh, thoát nước từ Km0+000 đến Km3+760 và từ Km4+040 đến Km5+3 87,39 (bao gồm Đảm bảo an toàn giao thông).",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng công trình giao thông tỉnh Đồng Nai",
+            "createdBy": "vn0312213236",
+            "publicDate": "2023-11-25 16:48:58",
+            "projectName": null,
+            "bidCloseDate": "2023-12-15 16:55:00",
+            "id_muasamcong": "02873755-adef-4075-895e-4b43b5e52d82",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300199253",
+            "dotbien_hatang": "Gói thầu số 06 (xây dựng): Thi công xây dựng phần tuyến, cống kỹ thuật, cây xanh, thoát nước từ Km0+000 đến Km3+760 và từ Km4+040 đến Km5+3 87,39 (bao gồm Đảm bảo an toàn giao thông).",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04 : Tư vấn giám sát thi công xây dựng công trình",
+            "chudautu": "ĐIỆN LỰC NHƠN TRẠCH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000022219",
+            "publicDate": "2023-08-22 10:08:49",
+            "projectName": null,
+            "bidCloseDate": "2023-09-05 14:00:00",
+            "id_muasamcong": "03aa23d5-58d8-4015-9bfe-5a98361cd63b",
+            "tongmuc_dautu": 80500000.0,
+            "bidNamePlanNew": "PL2300140098",
+            "dotbien_hatang": "Gói thầu số 04 : Tư vấn giám sát thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 14: Bảo hiểm thi công xây dựng",
+            "chudautu": "TỔNG CÔNG TY TRUYỀN TẢI ĐIỆN QUỐC GIA",
+            "createdBy": "vnz000022483-05",
+            "publicDate": "2023-03-31 14:18:58",
+            "projectName": null,
+            "bidCloseDate": "2023-04-11 09:00:00",
+            "id_muasamcong": "03ae360b-fbe4-41e4-a89b-2df0e0e9094b",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2200072271",
+            "dotbien_hatang": "Gói thầu số 14: Bảo hiểm thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 1: Thi công xây dựng Sửa chữa trụ neo TN2A,TN4A và các hạng mục hư hỏng, cung cấp và lắp đặt bích neo,... Cầu cảng xăng dầu Phước Khánh sau sự cố va chạm sà lan Tân cảng 36",
+            "chudautu": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DẦU KHÍ ĐỒNG THÁP",
+            "createdBy": "vn1400147351",
+            "publicDate": "2023-01-19 16:07:31",
+            "projectName": null,
+            "bidCloseDate": "2023-02-20 14:00:00",
+            "id_muasamcong": "096ae16e-e4a6-4321-bc5f-ddf9e7623ee0",
+            "tongmuc_dautu": 4662824112.0,
+            "bidNamePlanNew": "PL2300007808",
+            "dotbien_hatang": "Gói thầu số 1: Thi công xây dựng Sửa chữa trụ neo TN2A,TN4A và các hạng mục hư hỏng, cung cấp và lắp đặt bích neo,... Cầu cảng xăng dầu Phước Khánh sau sự cố va chạm sà lan Tân cảng 36",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 3: Tư vấn giám sát thi công xây dựng Công trình Khu nhà xưởng cho thuê JSC- Dự án Nhà xưởng số 9",
+            "chudautu": "CÔNG TY CỔ PHẦN PHÁT TRIỂN DOANH NGHIỆP NHỎ VÀ VỪA NHẬT BẢN ",
+            "createdBy": "vn3603805070",
+            "publicDate": "2024-07-01 11:20:30",
+            "projectName": null,
+            "bidCloseDate": "2024-07-12 09:00:00",
+            "id_muasamcong": "0b297b22-248b-4ca3-8264-7cd6ee178eb2",
+            "tongmuc_dautu": 1579000000.0,
+            "bidNamePlanNew": "PL2400104375",
+            "dotbien_hatang": "Gói thầu số 3: Tư vấn giám sát thi công xây dựng Công trình Khu nhà xưởng cho thuê JSC- Dự án Nhà xưởng số 9",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 3: Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC NHƠN TRẠCH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000022219",
+            "publicDate": "2024-05-21 15:34:35",
+            "projectName": null,
+            "bidCloseDate": "2024-05-31 09:00:00",
+            "id_muasamcong": "0b4b5c5a-a0a1-436f-9d50-4c8601735cee",
+            "tongmuc_dautu": 4775186347.56,
+            "bidNamePlanNew": "PL2400062543",
+            "dotbien_hatang": "Gói thầu số 3: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07 (xây dựng): Thi công xây dựng cầu Bến Lớn từ Km3+760 đến Km4+040 (bao gồm Đảm bảo an toàn giao thông).",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng công trình giao thông tỉnh Đồng Nai",
+            "createdBy": "vn0312213236",
+            "publicDate": "2023-11-25 17:04:22",
+            "projectName": null,
+            "bidCloseDate": "2023-12-15 17:10:00",
+            "id_muasamcong": "0bff2970-e099-4165-b2c1-9abbf4db0bcd",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300199253",
+            "dotbien_hatang": "Gói thầu số 07 (xây dựng): Thi công xây dựng cầu Bến Lớn từ Km3+760 đến Km4+040 (bao gồm Đảm bảo an toàn giao thông).",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 3: Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC NHƠN TRẠCH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000022219",
+            "publicDate": "2023-04-27 15:11:50",
+            "projectName": null,
+            "bidCloseDate": "2023-05-15 14:00:00",
+            "id_muasamcong": "0ca2296d-1eab-42bb-9121-ba3abf98b913",
+            "tongmuc_dautu": 3695592746.0,
+            "bidNamePlanNew": "PL2300051331",
+            "dotbien_hatang": "Gói thầu số 3: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu XL-01: Thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "Binh chủng Hóa học",
+            "createdBy": "vnz000008557",
+            "publicDate": "2023-02-28 10:37:32",
+            "projectName": null,
+            "bidCloseDate": "2023-03-10 10:20:00",
+            "id_muasamcong": "0f4960e9-03af-4e36-8a9f-c5c00f7b66eb",
+            "tongmuc_dautu": 1508263000.0,
+            "bidNamePlanNew": "PL2300016079",
+            "dotbien_hatang": "Gói thầu XL-01: Thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 3: Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC NHƠN TRẠCH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000022219",
+            "publicDate": "2025-02-19 08:50:38",
+            "projectName": null,
+            "bidCloseDate": "2025-02-28 15:30:00",
+            "id_muasamcong": "11f628b2-fd18-4096-8df4-a2dd88b7ed66",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500017538",
+            "dotbien_hatang": "Gói thầu số 3: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC NHƠN TRẠCH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000022219",
+            "publicDate": "2023-08-17 13:57:58",
+            "projectName": null,
+            "bidCloseDate": "2023-08-28 09:00:00",
+            "id_muasamcong": "11fba04d-53ea-483f-affc-9716beb0c725",
+            "tongmuc_dautu": 1765654376.0,
+            "bidNamePlanNew": "PL2300140098",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Tư vấn giám sát thi công xây dựng",
+            "chudautu": "ĐẠI HỌC CÔNG NGHIỆP THÀNH PHỐ HỒ CHÍ MINH",
+            "createdBy": "vn0303237311-02",
+            "publicDate": "2024-02-06 18:05:25",
+            "projectName": null,
+            "bidCloseDate": "2024-02-29 08:00:00",
+            "id_muasamcong": "14d97052-8ceb-4cd3-ad32-4e3fff4a4058",
+            "tongmuc_dautu": 438000000.0,
+            "bidNamePlanNew": "PL2400012569",
+            "dotbien_hatang": "Tư vấn giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 16 (tư vấn): Gám sát thi công xây dựng gói thầu số 13.",
+            "chudautu": "Ban Quản lý dự án huyện Nhơn Trạch",
+            "createdBy": "vn3603531937",
+            "publicDate": "2023-12-04 17:23:49",
+            "projectName": null,
+            "bidCloseDate": "2023-12-24 17:30:00",
+            "id_muasamcong": "158208da-da27-4862-b8eb-98c1f991d8ef",
+            "tongmuc_dautu": 1359990000.0,
+            "bidNamePlanNew": "PL2300195375",
+            "dotbien_hatang": "Gói thầu số 16 (tư vấn): Gám sát thi công xây dựng gói thầu số 13.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 3: Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC NHƠN TRẠCH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000022219",
+            "publicDate": "2024-05-28 13:43:09",
+            "projectName": null,
+            "bidCloseDate": "2024-06-07 09:00:00",
+            "id_muasamcong": "19cbf32e-4855-4f03-bebf-f1204284ef9f",
+            "tongmuc_dautu": 5988517900.0,
+            "bidNamePlanNew": "PL2400062689",
+            "dotbien_hatang": "Gói thầu số 3: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07 (xây dựng): Thi công xây dựng cầu Bến Lớn từ Km3+760 đến Km4+040 (bao gồm Đảm bảo an toàn giao thông)",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng công trình giao thông tỉnh Đồng Nai",
+            "createdBy": "vn0312213236",
+            "publicDate": "2023-11-26 14:00:40",
+            "projectName": null,
+            "bidCloseDate": "2023-12-16 14:05:00",
+            "id_muasamcong": "1e073b29-e87d-46b9-9480-b15652e407fa",
+            "tongmuc_dautu": 71977600000.0,
+            "bidNamePlanNew": "PL2300233346",
+            "dotbien_hatang": "Gói thầu số 07 (xây dựng): Thi công xây dựng cầu Bến Lớn từ Km3+760 đến Km4+040 (bao gồm Đảm bảo an toàn giao thông)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 41 (tư vấn): Giám sát thi công xây dựng gói thầu 29.",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng công trình giao thông tỉnh Đồng Nai",
+            "createdBy": "vn0313247076",
+            "publicDate": "2023-10-27 20:10:24",
+            "projectName": null,
+            "bidCloseDate": "2023-11-17 09:00:00",
+            "id_muasamcong": "223c4a7a-193e-47a5-b2dd-507e587237ce",
+            "tongmuc_dautu": 4184191000.0,
+            "bidNamePlanNew": "PL2300089640",
+            "dotbien_hatang": "Gói thầu số 41 (tư vấn): Giám sát thi công xây dựng gói thầu 29.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu XL-01: Thi công xây dựng công trình",
+            "chudautu": "Lữ đoàn 87",
+            "createdBy": "vnz000007551",
+            "publicDate": "2023-06-06 11:38:48",
+            "projectName": null,
+            "bidCloseDate": "2023-06-16 11:40:00",
+            "id_muasamcong": "246a5560-b026-4642-b84a-eb2f8f0854b0",
+            "tongmuc_dautu": 990788000.0,
+            "bidNamePlanNew": "PL2300067187",
+            "dotbien_hatang": "Gói thầu XL-01: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 4: Tư vấn giám sát thi công xây dựng công trình",
+            "chudautu": "ĐIỆN LỰC NHƠN TRẠCH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000022219",
+            "publicDate": "2024-05-31 08:27:57",
+            "projectName": null,
+            "bidCloseDate": "2024-06-20 09:30:00",
+            "id_muasamcong": "24af1755-0a22-4b0a-87aa-4bf5bd91fea4",
+            "tongmuc_dautu": 68850000.0,
+            "bidNamePlanNew": "PL2400062776",
+            "dotbien_hatang": "Gói thầu số 4: Tư vấn giám sát thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng Hạng mục Tường rào gạch Block KCN Nhơn Trạch 3",
+            "chudautu": "CÔNG TY CỔ PHẦN TỔNG CÔNG TY TÍN NGHĨA ",
+            "createdBy": "vn3601381549",
+            "publicDate": "2024-07-12 16:00:40",
+            "projectName": null,
+            "bidCloseDate": "2024-07-19 09:00:00",
+            "id_muasamcong": "25cdf4f4-a7bf-4e49-a1b8-ab067cc19104",
+            "tongmuc_dautu": 3145000000.0,
+            "bidNamePlanNew": "PL2400126285",
+            "dotbien_hatang": "Thi công xây dựng Hạng mục Tường rào gạch Block KCN Nhơn Trạch 3",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án huyện Nhơn Trạch",
+            "createdBy": "vn3603531937-01",
+            "publicDate": "2023-03-09 09:04:31",
+            "projectName": null,
+            "bidCloseDate": "2023-03-19 09:40:00",
+            "id_muasamcong": "26ee56e8-85a6-4609-8363-c773e804f39d",
+            "tongmuc_dautu": 8144582846.0,
+            "bidNamePlanNew": "PL2300023450",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 4: Tư vấn giám sát thi công xây dựng công trình",
+            "chudautu": "ĐIỆN LỰC NHƠN TRẠCH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000022219",
+            "publicDate": "2024-05-24 10:29:12",
+            "projectName": null,
+            "bidCloseDate": "2024-06-12 09:00:00",
+            "id_muasamcong": "284c6417-06a8-402b-9217-310324c1522f",
+            "tongmuc_dautu": 100000000.0,
+            "bidNamePlanNew": "PL2400062760",
+            "dotbien_hatang": "Gói thầu số 4: Tư vấn giám sát thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 1 (thi công xây lắp): Cải tạo vỉa hè đường 5C (đoạn từ đường Tôn Đức Thắng đến ngã tư đường 5A)",
+            "chudautu": "CÔNG TY CỔ PHẦN PHÁT TRIỂN ĐÔ THỊ CÔNG NGHIỆP SỐ 2",
+            "createdBy": "vn0309949629",
+            "publicDate": "2023-04-05 15:50:34",
+            "projectName": null,
+            "bidCloseDate": "2023-04-15 18:00:00",
+            "id_muasamcong": "2e7f95eb-c098-4ee8-90c6-b3b2791199b0",
+            "tongmuc_dautu": 8917615167.0,
+            "bidNamePlanNew": "PL2300042539",
+            "dotbien_hatang": "Gói thầu số 1 (thi công xây lắp): Cải tạo vỉa hè đường 5C (đoạn từ đường Tôn Đức Thắng đến ngã tư đường 5A)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 11 (tư vấn): Giám sát thi công xây dựng công trình gói thầu số 06, 07, 08.",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng công trình giao thông tỉnh Đồng Nai",
+            "createdBy": "vn0312213236",
+            "publicDate": "2023-12-09 20:03:45",
+            "projectName": "Liên Danh công ty Tuấn Thắng và, công ty TEXA ",
+            "bidCloseDate": "2023-12-29 17:10:00",
+            "id_muasamcong": "2f4fd9dc-a144-46dc-99f1-442e38e7b43f",
+            "tongmuc_dautu": 3060500000.0,
+            "bidNamePlanNew": "PL2300233346",
+            "dotbien_hatang": "Gói thầu số 11 (tư vấn): Giám sát thi công xây dựng công trình gói thầu số 06, 07, 08.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 3: Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC NHƠN TRẠCH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000022219",
+            "publicDate": "2025-02-20 09:05:43",
+            "projectName": null,
+            "bidCloseDate": "2025-03-03 09:00:00",
+            "id_muasamcong": "3024a97c-7a24-4c42-8799-570f33f7f822",
+            "tongmuc_dautu": 4694543623.6,
+            "bidNamePlanNew": "PL2400272200",
+            "dotbien_hatang": "Gói thầu số 3: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05 (tư vấn): Giám sát thi công xây dựng gói thầu số 01.",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng công trình giao thông tỉnh Đồng Nai",
+            "createdBy": "vn0314643354",
+            "publicDate": "2024-12-16 17:45:01",
+            "projectName": null,
+            "bidCloseDate": "2025-01-14 09:00:00",
+            "id_muasamcong": "331c2b98-2e17-4369-8a8d-6aa741f9296f",
+            "tongmuc_dautu": 326000000.0,
+            "bidNamePlanNew": "PL2400289278",
+            "dotbien_hatang": "Gói thầu số 05 (tư vấn): Giám sát thi công xây dựng gói thầu số 01.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 3: Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC NHƠN TRẠCH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000022219",
+            "publicDate": "2025-03-20 09:01:22",
+            "projectName": null,
+            "bidCloseDate": "2025-03-29 10:00:00",
+            "id_muasamcong": "33510d11-403f-4696-ae44-187daf711afd",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400272236",
+            "dotbien_hatang": "Gói thầu số 3: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 1 (thi công xây lắp): Cải tạo vỉa hè đường 5A (đoạn từ đường Trần Phú đến ngã tư đường 5C)",
+            "chudautu": "CÔNG TY CỔ PHẦN PHÁT TRIỂN ĐÔ THỊ CÔNG NGHIỆP SỐ 2",
+            "createdBy": "vn3603277896",
+            "publicDate": "2023-02-06 11:15:06",
+            "projectName": null,
+            "bidCloseDate": "2023-02-16 12:00:00",
+            "id_muasamcong": "34d541cb-5c0d-4c93-a4da-98e9c6bd0d52",
+            "tongmuc_dautu": 12161095000.0,
+            "bidNamePlanNew": "PL2300010405",
+            "dotbien_hatang": "Gói thầu số 1 (thi công xây lắp): Cải tạo vỉa hè đường 5A (đoạn từ đường Trần Phú đến ngã tư đường 5C)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thiết kế, mua sắm, lắp đặt, thi công xây dựng và chạy thử công trình (EPC)",
+            "chudautu": "CHI NHÁNH TỔNG CÔNG TY KHÍ VIỆT NAM - CÔNG TY CỔ PHẦN - CÔNG TY QUẢN LÝ DỰ ÁN KHÍ",
+            "createdBy": "vnz000021937",
+            "publicDate": "2024-01-04 10:44:46",
+            "projectName": "Liên danh CN-PVE-JPS",
+            "bidCloseDate": "2024-01-24 15:00:00",
+            "id_muasamcong": "379b673a-a950-4087-b447-d67fa5ce8eed",
+            "tongmuc_dautu": 190509840000.0,
+            "bidNamePlanNew": "PL2400000501",
+            "dotbien_hatang": "Thiết kế, mua sắm, lắp đặt, thi công xây dựng và chạy thử công trình (EPC)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 17 (tư vấn): Giám sát thi công xây dựng gói thầu số 14.",
+            "chudautu": "Ban Quản lý dự án huyện Nhơn Trạch",
+            "createdBy": "vn0302461529",
+            "publicDate": "2023-11-15 08:57:31",
+            "projectName": null,
+            "bidCloseDate": "2023-12-05 10:00:00",
+            "id_muasamcong": "3953212c-2a00-46fc-8a5f-968efe9b9362",
+            "tongmuc_dautu": 1826000000.0,
+            "bidNamePlanNew": "PL2300198139",
+            "dotbien_hatang": "Gói thầu số 17 (tư vấn): Giám sát thi công xây dựng gói thầu số 14.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây lắp",
+            "chudautu": "Ban Quản lý dự án huyện Nhơn Trạch",
+            "createdBy": "vn3603531937-01",
+            "publicDate": "2023-04-19 09:15:57",
+            "projectName": null,
+            "bidCloseDate": "2023-04-29 09:20:00",
+            "id_muasamcong": "3d58b886-334c-4014-b554-ae1f84e5c2e7",
+            "tongmuc_dautu": 7046795000.0,
+            "bidNamePlanNew": "PL2300042283",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 3: Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC NHƠN TRẠCH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000022219",
+            "publicDate": "2023-05-11 08:31:06",
+            "projectName": null,
+            "bidCloseDate": "2023-05-22 10:30:00",
+            "id_muasamcong": "4c52b962-d6f6-4726-b0f1-385123e832e2",
+            "tongmuc_dautu": 1013500300.0,
+            "bidNamePlanNew": "PL2300060185",
+            "dotbien_hatang": "Gói thầu số 3: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu XL-01: Thi công xây dựng",
+            "chudautu": "KHO K62 BINH CHỦNG HOÁ HỌC",
+            "createdBy": "vnz000009356",
+            "publicDate": "2024-06-18 17:50:10",
+            "projectName": null,
+            "bidCloseDate": "2024-06-25 17:00:00",
+            "id_muasamcong": "4dbe5938-5644-49f4-94c7-2f3b1d11eebe",
+            "tongmuc_dautu": 292500000.0,
+            "bidNamePlanNew": "PL2400112827",
+            "dotbien_hatang": "Gói thầu XL-01: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 3: Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC NHƠN TRẠCH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000022219",
+            "publicDate": "2024-06-14 14:09:45",
+            "projectName": null,
+            "bidCloseDate": "2024-06-24 09:00:00",
+            "id_muasamcong": "4e3631e7-f293-4bc0-bbec-c80318f911f3",
+            "tongmuc_dautu": 1529480141.875,
+            "bidNamePlanNew": "PL2400062776",
+            "dotbien_hatang": "Gói thầu số 3: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 1 (thi công xây lắp): Cải tạo tuyến ống nước thải đường Trần Phú (đoạn từ đường 6A đến công ty LG Vina)",
+            "chudautu": "CÔNG TY CỔ PHẦN PHÁT TRIỂN ĐÔ THỊ CÔNG NGHIỆP SỐ 2",
+            "createdBy": "vn3602725721",
+            "publicDate": "2022-11-08 12:30:46",
+            "projectName": null,
+            "bidCloseDate": "2022-11-18 09:00:00",
+            "id_muasamcong": "4e537c83-060a-454f-ada0-468a716e4326",
+            "tongmuc_dautu": 8920715000.0,
+            "bidNamePlanNew": "PL2200035225",
+            "dotbien_hatang": "Gói thầu số 1 (thi công xây lắp): Cải tạo tuyến ống nước thải đường Trần Phú (đoạn từ đường 6A đến công ty LG Vina)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 2: Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC NHƠN TRẠCH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000022219",
+            "publicDate": "2024-06-13 16:37:19",
+            "projectName": null,
+            "bidCloseDate": "2024-06-19 09:00:00",
+            "id_muasamcong": "4ec496cc-5ee5-4414-9994-9b1d3a24a508",
+            "tongmuc_dautu": 1956560765.0,
+            "bidNamePlanNew": "PL2400062939",
+            "dotbien_hatang": "Gói thầu số 2: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình Đầu tư xây dựng Bãi container chuyên dụng tại cảng cạn Tân Cảng Nhơn Trạch",
+            "chudautu": "CÔNG TY CỔ PHẦN ĐẠI LÝ GIAO NHẬN VẬN TẢI XẾP DỠ TÂN CẢNG",
+            "createdBy": "vn0309949629",
+            "publicDate": "2023-07-28 14:36:30",
+            "projectName": null,
+            "bidCloseDate": "2023-08-07 15:00:00",
+            "id_muasamcong": "50bf2c92-858a-4337-a65c-c19e3cd381a2",
+            "tongmuc_dautu": 12027040000.0,
+            "bidNamePlanNew": "PL2300122979",
+            "dotbien_hatang": "Thi công xây dựng công trình Đầu tư xây dựng Bãi container chuyên dụng tại cảng cạn Tân Cảng Nhơn Trạch",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 4: Tư vấn giám sát thi công xây dựng công trình",
+            "chudautu": "ĐIỆN LỰC NHƠN TRẠCH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000022219",
+            "publicDate": "2024-05-31 08:24:01",
+            "projectName": null,
+            "bidCloseDate": "2024-06-20 09:00:00",
+            "id_muasamcong": "50c74c41-8c60-4dc6-9aca-d74597910200",
+            "tongmuc_dautu": 180000000.0,
+            "bidNamePlanNew": "PL2400062520",
+            "dotbien_hatang": "Gói thầu số 4: Tư vấn giám sát thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 4: Tư vấn giám sát thi công xây dựng công trình",
+            "chudautu": "ĐIỆN LỰC NHƠN TRẠCH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000022219",
+            "publicDate": "2023-04-28 09:17:23",
+            "projectName": null,
+            "bidCloseDate": "2023-05-17 14:00:00",
+            "id_muasamcong": "532f956a-e9f4-463e-b2cb-b1089d1d30fa",
+            "tongmuc_dautu": 134210819.0,
+            "bidNamePlanNew": "PL2300051331",
+            "dotbien_hatang": "Gói thầu số 4: Tư vấn giám sát thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 4: Tư vấn giám sát thi công xây dựng công trình",
+            "chudautu": "ĐIỆN LỰC NHƠN TRẠCH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000022219",
+            "publicDate": "2024-05-24 10:30:40",
+            "projectName": null,
+            "bidCloseDate": "2024-06-12 09:00:00",
+            "id_muasamcong": "5b1a9277-3487-43eb-b3ee-180b0fb5578b",
+            "tongmuc_dautu": 85000000.0,
+            "bidNamePlanNew": "PL2400062745",
+            "dotbien_hatang": "Gói thầu số 4: Tư vấn giám sát thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 1 (thi công xây lắp): Cải tạo vỉa hè đường 5A (đoạn từ đường Trần Phú đến ngã tư đường 5C)",
+            "chudautu": "CÔNG TY CỔ PHẦN PHÁT TRIỂN ĐÔ THỊ CÔNG NGHIỆP SỐ 2",
+            "createdBy": "vn3603277896",
+            "publicDate": "2023-02-03 15:51:33",
+            "projectName": null,
+            "bidCloseDate": "2023-03-13 09:00:00",
+            "id_muasamcong": "5cce22d8-c49e-4f45-9b06-86a8ad4a9670",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300010405",
+            "dotbien_hatang": "Gói thầu số 1 (thi công xây lắp): Cải tạo vỉa hè đường 5A (đoạn từ đường Trần Phú đến ngã tư đường 5C)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 2: Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC NHƠN TRẠCH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000022219",
+            "publicDate": "2024-05-30 08:16:51",
+            "projectName": null,
+            "bidCloseDate": "2024-06-11 09:30:00",
+            "id_muasamcong": "5d063dc0-c456-472d-b868-497b399fcfba",
+            "tongmuc_dautu": 1143554081.948,
+            "bidNamePlanNew": "PL2400062963",
+            "dotbien_hatang": "Gói thầu số 2: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu XL-4: Thi công xây dựng công trình",
+            "chudautu": "Lữ đoàn 87",
+            "createdBy": "vnz000007551",
+            "publicDate": "2023-05-24 14:01:11",
+            "projectName": null,
+            "bidCloseDate": "2023-06-03 14:00:00",
+            "id_muasamcong": "5d25b64b-7484-4506-a91f-99530a178683",
+            "tongmuc_dautu": 3540836000.0,
+            "bidNamePlanNew": "PL2300040749",
+            "dotbien_hatang": "Gói thầu XL-4: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 1: Thi công xây lắp Công trình sửa chữa Kho lưu trữ hồ sơ tại Chi cục Hải quan Nhơn Trạch",
+            "chudautu": "Cục Hải quan Đồng Nai",
+            "createdBy": "vn3600733879",
+            "publicDate": "2023-04-13 16:00:57",
+            "projectName": null,
+            "bidCloseDate": "2023-04-19 08:00:00",
+            "id_muasamcong": "639972d3-c281-4408-a8b0-00951223b722",
+            "tongmuc_dautu": 222007737.0,
+            "bidNamePlanNew": "PL2300047168",
+            "dotbien_hatang": "Gói thầu số 1: Thi công xây lắp Công trình sửa chữa Kho lưu trữ hồ sơ tại Chi cục Hải quan Nhơn Trạch",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu XL-01: Thi công xây dựng công trình",
+            "chudautu": "Lữ đoàn 87",
+            "createdBy": "vnz000007551",
+            "publicDate": "2023-05-22 08:23:37",
+            "projectName": null,
+            "bidCloseDate": "2023-06-01 10:00:00",
+            "id_muasamcong": "652e19d1-a719-4ff5-9382-ae82478bea7f",
+            "tongmuc_dautu": 1824163000.0,
+            "bidNamePlanNew": "PL2300040712",
+            "dotbien_hatang": "Gói thầu XL-01: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu XL-01: Thi công xây dựng công trình",
+            "chudautu": "Cục Kỹ thuật - Binh chủng Hóa học",
+            "createdBy": "vnz000004485-09",
+            "publicDate": "2024-03-06 14:33:59",
+            "projectName": null,
+            "bidCloseDate": "2024-03-15 09:00:00",
+            "id_muasamcong": "67965748-b52d-4024-9bda-6f2ecea60d81",
+            "tongmuc_dautu": 5001840000.0,
+            "bidNamePlanNew": "PL2300237336",
+            "dotbien_hatang": "Gói thầu XL-01: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 3: Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC NHƠN TRẠCH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000022219",
+            "publicDate": "2024-05-16 15:54:50",
+            "projectName": null,
+            "bidCloseDate": "2024-05-28 09:00:00",
+            "id_muasamcong": "6c5cf862-f43d-480b-bb07-6db35a647adb",
+            "tongmuc_dautu": 4755124852.0,
+            "bidNamePlanNew": "PL2400062586",
+            "dotbien_hatang": "Gói thầu số 3: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "ĐẠI HỌC CÔNG NGHIỆP THÀNH PHỐ HỒ CHÍ MINH",
+            "createdBy": "vn0303237311-02",
+            "publicDate": "2024-02-06 15:54:05",
+            "projectName": null,
+            "bidCloseDate": "2024-02-16 08:00:00",
+            "id_muasamcong": "6dd2cf53-4465-4281-bde0-173ff0078276",
+            "tongmuc_dautu": 14122609072.0,
+            "bidNamePlanNew": "PL2400012569",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06 (xây dựng): Thi công xây dựng phần tuyến, cống kỹ thuật, cây xanh, thoát nước từ Km0+000 đến Km3+760 và từ Km4+040 đến Km5+3 87,39 (bao gồm Đảm bảo an toàn giao thông).",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng công trình giao thông tỉnh Đồng Nai",
+            "createdBy": "vn0312213236",
+            "publicDate": "2023-11-26 14:19:59",
+            "projectName": "LIÊN DANH VINADELTA - 703",
+            "bidCloseDate": "2023-12-16 14:25:00",
+            "id_muasamcong": "70eecf67-213c-4cf2-be62-c4849b804418",
+            "tongmuc_dautu": 186918537000.0,
+            "bidNamePlanNew": "PL2300233346",
+            "dotbien_hatang": "Gói thầu số 06 (xây dựng): Thi công xây dựng phần tuyến, cống kỹ thuật, cây xanh, thoát nước từ Km0+000 đến Km3+760 và từ Km4+040 đến Km5+3 87,39 (bao gồm Đảm bảo an toàn giao thông).",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 4: Tư vấn giám sát thi công xây dựng công trình",
+            "chudautu": "ĐIỆN LỰC NHƠN TRẠCH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000022219",
+            "publicDate": "2024-05-29 08:29:16",
+            "projectName": null,
+            "bidCloseDate": "2024-06-17 09:00:00",
+            "id_muasamcong": "721f0af9-43aa-43f5-9f53-eeb32032a736",
+            "tongmuc_dautu": 142560000.0,
+            "bidNamePlanNew": "PL2400062689",
+            "dotbien_hatang": "Gói thầu số 4: Tư vấn giám sát thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 3: Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC NHƠN TRẠCH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000022219",
+            "publicDate": "2023-05-05 16:39:23",
+            "projectName": null,
+            "bidCloseDate": "2023-05-15 14:40:00",
+            "id_muasamcong": "72e12df3-7546-4fee-987e-22b080f54b2d",
+            "tongmuc_dautu": 2699554400.0,
+            "bidNamePlanNew": "PL2300052092",
+            "dotbien_hatang": "Gói thầu số 3: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu XL - 01: Thi công xây dựng công trình",
+            "chudautu": "KHO K62 BINH CHỦNG HOÁ HỌC",
+            "createdBy": "vnz000009356",
+            "publicDate": "2024-09-08 21:33:51",
+            "projectName": null,
+            "bidCloseDate": "2024-09-18 17:00:00",
+            "id_muasamcong": "7cfe42a9-b0c5-4510-9312-b022b3e97666",
+            "tongmuc_dautu": 1417883804.0,
+            "bidNamePlanNew": "PL2400188513",
+            "dotbien_hatang": "Gói thầu XL - 01: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 1: Thi công xây dựng và lắp đặt thiết bị cải tạo nâng cấp cầu cảng phía thượng lưu, hạ lưu ( mặt trong) cho sà lan/ tàu trọng có trọng tải đến 3.500DWT",
+            "chudautu": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DẦU KHÍ ĐỒNG THÁP",
+            "createdBy": "vn1400147351",
+            "publicDate": "2023-10-02 09:00:40",
+            "projectName": null,
+            "bidCloseDate": "2023-10-20 10:00:00",
+            "id_muasamcong": "8156c318-11c2-4da0-9a61-e39b4eab226e",
+            "tongmuc_dautu": 3546000000.0,
+            "bidNamePlanNew": "PL2300179655",
+            "dotbien_hatang": "Gói thầu số 1: Thi công xây dựng và lắp đặt thiết bị cải tạo nâng cấp cầu cảng phía thượng lưu, hạ lưu ( mặt trong) cho sà lan/ tàu trọng có trọng tải đến 3.500DWT",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 3: Thi công xây lắp",
+            "chudautu": "CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI ",
+            "createdBy": "vnz000022219",
+            "publicDate": "2025-03-03 13:42:36",
+            "projectName": null,
+            "bidCloseDate": "2025-03-12 14:00:00",
+            "id_muasamcong": "81bda111-15ba-44b1-8fa3-29efac1b3aab",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500026311",
+            "dotbien_hatang": "Gói thầu số 3: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 10: Tư vấn Giám sát thi công xây dựng gói thầu số 07",
+            "chudautu": "Ban Quản lý dự án huyện Nhơn Trạch",
+            "createdBy": "vn3603531937",
+            "publicDate": "2023-11-23 10:47:03",
+            "projectName": null,
+            "bidCloseDate": "2023-12-13 11:00:00",
+            "id_muasamcong": "8292e69f-2475-48b3-a73b-afcd26a3b773",
+            "tongmuc_dautu": 1910239000.0,
+            "bidNamePlanNew": "PL2300213867",
+            "dotbien_hatang": "Gói thầu số 10: Tư vấn Giám sát thi công xây dựng gói thầu số 07",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu XL-01: Thi công xây dựng công trình",
+            "chudautu": "KHO K62 BINH CHỦNG HOÁ HỌC",
+            "createdBy": "vnz000009356",
+            "publicDate": "2024-09-29 19:24:09",
+            "projectName": null,
+            "bidCloseDate": "2024-10-09 11:00:00",
+            "id_muasamcong": "83207d33-bf87-44cd-8eb9-36c80bf2ab62",
+            "tongmuc_dautu": 1085305116.0,
+            "bidNamePlanNew": "PL2400211292",
+            "dotbien_hatang": "Gói thầu XL-01: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 3: Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC NHƠN TRẠCH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000022219",
+            "publicDate": "2024-05-24 07:58:39",
+            "projectName": null,
+            "bidCloseDate": "2024-06-04 09:00:00",
+            "id_muasamcong": "87fa0e7c-84a2-4760-b7cf-6b026188daa4",
+            "tongmuc_dautu": 5937258801.0,
+            "bidNamePlanNew": "PL2400062459",
+            "dotbien_hatang": "Gói thầu số 3: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 4: Tư vấn giám sát thi công xây dựng công trình",
+            "chudautu": "ĐIỆN LỰC NHƠN TRẠCH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000022219",
+            "publicDate": "2023-04-28 09:16:57",
+            "projectName": null,
+            "bidCloseDate": "2023-05-17 14:00:00",
+            "id_muasamcong": "8a8fc8a8-65e4-464e-a7ab-096d038d7c7e",
+            "tongmuc_dautu": 148000000.0,
+            "bidNamePlanNew": "PL2300052092",
+            "dotbien_hatang": "Gói thầu số 4: Tư vấn giám sát thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 3: Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC NHƠN TRẠCH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000022219",
+            "publicDate": "2025-02-25 10:32:31",
+            "projectName": null,
+            "bidCloseDate": "2025-03-07 09:00:00",
+            "id_muasamcong": "8d1c09f8-63f5-452e-8296-7cd61b051fef",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400272236",
+            "dotbien_hatang": "Gói thầu số 3: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04 (tư vấn): Giám sát thi công xây dựng gói thầu số 01.",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng công trình giao thông tỉnh Đồng Nai",
+            "createdBy": "vnz000024928",
+            "publicDate": "2024-07-17 14:24:36",
+            "projectName": null,
+            "bidCloseDate": "2024-08-15 14:00:00",
+            "id_muasamcong": "91f7e4f5-61a5-4a8f-82b1-86e95d280d13",
+            "tongmuc_dautu": 266000000.0,
+            "bidNamePlanNew": "PL2300105553",
+            "dotbien_hatang": "Gói thầu số 04 (tư vấn): Giám sát thi công xây dựng gói thầu số 01.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 3: Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC NHƠN TRẠCH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000022219",
+            "publicDate": "2024-05-24 08:10:02",
+            "projectName": null,
+            "bidCloseDate": "2024-06-04 09:00:00",
+            "id_muasamcong": "9b5a5dc9-1b97-4c10-af0b-cec45c01c5aa",
+            "tongmuc_dautu": 7138007874.0,
+            "bidNamePlanNew": "PL2400062520",
+            "dotbien_hatang": "Gói thầu số 3: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 44 (tư vấn): Giám sát thi công xây dựng gói thầu 32.",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng công trình giao thông tỉnh Đồng Nai",
+            "createdBy": "vn0313247076",
+            "publicDate": "2023-10-27 20:11:45",
+            "projectName": null,
+            "bidCloseDate": "2023-11-17 09:00:00",
+            "id_muasamcong": "9b5cfd93-cee0-4668-9cf2-f263778834cd",
+            "tongmuc_dautu": 4688124000.0,
+            "bidNamePlanNew": "PL2300089640",
+            "dotbien_hatang": "Gói thầu số 44 (tư vấn): Giám sát thi công xây dựng gói thầu 32.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05 (tư vấn): Giám sát thi công xây dựng gói thầu số 01",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng công trình giao thông tỉnh Đồng Nai",
+            "createdBy": "vn0314643354",
+            "publicDate": "2024-11-30 14:41:04",
+            "projectName": null,
+            "bidCloseDate": "2024-12-18 15:00:00",
+            "id_muasamcong": "9bc95e66-d097-46a3-8f68-d0a3d7347cf0",
+            "tongmuc_dautu": 371673000.0,
+            "bidNamePlanNew": "PL2400288925",
+            "dotbien_hatang": "Gói thầu số 05 (tư vấn): Giám sát thi công xây dựng gói thầu số 01",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu XL-01: Thi công xây dựng công trình",
+            "chudautu": "Lữ đoàn 87",
+            "createdBy": "vnz000007551",
+            "publicDate": "2024-11-21 15:05:02",
+            "projectName": null,
+            "bidCloseDate": "2024-11-30 06:00:00",
+            "id_muasamcong": "9fe9656e-0ecf-4f58-b134-1678a17daa53",
+            "tongmuc_dautu": 493399720.0,
+            "bidNamePlanNew": "PL2400279423",
+            "dotbien_hatang": "Gói thầu XL-01: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Giám sát thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án huyện Nhơn Trạch",
+            "createdBy": "vn3603531937",
+            "publicDate": "2024-12-10 15:49:07",
+            "projectName": null,
+            "bidCloseDate": "2024-12-28 09:00:00",
+            "id_muasamcong": "a2216457-7f2e-4582-8a10-9929ce06ba4c",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400303035",
+            "dotbien_hatang": "Gói thầu số 03: Giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 11 (tư vấn): Giám sát thi công xây dựng gói thầu số 08.",
+            "chudautu": "Ban Quản lý dự án huyện Nhơn Trạch",
+            "createdBy": "vn0313828497",
+            "publicDate": "2023-11-15 13:43:48",
+            "projectName": "Liên danh Công ty TNHH Tư vấn Xây dựng Hùng Chi - Công ty TNHH Tư vấn Đầu tư và Xây dựng Hợp Phát",
+            "bidCloseDate": "2023-12-05 15:00:00",
+            "id_muasamcong": "a31d6904-8ec8-4b24-a5ce-6c1ecf57300d",
+            "tongmuc_dautu": 2617000000.0,
+            "bidNamePlanNew": "PL2300198139",
+            "dotbien_hatang": "Gói thầu số 11 (tư vấn): Giám sát thi công xây dựng gói thầu số 08.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 4: Tư vấn giám sát thi công xây dựng",
+            "chudautu": "ĐIỆN LỰC NHƠN TRẠCH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000022219",
+            "publicDate": "2023-05-11 16:05:16",
+            "projectName": null,
+            "bidCloseDate": "2023-05-25 14:00:00",
+            "id_muasamcong": "a604104d-dabc-4907-8be3-24adb5713250",
+            "tongmuc_dautu": 59400000.0,
+            "bidNamePlanNew": "PL2300060185",
+            "dotbien_hatang": "Gói thầu số 4: Tư vấn giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 14: Bảo hiểm thi công xây dựng",
+            "chudautu": "TỔNG CÔNG TY TRUYỀN TẢI ĐIỆN QUỐC GIA",
+            "createdBy": "vnz000022483-05",
+            "publicDate": "2023-05-26 13:20:05",
+            "projectName": "Liên danh Tổng công ty cổ phần bảo hiểm Quân Đội - Tổng công ty cổ phần bảo hiểm Sài Gòn - Hà Nội",
+            "bidCloseDate": "2023-06-06 09:00:00",
+            "id_muasamcong": "ad7dc3c3-7dde-4685-90e0-743a9ac67081",
+            "tongmuc_dautu": 1061320050.0,
+            "bidNamePlanNew": "PL2200072271",
+            "dotbien_hatang": "Gói thầu số 14: Bảo hiểm thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03 (tư vấn): Giám sát thi công xây dựng gói thầu số 01",
+            "chudautu": "BAN AN TOÀN GIAO THÔNG TỈNH ĐỒNG NAI",
+            "createdBy": "vn3603531937",
+            "publicDate": "2024-10-09 10:08:33",
+            "projectName": null,
+            "bidCloseDate": "2024-10-28 09:00:00",
+            "id_muasamcong": "ae17dd22-4fe1-4ee3-ad08-14f8c0b50629",
+            "tongmuc_dautu": 334700000.0,
+            "bidNamePlanNew": "PL2400162009",
+            "dotbien_hatang": "Gói thầu số 03 (tư vấn): Giám sát thi công xây dựng gói thầu số 01",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số XL-03: Thi công Xây dựng các nhà kho Hậu cần tổng hợp: Lữ đoàn 87, d907, d908; Kho K62",
+            "chudautu": "Binh chủng Hóa học",
+            "createdBy": "vnz000008557",
+            "publicDate": "2024-06-03 16:23:10",
+            "projectName": null,
+            "bidCloseDate": "2024-06-12 08:00:00",
+            "id_muasamcong": "b0e48c54-4b32-4f1a-9262-0940fc4d0dfa",
+            "tongmuc_dautu": 3765547000.0,
+            "bidNamePlanNew": "PL2400088145",
+            "dotbien_hatang": "Gói thầu số XL-03: Thi công Xây dựng các nhà kho Hậu cần tổng hợp: Lữ đoàn 87, d907, d908; Kho K62",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số XL-02: Thi công xây dựng nâng cấp, cải tạo nhà ở Lữ bộ, nhà thông tin và tường rào Lữ đoàn 87",
+            "chudautu": "Binh chủng Hóa học",
+            "createdBy": "vnz000008557",
+            "publicDate": "2023-11-04 10:16:36",
+            "projectName": null,
+            "bidCloseDate": "2023-11-14 09:00:00",
+            "id_muasamcong": "b4230e01-32eb-481a-ac2b-a2deba7ebe4f",
+            "tongmuc_dautu": 5493368000.0,
+            "bidNamePlanNew": "PL2300039123",
+            "dotbien_hatang": "Gói thầu số XL-02: Thi công xây dựng nâng cấp, cải tạo nhà ở Lữ bộ, nhà thông tin và tường rào Lữ đoàn 87",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 4: Tư vấn giám sát thi công xây dựng công trình",
+            "chudautu": "ĐIỆN LỰC NHƠN TRẠCH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000022219",
+            "publicDate": "2024-05-29 08:31:38",
+            "projectName": null,
+            "bidCloseDate": "2024-06-17 09:00:00",
+            "id_muasamcong": "b796c434-d2a9-49af-9009-489b3ccda717",
+            "tongmuc_dautu": 140000000.0,
+            "bidNamePlanNew": "PL2400062459",
+            "dotbien_hatang": "Gói thầu số 4: Tư vấn giám sát thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 3: Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC NHƠN TRẠCH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000022219",
+            "publicDate": "2024-05-20 16:01:43",
+            "projectName": null,
+            "bidCloseDate": "2024-05-28 09:00:00",
+            "id_muasamcong": "b8f28612-66e0-463a-ae82-99f05877a5e0",
+            "tongmuc_dautu": 2801610944.104,
+            "bidNamePlanNew": "PL2400062745",
+            "dotbien_hatang": "Gói thầu số 3: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 1 (thi công xây lắp) Cải tạo, sửa chữa nút giao thông đường 5A-5C",
+            "chudautu": "CÔNG TY CỔ PHẦN PHÁT TRIỂN ĐÔ THỊ CÔNG NGHIỆP SỐ 2",
+            "createdBy": "vn3603805070",
+            "publicDate": "2023-08-17 09:06:31",
+            "projectName": null,
+            "bidCloseDate": "2023-08-28 15:00:00",
+            "id_muasamcong": "bb28608a-0f06-4855-834e-47edd06352db",
+            "tongmuc_dautu": 1904212000.0,
+            "bidNamePlanNew": "PL2300132653",
+            "dotbien_hatang": "Gói thầu số 1 (thi công xây lắp) Cải tạo, sửa chữa nút giao thông đường 5A-5C",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu XL-01: Thi công xây dựng công trình",
+            "chudautu": "KHO K62 BINH CHỦNG HOÁ HỌC",
+            "createdBy": "vnz000009356",
+            "publicDate": "2023-07-19 15:44:16",
+            "projectName": "Liên danh CÔNG TY TNHH SÔNG LAM E&C VÀ CÔNG TY TNHH XÂY DỰNG NGUYỄN CHƯƠNG",
+            "bidCloseDate": "2023-07-29 16:00:00",
+            "id_muasamcong": "bcd28eaf-8eea-4a71-930b-740be75be886",
+            "tongmuc_dautu": 1659038884.0,
+            "bidNamePlanNew": "PL2300122613",
+            "dotbien_hatang": "Gói thầu XL-01: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 3: Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC NHƠN TRẠCH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000022219",
+            "publicDate": "2025-02-20 09:03:53",
+            "projectName": null,
+            "bidCloseDate": "2025-03-03 09:00:00",
+            "id_muasamcong": "bed73447-49f9-475e-a2c3-c836bab40ff5",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500025301",
+            "dotbien_hatang": "Gói thầu số 3: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu XL - 01: Thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "KHO K62 BINH CHỦNG HOÁ HỌC",
+            "createdBy": "vnz000009356",
+            "publicDate": "2024-11-23 20:51:36",
+            "projectName": null,
+            "bidCloseDate": "2024-11-30 10:00:00",
+            "id_muasamcong": "c00ba041-c346-4b7a-a1d1-40ce48ad1331",
+            "tongmuc_dautu": 658862626.0,
+            "bidNamePlanNew": "PL2400279090",
+            "dotbien_hatang": "Gói thầu XL - 01: Thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 10 (tư vấn): Gám sát thi công xây dựng gói thầu số 07.",
+            "chudautu": "Ban Quản lý dự án huyện Nhơn Trạch",
+            "createdBy": "vn3603531937",
+            "publicDate": "2023-11-10 17:12:03",
+            "projectName": null,
+            "bidCloseDate": "2023-11-30 16:45:00",
+            "id_muasamcong": "c30d9949-b23b-4407-b5b8-9efa0acfeba7",
+            "tongmuc_dautu": 3188945000.0,
+            "bidNamePlanNew": "PL2300195375",
+            "dotbien_hatang": "Gói thầu số 10 (tư vấn): Gám sát thi công xây dựng gói thầu số 07.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng",
+            "chudautu": "Lữ đoàn 87",
+            "createdBy": "vnz000007551",
+            "publicDate": "2023-09-18 16:38:42",
+            "projectName": null,
+            "bidCloseDate": "2023-09-25 16:35:00",
+            "id_muasamcong": "c346c5ac-017d-4a30-912a-4b13adf9969a",
+            "tongmuc_dautu": 491575000.0,
+            "bidNamePlanNew": "PL2300152983",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu XL-01:Thi công xây dựng công trình",
+            "chudautu": "Lữ đoàn 87",
+            "createdBy": "vnz000007551",
+            "publicDate": "2024-09-21 09:00:14",
+            "projectName": null,
+            "bidCloseDate": "2024-09-30 10:00:00",
+            "id_muasamcong": "c8f2d202-3a70-4177-bce7-d3bf51939d7d",
+            "tongmuc_dautu": 1258050257.0,
+            "bidNamePlanNew": "PL2400175703",
+            "dotbien_hatang": "Gói thầu XL-01:Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08 (xây dựng): Thi công xây dựng phần điện chiếu sáng, tín hiệu giao thông, di dời hạ tầng kỹ thuật (bao gồm Đảm bảo an toàn giao thông).",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng công trình giao thông tỉnh Đồng Nai",
+            "createdBy": "vn0312213236",
+            "publicDate": "2024-11-25 19:31:51",
+            "projectName": "Liên danh Công Ty TNHH Lộc Lan Anh và Công ty TNHH Xây dựng Thương mại vận tải Đông Bắc (gọi tắt là Liên danh Lộc Lan Anh & Đông Bắc)",
+            "bidCloseDate": "2024-12-05 08:30:00",
+            "id_muasamcong": "c9a5c127-9746-4ccf-8fbe-9f9d622fde59",
+            "tongmuc_dautu": 12296145854.0,
+            "bidNamePlanNew": "PL2300233346",
+            "dotbien_hatang": "Gói thầu số 08 (xây dựng): Thi công xây dựng phần điện chiếu sáng, tín hiệu giao thông, di dời hạ tầng kỹ thuật (bao gồm Đảm bảo an toàn giao thông).",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 1: Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC NHƠN TRẠCH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000022219",
+            "publicDate": "2023-05-24 10:25:09",
+            "projectName": null,
+            "bidCloseDate": "2023-06-07 14:00:00",
+            "id_muasamcong": "ccb0cec2-3c0a-490b-9ca3-9448257976c8",
+            "tongmuc_dautu": 880942426.0,
+            "bidNamePlanNew": "PL2300066102",
+            "dotbien_hatang": "Gói thầu số 1: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 3: Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC NHƠN TRẠCH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000022219",
+            "publicDate": "2025-02-19 08:48:26",
+            "projectName": null,
+            "bidCloseDate": "2025-02-28 15:00:00",
+            "id_muasamcong": "cd437843-95d3-4d30-a8b5-48bb56847d52",
+            "tongmuc_dautu": 4093566270.759,
+            "bidNamePlanNew": "PL2400272101",
+            "dotbien_hatang": "Gói thầu số 3: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 3: Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC NHƠN TRẠCH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000022219",
+            "publicDate": "2024-05-21 15:50:41",
+            "projectName": null,
+            "bidCloseDate": "2024-05-31 09:00:00",
+            "id_muasamcong": "cdc50f0d-c67b-46dc-b3c7-58b08768ff3d",
+            "tongmuc_dautu": 2289061397.06,
+            "bidNamePlanNew": "PL2400062760",
+            "dotbien_hatang": "Gói thầu số 3: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu XL-01: Thi công xây dựng công trình",
+            "chudautu": "KHO K62 BINH CHỦNG HOÁ HỌC",
+            "createdBy": "vnz000009356",
+            "publicDate": "2024-10-15 13:57:41",
+            "projectName": null,
+            "bidCloseDate": "2024-10-22 16:00:00",
+            "id_muasamcong": "d137ae02-40a8-4475-92a2-63ce09e11308",
+            "tongmuc_dautu": 993888002.0,
+            "bidNamePlanNew": "PL2400225103",
+            "dotbien_hatang": "Gói thầu XL-01: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 12: Bảo hiểm thi công xây dựng.",
+            "chudautu": "TỔNG CÔNG TY TRUYỀN TẢI ĐIỆN QUỐC GIA",
+            "createdBy": "vnz000022483-08",
+            "publicDate": "2023-04-05 16:00:19",
+            "projectName": "Liên danh Tổng công ty Cổ phần Bảo hiểm Bưu điện, Tổng Công ty Cổ phần Bảo hiểm Ngân hàng Đầu tư và Phát triển Việt Nam ",
+            "bidCloseDate": "2023-04-17 09:30:00",
+            "id_muasamcong": "d20d06e1-05a9-42f9-80d2-b1ecd5514344",
+            "tongmuc_dautu": 546454841.0,
+            "bidNamePlanNew": "PL2200076259",
+            "dotbien_hatang": "Gói thầu số 12: Bảo hiểm thi công xây dựng.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu XL-01: Thi công xây dựng",
+            "chudautu": "KHO K62 BINH CHỦNG HOÁ HỌC",
+            "createdBy": "vnz000009356",
+            "publicDate": "2024-06-11 17:41:08",
+            "projectName": null,
+            "bidCloseDate": "2024-06-18 17:00:00",
+            "id_muasamcong": "d3205a42-2258-4832-a90d-523fb7e325c1",
+            "tongmuc_dautu": 414450000.0,
+            "bidNamePlanNew": "PL2400106144",
+            "dotbien_hatang": "Gói thầu XL-01: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu XL - 01: Thi công xây dựng công trình",
+            "chudautu": "KHO K62 BINH CHỦNG HOÁ HỌC",
+            "createdBy": "vnz000009356",
+            "publicDate": "2024-08-25 20:08:19",
+            "projectName": null,
+            "bidCloseDate": "2024-09-04 17:00:00",
+            "id_muasamcong": "d3ace4b8-c7b6-4521-9eaf-4c34af05ca96",
+            "tongmuc_dautu": 1069882555.0,
+            "bidNamePlanNew": "PL2400172189",
+            "dotbien_hatang": "Gói thầu XL - 01: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 1 (thi công xây dựng, lắp đặt thiết bị, tư vấn cấp giấp phép môi trường và vận hành thử nghiệm) Nhà máy xử lý nước thải KCN Nhơn Trạch 2 - giai đoạn 3, công suất 10.000 m3/ngày đêm",
+            "chudautu": "CÔNG TY CỔ PHẦN PHÁT TRIỂN ĐÔ THỊ CÔNG NGHIỆP SỐ 2",
+            "createdBy": "vn3603805070",
+            "publicDate": "2024-03-06 15:29:49",
+            "projectName": null,
+            "bidCloseDate": "2024-03-25 15:00:00",
+            "id_muasamcong": "e5660780-182c-44c2-b3bb-a2b86a23ed9e",
+            "tongmuc_dautu": 28262250000.0,
+            "bidNamePlanNew": "PL2400026718",
+            "dotbien_hatang": "Gói thầu số 1 (thi công xây dựng, lắp đặt thiết bị, tư vấn cấp giấp phép môi trường và vận hành thử nghiệm) Nhà máy xử lý nước thải KCN Nhơn Trạch 2 - giai đoạn 3, công suất 10.000 m3/ngày đêm",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu XL-01: Thi công xây dựng công trình",
+            "chudautu": "Lữ đoàn 87",
+            "createdBy": "vnz000007551",
+            "publicDate": "2023-05-19 10:54:16",
+            "projectName": null,
+            "bidCloseDate": "2023-05-29 11:00:00",
+            "id_muasamcong": "e70fd10c-2f2d-4c8e-b2a4-5b5775021daf",
+            "tongmuc_dautu": 1736886000.0,
+            "bidNamePlanNew": "PL2300040613",
+            "dotbien_hatang": "Gói thầu XL-01: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu XD-01: Toàn bộ phần thi công xây dựng và cung cấp lắp đặt trang thiết bị",
+            "chudautu": "Kho 186, Cục Xăng dầu, Tổng cục Hậu cần",
+            "createdBy": "vnz000007715",
+            "publicDate": "2023-07-08 12:21:27",
+            "projectName": null,
+            "bidCloseDate": "2023-07-18 10:30:00",
+            "id_muasamcong": "e7722a82-9be7-4549-806f-464896bcec47",
+            "tongmuc_dautu": 3620979979.0,
+            "bidNamePlanNew": "PL2300106151",
+            "dotbien_hatang": "Gói thầu XD-01: Toàn bộ phần thi công xây dựng và cung cấp lắp đặt trang thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 13: Tư vấn giám sát thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án huyện Nhơn Trạch",
+            "createdBy": "vn3603531937",
+            "publicDate": "2025-03-20 10:31:09",
+            "projectName": null,
+            "bidCloseDate": "2025-04-07 09:00:00",
+            "id_muasamcong": "e85b4f4d-f2d1-4a8f-b67d-bbcda70a7eb1",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500040243",
+            "dotbien_hatang": "Gói thầu số 13: Tư vấn giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thiết kế, cung cấp thiết bị công nghệ và thi công xây dựng, thuộc Công trình Cải tạo, nâng cấp Trạm XLNT Tập trung từ cột B lên cột A KCN Ông Kèo, Công suất 3.000m3/ngày_đêm",
+            "chudautu": "CÔNG TY CỔ PHẦN TỔNG CÔNG TY TÍN NGHĨA ",
+            "createdBy": "vn3601381549",
+            "publicDate": "2024-06-17 11:13:54",
+            "projectName": null,
+            "bidCloseDate": "2024-07-02 09:00:00",
+            "id_muasamcong": "e93d0b51-882f-44ad-83fc-616964b4751e",
+            "tongmuc_dautu": 11450000000.0,
+            "bidNamePlanNew": "PL2400102134",
+            "dotbien_hatang": "Thiết kế, cung cấp thiết bị công nghệ và thi công xây dựng, thuộc Công trình Cải tạo, nâng cấp Trạm XLNT Tập trung từ cột B lên cột A KCN Ông Kèo, Công suất 3.000m3/ngày_đêm",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 4: Tư vấn giám sát thi công xây dựng công trình",
+            "chudautu": "ĐIỆN LỰC NHƠN TRẠCH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000022219",
+            "publicDate": "2024-05-31 08:29:52",
+            "projectName": null,
+            "bidCloseDate": "2024-06-20 10:00:00",
+            "id_muasamcong": "ea5944cb-f777-47de-83b1-ba15843801a1",
+            "tongmuc_dautu": 115000000.0,
+            "bidNamePlanNew": "PL2400062543",
+            "dotbien_hatang": "Gói thầu số 4: Tư vấn giám sát thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07 (xây dựng): Xây dựng Phần đường giao thông và hệ thống thoát nước (bao gồm đảm bảo an toàn giao thông  trong quá trình thi công xây dựng).",
+            "chudautu": "Ban Quản lý dự án huyện Nhơn Trạch",
+            "createdBy": "vn3603531937",
+            "publicDate": "2023-11-01 15:31:27",
+            "projectName": null,
+            "bidCloseDate": "2023-11-21 15:40:00",
+            "id_muasamcong": "f35ed061-8a6d-42ee-bf79-8d6a12887bf3",
+            "tongmuc_dautu": 263205257000.0,
+            "bidNamePlanNew": "PL2300195375",
+            "dotbien_hatang": "Gói thầu số 07 (xây dựng): Xây dựng Phần đường giao thông và hệ thống thoát nước (bao gồm đảm bảo an toàn giao thông  trong quá trình thi công xây dựng).",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình Nâng cấp hệ thống PCCC cảng cạn Tân Cảng Nhơn Trạch (khu 15ha)",
+            "chudautu": "CÔNG TY CỔ PHẦN ĐẠI LÝ GIAO NHẬN VẬN TẢI XẾP DỠ TÂN CẢNG",
+            "createdBy": "vn0309949629",
+            "publicDate": "2023-08-24 14:11:09",
+            "projectName": null,
+            "bidCloseDate": "2023-09-03 10:00:00",
+            "id_muasamcong": "f41918d4-fabf-4da2-b057-c6ebb8e4572a",
+            "tongmuc_dautu": 3727815000.0,
+            "bidNamePlanNew": "PL2300125805",
+            "dotbien_hatang": "Thi công xây dựng công trình Nâng cấp hệ thống PCCC cảng cạn Tân Cảng Nhơn Trạch (khu 15ha)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 4: Tư vấn giám sát thi công xây dựng công trình",
+            "chudautu": "ĐIỆN LỰC NHƠN TRẠCH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000022219",
+            "publicDate": "2024-05-24 10:30:00",
+            "projectName": null,
+            "bidCloseDate": "2024-06-12 09:00:00",
+            "id_muasamcong": "f5e2790d-4a22-4bc3-a070-c8a01f191b7c",
+            "tongmuc_dautu": 124000000.0,
+            "bidNamePlanNew": "PL2400062586",
+            "dotbien_hatang": "Gói thầu số 4: Tư vấn giám sát thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 38 (tư vấn): Giám sát thi công xây dựng gói thầu số 26",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng công trình giao thông tỉnh Đồng Nai",
+            "createdBy": "vn0313247076",
+            "publicDate": "2023-10-27 20:07:48",
+            "projectName": null,
+            "bidCloseDate": "2023-11-17 09:00:00",
+            "id_muasamcong": "f63f4ec8-748b-4290-b1ad-267bc1e937cf",
+            "tongmuc_dautu": 2916554000.0,
+            "bidNamePlanNew": "PL2300089640",
+            "dotbien_hatang": "Gói thầu số 38 (tư vấn): Giám sát thi công xây dựng gói thầu số 26",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Gói thầu thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án huyện Nhơn Trạch",
+            "createdBy": "vn3603531937",
+            "publicDate": "2023-11-14 15:44:53",
+            "projectName": "Liên danh Công ty TNHH Xây dựng Tài Phúc và Công ty TNHH TK XD Thiên Phú Thịnh",
+            "bidCloseDate": "2023-11-24 16:00:00",
+            "id_muasamcong": "fd2417f9-59b2-4e15-a438-adcb77feeb90",
+            "tongmuc_dautu": 10351872000.0,
+            "bidNamePlanNew": "PL2300220744",
+            "dotbien_hatang": "Gói thầu số 01: Gói thầu thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây lắp",
+            "chudautu": "Ban Quản lý dự án huyện Nhơn Trạch",
+            "createdBy": "vn3603531937-01",
+            "publicDate": "2023-06-27 15:28:58",
+            "projectName": "Liên danh Công ty TNHH Môi Trường Đô Thị Đồng Nai, Công ty TNHH Xây Dựng Thiết Bị Tân Hoàng và Công ty TNHH Xây Dựng Thương Mại Dịch Vụ Xuân Sơn",
+            "bidCloseDate": "2023-07-07 15:40:00",
+            "id_muasamcong": "fe9d580d-2341-4587-891e-f41caf0b47d5",
+            "tongmuc_dautu": 14094321000.0,
+            "bidNamePlanNew": "PL2300086057",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04 - Toàn bộ phần thi công xây dựng và cung cấp, lắp đặt thiết bị",
+            "chudautu": "Lữ đoàn 972/Cục vận tải/TCHC",
+            "createdBy": "vnz000024153",
+            "publicDate": "2024-05-22 16:24:07",
+            "projectName": null,
+            "bidCloseDate": "2024-05-31 14:00:00",
+            "id_muasamcong": "fedfb589-c3d2-4846-9bbc-d1e8aebb5fc9",
+            "tongmuc_dautu": 3660868000.0,
+            "bidNamePlanNew": "PL2400083298",
+            "dotbien_hatang": "Gói thầu số 04 - Toàn bộ phần thi công xây dựng và cung cấp, lắp đặt thiết bị",
+            "link_muasamcong": ""
+        }
+    ],
+    "so_dot_bien": 101,
+    "thu_tu_sap_xep": 185,
+    "polygon": [
+        [
+            [
+                106.890643,
+                10.785099
+            ],
+            [
+                106.894028,
+                10.782817
+            ],
+            [
+                106.89536,
+                10.781982
+            ],
+            [
+                106.896579,
+                10.780817
+            ],
+            [
+                106.897677,
+                10.778109
+            ],
+            [
+                106.89806,
+                10.777004
+            ],
+            [
+                106.899061,
+                10.776611
+            ],
+            [
+                106.900788,
+                10.776491
+            ],
+            [
+                106.903185,
+                10.776641
+            ],
+            [
+                106.905055,
+                10.777126
+            ],
+            [
+                106.90862,
+                10.776828
+            ],
+            [
+                106.912515,
+                10.775867
+            ],
+            [
+                106.913683,
+                10.775584
+            ],
+            [
+                106.91452,
+                10.775689
+            ],
+            [
+                106.915419,
+                10.776786
+            ],
+            [
+                106.917329,
+                10.779311
+            ],
+            [
+                106.918226,
+                10.780077
+            ],
+            [
+                106.919006,
+                10.780072
+            ],
+            [
+                106.919897,
+                10.779956
+            ],
+            [
+                106.921287,
+                10.779397
+            ],
+            [
+                106.922787,
+                10.778726
+            ],
+            [
+                106.923619,
+                10.778114
+            ],
+            [
+                106.92403,
+                10.777009
+            ],
+            [
+                106.924918,
+                10.776342
+            ],
+            [
+                106.926698,
+                10.775889
+            ],
+            [
+                106.932209,
+                10.774918
+            ],
+            [
+                106.933822,
+                10.774412
+            ],
+            [
+                106.936528,
+                10.77395
+            ],
+            [
+                106.937173,
+                10.773088
+            ],
+            [
+                106.938391,
+                10.771651
+            ],
+            [
+                106.939329,
+                10.771431
+            ],
+            [
+                106.941352,
+                10.771454
+            ],
+            [
+                106.942053,
+                10.771669
+            ],
+            [
+                106.942042,
+                10.769896
+            ],
+            [
+                106.941798,
+                10.765428
+            ],
+            [
+                106.941517,
+                10.7635
+            ],
+            [
+                106.941693,
+                10.763391
+            ],
+            [
+                106.943581,
+                10.762331
+            ],
+            [
+                106.945242,
+                10.760667
+            ],
+            [
+                106.945799,
+                10.760663
+            ],
+            [
+                106.948032,
+                10.761256
+            ],
+            [
+                106.95015,
+                10.761242
+            ],
+            [
+                106.95132,
+                10.76118
+            ],
+            [
+                106.952654,
+                10.760786
+            ],
+            [
+                106.953791,
+                10.759896
+            ],
+            [
+                106.9571,
+                10.754527
+            ],
+            [
+                106.958474,
+                10.751542
+            ],
+            [
+                106.958579,
+                10.750493
+            ],
+            [
+                106.95846,
+                10.749336
+            ],
+            [
+                106.956788,
+                10.745046
+            ],
+            [
+                106.956271,
+                10.742624
+            ],
+            [
+                106.956264,
+                10.741521
+            ],
+            [
+                106.956589,
+                10.740086
+            ],
+            [
+                106.958347,
+                10.736215
+            ],
+            [
+                106.960363,
+                10.733446
+            ],
+            [
+                106.96286,
+                10.731831
+            ],
+            [
+                106.96447,
+                10.730884
+            ],
+            [
+                106.965299,
+                10.729886
+            ],
+            [
+                106.965627,
+                10.728892
+            ],
+            [
+                106.965605,
+                10.725473
+            ],
+            [
+                106.965712,
+                10.724811
+            ],
+            [
+                106.966154,
+                10.724202
+            ],
+            [
+                106.967208,
+                10.723534
+            ],
+            [
+                106.969845,
+                10.722028
+            ],
+            [
+                106.972894,
+                10.719638
+            ],
+            [
+                106.973558,
+                10.718917
+            ],
+            [
+                106.973556,
+                10.718531
+            ],
+            [
+                106.973439,
+                10.71776
+            ],
+            [
+                106.971593,
+                10.716559
+            ],
+            [
+                106.971199,
+                10.715955
+            ],
+            [
+                106.971194,
+                10.715128
+            ],
+            [
+                106.9713,
+                10.714301
+            ],
+            [
+                106.972346,
+                10.712364
+            ],
+            [
+                106.97406,
+                10.710313
+            ],
+            [
+                106.974665,
+                10.709097
+            ],
+            [
+                106.974877,
+                10.707441
+            ],
+            [
+                106.974315,
+                10.706673
+            ],
+            [
+                106.974143,
+                10.705902
+            ],
+            [
+                106.974525,
+                10.704687
+            ],
+            [
+                106.975852,
+                10.703135
+            ],
+            [
+                106.977442,
+                10.701695
+            ],
+            [
+                106.977679,
+                10.700977
+            ],
+            [
+                106.977676,
+                10.700574
+            ],
+            [
+                106.97644,
+                10.698068
+            ],
+            [
+                106.974694,
+                10.695313
+            ],
+            [
+                106.973513,
+                10.693459
+            ],
+            [
+                106.972694,
+                10.692459
+            ],
+            [
+                106.972385,
+                10.691807
+            ],
+            [
+                106.972381,
+                10.691253
+            ],
+            [
+                106.972731,
+                10.690346
+            ],
+            [
+                106.97465,
+                10.688523
+            ],
+            [
+                106.979812,
+                10.685121
+            ],
+            [
+                106.983964,
+                10.682731
+            ],
+            [
+                106.985838,
+                10.681713
+            ],
+            [
+                106.986644,
+                10.680753
+            ],
+            [
+                106.986966,
+                10.679367
+            ],
+            [
+                106.986443,
+                10.677108
+            ],
+            [
+                106.986743,
+                10.676301
+            ],
+            [
+                106.988005,
+                10.675086
+            ],
+            [
+                106.989926,
+                10.673465
+            ],
+            [
+                106.99058,
+                10.672505
+            ],
+            [
+                106.991005,
+                10.671471
+            ],
+            [
+                106.991447,
+                10.669105
+            ],
+            [
+                106.992101,
+                10.668095
+            ],
+            [
+                106.99286,
+                10.667587
+            ],
+            [
+                106.993571,
+                10.667482
+            ],
+            [
+                106.994385,
+                10.667577
+            ],
+            [
+                106.996225,
+                10.669175
+            ],
+            [
+                106.997504,
+                10.670575
+            ],
+            [
+                106.998115,
+                10.670671
+            ],
+            [
+                106.998826,
+                10.670667
+            ],
+            [
+                106.999584,
+                10.670008
+            ],
+            [
+                107.000437,
+                10.668343
+            ],
+            [
+                107.000985,
+                10.66668
+            ],
+            [
+                107.001944,
+                10.665718
+            ],
+            [
+                107.003512,
+                10.664602
+            ],
+            [
+                107.008529,
+                10.662508
+            ],
+            [
+                107.015501,
+                10.660124
+            ],
+            [
+                107.016767,
+                10.659462
+            ],
+            [
+                107.017523,
+                10.658502
+            ],
+            [
+                107.017772,
+                10.657746
+            ],
+            [
+                107.017764,
+                10.656539
+            ],
+            [
+                107.017248,
+                10.655285
+            ],
+            [
+                107.015764,
+                10.653736
+            ],
+            [
+                107.014331,
+                10.652186
+            ],
+            [
+                107.01366,
+                10.650581
+            ],
+            [
+                107.013344,
+                10.648873
+            ],
+            [
+                107.013615,
+                10.643651
+            ],
+            [
+                107.015558,
+                10.637032
+            ],
+            [
+                107.016612,
+                10.63326
+            ],
+            [
+                107.016441,
+                10.632491
+            ],
+            [
+                107.016106,
+                10.631979
+            ],
+            [
+                107.015524,
+                10.631897
+            ],
+            [
+                107.014694,
+                10.631903
+            ],
+            [
+                107.0137,
+                10.632251
+            ],
+            [
+                107.009077,
+                10.636046
+            ],
+            [
+                107.007423,
+                10.636913
+            ],
+            [
+                107.006512,
+                10.637175
+            ],
+            [
+                107.004687,
+                10.637272
+            ],
+            [
+                107.001784,
+                10.636193
+            ],
+            [
+                107.000757,
+                10.635623
+            ],
+            [
+                106.999219,
+                10.634416
+            ],
+            [
+                106.99794,
+                10.632965
+            ],
+            [
+                106.997173,
+                10.631206
+            ],
+            [
+                106.996539,
+                10.62877
+            ],
+            [
+                106.996664,
+                10.626517
+            ],
+            [
+                106.997264,
+                10.624152
+            ],
+            [
+                106.998278,
+                10.6217
+            ],
+            [
+                106.999775,
+                10.619655
+            ],
+            [
+                107.001621,
+                10.617364
+            ],
+            [
+                107.008334,
+                10.612753
+            ],
+            [
+                107.007345,
+                10.6109
+            ],
+            [
+                107.006844,
+                10.610373
+            ],
+            [
+                107.00601,
+                10.609693
+            ],
+            [
+                107.00525,
+                10.609835
+            ],
+            [
+                107.004561,
+                10.61025
+            ],
+            [
+                107.003182,
+                10.611012
+            ],
+            [
+                107.002698,
+                10.611084
+            ],
+            [
+                107.002352,
+                10.611018
+            ],
+            [
+                107.002143,
+                10.610814
+            ],
+            [
+                107.002205,
+                10.609718
+            ],
+            [
+                107.002199,
+                10.608759
+            ],
+            [
+                107.001293,
+                10.607737
+            ],
+            [
+                107.000459,
+                10.607126
+            ],
+            [
+                106.995744,
+                10.605444
+            ],
+            [
+                106.995259,
+                10.605379
+            ],
+            [
+                106.992005,
+                10.605057
+            ],
+            [
+                106.991313,
+                10.604993
+            ],
+            [
+                106.990965,
+                10.604585
+            ],
+            [
+                106.990821,
+                10.603832
+            ],
+            [
+                106.990798,
+                10.600271
+            ],
+            [
+                106.990588,
+                10.599862
+            ],
+            [
+                106.989544,
+                10.59891
+            ],
+            [
+                106.988015,
+                10.597687
+            ],
+            [
+                106.987196,
+                10.596594
+            ],
+            [
+                106.986783,
+                10.596
+            ],
+            [
+                106.986659,
+                10.595451
+            ],
+            [
+                106.987081,
+                10.591458
+            ],
+            [
+                106.987284,
+                10.588131
+            ],
+            [
+                106.987046,
+                10.585916
+            ],
+            [
+                106.985794,
+                10.582784
+            ],
+            [
+                106.983846,
+                10.579013
+            ],
+            [
+                106.980671,
+                10.581255
+            ],
+            [
+                106.979375,
+                10.581731
+            ],
+            [
+                106.977557,
+                10.581377
+            ],
+            [
+                106.975316,
+                10.581753
+            ],
+            [
+                106.973738,
+                10.583048
+            ],
+            [
+                106.972238,
+                10.585342
+            ],
+            [
+                106.968729,
+                10.589435
+            ],
+            [
+                106.966645,
+                10.590662
+            ],
+            [
+                106.961429,
+                10.592872
+            ],
+            [
+                106.959341,
+                10.593528
+            ],
+            [
+                106.950626,
+                10.595724
+            ],
+            [
+                106.94739,
+                10.597244
+            ],
+            [
+                106.946452,
+                10.597321
+            ],
+            [
+                106.945658,
+                10.597255
+            ],
+            [
+                106.94349,
+                10.596626
+            ],
+            [
+                106.941614,
+                10.596566
+            ],
+            [
+                106.940607,
+                10.596929
+            ],
+            [
+                106.940105,
+                10.597432
+            ],
+            [
+                106.93878,
+                10.598975
+            ],
+            [
+                106.935972,
+                10.599987
+            ],
+            [
+                106.93156,
+                10.601773
+            ],
+            [
+                106.928693,
+                10.602764
+            ],
+            [
+                106.92621,
+                10.60465
+            ],
+            [
+                106.923131,
+                10.608037
+            ],
+            [
+                106.921176,
+                10.60977
+            ],
+            [
+                106.919892,
+                10.610078
+            ],
+            [
+                106.919212,
+                10.610082
+            ],
+            [
+                106.917924,
+                10.609715
+            ],
+            [
+                106.915117,
+                10.608161
+            ],
+            [
+                106.913299,
+                10.607648
+            ],
+            [
+                106.912241,
+                10.607804
+            ],
+            [
+                106.910886,
+                10.608785
+            ],
+            [
+                106.909611,
+                10.610365
+            ],
+            [
+                106.907857,
+                10.614155
+            ],
+            [
+                106.906005,
+                10.620229
+            ],
+            [
+                106.90481,
+                10.622706
+            ],
+            [
+                106.902784,
+                10.625188
+            ],
+            [
+                106.898573,
+                10.628956
+            ],
+            [
+                106.89598,
+                10.631628
+            ],
+            [
+                106.889626,
+                10.637318
+            ],
+            [
+                106.886499,
+                10.639245
+            ],
+            [
+                106.885371,
+                10.6403
+            ],
+            [
+                106.884038,
+                10.644798
+            ],
+            [
+                106.882993,
+                10.647125
+            ],
+            [
+                106.881864,
+                10.647955
+            ],
+            [
+                106.880391,
+                10.648226
+            ],
+            [
+                106.874116,
+                10.648413
+            ],
+            [
+                106.873055,
+                10.648195
+            ],
+            [
+                106.87237,
+                10.64745
+            ],
+            [
+                106.870615,
+                10.644841
+            ],
+            [
+                106.869168,
+                10.643129
+            ],
+            [
+                106.867878,
+                10.642463
+            ],
+            [
+                106.864697,
+                10.641658
+            ],
+            [
+                106.863633,
+                10.640841
+            ],
+            [
+                106.861724,
+                10.637784
+            ],
+            [
+                106.861191,
+                10.637113
+            ],
+            [
+                106.859979,
+                10.636821
+            ],
+            [
+                106.858846,
+                10.636978
+            ],
+            [
+                106.855451,
+                10.638345
+            ],
+            [
+                106.852621,
+                10.639222
+            ],
+            [
+                106.849067,
+                10.639318
+            ],
+            [
+                106.846343,
+                10.639035
+            ],
+            [
+                106.842554,
+                10.637785
+            ],
+            [
+                106.841033,
+                10.636297
+            ],
+            [
+                106.840264,
+                10.63428
+            ],
+            [
+                106.839486,
+                10.630617
+            ],
+            [
+                106.839177,
+                10.629422
+            ],
+            [
+                106.837732,
+                10.628083
+            ],
+            [
+                106.835762,
+                10.627421
+            ],
+            [
+                106.83296,
+                10.626764
+            ],
+            [
+                106.82884,
+                10.626975
+            ],
+            [
+                106.82552,
+                10.628266
+            ],
+            [
+                106.822585,
+                10.630604
+            ],
+            [
+                106.817398,
+                10.635873
+            ],
+            [
+                106.813235,
+                10.641623
+            ],
+            [
+                106.810641,
+                10.650545
+            ],
+            [
+                106.809304,
+                10.65467
+            ],
+            [
+                106.807652,
+                10.6567
+            ],
+            [
+                106.802602,
+                10.659499
+            ],
+            [
+                106.798117,
+                10.662182
+            ],
+            [
+                106.792321,
+                10.666781
+            ],
+            [
+                106.787728,
+                10.670325
+            ],
+            [
+                106.784938,
+                10.671763
+            ],
+            [
+                106.778375,
+                10.674645
+            ],
+            [
+                106.776425,
+                10.675677
+            ],
+            [
+                106.77566,
+                10.676082
+            ],
+            [
+                106.773475,
+                10.677442
+            ],
+            [
+                106.767004,
+                10.683392
+            ],
+            [
+                106.761212,
+                10.688814
+            ],
+            [
+                106.755727,
+                10.695282
+            ],
+            [
+                106.754531,
+                10.697758
+            ],
+            [
+                106.752242,
+                10.704618
+            ],
+            [
+                106.751966,
+                10.705445
+            ],
+            [
+                106.751401,
+                10.712484
+            ],
+            [
+                106.751734,
+                10.717722
+            ],
+            [
+                106.752658,
+                10.720561
+            ],
+            [
+                106.755754,
+                10.726195
+            ],
+            [
+                106.763508,
+                10.73605
+            ],
+            [
+                106.766333,
+                10.740413
+            ],
+            [
+                106.766725,
+                10.740843
+            ],
+            [
+                106.770025,
+                10.744471
+            ],
+            [
+                106.77282,
+                10.746906
+            ],
+            [
+                106.777109,
+                10.749464
+            ],
+            [
+                106.785434,
+                10.753215
+            ],
+            [
+                106.793169,
+                10.756277
+            ],
+            [
+                106.798594,
+                10.758902
+            ],
+            [
+                106.80146,
+                10.760738
+            ],
+            [
+                106.802338,
+                10.762005
+            ],
+            [
+                106.803335,
+                10.76432
+            ],
+            [
+                106.804815,
+                10.76826
+            ],
+            [
+                106.806267,
+                10.770721
+            ],
+            [
+                106.807982,
+                10.772882
+            ],
+            [
+                106.809544,
+                10.774274
+            ],
+            [
+                106.813174,
+                10.777511
+            ],
+            [
+                106.816858,
+                10.779959
+            ],
+            [
+                106.81898,
+                10.780583
+            ],
+            [
+                106.820758,
+                10.780647
+            ],
+            [
+                106.821892,
+                10.780453
+            ],
+            [
+                106.823174,
+                10.779772
+            ],
+            [
+                106.824566,
+                10.778529
+            ],
+            [
+                106.825768,
+                10.776988
+            ],
+            [
+                106.826062,
+                10.775639
+            ],
+            [
+                106.826071,
+                10.773936
+            ],
+            [
+                106.825108,
+                10.771172
+            ],
+            [
+                106.822951,
+                10.76471
+            ],
+            [
+                106.822747,
+                10.762279
+            ],
+            [
+                106.823231,
+                10.760966
+            ],
+            [
+                106.824021,
+                10.760251
+            ],
+            [
+                106.825116,
+                10.75987
+            ],
+            [
+                106.827043,
+                10.759559
+            ],
+            [
+                106.827802,
+                10.759854
+            ],
+            [
+                106.829019,
+                10.760932
+            ],
+            [
+                106.832773,
+                10.765719
+            ],
+            [
+                106.836468,
+                10.769851
+            ],
+            [
+                106.841352,
+                10.773658
+            ],
+            [
+                106.845673,
+                10.775129
+            ],
+            [
+                106.849873,
+                10.775254
+            ],
+            [
+                106.851874,
+                10.774718
+            ],
+            [
+                106.853818,
+                10.774014
+            ],
+            [
+                106.857766,
+                10.770024
+            ],
+            [
+                106.8629,
+                10.765371
+            ],
+            [
+                106.865733,
+                10.764681
+            ],
+            [
+                106.870086,
+                10.765178
+            ],
+            [
+                106.872741,
+                10.76636
+            ],
+            [
+                106.874341,
+                10.768072
+            ],
+            [
+                106.874675,
+                10.770184
+            ],
+            [
+                106.874347,
+                10.772169
+            ],
+            [
+                106.872294,
+                10.776523
+            ],
+            [
+                106.871595,
+                10.777319
+            ],
+            [
+                106.876446,
+                10.779502
+            ],
+            [
+                106.87922,
+                10.781088
+            ],
+            [
+                106.880899,
+                10.782126
+            ],
+            [
+                106.88146,
+                10.782729
+            ],
+            [
+                106.883533,
+                10.784591
+            ],
+            [
+                106.884931,
+                10.785244
+            ],
+            [
+                106.88864,
+                10.785662
+            ],
+            [
+                106.890643,
+                10.785099
+            ]
+        ]
+    ]
+}

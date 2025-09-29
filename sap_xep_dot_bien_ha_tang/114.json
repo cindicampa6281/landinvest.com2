@@ -1,0 +1,5250 @@
+{
+    "id_district": "114",
+    "id_province": 63,
+    "name_province": "Yên Bái",
+    "name_district": "Huyện Yên Bình",
+    "list_sukien": [
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Trường Tiểu học và Trung học cơ sở xã Thịnh Hưng (Khu tiểu học), huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-13 12:43:03",
+            "projectName": null,
+            "bidCloseDate": "2022-10-23 16:00:00",
+            "id_muasamcong": "0338055e-d033-443f-a4fe-0dec44e089fc",
+            "tongmuc_dautu": 2951349000.0,
+            "bidNamePlanNew": "PL2200010207",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Trường Tiểu học và Trung học cơ sở xã Thịnh Hưng (Khu tiểu học), huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 3: Giám sát thi công xây dựng và lắp đặt TB",
+            "chudautu": "CÔNG TY ĐIỆN LỰC YÊN BÁI - CHI NHÁNH TỔNG CÔNG TY ĐIỆN LỰC MIỀN BẮC",
+            "createdBy": "vnz000022218-14",
+            "publicDate": "2023-12-12 10:45:58",
+            "projectName": null,
+            "bidCloseDate": "2023-12-21 09:00:00",
+            "id_muasamcong": "055343e1-c5ee-4520-942a-3ddf55aca63e",
+            "tongmuc_dautu": 155000000.0,
+            "bidNamePlanNew": "PL2300241739",
+            "dotbien_hatang": "Gói thầu số 3: Giám sát thi công xây dựng và lắp đặt TB",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng + mua sắm, lắp đặt thiết bị công trình Trường Tiểu học và Trung học cơ sở xã Phúc An (Phân hiệu Tiểu học), huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-17 08:54:01",
+            "projectName": null,
+            "bidCloseDate": "2022-10-27 16:00:00",
+            "id_muasamcong": "060ceb94-07b1-4c17-83b1-1828d656bf67",
+            "tongmuc_dautu": 5605348000.0,
+            "bidNamePlanNew": "PL2200020025",
+            "dotbien_hatang": "Thi công xây dựng + mua sắm, lắp đặt thiết bị công trình Trường Tiểu học và Trung học cơ sở xã Phúc An (Phân hiệu Tiểu học), huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 11: Thi công xây dựng và mua sắm, lắp đặt thiết bị Công trình nhà làm việc các phòng, ban chuyên môn thuộc Ủy ban nhân dân huyện Yên Bình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200442501-01",
+            "publicDate": "2024-11-16 15:36:02",
+            "projectName": null,
+            "bidCloseDate": "2024-12-04 08:00:00",
+            "id_muasamcong": "07f09a56-a319-4eec-9dbe-ca6f95984429",
+            "tongmuc_dautu": 30765092000.0,
+            "bidNamePlanNew": "PL2400202311",
+            "dotbien_hatang": "Gói thầu số 11: Thi công xây dựng và mua sắm, lắp đặt thiết bị Công trình nhà làm việc các phòng, ban chuyên môn thuộc Ủy ban nhân dân huyện Yên Bình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Cấp nước sinh hoạt tập trung xã Cảm Nhân",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-11-01 15:33:53",
+            "projectName": null,
+            "bidCloseDate": "2023-11-09 08:00:00",
+            "id_muasamcong": "0a4b2de7-1d9f-4a74-835d-1ff680cf9b38",
+            "tongmuc_dautu": 3632714000.0,
+            "bidNamePlanNew": "PL2300203290",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Cấp nước sinh hoạt tập trung xã Cảm Nhân",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 11: Thi công xây dựng; cung cấp, lắp đặt thiết bị công trình Cải tạo, nâng cấp Cơ sở cai nghiện ma túy tỉnh Yên Bái",
+            "chudautu": "Sở Lao động - Thương binh và Xã hội tỉnh Yên Bái",
+            "createdBy": "vn5200265429",
+            "publicDate": "2024-05-08 15:27:10",
+            "projectName": "Liên danh Đại An - An Minh",
+            "bidCloseDate": "2024-05-24 08:00:00",
+            "id_muasamcong": "0bb99727-2548-4408-873d-d5c7586c1630",
+            "tongmuc_dautu": 20772236000.0,
+            "bidNamePlanNew": "PL2300234763",
+            "dotbien_hatang": "Gói thầu số 11: Thi công xây dựng; cung cấp, lắp đặt thiết bị công trình Cải tạo, nâng cấp Cơ sở cai nghiện ma túy tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 3: Giám sát thi công xây dựng và lắp đặt TB",
+            "chudautu": "CÔNG TY ĐIỆN LỰC YÊN BÁI - CHI NHÁNH TỔNG CÔNG TY ĐIỆN LỰC MIỀN BẮC",
+            "createdBy": "vnz000022218-12",
+            "publicDate": "2023-12-03 14:46:39",
+            "projectName": null,
+            "bidCloseDate": "2023-12-13 15:00:00",
+            "id_muasamcong": "0c6643b9-c991-46a3-8950-b9588ab5ddd4",
+            "tongmuc_dautu": 155000000.0,
+            "bidNamePlanNew": "PL2300239421",
+            "dotbien_hatang": "Gói thầu số 3: Giám sát thi công xây dựng và lắp đặt TB",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng công trình Nâng cấp chợ Xuân Lai",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-06-15 14:21:22",
+            "projectName": null,
+            "bidCloseDate": "2023-06-25 08:00:00",
+            "id_muasamcong": "0dd675a6-60ab-45ce-8073-08359baef6a0",
+            "tongmuc_dautu": 1754386000.0,
+            "bidNamePlanNew": "PL2300091969",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng công trình Nâng cấp chợ Xuân Lai",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Đường thôn Trung Tâm đi trung tâm xã Yên Thành.",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-12 08:49:23",
+            "projectName": null,
+            "bidCloseDate": "2022-10-22 16:00:00",
+            "id_muasamcong": "0e44c7b4-95b7-485e-9196-24977d2bcef1",
+            "tongmuc_dautu": 2050090000.0,
+            "bidNamePlanNew": "PL2200009328",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Đường thôn Trung Tâm đi trung tâm xã Yên Thành.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Đường bê tông thôn Khe Cọ đi trung tâm xã Tân Nguyên (Đoạn 3).",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-11 15:19:51",
+            "projectName": null,
+            "bidCloseDate": "2022-10-21 16:00:00",
+            "id_muasamcong": "0fd6fa27-14fd-4fa6-990d-a3d314aa18f3",
+            "tongmuc_dautu": 1931267000.0,
+            "bidNamePlanNew": "PL2200009938",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Đường bê tông thôn Khe Cọ đi trung tâm xã Tân Nguyên (Đoạn 3).",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Trường Mầm non xã Phú Thịnh (Điểm chính), huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-12 12:49:41",
+            "projectName": null,
+            "bidCloseDate": "2022-10-22 16:00:00",
+            "id_muasamcong": "0fde5f58-1391-4d8d-9b2c-b98a8e6b15ec",
+            "tongmuc_dautu": 4447951000.0,
+            "bidNamePlanNew": "PL2200010145",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Trường Mầm non xã Phú Thịnh (Điểm chính), huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06:Thi công xây dựng và mua sắm, lắp đặt thiết bị công trình Trường tiểu học và trung học cơ sở Hán Đà, huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200442501-01",
+            "publicDate": "2023-09-12 07:54:19",
+            "projectName": null,
+            "bidCloseDate": "2023-09-22 09:00:00",
+            "id_muasamcong": "106c54ea-4af2-43f5-a9eb-26bbe1795d60",
+            "tongmuc_dautu": 8998680000.0,
+            "bidNamePlanNew": "PL2300162732",
+            "dotbien_hatang": "Gói thầu số 06:Thi công xây dựng và mua sắm, lắp đặt thiết bị công trình Trường tiểu học và trung học cơ sở Hán Đà, huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Tư vấn giám sát thi công xây lắp",
+            "chudautu": "Sở Giao thông vận tải Yên Bái",
+            "createdBy": "vn5200758167",
+            "publicDate": "2024-04-04 08:57:03",
+            "projectName": null,
+            "bidCloseDate": "2024-04-22 09:30:00",
+            "id_muasamcong": "12964f2c-0acf-496f-bedf-4445ab51911b",
+            "tongmuc_dautu": 76880000.0,
+            "bidNamePlanNew": "PL2400016755",
+            "dotbien_hatang": "Tư vấn giám sát thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Tư vấn giám sát thi công xây dựng công trình Đường tổ 3 thị trấn Yên Bình đi xã Đại Đồng",
+            "chudautu": "Sở Giao thông vận tải Yên Bái",
+            "createdBy": "vn5200758167",
+            "publicDate": "2023-08-30 22:22:10",
+            "projectName": null,
+            "bidCloseDate": "2023-09-21 14:10:00",
+            "id_muasamcong": "132b3bbd-2513-4b2c-a09a-0bd0b4f8dab1",
+            "tongmuc_dautu": 501252000.0,
+            "bidNamePlanNew": "PL2300118487",
+            "dotbien_hatang": "Tư vấn giám sát thi công xây dựng công trình Đường tổ 3 thị trấn Yên Bình đi xã Đại Đồng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng Công trình sửa chữa, nâng cấp cụm công trình thủy lợi xã Bảo Ái, xã Cảm Ân, huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Chi cục Thủy lợi tỉnh Yên Bái",
+            "createdBy": "vn5200932270-01",
+            "publicDate": "2024-10-10 17:53:50",
+            "projectName": null,
+            "bidCloseDate": "2024-10-19 09:00:00",
+            "id_muasamcong": "1422b92b-01a1-46c0-8880-afcc5e2febc9",
+            "tongmuc_dautu": 1463923000.0,
+            "bidNamePlanNew": "PL2400207290",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng Công trình sửa chữa, nâng cấp cụm công trình thủy lợi xã Bảo Ái, xã Cảm Ân, huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Cụm công trình thủy lợi xã Phúc An",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-06-14 15:10:23",
+            "projectName": null,
+            "bidCloseDate": "2023-06-24 08:00:00",
+            "id_muasamcong": "1572794d-5b55-465d-870c-fe871b3a9098",
+            "tongmuc_dautu": 1182597000.0,
+            "bidNamePlanNew": "PL2300094714",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Cụm công trình thủy lợi xã Phúc An",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Cầu thôn Ngòi Lũng, xã Tân Nguyên, huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-11 09:50:27",
+            "projectName": null,
+            "bidCloseDate": "2022-10-21 15:50:00",
+            "id_muasamcong": "17d6fb84-8ed0-454b-adc0-794d66279bd1",
+            "tongmuc_dautu": 1917118000.0,
+            "bidNamePlanNew": "PL2200008956",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Cầu thôn Ngòi Lũng, xã Tân Nguyên, huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05:Thi công xây dựng và lắp đặt thiết bị công trình Cấp nước sinh hoạt tập trung xã Phúc An.",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-10-28 16:43:58",
+            "projectName": null,
+            "bidCloseDate": "2023-11-07 08:00:00",
+            "id_muasamcong": "1aaa4f58-8dab-4b66-8bc3-742f2b0b135b",
+            "tongmuc_dautu": 3651270000.0,
+            "bidNamePlanNew": "PL2300198825",
+            "dotbien_hatang": "Gói thầu số 05:Thi công xây dựng và lắp đặt thiết bị công trình Cấp nước sinh hoạt tập trung xã Phúc An.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06: Thi công xây dựng và mua sắm, lắp đặt thiết bị công trình Trường tiểu học và trung học cơ sở Bạch Hà",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200442501-01",
+            "publicDate": "2023-11-02 14:19:22",
+            "projectName": null,
+            "bidCloseDate": "2023-11-13 09:00:00",
+            "id_muasamcong": "203ac051-2d7b-4651-a2ba-9b68c67f80eb",
+            "tongmuc_dautu": 8993369000.0,
+            "bidNamePlanNew": "PL2300208065",
+            "dotbien_hatang": "Gói thầu số 06: Thi công xây dựng và mua sắm, lắp đặt thiết bị công trình Trường tiểu học và trung học cơ sở Bạch Hà",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06: Thi công xây dựng và lắp đặt thiết bị công trình Xây dựng khu dân cư nông thôn mới thôn Làng Lạnh xã Cảm Nhân",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2024-04-19 16:00:16",
+            "projectName": null,
+            "bidCloseDate": "2024-04-28 08:00:00",
+            "id_muasamcong": "214f5e77-6e59-4d95-8c4d-2d664fc6356a",
+            "tongmuc_dautu": 3225549000.0,
+            "bidNamePlanNew": "PL2400059063",
+            "dotbien_hatang": "Gói thầu số 06: Thi công xây dựng và lắp đặt thiết bị công trình Xây dựng khu dân cư nông thôn mới thôn Làng Lạnh xã Cảm Nhân",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu TV-06:Tư vấn giám sát thi công xây dựng và lắp đặt thiết bị, doanh cụ",
+            "chudautu": "Ban quản lý dự án ĐTXD Quân khu 2",
+            "createdBy": "vn2500368324",
+            "publicDate": "2024-02-22 14:21:48",
+            "projectName": null,
+            "bidCloseDate": "2024-03-11 08:30:00",
+            "id_muasamcong": "225e5f45-5bd1-4c72-972d-b52e2fa08098",
+            "tongmuc_dautu": 681156000.0,
+            "bidNamePlanNew": "PL2300247162",
+            "dotbien_hatang": "Gói thầu TV-06:Tư vấn giám sát thi công xây dựng và lắp đặt thiết bị, doanh cụ",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng + mua sắm, lắp đặt thiết bị công trình Trường tiểu học và trung học cơ sở xã Xuân Long (Phân hiệu tiểu học), huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-06-19 16:56:51",
+            "projectName": null,
+            "bidCloseDate": "2023-06-29 08:00:00",
+            "id_muasamcong": "2263096b-1d97-4186-a611-2f99da729ab8",
+            "tongmuc_dautu": 5389547000.0,
+            "bidNamePlanNew": "PL2300097452",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng + mua sắm, lắp đặt thiết bị công trình Trường tiểu học và trung học cơ sở xã Xuân Long (Phân hiệu tiểu học), huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu TV-05: Tư vấn giám sát thi công xây dựng và lắp đặt thiết bị, doanh cụ",
+            "chudautu": "Ban quản lý dự án ĐTXD Quân khu 2",
+            "createdBy": "vn2500368324",
+            "publicDate": "2024-03-20 13:28:08",
+            "projectName": null,
+            "bidCloseDate": "2024-04-07 08:30:00",
+            "id_muasamcong": "25e975d1-b30f-47f2-ad55-bf7cfe312aaf",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300246917",
+            "dotbien_hatang": "Gói thầu TV-05: Tư vấn giám sát thi công xây dựng và lắp đặt thiết bị, doanh cụ",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04:Thi công xây dựng công trình Cấp nước tập trung xã Bạch Hà.",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-10-30 17:38:00",
+            "projectName": null,
+            "bidCloseDate": "2023-11-09 08:00:00",
+            "id_muasamcong": "285df328-839b-4801-af7a-147eb434f37d",
+            "tongmuc_dautu": 2509838000.0,
+            "bidNamePlanNew": "PL2300198858",
+            "dotbien_hatang": "Gói thầu số 04:Thi công xây dựng công trình Cấp nước tập trung xã Bạch Hà.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Trường Mầm non xã Phúc An, huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-13 11:07:38",
+            "projectName": null,
+            "bidCloseDate": "2022-10-23 16:00:00",
+            "id_muasamcong": "2a420c6c-6c01-47f5-8d9a-e0ec726b6d68",
+            "tongmuc_dautu": 4045089000.0,
+            "bidNamePlanNew": "PL2200010151",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Trường Mầm non xã Phúc An, huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 11: Thi công xây dựng công trình Dự án phát triển quỹ đất dân cư nông thôn và tái định cư các hộ gia đình bị thu hồi đất khi thực hiện các dự án cụm công nghiệp Phú Thịnh 1, Phú Thịnh 2, Phú Thịnh 3",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2025-03-14 17:46:30",
+            "projectName": null,
+            "bidCloseDate": "2025-03-23 08:00:00",
+            "id_muasamcong": "2b613e5f-985e-4be9-8f87-e5832212d74b",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500045347",
+            "dotbien_hatang": "Gói thầu số 11: Thi công xây dựng công trình Dự án phát triển quỹ đất dân cư nông thôn và tái định cư các hộ gia đình bị thu hồi đất khi thực hiện các dự án cụm công nghiệp Phú Thịnh 1, Phú Thịnh 2, Phú Thịnh 3",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Đường giao thông Thôn Quyết Thắng 1 đi trung tâm xã Cảm Nhân",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-06-15 11:06:30",
+            "projectName": null,
+            "bidCloseDate": "2023-06-25 08:00:00",
+            "id_muasamcong": "2bd37863-97ba-4b2d-bc0f-2ada4a36c13b",
+            "tongmuc_dautu": 1116472000.0,
+            "bidNamePlanNew": "PL2300079133",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Đường giao thông Thôn Quyết Thắng 1 đi trung tâm xã Cảm Nhân",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Trường PTDTBT Tiểu học Yên Thành (Phân hiệu Máy Đựng), huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-13 13:20:07",
+            "projectName": null,
+            "bidCloseDate": "2022-10-23 16:00:00",
+            "id_muasamcong": "2c126444-92f8-4458-b9d8-e6c639c9cce5",
+            "tongmuc_dautu": 4261388000.0,
+            "bidNamePlanNew": "PL2200010243",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Trường PTDTBT Tiểu học Yên Thành (Phân hiệu Máy Đựng), huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng công trình Trường tiểu học và trung học cơ sở Cảm Ân",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-09-12 08:20:27",
+            "projectName": null,
+            "bidCloseDate": "2023-09-22 08:00:00",
+            "id_muasamcong": "2d24fba3-8069-4853-b332-d211b1d30dc1",
+            "tongmuc_dautu": 5383960000.0,
+            "bidNamePlanNew": "PL2300146978",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng công trình Trường tiểu học và trung học cơ sở Cảm Ân",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06: Thi công xây dựng và mua sắm, lắp đặt thiết bị công trình Trường tiểu học và trung học cơ sở Vũ Linh",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200442501-01",
+            "publicDate": "2023-11-01 08:45:24",
+            "projectName": null,
+            "bidCloseDate": "2023-11-11 09:00:00",
+            "id_muasamcong": "2e0b3608-d151-4fca-9377-a5259ac12fba",
+            "tongmuc_dautu": 9919747000.0,
+            "bidNamePlanNew": "PL2300206802",
+            "dotbien_hatang": "Gói thầu số 06: Thi công xây dựng và mua sắm, lắp đặt thiết bị công trình Trường tiểu học và trung học cơ sở Vũ Linh",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng và mua sắm thiết bị công trình Chợ xã Mông Sơn.",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-09-09 12:01:49",
+            "projectName": null,
+            "bidCloseDate": "2023-09-19 08:00:00",
+            "id_muasamcong": "2e53a5b6-4add-46c1-ae49-8d5e2db60d63",
+            "tongmuc_dautu": 1161722000.0,
+            "bidNamePlanNew": "PL2300156975",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng và mua sắm thiết bị công trình Chợ xã Mông Sơn.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu sô 04: Thi công xây dựng công trình Đường thôn Trại Phung - QL70 đi trung tâm xã Tân Nguyên.",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-10 16:01:51",
+            "projectName": null,
+            "bidCloseDate": "2022-10-20 16:10:00",
+            "id_muasamcong": "30323e13-07d8-4b92-9ae6-511a17d8cc7c",
+            "tongmuc_dautu": 1800000000.0,
+            "bidNamePlanNew": "PL2200009658",
+            "dotbien_hatang": "Gói thầu sô 04: Thi công xây dựng công trình Đường thôn Trại Phung - QL70 đi trung tâm xã Tân Nguyên.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 5: Giám sát thi công xây dựng và lắp đặt TB",
+            "chudautu": "CÔNG TY ĐIỆN LỰC YÊN BÁI - CHI NHÁNH TỔNG CÔNG TY ĐIỆN LỰC MIỀN BẮC",
+            "createdBy": "vnz000022218-09",
+            "publicDate": "2023-10-14 15:51:22",
+            "projectName": null,
+            "bidCloseDate": "2023-10-26 15:05:00",
+            "id_muasamcong": "31ee987c-e6e2-46eb-bee1-91a19409db63",
+            "tongmuc_dautu": 88979550.0,
+            "bidNamePlanNew": "PL2300187795",
+            "dotbien_hatang": "Gói thầu số 5: Giám sát thi công xây dựng và lắp đặt TB",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Đường giao thông thôn Ngòi Nhầu đi trung tâm xã Bảo Ái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-06-12 11:14:53",
+            "projectName": null,
+            "bidCloseDate": "2023-06-22 08:00:00",
+            "id_muasamcong": "3a68957a-2363-4df0-b778-a6709cb3e8dc",
+            "tongmuc_dautu": 1159060000.0,
+            "bidNamePlanNew": "PL2300078580",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Đường giao thông thôn Ngòi Nhầu đi trung tâm xã Bảo Ái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Cấp nước sinh hoạt tập trung xã Thịnh Hưng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-09-06 08:34:02",
+            "projectName": null,
+            "bidCloseDate": "2023-09-16 08:00:00",
+            "id_muasamcong": "3c762795-3db2-41f8-bc0e-86060d611b01",
+            "tongmuc_dautu": 3865953000.0,
+            "bidNamePlanNew": "PL2300151397",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Cấp nước sinh hoạt tập trung xã Thịnh Hưng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Cầu qua suối thôn Làng Cại, xã Phúc An.",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-10 15:35:06",
+            "projectName": null,
+            "bidCloseDate": "2022-10-20 15:50:00",
+            "id_muasamcong": "3d5a4a58-2ead-43cc-a744-1ab0f3bc3a03",
+            "tongmuc_dautu": 1531048000.0,
+            "bidNamePlanNew": "PL2200009713",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Cầu qua suối thôn Làng Cại, xã Phúc An.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 12:Giám sát thi công xây dựng công trình Di dân khẩn cấp thôn Hàm Rồng và thôn Ngọn Ngòi, xã Bạch Hà, huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200922730-06",
+            "publicDate": "2023-07-10 18:49:52",
+            "projectName": "Liên danh P&K",
+            "bidCloseDate": "2023-07-30 09:00:00",
+            "id_muasamcong": "3f0093b3-be12-4f95-85ab-aa75466d4d7d",
+            "tongmuc_dautu": 850504230.0,
+            "bidNamePlanNew": "PL2300094135",
+            "dotbien_hatang": "Gói thầu số 12:Giám sát thi công xây dựng công trình Di dân khẩn cấp thôn Hàm Rồng và thôn Ngọn Ngòi, xã Bạch Hà, huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Chỉnh trang hạ tầng kỹ thuật đô thị trung tâm thị trấn Yên Bình và thị trấn Thác Bà",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-05-29 11:23:06",
+            "projectName": null,
+            "bidCloseDate": "2023-06-04 08:00:00",
+            "id_muasamcong": "3f9d78ef-cc0e-4f39-b5d7-568d10c0d47b",
+            "tongmuc_dautu": 2111882000.0,
+            "bidNamePlanNew": "PL2300079052",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Chỉnh trang hạ tầng kỹ thuật đô thị trung tâm thị trấn Yên Bình và thị trấn Thác Bà",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04:Thi công xây dựng công trình Đường giao thông thôn Ngòi Ngần đi trung tâm xã Bảo Ái.",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-06-12 10:51:11",
+            "projectName": null,
+            "bidCloseDate": "2023-06-22 08:00:00",
+            "id_muasamcong": "403b702c-12dd-4cb3-9fa8-fcedbc15611d",
+            "tongmuc_dautu": 1694120000.0,
+            "bidNamePlanNew": "PL2300078636",
+            "dotbien_hatang": "Gói thầu số 04:Thi công xây dựng công trình Đường giao thông thôn Ngòi Ngần đi trung tâm xã Bảo Ái.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Đường thôn Ngòi Khương đi trung tâm xã Yên Thành.",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-12 08:52:04",
+            "projectName": null,
+            "bidCloseDate": "2022-10-22 16:00:00",
+            "id_muasamcong": "42827d69-6542-4bfb-a5e4-5b2d5e01eff7",
+            "tongmuc_dautu": 2365826000.0,
+            "bidNamePlanNew": "PL2200009165",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Đường thôn Ngòi Khương đi trung tâm xã Yên Thành.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Trường Tiểu học và Trung học cơ sở xã Thịnh Hưng (Khu Trung học cơ sở), huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-24 14:29:13",
+            "projectName": null,
+            "bidCloseDate": "2022-11-03 16:00:00",
+            "id_muasamcong": "42973ba4-661c-4dc0-bc94-a9125b0c6cb2",
+            "tongmuc_dautu": 5240679000.0,
+            "bidNamePlanNew": "PL2200024219",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Trường Tiểu học và Trung học cơ sở xã Thịnh Hưng (Khu Trung học cơ sở), huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng và mua sắm, lắp đặt thiết bị công trình Trường Tiểu học và Trung học cơ sở Phú Thịnh",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-11-01 08:09:37",
+            "projectName": null,
+            "bidCloseDate": "2023-11-11 08:00:00",
+            "id_muasamcong": "437edd3e-39c3-4761-bbb8-8b72d7e4b71e",
+            "tongmuc_dautu": 6421722000.0,
+            "bidNamePlanNew": "PL2300206846",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng và mua sắm, lắp đặt thiết bị công trình Trường Tiểu học và Trung học cơ sở Phú Thịnh",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 4: Giám sát thi công xây dựng và lắp đặt TB",
+            "chudautu": "CÔNG TY ĐIỆN LỰC YÊN BÁI - CHI NHÁNH TỔNG CÔNG TY ĐIỆN LỰC MIỀN BẮC",
+            "createdBy": "vnz000022218-05",
+            "publicDate": "2023-12-05 11:01:51",
+            "projectName": null,
+            "bidCloseDate": "2023-12-15 15:00:00",
+            "id_muasamcong": "47b1e672-3db9-4289-bc2a-6cf37b9514c7",
+            "tongmuc_dautu": 121205000.0,
+            "bidNamePlanNew": "PL2300239449",
+            "dotbien_hatang": "Gói thầu số 4: Giám sát thi công xây dựng và lắp đặt TB",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Sửa chữa trụ sở làm việc Chi cục Thuế huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Trung tâm Kiểm định xây dựng tỉnh Yên Bái",
+            "createdBy": "vn5200265429",
+            "publicDate": "2023-12-05 10:32:02",
+            "projectName": null,
+            "bidCloseDate": "2023-12-12 08:00:00",
+            "id_muasamcong": "49aa41b9-c7bc-4a8c-b7fa-6afed3dbd1cc",
+            "tongmuc_dautu": 420000000.0,
+            "bidNamePlanNew": "PL2300238370",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Sửa chữa trụ sở làm việc Chi cục Thuế huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng công trình Đường trục chính thôn Ngòi Ngần đi trung tâm xã Bảo Ái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200442501-01",
+            "publicDate": "2025-02-25 17:34:34",
+            "projectName": null,
+            "bidCloseDate": "2025-03-06 08:00:00",
+            "id_muasamcong": "4bbdd984-cdd9-4ce8-b63c-c8494b30316d",
+            "tongmuc_dautu": 3538957000.0,
+            "bidNamePlanNew": "PL2500030581",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng công trình Đường trục chính thôn Ngòi Ngần đi trung tâm xã Bảo Ái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05:Thi công xây dựng công trình Trụ sở xã Tân Nguyên, huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200442501-02",
+            "publicDate": "2023-06-15 16:18:57",
+            "projectName": null,
+            "bidCloseDate": "2023-06-25 09:00:00",
+            "id_muasamcong": "4c1d664f-f509-4602-b6da-7edc44835f29",
+            "tongmuc_dautu": 5282797000.0,
+            "bidNamePlanNew": "PL2300090651",
+            "dotbien_hatang": "Gói thầu số 05:Thi công xây dựng công trình Trụ sở xã Tân Nguyên, huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng và mua sắm, lắp đặt thiết bị công trình Trường tiểu học Nguyễn Viết Xuân, thị trấn Yên Bình, huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-06-20 08:27:07",
+            "projectName": null,
+            "bidCloseDate": "2023-06-30 08:00:00",
+            "id_muasamcong": "4d55093b-0555-4568-a4a5-6568b52d7f16",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300097456",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng và mua sắm, lắp đặt thiết bị công trình Trường tiểu học Nguyễn Viết Xuân, thị trấn Yên Bình, huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Trường mầm non xã Ngọc Chấn, huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-12 10:38:49",
+            "projectName": null,
+            "bidCloseDate": "2022-10-22 16:00:00",
+            "id_muasamcong": "51af6eb3-c5bd-434a-9d24-cb9e10bede5b",
+            "tongmuc_dautu": 4676411000.0,
+            "bidNamePlanNew": "PL2200010006",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Trường mầm non xã Ngọc Chấn, huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06: Thi công xây dựng công trình Sân vận động xã Ngọc Chấn.",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-12 08:44:24",
+            "projectName": null,
+            "bidCloseDate": "2022-10-22 16:00:00",
+            "id_muasamcong": "58cdf918-6379-4228-980e-34943926afca",
+            "tongmuc_dautu": 1640081000.0,
+            "bidNamePlanNew": "PL2200009561",
+            "dotbien_hatang": "Gói thầu số 06: Thi công xây dựng công trình Sân vận động xã Ngọc Chấn.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06: Thi công xây dựng công trình Lát hành lang, vỉa hè thị trấn Thác Bà",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-09-06 14:20:44",
+            "projectName": null,
+            "bidCloseDate": "2023-09-16 08:00:00",
+            "id_muasamcong": "58d3bff6-4757-454c-90bc-f159f138e7a8",
+            "tongmuc_dautu": 2408350000.0,
+            "bidNamePlanNew": "PL2300150785",
+            "dotbien_hatang": "Gói thầu số 06: Thi công xây dựng công trình Lát hành lang, vỉa hè thị trấn Thác Bà",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06: Thi công xây dựng công trình Trụ sở thị trấn Thác Bà",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2024-08-19 16:33:18",
+            "projectName": null,
+            "bidCloseDate": "2024-08-28 08:00:00",
+            "id_muasamcong": "5912f24c-b853-4d2c-9ef5-e7f0b6e64501",
+            "tongmuc_dautu": 5608689000.0,
+            "bidNamePlanNew": "PL2400173215",
+            "dotbien_hatang": "Gói thầu số 06: Thi công xây dựng công trình Trụ sở thị trấn Thác Bà",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số  06:Thi công xây dựng công trình Chỉnh trang đô thị tại tổ 6 thị trấn Yên Bình (đối diện khu số 1), huyện Yên Bình, tỉnh Yên Bái.",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-10-26 09:35:16",
+            "projectName": "Liên danh Dương Minh Tú- Thịnh Phát",
+            "bidCloseDate": "2023-11-02 08:00:00",
+            "id_muasamcong": "5a909bed-3d26-4d20-82eb-bbc5ae1e959c",
+            "tongmuc_dautu": 12018108000.0,
+            "bidNamePlanNew": "PL2300091452",
+            "dotbien_hatang": "Gói thầu số  06:Thi công xây dựng công trình Chỉnh trang đô thị tại tổ 6 thị trấn Yên Bình (đối diện khu số 1), huyện Yên Bình, tỉnh Yên Bái.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng và mua sắm thiết bị công trình Xây dựng chợ xã Cảm Nhân",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-12-01 12:02:16",
+            "projectName": null,
+            "bidCloseDate": "2023-12-11 08:00:00",
+            "id_muasamcong": "5d5ec5f9-4356-432e-9cbc-c8174755f6a9",
+            "tongmuc_dautu": 4525099000.0,
+            "bidNamePlanNew": "PL2300214150",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng và mua sắm thiết bị công trình Xây dựng chợ xã Cảm Nhân",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng công trình Đường giao thông thôn Nà Ta đi trung tâm xã Xuân Long",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-06-15 11:26:52",
+            "projectName": null,
+            "bidCloseDate": "2023-06-25 08:00:00",
+            "id_muasamcong": "67f89a12-f566-49e4-bf62-617983a226fa",
+            "tongmuc_dautu": 1318398000.0,
+            "bidNamePlanNew": "PL2300079170",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng công trình Đường giao thông thôn Nà Ta đi trung tâm xã Xuân Long",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công  Đường bê tông thôn Khe cọ đi trung tâm xã Tân Nguyên (Đoạn 1).",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-11 09:54:48",
+            "projectName": null,
+            "bidCloseDate": "2022-10-21 15:50:00",
+            "id_muasamcong": "6859164b-05e1-42a2-8091-06a898fae4c3",
+            "tongmuc_dautu": 5038748000.0,
+            "bidNamePlanNew": "PL2200008696",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công  Đường bê tông thôn Khe cọ đi trung tâm xã Tân Nguyên (Đoạn 1).",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 10: Thi công xây dựng công trình Đường liên xã Tân Nguyên - Bảo Ái, huyện Yên Bình.",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-09-19 14:55:31",
+            "projectName": "Liên danh Đồng Tiến – Long Quỳnh",
+            "bidCloseDate": "2023-10-08 08:00:00",
+            "id_muasamcong": "69ba5907-9fac-4611-a6a2-a5e9bfb7ed8d",
+            "tongmuc_dautu": 20990592000.0,
+            "bidNamePlanNew": "PL2300145266",
+            "dotbien_hatang": "Gói thầu số 10: Thi công xây dựng công trình Đường liên xã Tân Nguyên - Bảo Ái, huyện Yên Bình.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06:Thi công xây dựng công trình Sân vận động xã Đại Đồng.",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-13 08:30:30",
+            "projectName": null,
+            "bidCloseDate": "2022-10-22 16:00:00",
+            "id_muasamcong": "6b58c6e2-af98-451d-9d94-4266055caf0a",
+            "tongmuc_dautu": 1040570000.0,
+            "bidNamePlanNew": "PL2200009434",
+            "dotbien_hatang": "Gói thầu số 06:Thi công xây dựng công trình Sân vận động xã Đại Đồng.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Cấp nước sinh hoạt tập trung xã Phú Thịnh.",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-09-07 15:51:09",
+            "projectName": null,
+            "bidCloseDate": "2023-09-17 08:00:00",
+            "id_muasamcong": "6c1b412e-3669-4e9d-891a-82aaa270b462",
+            "tongmuc_dautu": 2385992000.0,
+            "bidNamePlanNew": "PL2300151010",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Cấp nước sinh hoạt tập trung xã Phú Thịnh.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng và mua sắm, lắp đặt thiết bị Công trình Trường mầm non xã Vĩnh Kiên, huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-08-25 16:58:09",
+            "projectName": null,
+            "bidCloseDate": "2023-09-04 08:00:00",
+            "id_muasamcong": "6e48e77f-924f-4f9b-9b0f-c5b0bacdd12d",
+            "tongmuc_dautu": 6061385000.0,
+            "bidNamePlanNew": "PL2300146980",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng và mua sắm, lắp đặt thiết bị Công trình Trường mầm non xã Vĩnh Kiên, huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05:Thi công xây dựng và lắp đặt thiết bị công trình Cấp nước sinh hoạt tập trung xã Bảo Ái.",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-10-31 11:18:54",
+            "projectName": null,
+            "bidCloseDate": "2023-11-10 08:00:00",
+            "id_muasamcong": "6fc00e9a-8237-43c7-a088-606a9cf1b1a1",
+            "tongmuc_dautu": 3594329000.0,
+            "bidNamePlanNew": "PL2300198783",
+            "dotbien_hatang": "Gói thầu số 05:Thi công xây dựng và lắp đặt thiết bị công trình Cấp nước sinh hoạt tập trung xã Bảo Ái.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Trường tiểu học và trung học cơ sở xã Ngọc Chấn - Khối hành chính quản trị, huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-13 13:50:20",
+            "projectName": null,
+            "bidCloseDate": "2022-10-23 16:00:00",
+            "id_muasamcong": "7182881e-a245-44bd-94b2-438c97778923",
+            "tongmuc_dautu": 3040722000.0,
+            "bidNamePlanNew": "PL2200010262",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Trường tiểu học và trung học cơ sở xã Ngọc Chấn - Khối hành chính quản trị, huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Trường Tiểu học và Trung học cơ sở xã Đại Đồng, huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-13 09:02:01",
+            "projectName": null,
+            "bidCloseDate": "2022-10-23 16:00:00",
+            "id_muasamcong": "72038e05-0d4e-40c6-aff7-3d23b3602ea7",
+            "tongmuc_dautu": 1352450000.0,
+            "bidNamePlanNew": "PL2200010256",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Trường Tiểu học và Trung học cơ sở xã Đại Đồng, huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05:Thi công xây dựng công trình Trụ sở xã Mông Sơn, huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200442501-01",
+            "publicDate": "2023-06-14 07:58:17",
+            "projectName": null,
+            "bidCloseDate": "2023-06-24 09:00:00",
+            "id_muasamcong": "72738b20-1cc2-4a3e-81f4-b66d8a84aa58",
+            "tongmuc_dautu": 6579680673.0,
+            "bidNamePlanNew": "PL2300090682",
+            "dotbien_hatang": "Gói thầu số 05:Thi công xây dựng công trình Trụ sở xã Mông Sơn, huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 3: Giám sát thi công xây dựng và lắp đặt TB",
+            "chudautu": "CÔNG TY ĐIỆN LỰC YÊN BÁI - CHI NHÁNH TỔNG CÔNG TY ĐIỆN LỰC MIỀN BẮC",
+            "createdBy": "vnz000022218-10",
+            "publicDate": "2023-12-06 16:27:39",
+            "projectName": null,
+            "bidCloseDate": "2023-12-16 17:00:00",
+            "id_muasamcong": "7418de2a-f1df-46ab-9942-3fadfed5460f",
+            "tongmuc_dautu": 122499000.0,
+            "bidNamePlanNew": "PL2300241706",
+            "dotbien_hatang": "Gói thầu số 3: Giám sát thi công xây dựng và lắp đặt TB",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng công trình Trường TH&THCS Mông Sơn (phân hiệu tiểu học), huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-09-11 15:28:50",
+            "projectName": null,
+            "bidCloseDate": "2023-09-21 08:00:00",
+            "id_muasamcong": "76a1629d-c671-4837-9f56-63298ad90971",
+            "tongmuc_dautu": 5471369000.0,
+            "bidNamePlanNew": "PL2300146752",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng công trình Trường TH&THCS Mông Sơn (phân hiệu tiểu học), huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Nhà văn hóa xã Đại Minh, huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-12 10:00:40",
+            "projectName": null,
+            "bidCloseDate": "2022-10-22 16:00:00",
+            "id_muasamcong": "7943bfa5-7a25-4c28-bffa-c1e2f7547a61",
+            "tongmuc_dautu": 4314350000.0,
+            "bidNamePlanNew": "PL2200010196",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Nhà văn hóa xã Đại Minh, huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Đường giao thông thôn Làng Cại đi trung tâm xã Phúc An",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-06-15 12:32:03",
+            "projectName": null,
+            "bidCloseDate": "2023-07-03 08:00:00",
+            "id_muasamcong": "7a4d2848-4a20-4f24-99d5-17e99418df94",
+            "tongmuc_dautu": 1663241000.0,
+            "bidNamePlanNew": "PL2300079214",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Đường giao thông thôn Làng Cại đi trung tâm xã Phúc An",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng và lắp đặt thiết bị công trình Hỗ trợ đầu tư xây dựng cho mỗi một điểm đến du lịch tiêu biểu xã Vũ Linh.",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-19 08:49:47",
+            "projectName": null,
+            "bidCloseDate": "2022-10-29 16:00:00",
+            "id_muasamcong": "801b2f3a-1d51-47aa-b3e6-b7a7ee438f30",
+            "tongmuc_dautu": 1193173000.0,
+            "bidNamePlanNew": "PL2200013957",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng và lắp đặt thiết bị công trình Hỗ trợ đầu tư xây dựng cho mỗi một điểm đến du lịch tiêu biểu xã Vũ Linh.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05:Thi công xây dựng và lắp đặt thiết bị công trình Cấp nước sinh hoạt tập trung xã Vũ Linh.",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-10-31 12:31:21",
+            "projectName": null,
+            "bidCloseDate": "2023-11-10 08:00:00",
+            "id_muasamcong": "80b92fbf-0f4b-4b1d-bf4a-80860a2cb476",
+            "tongmuc_dautu": 3771848000.0,
+            "bidNamePlanNew": "PL2300198733",
+            "dotbien_hatang": "Gói thầu số 05:Thi công xây dựng và lắp đặt thiết bị công trình Cấp nước sinh hoạt tập trung xã Vũ Linh.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Nâng cấp chợ Tân Nguyên.",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-11 14:48:33",
+            "projectName": null,
+            "bidCloseDate": "2022-10-21 16:00:00",
+            "id_muasamcong": "82a762d4-96c7-496f-b007-37fca3ac0819",
+            "tongmuc_dautu": 1773433000.0,
+            "bidNamePlanNew": "PL2200008492",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Nâng cấp chợ Tân Nguyên.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04:Thi công xây dựng công    Đường bê tông thôn Khe cọ đi trung tâm xã Tân Nguyên (Đoạn 2).",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-10 18:25:20",
+            "projectName": null,
+            "bidCloseDate": "2022-10-21 16:05:00",
+            "id_muasamcong": "82d286a2-2739-4a16-ba04-6f6a2309b4e2",
+            "tongmuc_dautu": 1835383000.0,
+            "bidNamePlanNew": "PL2200009616",
+            "dotbien_hatang": "Gói thầu số 04:Thi công xây dựng công    Đường bê tông thôn Khe cọ đi trung tâm xã Tân Nguyên (Đoạn 2).",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng công trình Đường ngã ba phòng khám đa khoa đi hồ Xanh",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2024-11-11 17:30:44",
+            "projectName": null,
+            "bidCloseDate": "2024-11-20 08:00:00",
+            "id_muasamcong": "87b4b881-cb4f-47f7-ae9a-5fc2d2f15fd6",
+            "tongmuc_dautu": 6899410000.0,
+            "bidNamePlanNew": "PL2400264960",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng công trình Đường ngã ba phòng khám đa khoa đi hồ Xanh",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Trường Tiểu học và Trung học cơ sở xã Tân Nguyên (Điểm trường chính), huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-21 09:13:40",
+            "projectName": null,
+            "bidCloseDate": "2022-10-31 16:00:00",
+            "id_muasamcong": "8940b273-a6f2-4238-b0be-4fb3b0636a10",
+            "tongmuc_dautu": 6070380000.0,
+            "bidNamePlanNew": "PL2200024183",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Trường Tiểu học và Trung học cơ sở xã Tân Nguyên (Điểm trường chính), huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 09:Thi công xây dựng công trình Chỉnh trang đô thị tổ 8 thị trấn Yên Bình (giáp chợ mới thị trấn Yên Bình).",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-11-06 10:37:36",
+            "projectName": null,
+            "bidCloseDate": "2023-11-16 08:00:00",
+            "id_muasamcong": "8adf99a7-57b4-4c24-8578-3dcae6399b98",
+            "tongmuc_dautu": 13662554000.0,
+            "bidNamePlanNew": "PL2300204846",
+            "dotbien_hatang": "Gói thầu số 09:Thi công xây dựng công trình Chỉnh trang đô thị tổ 8 thị trấn Yên Bình (giáp chợ mới thị trấn Yên Bình).",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Trường Mầm non xã Tân Nguyên - Hạng mục phụ trợ, huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-12 14:00:34",
+            "projectName": null,
+            "bidCloseDate": "2022-10-22 16:00:00",
+            "id_muasamcong": "8be969b7-82e0-4de5-89bc-c4ab03b46108",
+            "tongmuc_dautu": 1700900000.0,
+            "bidNamePlanNew": "PL2200010167",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Trường Mầm non xã Tân Nguyên - Hạng mục phụ trợ, huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Nâng cấp, cải tạo một số tuyến đường kết nối với cảng Hương Lý, huyện Yên Bình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-07-03 10:58:29",
+            "projectName": "Liên danh Lương Gia - Dương Minh Tú",
+            "bidCloseDate": "2023-07-13 08:00:00",
+            "id_muasamcong": "8cbc096e-acf0-4e1d-b598-a160e97672a0",
+            "tongmuc_dautu": 9343906000.0,
+            "bidNamePlanNew": "PL2300101965",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Nâng cấp, cải tạo một số tuyến đường kết nối với cảng Hương Lý, huyện Yên Bình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Cầu liên hợp thôn Khe Hùm đi thôn Khe Cọ, xã Tân Nguyên, huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-11 10:00:02",
+            "projectName": null,
+            "bidCloseDate": "2022-10-21 15:55:00",
+            "id_muasamcong": "90cc5a71-51a6-4e49-9a8d-557550defdaa",
+            "tongmuc_dautu": 4292056000.0,
+            "bidNamePlanNew": "PL2200008927",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Cầu liên hợp thôn Khe Hùm đi thôn Khe Cọ, xã Tân Nguyên, huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 12: Thi công xây dựng công trình và mua sắm, lắp đặt thiết bị xây dựng công trình Dự án đầu tư xây dựng mới, nâng cấp, cải tạo và mua sắm trang thiết bị cho 07 Trung tâm Y tế tuyến huyện, tỉnh Yên Bái (Hạng mục: Trung tâm Y tế huyện Yên Bình)",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng tỉnh Yên Bái",
+            "createdBy": "vn5200891426",
+            "publicDate": "2024-04-03 17:07:28",
+            "projectName": null,
+            "bidCloseDate": "2024-04-22 09:00:00",
+            "id_muasamcong": "938a4a42-4062-4520-afd2-135bede193e1",
+            "tongmuc_dautu": 25915632000.0,
+            "bidNamePlanNew": "PL2300083916",
+            "dotbien_hatang": "Gói thầu số 12: Thi công xây dựng công trình và mua sắm, lắp đặt thiết bị xây dựng công trình Dự án đầu tư xây dựng mới, nâng cấp, cải tạo và mua sắm trang thiết bị cho 07 Trung tâm Y tế tuyến huyện, tỉnh Yên Bái (Hạng mục: Trung tâm Y tế huyện Yên Bình)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06: Thi công xây dựng công trình Trụ sở xã Xuân Long",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200442501-01",
+            "publicDate": "2024-08-21 07:50:33",
+            "projectName": null,
+            "bidCloseDate": "2024-08-30 08:00:00",
+            "id_muasamcong": "95009fe1-77a8-40bd-a9e9-6d7b125aaf1b",
+            "tongmuc_dautu": 5496051000.0,
+            "bidNamePlanNew": "PL2400173351",
+            "dotbien_hatang": "Gói thầu số 06: Thi công xây dựng công trình Trụ sở xã Xuân Long",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 11: Tư vấn giám sát thi công xây dựng công trình Đường liên xã Tân Nguyên - Bảo Ái, huyện Yên Bình.",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-09-18 11:10:33",
+            "projectName": null,
+            "bidCloseDate": "2023-10-08 08:00:00",
+            "id_muasamcong": "95bdf606-9dfc-4848-973d-90b98e28739d",
+            "tongmuc_dautu": 577520000.0,
+            "bidNamePlanNew": "PL2300145266",
+            "dotbien_hatang": "Gói thầu số 11: Tư vấn giám sát thi công xây dựng công trình Đường liên xã Tân Nguyên - Bảo Ái, huyện Yên Bình.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 09: Thi công xây dựng công trình Chỉnh trang đô thị tổ 8 thị trấn Yên Bình (giáp đường nội thị thị trấn Yên Bình)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2024-04-23 10:47:28",
+            "projectName": null,
+            "bidCloseDate": "2024-05-02 08:00:00",
+            "id_muasamcong": "96a2dce8-09f2-4eb2-8a03-340c2bc88354",
+            "tongmuc_dautu": 16659805000.0,
+            "bidNamePlanNew": "PL2300078975",
+            "dotbien_hatang": "Gói thầu số 09: Thi công xây dựng công trình Chỉnh trang đô thị tổ 8 thị trấn Yên Bình (giáp đường nội thị thị trấn Yên Bình)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Trường tiểu học và trung học cơ sở thị trấn Thác Bà, huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-13 14:17:31",
+            "projectName": null,
+            "bidCloseDate": "2022-10-23 16:00:00",
+            "id_muasamcong": "96fcb79a-8e92-4371-a768-480d19f0046c",
+            "tongmuc_dautu": 3241979000.0,
+            "bidNamePlanNew": "PL2200010268",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Trường tiểu học và trung học cơ sở thị trấn Thác Bà, huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình Đường tổ 3 thị trấn Yên Bình đi xã Đại Đồng",
+            "chudautu": "Sở Giao thông vận tải Yên Bái",
+            "createdBy": "vn5200758167",
+            "publicDate": "2023-08-30 20:07:32",
+            "projectName": null,
+            "bidCloseDate": "2023-09-11 14:03:00",
+            "id_muasamcong": "97514e3c-6d79-4fde-b594-fa847522371b",
+            "tongmuc_dautu": 17966093000.0,
+            "bidNamePlanNew": "PL2300118487",
+            "dotbien_hatang": "Thi công xây dựng công trình Đường tổ 3 thị trấn Yên Bình đi xã Đại Đồng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói số 5: Thi công xây dựng bổ sung đoạn Km41+880 - Km42+00, Km51+200 - Km51+956, Km54+298 - Km54+432; Km54+690 - Km54+966, Km55+585 - Km56+705",
+            "chudautu": "Trung tâm Kỹ thuật đường bộ 1",
+            "createdBy": "vn0100104605",
+            "publicDate": "2022-10-06 16:31:48",
+            "projectName": null,
+            "bidCloseDate": "2022-10-17 10:00:00",
+            "id_muasamcong": "97e53883-c113-4a77-a394-36bc300068dd",
+            "tongmuc_dautu": 8790887813.0,
+            "bidNamePlanNew": "PL2200003942",
+            "dotbien_hatang": "Gói số 5: Thi công xây dựng bổ sung đoạn Km41+880 - Km42+00, Km51+200 - Km51+956, Km54+298 - Km54+432; Km54+690 - Km54+966, Km55+585 - Km56+705",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng + mua sắm, lắp đặt thiết bị công trình Trường tiểu học Bảo Ái (phân hiệu Ngòi Bang)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-09-14 09:42:32",
+            "projectName": null,
+            "bidCloseDate": "2023-09-24 08:00:00",
+            "id_muasamcong": "98a64444-f0cc-4faa-9484-4b7cde9787c8",
+            "tongmuc_dautu": 3860102000.0,
+            "bidNamePlanNew": "PL2300146975",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng + mua sắm, lắp đặt thiết bị công trình Trường tiểu học Bảo Ái (phân hiệu Ngòi Bang)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng và mua sắm, lắp đặt thiết bị công trình Trường PTDTBT Trung học cơ sở xã Yên Thành, huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-21 10:04:18",
+            "projectName": null,
+            "bidCloseDate": "2022-10-31 16:00:00",
+            "id_muasamcong": "992217fa-45c1-483d-9cd2-2cf352d07769",
+            "tongmuc_dautu": 4989308000.0,
+            "bidNamePlanNew": "PL2200024366",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng và mua sắm, lắp đặt thiết bị công trình Trường PTDTBT Trung học cơ sở xã Yên Thành, huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng Công trình sửa chữa, nâng cấp cụm công trình thủy lợi xã Bảo Ái, xã Cảm Ân, huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Chi cục Thủy lợi tỉnh Yên Bái",
+            "createdBy": "vn5200932270-01",
+            "publicDate": "2024-09-30 17:55:12",
+            "projectName": null,
+            "bidCloseDate": "2024-10-09 09:00:00",
+            "id_muasamcong": "993937a2-d7f0-4592-8ee9-46123c2f4e7b",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400207290",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng Công trình sửa chữa, nâng cấp cụm công trình thủy lợi xã Bảo Ái, xã Cảm Ân, huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 10: Giám sát thi công xây dựng và lắp đặt thiết bị công trình Sân vận động trung tâm huyện Yên Bình (giai đoạn 2)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200442501-01",
+            "publicDate": "2023-09-30 08:37:22",
+            "projectName": null,
+            "bidCloseDate": "2023-10-20 09:00:00",
+            "id_muasamcong": "9b0e72ca-5a13-4fcb-83c6-692da6365667",
+            "tongmuc_dautu": 718000000.0,
+            "bidNamePlanNew": "PL2300113627",
+            "dotbien_hatang": "Gói thầu số 10: Giám sát thi công xây dựng và lắp đặt thiết bị công trình Sân vận động trung tâm huyện Yên Bình (giai đoạn 2)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 12: Giám sát thi công xây dựng và lắp đặt thiết bị Công trình nhà làm việc các phòng, ban chuyên môn thuộc Ủy ban nhân dân huyện Yên Bình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200442501-01",
+            "publicDate": "2024-11-16 14:00:41",
+            "projectName": null,
+            "bidCloseDate": "2024-12-04 08:00:00",
+            "id_muasamcong": "9f03c6ea-d4a4-4cd3-a67a-be0dd06e7ff8",
+            "tongmuc_dautu": 792492000.0,
+            "bidNamePlanNew": "PL2400202311",
+            "dotbien_hatang": "Gói thầu số 12: Giám sát thi công xây dựng và lắp đặt thiết bị Công trình nhà làm việc các phòng, ban chuyên môn thuộc Ủy ban nhân dân huyện Yên Bình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08: Thi công xây dựng công trình Đường nối đường Nguyễn Tất Thành với Trung tâm Y tế huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200442501-01",
+            "publicDate": "2024-08-20 13:51:37",
+            "projectName": null,
+            "bidCloseDate": "2024-08-29 08:00:00",
+            "id_muasamcong": "a22da952-247c-4e60-8162-fbccbd835440",
+            "tongmuc_dautu": 7949927000.0,
+            "bidNamePlanNew": "PL2400172915",
+            "dotbien_hatang": "Gói thầu số 08: Thi công xây dựng công trình Đường nối đường Nguyễn Tất Thành với Trung tâm Y tế huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08: Thi công xây dựng và lắp đặt thết bị công trình Xây dựng khu dân cư nông thôn mới thôn Phạ 2, xã Cảm Nhân năm 2024",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200442501-01",
+            "publicDate": "2024-11-08 11:20:42",
+            "projectName": null,
+            "bidCloseDate": "2024-11-15 08:00:00",
+            "id_muasamcong": "a2db5f47-8af8-4c02-866c-f64a24e60789",
+            "tongmuc_dautu": 2925636000.0,
+            "bidNamePlanNew": "PL2400207147",
+            "dotbien_hatang": "Gói thầu số 08: Thi công xây dựng và lắp đặt thết bị công trình Xây dựng khu dân cư nông thôn mới thôn Phạ 2, xã Cảm Nhân năm 2024",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng và mua sắm, lắp đặt thiết bị công trình Cấp nước tập trung xã Mỹ Gia",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-10-29 09:57:29",
+            "projectName": null,
+            "bidCloseDate": "2023-11-07 08:00:00",
+            "id_muasamcong": "a37d7d5a-aa3b-41b2-b749-4a39bc1ea596",
+            "tongmuc_dautu": 2984694000.0,
+            "bidNamePlanNew": "PL2300203154",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng và mua sắm, lắp đặt thiết bị công trình Cấp nước tập trung xã Mỹ Gia",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06: Thi công xây dựng và mua sắm, lắp đặt thiết bị công trình Trường Tiểu học và Trung học cơ sở Vĩnh Kiên",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200442501-01",
+            "publicDate": "2023-10-30 11:13:43",
+            "projectName": null,
+            "bidCloseDate": "2023-11-09 09:00:00",
+            "id_muasamcong": "a5ce111d-bfef-45b5-a516-7fa50cb8b097",
+            "tongmuc_dautu": 11169688000.0,
+            "bidNamePlanNew": "PL2300203863",
+            "dotbien_hatang": "Gói thầu số 06: Thi công xây dựng và mua sắm, lắp đặt thiết bị công trình Trường Tiểu học và Trung học cơ sở Vĩnh Kiên",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu XD-02:Thi công xây dựng nhà ở đại đội Hoả lực; 02 nhà tắm + vệ sinh; 02 nhà dây phơi; hạ tầng kỹ thuật và mua sắm thiết bị",
+            "chudautu": "Ban quản lý dự án ĐTXD Quân khu 2",
+            "createdBy": "vn2500368324",
+            "publicDate": "2024-02-19 18:23:21",
+            "projectName": null,
+            "bidCloseDate": "2024-02-28 08:35:00",
+            "id_muasamcong": "a5f30ad7-b858-4deb-9e27-4f763dcd2dce",
+            "tongmuc_dautu": 13629061000.0,
+            "bidNamePlanNew": "PL2300247162",
+            "dotbien_hatang": "Gói thầu XD-02:Thi công xây dựng nhà ở đại đội Hoả lực; 02 nhà tắm + vệ sinh; 02 nhà dây phơi; hạ tầng kỹ thuật và mua sắm thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Giám sát thi công xây lắp công trình đoạn tuyến từ Km107+290 - Km107+706 và Km109+00 - Km110+00",
+            "chudautu": "Sở Giao thông vận tải Yên Bái",
+            "createdBy": "vn5200758167",
+            "publicDate": "2024-10-24 07:55:46",
+            "projectName": null,
+            "bidCloseDate": "2024-11-11 08:30:00",
+            "id_muasamcong": "a83d119e-6dcb-4ce8-a89d-a78d7c8c73fd",
+            "tongmuc_dautu": 180000000.0,
+            "bidNamePlanNew": "PL2400242642",
+            "dotbien_hatang": "Giám sát thi công xây lắp công trình đoạn tuyến từ Km107+290 - Km107+706 và Km109+00 - Km110+00",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Cống hộp thôn Đức Tiến, xã Yên Bình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-06-15 13:11:16",
+            "projectName": null,
+            "bidCloseDate": "2023-06-25 08:00:00",
+            "id_muasamcong": "a8587bf0-3158-422d-ab74-a208451e9dd2",
+            "tongmuc_dautu": 3280500000.0,
+            "bidNamePlanNew": "PL2300079239",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Cống hộp thôn Đức Tiến, xã Yên Bình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06: Thi công xây dựng công trình Trường TH&THCS số 2 Cảm Nhân, xã Cảm Nhân huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200442501-01",
+            "publicDate": "2024-11-01 14:25:24",
+            "projectName": null,
+            "bidCloseDate": "2024-11-08 08:00:00",
+            "id_muasamcong": "a9567ad1-711a-4ef7-9611-30f0eac2f1d8",
+            "tongmuc_dautu": 10453253000.0,
+            "bidNamePlanNew": "PL2400246811",
+            "dotbien_hatang": "Gói thầu số 06: Thi công xây dựng công trình Trường TH&THCS số 2 Cảm Nhân, xã Cảm Nhân huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Trường mầm non xã Xuân Long, huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-19 08:20:39",
+            "projectName": null,
+            "bidCloseDate": "2022-10-23 16:00:00",
+            "id_muasamcong": "a99f4ddb-0d1c-4dde-ba46-5eb45474be44",
+            "tongmuc_dautu": 4533000000.0,
+            "bidNamePlanNew": "PL2200010187",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Trường mầm non xã Xuân Long, huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 3: Giám sát thi công xây dựng và lắp đặt TB",
+            "chudautu": "CÔNG TY ĐIỆN LỰC YÊN BÁI - CHI NHÁNH TỔNG CÔNG TY ĐIỆN LỰC MIỀN BẮC",
+            "createdBy": "vnz000022218-08",
+            "publicDate": "2022-12-02 17:06:25",
+            "projectName": null,
+            "bidCloseDate": "2022-12-20 10:00:00",
+            "id_muasamcong": "a9d7170a-df3f-496f-8b21-ab5db64ca280",
+            "tongmuc_dautu": 20761800.0,
+            "bidNamePlanNew": "PL2200052383",
+            "dotbien_hatang": "Gói thầu số 3: Giám sát thi công xây dựng và lắp đặt TB",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng + mua sắm, lắp đặt thiết bị công trình Trường Tiểu học và Trung học cơ sở xã Tân Nguyên (Khu THCS), huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-24 14:07:58",
+            "projectName": null,
+            "bidCloseDate": "2022-11-03 16:00:00",
+            "id_muasamcong": "aafb0da7-50c0-4efe-8834-24fdbc197850",
+            "tongmuc_dautu": 8414967000.0,
+            "bidNamePlanNew": "PL2200024198",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng + mua sắm, lắp đặt thiết bị công trình Trường Tiểu học và Trung học cơ sở xã Tân Nguyên (Khu THCS), huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Cầu thôn Trại Phung, xã Tân Nguyên",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-11 10:57:45",
+            "projectName": null,
+            "bidCloseDate": "2022-10-21 16:00:00",
+            "id_muasamcong": "adb2166a-e354-4272-880b-7cbd8e00b32b",
+            "tongmuc_dautu": 3356785000.0,
+            "bidNamePlanNew": "PL2200009120",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Cầu thôn Trại Phung, xã Tân Nguyên",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Đường giao thông thôn Ngòi Ngù đi trung tâm xã Bảo Ái, huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-20 14:47:09",
+            "projectName": "LIÊN DANH CÔNG TY TNHH XÂY DỰNG VÀ VẬN TẢI LONG QUỲNH - CÔNG TY TNHH XÂY DỰNG PHÚC LỢI YB ",
+            "bidCloseDate": "2022-10-30 16:00:00",
+            "id_muasamcong": "b12192eb-3e8c-42a6-ad3f-bfb886957da0",
+            "tongmuc_dautu": 13452116000.0,
+            "bidNamePlanNew": "PL2200024075",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Đường giao thông thôn Ngòi Ngù đi trung tâm xã Bảo Ái, huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng và mua sắm, lắp đặt thiết bị công trình Trường Trung học cơ sở thị trấn Yên Bình, huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-24 13:29:08",
+            "projectName": null,
+            "bidCloseDate": "2022-11-03 16:00:00",
+            "id_muasamcong": "b46f1e35-6951-4a4e-b78b-8fa1a3f81b66",
+            "tongmuc_dautu": 12060450000.0,
+            "bidNamePlanNew": "PL2200024166",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng và mua sắm, lắp đặt thiết bị công trình Trường Trung học cơ sở thị trấn Yên Bình, huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng công trình Trường tiểu học và trung học cơ sở Đại Minh (phân hiệu THCS), huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-09-12 09:36:58",
+            "projectName": null,
+            "bidCloseDate": "2023-09-22 08:00:00",
+            "id_muasamcong": "b550bcb0-cb5e-40c9-b375-14c17406c3bc",
+            "tongmuc_dautu": 6854686000.0,
+            "bidNamePlanNew": "PL2300146763",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng công trình Trường tiểu học và trung học cơ sở Đại Minh (phân hiệu THCS), huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Trường mầm non xã Yên Thành - Khối hành chính quản trị và các phòng học (Điểm trường chính), huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-26 14:53:57",
+            "projectName": "Liên danh Nhất Vinh và Ngọc Huyền",
+            "bidCloseDate": "2022-10-31 16:00:00",
+            "id_muasamcong": "b7a33940-3370-42e6-a79d-577b84cb7f5b",
+            "tongmuc_dautu": 4740608000.0,
+            "bidNamePlanNew": "PL2200024247",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Trường mầm non xã Yên Thành - Khối hành chính quản trị và các phòng học (Điểm trường chính), huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Trường Mầm non xã Thịnh Hưng, huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-12 14:36:43",
+            "projectName": null,
+            "bidCloseDate": "2022-10-22 16:00:00",
+            "id_muasamcong": "bccd534c-99f1-48d8-9e5f-37101a25ad5e",
+            "tongmuc_dautu": 3988616000.0,
+            "bidNamePlanNew": "PL2200010179",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Trường Mầm non xã Thịnh Hưng, huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công Đường thôn Khe Ngang đi trung tâm xã Yên Thành.",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-17 14:58:13",
+            "projectName": null,
+            "bidCloseDate": "2022-10-21 16:00:00",
+            "id_muasamcong": "befa59e5-35ba-4942-ab9b-f4a67099d15c",
+            "tongmuc_dautu": 3636280000.0,
+            "bidNamePlanNew": "PL2200008747",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công Đường thôn Khe Ngang đi trung tâm xã Yên Thành.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng + mua sắm, lắp đặt thiết bị công trình Trường PTDTBT xã Yên Thành, huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-17 09:22:10",
+            "projectName": null,
+            "bidCloseDate": "2022-10-27 16:00:00",
+            "id_muasamcong": "c512c3f4-2287-418a-838b-ca046359cf55",
+            "tongmuc_dautu": 4798018000.0,
+            "bidNamePlanNew": "PL2200019995",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng + mua sắm, lắp đặt thiết bị công trình Trường PTDTBT xã Yên Thành, huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Đầu tư thiết chế văn hoá, thể thao tại các thôn vùng đồng bào DTTS trên địa bàn huyện Yên Bình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200442501-01",
+            "publicDate": "2024-03-14 14:08:13",
+            "projectName": null,
+            "bidCloseDate": "2024-03-23 09:00:00",
+            "id_muasamcong": "c563d95f-d74e-466a-a300-197f672ad25a",
+            "tongmuc_dautu": 4491158000.0,
+            "bidNamePlanNew": "PL2400028035",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Đầu tư thiết chế văn hoá, thể thao tại các thôn vùng đồng bào DTTS trên địa bàn huyện Yên Bình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 18: Thi công xây dựng và mua sắm, lắp đặt thiết bị công trình Chỉnh trang hạ tầng kỹ thuật đô thị trung tâm thị trấn Yên Bình và thị trấn Thác Bà (hạng mục: Sửa chữa huyện ủy, trung tâm văn hóa huyện và các hạng mục khác)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200442501-01",
+            "publicDate": "2024-03-19 15:12:39",
+            "projectName": null,
+            "bidCloseDate": "2024-03-28 09:00:00",
+            "id_muasamcong": "c956e927-39df-4953-8bc2-cdcdefab5856",
+            "tongmuc_dautu": 3802042000.0,
+            "bidNamePlanNew": "PL2400035226",
+            "dotbien_hatang": "Gói thầu số 18: Thi công xây dựng và mua sắm, lắp đặt thiết bị công trình Chỉnh trang hạ tầng kỹ thuật đô thị trung tâm thị trấn Yên Bình và thị trấn Thác Bà (hạng mục: Sửa chữa huyện ủy, trung tâm văn hóa huyện và các hạng mục khác)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng và mua sắm, lắp đặt thiết bị công trình Trường Tiểu học và Trung học cơ sở Tân Hương (điểm chính), xã Tân Hương, huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-07-11 08:58:21",
+            "projectName": "Liên danh Công ty TNHH xây dựng Đức Hiếu và Công ty TNHH đầu tư thương mại & kỹ thuật Á Châu",
+            "bidCloseDate": "2023-07-22 10:00:00",
+            "id_muasamcong": "ca797ca0-4484-4dc3-9c26-79baa4c60eb9",
+            "tongmuc_dautu": 9925152000.0,
+            "bidNamePlanNew": "PL2300112899",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng và mua sắm, lắp đặt thiết bị công trình Trường Tiểu học và Trung học cơ sở Tân Hương (điểm chính), xã Tân Hương, huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng và mua sắm, lắp đặt thiết bị công trình Chợ thị trấn Thác Bà",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-10-30 16:03:01",
+            "projectName": null,
+            "bidCloseDate": "2023-11-09 08:00:00",
+            "id_muasamcong": "cbbb4c0d-a35c-4317-80e8-8511d5caa733",
+            "tongmuc_dautu": 7229531000.0,
+            "bidNamePlanNew": "PL2300203303",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng và mua sắm, lắp đặt thiết bị công trình Chợ thị trấn Thác Bà",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng công trình  Chỉnh trang khu vực trung tâm thị trấn Yên Bình đón xuân Ất Tỵ 2025",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200442501-01",
+            "publicDate": "2024-12-24 16:31:01",
+            "projectName": null,
+            "bidCloseDate": "2025-01-02 08:00:00",
+            "id_muasamcong": "cd635857-1829-44f0-8b8d-8990c4b99889",
+            "tongmuc_dautu": 2479784000.0,
+            "bidNamePlanNew": "PL2400328802",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng công trình  Chỉnh trang khu vực trung tâm thị trấn Yên Bình đón xuân Ất Tỵ 2025",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Đường thôn Khe Nhàn đi trung tâm xã Tân Nguyên.",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-11 15:53:07",
+            "projectName": null,
+            "bidCloseDate": "2022-10-22 16:00:00",
+            "id_muasamcong": "cdc604f2-9b21-4497-bcc5-4e7d41019d55",
+            "tongmuc_dautu": 2418186000.0,
+            "bidNamePlanNew": "PL2200009915",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Đường thôn Khe Nhàn đi trung tâm xã Tân Nguyên.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 11: Thi công xây dựng công trình Di dân khẩn cấp thôn Hàm Rồng và thôn Ngọn Ngòi, xã Bạch Hà, huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200922730-06",
+            "publicDate": "2023-07-10 18:49:17",
+            "projectName": "Liên danh Vĩnh Thành - Công ty 9 – Linh Huy Hoàng",
+            "bidCloseDate": "2023-07-30 09:00:00",
+            "id_muasamcong": "d011cfd7-16d0-4d4f-9c54-21a446f9f95d",
+            "tongmuc_dautu": 41126200226.0,
+            "bidNamePlanNew": "PL2300094135",
+            "dotbien_hatang": "Gói thầu số 11: Thi công xây dựng công trình Di dân khẩn cấp thôn Hàm Rồng và thôn Ngọn Ngòi, xã Bạch Hà, huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng công trình Trường TH&THCS Mông Sơn (điểm chính)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-09-12 09:55:19",
+            "projectName": null,
+            "bidCloseDate": "2023-09-22 08:00:00",
+            "id_muasamcong": "d0daa8e7-8479-4ce4-9f37-766ffa1c08a9",
+            "tongmuc_dautu": 2878288000.0,
+            "bidNamePlanNew": "PL2300146976",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng công trình Trường TH&THCS Mông Sơn (điểm chính)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng công trình Đường giao thông thôn Tiền Phong đi trung tâm xã Xuân Long (đoạn 1)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-06-15 12:49:57",
+            "projectName": null,
+            "bidCloseDate": "2023-06-25 08:00:00",
+            "id_muasamcong": "d4a13a68-95c6-4c29-99f4-7d2a91a55d11",
+            "tongmuc_dautu": 1313800000.0,
+            "bidNamePlanNew": "PL2300079179",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng công trình Đường giao thông thôn Tiền Phong đi trung tâm xã Xuân Long (đoạn 1)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng + mua sắm, lắp đặt thiết bị công trình Trường mầm non Vũ Linh",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200442501-01",
+            "publicDate": "2023-09-15 07:51:54",
+            "projectName": null,
+            "bidCloseDate": "2023-09-25 09:00:00",
+            "id_muasamcong": "d5019466-f4f9-4c85-a0c2-fbfbebe23f4a",
+            "tongmuc_dautu": 3708545898.0,
+            "bidNamePlanNew": "PL2300146970",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng + mua sắm, lắp đặt thiết bị công trình Trường mầm non Vũ Linh",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu XD-01: Thi công xây dựng các hạng mục Nhà ở c16 + c18; nhà vệ sinh c16 + c18; nhà phơi c16 + c18; nhà căng tin cắt tóc + nhà để xe; nhà ăn + bếp khối TT",
+            "chudautu": "Ban quản lý dự án ĐTXD Quân khu 2",
+            "createdBy": "vn2500368324",
+            "publicDate": "2024-03-20 13:26:23",
+            "projectName": null,
+            "bidCloseDate": "2024-03-29 08:47:00",
+            "id_muasamcong": "d9162a4d-e168-467a-8813-9bb7e3da5002",
+            "tongmuc_dautu": 19920063000.0,
+            "bidNamePlanNew": "PL2300246917",
+            "dotbien_hatang": "Gói thầu XD-01: Thi công xây dựng các hạng mục Nhà ở c16 + c18; nhà vệ sinh c16 + c18; nhà phơi c16 + c18; nhà căng tin cắt tóc + nhà để xe; nhà ăn + bếp khối TT",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Cầu thôn Ngòi Nhầu đi thôn An Bình, xã Bảo Ái, huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-11 09:02:44",
+            "projectName": null,
+            "bidCloseDate": "2022-10-21 15:50:00",
+            "id_muasamcong": "db959d03-3a70-47bc-9866-0ce9ec5657cd",
+            "tongmuc_dautu": 2478139000.0,
+            "bidNamePlanNew": "PL2200008991",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Cầu thôn Ngòi Nhầu đi thôn An Bình, xã Bảo Ái, huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06: Thi công xây dựng và mua sắm, lắp đặt thiết bị công trình Trường mầm non Cảm Ân, huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-09-11 18:19:15",
+            "projectName": null,
+            "bidCloseDate": "2023-09-21 08:00:00",
+            "id_muasamcong": "ddc2478b-26e7-459f-bbb0-b80a5ec4fa88",
+            "tongmuc_dautu": 5846992000.0,
+            "bidNamePlanNew": "PL2300146742",
+            "dotbien_hatang": "Gói thầu số 06: Thi công xây dựng và mua sắm, lắp đặt thiết bị công trình Trường mầm non Cảm Ân, huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Cấp nước sinh hoạt tập trung xã Yên Thành, huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-11 09:37:22",
+            "projectName": null,
+            "bidCloseDate": "2022-10-21 15:45:00",
+            "id_muasamcong": "e0a04114-071a-4232-ad3f-b9f5120b030f",
+            "tongmuc_dautu": 2494800000.0,
+            "bidNamePlanNew": "PL2200008394",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Cấp nước sinh hoạt tập trung xã Yên Thành, huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng công trình Đường giao thông Thôn Quyết Thắng 2 đi trung tâm xã Cảm Nhân",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-06-15 10:37:48",
+            "projectName": null,
+            "bidCloseDate": "2023-06-25 08:00:00",
+            "id_muasamcong": "e247fa49-cabc-4c3e-8a66-0bdfe6bcdfb6",
+            "tongmuc_dautu": 1050026000.0,
+            "bidNamePlanNew": "PL2300079154",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng công trình Đường giao thông Thôn Quyết Thắng 2 đi trung tâm xã Cảm Nhân",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu TV-05: Tư vấn giám sát thi công xây dựng và lắp đặt thiết bị, doanh cụ",
+            "chudautu": "Ban quản lý dự án ĐTXD Quân khu 2",
+            "createdBy": "vn2500368324",
+            "publicDate": "2024-04-22 17:28:37",
+            "projectName": null,
+            "bidCloseDate": "2024-05-10 08:46:00",
+            "id_muasamcong": "e2c670d6-aa8d-4c7d-a255-3737abae6a43",
+            "tongmuc_dautu": 980000000.0,
+            "bidNamePlanNew": "PL2300246917",
+            "dotbien_hatang": "Gói thầu TV-05: Tư vấn giám sát thi công xây dựng và lắp đặt thiết bị, doanh cụ",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 09: Thi công xây dựng và mua sắm, lắp đặt thiết bị công trình Sân vận động trung tâm huyện Yên Bình (giai đoạn 2)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200442501-01",
+            "publicDate": "2023-09-30 10:48:16",
+            "projectName": null,
+            "bidCloseDate": "2023-10-20 09:00:00",
+            "id_muasamcong": "e6704166-8079-4f46-81fc-58a4129b0ac8",
+            "tongmuc_dautu": 26450386838.0,
+            "bidNamePlanNew": "PL2300113627",
+            "dotbien_hatang": "Gói thầu số 09: Thi công xây dựng và mua sắm, lắp đặt thiết bị công trình Sân vận động trung tâm huyện Yên Bình (giai đoạn 2)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "TỔNG CÔNG TY BƯU ĐIỆN VIỆT NAM",
+            "createdBy": "vn5200283121",
+            "publicDate": "2023-09-18 14:48:08",
+            "projectName": null,
+            "bidCloseDate": "2023-09-22 09:00:00",
+            "id_muasamcong": "e6ed1d78-9f9e-4d04-a17f-55542fe337e4",
+            "tongmuc_dautu": 3348798000.0,
+            "bidNamePlanNew": "PL2300140812",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng công trình Mở rộng trường tiểu học và trung học cơ sở xã Mỹ Gia, huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200442501-01",
+            "publicDate": "2023-09-08 14:00:16",
+            "projectName": null,
+            "bidCloseDate": "2023-09-18 10:00:00",
+            "id_muasamcong": "e9099a9a-d02a-4d08-86d6-a213037ff4ee",
+            "tongmuc_dautu": 3773000000.0,
+            "bidNamePlanNew": "PL2300146757",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng công trình Mở rộng trường tiểu học và trung học cơ sở xã Mỹ Gia, huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Cấp nước sinh hoạt tập trung xã Đại Đồng.",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-09-08 14:35:15",
+            "projectName": null,
+            "bidCloseDate": "2023-09-18 08:00:00",
+            "id_muasamcong": "e9ae501f-fad0-42ea-b311-82d8efe0d50e",
+            "tongmuc_dautu": 3666911000.0,
+            "bidNamePlanNew": "PL2300151388",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Cấp nước sinh hoạt tập trung xã Đại Đồng.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06: Thi công xây dựng và mua sắm, lắp đặt thiết bị công trình Trường tiểu học và trung học cơ sở Xuân Long (điểm chính).",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-11-03 09:01:46",
+            "projectName": null,
+            "bidCloseDate": "2023-11-13 08:00:00",
+            "id_muasamcong": "eaf0e094-e5a0-4404-9d3c-a524ba2d6fd9",
+            "tongmuc_dautu": 7916898000.0,
+            "bidNamePlanNew": "PL2300209237",
+            "dotbien_hatang": "Gói thầu số 06: Thi công xây dựng và mua sắm, lắp đặt thiết bị công trình Trường tiểu học và trung học cơ sở Xuân Long (điểm chính).",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu XD-02: Thi công xây dựng các hạng mục Nhà ở c14 + c15; nhà vệ sinh c14 + c15; nhà phơi c14 + c15; hạ tầng kỹ thuật",
+            "chudautu": "Ban quản lý dự án ĐTXD Quân khu 2",
+            "createdBy": "vn2500368324",
+            "publicDate": "2024-03-20 13:27:40",
+            "projectName": null,
+            "bidCloseDate": "2024-03-29 08:35:00",
+            "id_muasamcong": "efab3d34-e46e-43e6-a79e-d5177f38011d",
+            "tongmuc_dautu": 16423471000.0,
+            "bidNamePlanNew": "PL2300246917",
+            "dotbien_hatang": "Gói thầu XD-02: Thi công xây dựng các hạng mục Nhà ở c14 + c15; nhà vệ sinh c14 + c15; nhà phơi c14 + c15; hạ tầng kỹ thuật",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình Trường Mầm non xã Đại Đồng, huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2022-10-13 10:17:37",
+            "projectName": null,
+            "bidCloseDate": "2022-10-23 16:00:00",
+            "id_muasamcong": "efc56b80-8889-4501-9f08-3ddaddd3c3a9",
+            "tongmuc_dautu": 2275959000.0,
+            "bidNamePlanNew": "PL2200009994",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình Trường Mầm non xã Đại Đồng, huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08: Thi công xây dựng công trình Nâng cấp tuyến đường từ Quốc lộ 2D đi Uỷ ban nhân dân xã Văn Lãng (cũ)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2024-10-28 12:13:45",
+            "projectName": "Liên danh Văn Lãng",
+            "bidCloseDate": "2024-11-15 08:00:00",
+            "id_muasamcong": "f0c816ff-8044-4203-af05-a6bd82632661",
+            "tongmuc_dautu": 21654166000.0,
+            "bidNamePlanNew": "PL2400209221",
+            "dotbien_hatang": "Gói thầu số 08: Thi công xây dựng công trình Nâng cấp tuyến đường từ Quốc lộ 2D đi Uỷ ban nhân dân xã Văn Lãng (cũ)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08: Thi công xây dựng và lắp đặt thiết bị công trình Xây dựng khu dân cư nông thôn mới (Quỹ đất đường Hoàng Thi)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2024-05-06 17:50:57",
+            "projectName": null,
+            "bidCloseDate": "2024-05-15 08:00:00",
+            "id_muasamcong": "f425a974-6fcd-4d50-90f3-124722906b3c",
+            "tongmuc_dautu": 3326966000.0,
+            "bidNamePlanNew": "PL2400071992",
+            "dotbien_hatang": "Gói thầu số 08: Thi công xây dựng và lắp đặt thiết bị công trình Xây dựng khu dân cư nông thôn mới (Quỹ đất đường Hoàng Thi)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng công trình Nâng cấp chợ Bảo Ái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-06-15 14:07:46",
+            "projectName": null,
+            "bidCloseDate": "2023-06-25 08:00:00",
+            "id_muasamcong": "f6d9fb88-8890-465e-9bc4-5db46bf4f592",
+            "tongmuc_dautu": 2230018000.0,
+            "bidNamePlanNew": "PL2300091971",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng công trình Nâng cấp chợ Bảo Ái",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 09: Giám sát thi công xây dựng công trình Nâng cấp tuyến đường từ Quốc lộ 2D đi Uỷ ban nhân dân xã Văn Lãng (cũ)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2024-10-28 12:10:48",
+            "projectName": null,
+            "bidCloseDate": "2024-11-15 08:00:00",
+            "id_muasamcong": "f95f5ff4-73e3-4a22-bf88-9501ee465adb",
+            "tongmuc_dautu": 585700000.0,
+            "bidNamePlanNew": "PL2400209221",
+            "dotbien_hatang": "Gói thầu số 09: Giám sát thi công xây dựng công trình Nâng cấp tuyến đường từ Quốc lộ 2D đi Uỷ ban nhân dân xã Văn Lãng (cũ)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08: Thi công xây dựng và mua sắm, lắp đặt thiết bị Công trình xây dựng trụ sở làm việc Hạt Kiểm lâm huyện Yên Bình và Đội Kiểm lâm cơ động và Phòng cháy chữa cháy rừng",
+            "chudautu": "Chi cục Kiểm lâm",
+            "createdBy": "vn5200900769",
+            "publicDate": "2024-11-18 09:16:28",
+            "projectName": null,
+            "bidCloseDate": "2024-11-27 08:00:00",
+            "id_muasamcong": "fcc10e55-3044-4ad4-817d-3c9d6cbd27a1",
+            "tongmuc_dautu": 6338860126.0,
+            "bidNamePlanNew": "PL2400258985",
+            "dotbien_hatang": "Gói thầu số 08: Thi công xây dựng và mua sắm, lắp đặt thiết bị Công trình xây dựng trụ sở làm việc Hạt Kiểm lâm huyện Yên Bình và Đội Kiểm lâm cơ động và Phòng cháy chữa cháy rừng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06: Thi công xây dựng công trình Lát hành lang tuyến Quốc lộ 70 qua trung tâm thị trấn Yên Bình (đoạn giáp với địa giới hành chính xã Thịnh Hưng)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-09-08 17:04:11",
+            "projectName": null,
+            "bidCloseDate": "2023-09-16 08:00:00",
+            "id_muasamcong": "fce8e4e0-9ba9-4bb4-a40f-0922d13b5587",
+            "tongmuc_dautu": 3854776000.0,
+            "bidNamePlanNew": "PL2300150912",
+            "dotbien_hatang": "Gói thầu số 06: Thi công xây dựng công trình Lát hành lang tuyến Quốc lộ 70 qua trung tâm thị trấn Yên Bình (đoạn giáp với địa giới hành chính xã Thịnh Hưng)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05:Thi công xây dựng và lắp đặt thiết bị công trình Cải tạo, sửa chữa cấp nước tập trung thôn Ngòi Vồ, xã Tân Hương.",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200478226",
+            "publicDate": "2023-10-31 12:15:14",
+            "projectName": null,
+            "bidCloseDate": "2023-11-10 08:00:00",
+            "id_muasamcong": "fdbffae7-7afc-4c4a-aea3-56fbdcaa6cda",
+            "tongmuc_dautu": 1390778000.0,
+            "bidNamePlanNew": "PL2300198693",
+            "dotbien_hatang": "Gói thầu số 05:Thi công xây dựng và lắp đặt thiết bị công trình Cải tạo, sửa chữa cấp nước tập trung thôn Ngòi Vồ, xã Tân Hương.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08: Thi công xây dựng và mua sắm, lắp đặt thiết bị công trình Chợ xã Cảm Ân",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200442501-01",
+            "publicDate": "2023-10-30 14:08:09",
+            "projectName": null,
+            "bidCloseDate": "2023-11-09 09:00:00",
+            "id_muasamcong": "fe822029-27ee-4d62-b640-dd6a66177e1b",
+            "tongmuc_dautu": 8023654000.0,
+            "bidNamePlanNew": "PL2300203299",
+            "dotbien_hatang": "Gói thầu số 08: Thi công xây dựng và mua sắm, lắp đặt thiết bị công trình Chợ xã Cảm Ân",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05:Thi công xây dựng + lắp đặt thiết bị công trình Trường mầm non Bạch Hà, xã Bạch Hà, huyện Yên Bình, tỉnh Yên Bái",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Bình",
+            "createdBy": "vn5200442501-01",
+            "publicDate": "2023-06-15 10:13:17",
+            "projectName": null,
+            "bidCloseDate": "2023-06-25 09:00:00",
+            "id_muasamcong": "ff5a16e0-887a-4b61-9039-9c6d8ffcb907",
+            "tongmuc_dautu": 6478679000.0,
+            "bidNamePlanNew": "PL2300091660",
+            "dotbien_hatang": "Gói thầu số 05:Thi công xây dựng + lắp đặt thiết bị công trình Trường mầm non Bạch Hà, xã Bạch Hà, huyện Yên Bình, tỉnh Yên Bái",
+            "link_muasamcong": ""
+        }
+    ],
+    "so_dot_bien": 140,
+    "thu_tu_sap_xep": 105,
+    "polygon": [
+        [
+            [
+                104.894545,
+                22.072185
+            ],
+            [
+                104.897197,
+                22.070397
+            ],
+            [
+                104.900032,
+                22.0675
+            ],
+            [
+                104.902411,
+                22.064603
+            ],
+            [
+                104.905885,
+                22.063412
+            ],
+            [
+                104.908718,
+                22.063413
+            ],
+            [
+                104.91082,
+                22.0635
+            ],
+            [
+                104.912191,
+                22.063415
+            ],
+            [
+                104.914294,
+                22.062564
+            ],
+            [
+                104.916488,
+                22.060605
+            ],
+            [
+                104.918043,
+                22.059071
+            ],
+            [
+                104.918957,
+                22.058986
+            ],
+            [
+                104.921973,
+                22.059499
+            ],
+            [
+                104.925811,
+                22.060694
+            ],
+            [
+                104.927913,
+                22.061036
+            ],
+            [
+                104.930563,
+                22.060526
+            ],
+            [
+                104.936049,
+                22.05763
+            ],
+            [
+                104.939157,
+                22.054903
+            ],
+            [
+                104.940894,
+                22.052943
+            ],
+            [
+                104.941443,
+                22.051154
+            ],
+            [
+                104.94108,
+                22.046635
+            ],
+            [
+                104.940898,
+                22.044334
+            ],
+            [
+                104.941721,
+                22.042544
+            ],
+            [
+                104.943916,
+                22.038624
+            ],
+            [
+                104.94611,
+                22.036152
+            ],
+            [
+                104.948761,
+                22.034534
+            ],
+            [
+                104.95068,
+                22.034705
+            ],
+            [
+                104.953147,
+                22.035302
+            ],
+            [
+                104.954974,
+                22.035388
+            ],
+            [
+                104.957625,
+                22.03428
+            ],
+            [
+                104.95927,
+                22.033087
+            ],
+            [
+                104.961098,
+                22.030531
+            ],
+            [
+                104.962195,
+                22.029764
+            ],
+            [
+                104.963383,
+                22.029593
+            ],
+            [
+                104.965393,
+                22.030105
+            ],
+            [
+                104.967494,
+                22.031384
+            ],
+            [
+                104.968773,
+                22.034283
+            ],
+            [
+                104.970508,
+                22.038034
+            ],
+            [
+                104.971605,
+                22.039995
+            ],
+            [
+                104.973797,
+                22.041615
+            ],
+            [
+                104.980834,
+                22.04298
+            ],
+            [
+                104.985037,
+                22.043662
+            ],
+            [
+                104.988419,
+                22.04477
+            ],
+            [
+                104.990703,
+                22.044941
+            ],
+            [
+                104.994633,
+                22.044771
+            ],
+            [
+                104.996643,
+                22.04443
+            ],
+            [
+                104.997466,
+                22.043918
+            ],
+            [
+                104.997831,
+                22.042554
+            ],
+            [
+                104.9971,
+                22.040253
+            ],
+            [
+                104.994907,
+                22.033092
+            ],
+            [
+                104.994633,
+                22.030706
+            ],
+            [
+                104.994908,
+                22.027125
+            ],
+            [
+                104.994451,
+                22.024227
+            ],
+            [
+                104.993263,
+                22.021584
+            ],
+            [
+                104.992806,
+                22.020306
+            ],
+            [
+                104.992806,
+                22.019453
+            ],
+            [
+                104.992989,
+                22.018516
+            ],
+            [
+                104.994383,
+                22.017216
+            ],
+            [
+                104.995525,
+                22.016449
+            ],
+            [
+                104.996073,
+                22.015895
+            ],
+            [
+                104.996301,
+                22.015468
+            ],
+            [
+                104.996301,
+                22.015042
+            ],
+            [
+                104.99621,
+                22.014445
+            ],
+            [
+                104.995205,
+                22.012826
+            ],
+            [
+                104.993378,
+                22.010482
+            ],
+            [
+                104.991094,
+                22.005836
+            ],
+            [
+                104.989964,
+                22.003055
+            ],
+            [
+                104.989872,
+                22.002181
+            ],
+            [
+                104.989895,
+                22.001691
+            ],
+            [
+                104.990169,
+                22.00103
+            ],
+            [
+                104.990603,
+                22.000305
+            ],
+            [
+                104.991197,
+                21.999666
+            ],
+            [
+                104.991951,
+                21.99903
+            ],
+            [
+                104.992513,
+                21.997659
+            ],
+            [
+                104.992901,
+                21.996981
+            ],
+            [
+                104.992659,
+                21.996349
+            ],
+            [
+                104.9914,
+                21.994678
+            ],
+            [
+                104.991062,
+                21.993775
+            ],
+            [
+                104.991158,
+                21.99373
+            ],
+            [
+                104.994208,
+                21.993685
+            ],
+            [
+                104.996289,
+                21.993052
+            ],
+            [
+                104.996967,
+                21.992465
+            ],
+            [
+                104.99958,
+                21.989259
+            ],
+            [
+                104.999798,
+                21.988468
+            ],
+            [
+                104.999798,
+                21.987565
+            ],
+            [
+                104.998588,
+                21.984088
+            ],
+            [
+                104.995442,
+                21.978126
+            ],
+            [
+                104.993821,
+                21.975303
+            ],
+            [
+                104.992321,
+                21.971871
+            ],
+            [
+                104.992418,
+                21.971374
+            ],
+            [
+                104.994257,
+                21.968393
+            ],
+            [
+                104.995007,
+                21.966022
+            ],
+            [
+                104.995443,
+                21.963674
+            ],
+            [
+                104.995153,
+                21.961009
+            ],
+            [
+                104.993895,
+                21.956087
+            ],
+            [
+                104.993096,
+                21.951819
+            ],
+            [
+                104.992322,
+                21.951367
+            ],
+            [
+                104.990484,
+                21.949425
+            ],
+            [
+                104.989855,
+                21.94816
+            ],
+            [
+                104.989274,
+                21.946038
+            ],
+            [
+                104.988863,
+                21.944434
+            ],
+            [
+                104.987557,
+                21.94317
+            ],
+            [
+                104.987073,
+                21.941047
+            ],
+            [
+                104.98688,
+                21.938789
+            ],
+            [
+                104.987122,
+                21.935989
+            ],
+            [
+                104.988017,
+                21.935198
+            ],
+            [
+                104.988598,
+                21.93434
+            ],
+            [
+                104.989082,
+                21.933211
+            ],
+            [
+                104.989227,
+                21.931947
+            ],
+            [
+                104.98942,
+                21.931405
+            ],
+            [
+                104.989856,
+                21.931044
+            ],
+            [
+                104.991549,
+                21.930321
+            ],
+            [
+                104.99421,
+                21.929418
+            ],
+            [
+                104.997355,
+                21.928695
+            ],
+            [
+                104.998178,
+                21.92865
+            ],
+            [
+                104.998807,
+                21.928966
+            ],
+            [
+                105.000161,
+                21.930005
+            ],
+            [
+                105.001896,
+                21.932622
+            ],
+            [
+                105.002626,
+                21.933306
+            ],
+            [
+                105.003433,
+                21.934174
+            ],
+            [
+                105.004089,
+                21.93463
+            ],
+            [
+                105.005626,
+                21.935155
+            ],
+            [
+                105.008047,
+                21.936205
+            ],
+            [
+                105.00966,
+                21.936798
+            ],
+            [
+                105.010366,
+                21.936935
+            ],
+            [
+                105.010921,
+                21.936935
+            ],
+            [
+                105.011627,
+                21.936798
+            ],
+            [
+                105.012887,
+                21.936342
+            ],
+            [
+                105.013795,
+                21.935976
+            ],
+            [
+                105.014803,
+                21.935611
+            ],
+            [
+                105.015862,
+                21.93552
+            ],
+            [
+                105.017476,
+                21.935611
+            ],
+            [
+                105.018232,
+                21.935611
+            ],
+            [
+                105.018787,
+                21.935382
+            ],
+            [
+                105.019064,
+                21.93504
+            ],
+            [
+                105.019266,
+                21.934583
+            ],
+            [
+                105.019316,
+                21.933899
+            ],
+            [
+                105.019316,
+                21.932712
+            ],
+            [
+                105.019064,
+                21.931023
+            ],
+            [
+                105.018509,
+                21.929151
+            ],
+            [
+                105.018433,
+                21.928215
+            ],
+            [
+                105.018584,
+                21.92753
+            ],
+            [
+                105.018937,
+                21.926937
+            ],
+            [
+                105.019441,
+                21.926298
+            ],
+            [
+                105.020038,
+                21.9258
+            ],
+            [
+                105.020689,
+                21.925404
+            ],
+            [
+                105.02121,
+                21.925191
+            ],
+            [
+                105.021962,
+                21.925065
+            ],
+            [
+                105.022516,
+                21.924654
+            ],
+            [
+                105.022617,
+                21.924289
+            ],
+            [
+                105.022617,
+                21.923878
+            ],
+            [
+                105.02176,
+                21.922097
+            ],
+            [
+                105.021533,
+                21.921116
+            ],
+            [
+                105.021482,
+                21.919838
+            ],
+            [
+                105.021684,
+                21.918696
+            ],
+            [
+                105.021683,
+                21.917692
+            ],
+            [
+                105.021532,
+                21.916779
+            ],
+            [
+                105.021078,
+                21.915683
+            ],
+            [
+                105.019843,
+                21.913378
+            ],
+            [
+                105.018582,
+                21.911415
+            ],
+            [
+                105.017826,
+                21.910365
+            ],
+            [
+                105.016666,
+                21.909224
+            ],
+            [
+                105.015103,
+                21.907946
+            ],
+            [
+                105.014599,
+                21.907398
+            ],
+            [
+                105.014498,
+                21.906987
+            ],
+            [
+                105.014674,
+                21.905869
+            ],
+            [
+                105.014977,
+                21.905047
+            ],
+            [
+                105.015178,
+                21.904408
+            ],
+            [
+                105.015229,
+                21.903632
+            ],
+            [
+                105.015128,
+                21.902856
+            ],
+            [
+                105.014976,
+                21.902308
+            ],
+            [
+                105.014623,
+                21.901806
+            ],
+            [
+                105.013918,
+                21.901167
+            ],
+            [
+                105.013565,
+                21.900482
+            ],
+            [
+                105.013464,
+                21.899752
+            ],
+            [
+                105.013691,
+                21.89909
+            ],
+            [
+                105.014144,
+                21.898359
+            ],
+            [
+                105.0149,
+                21.897674
+            ],
+            [
+                105.016312,
+                21.896853
+            ],
+            [
+                105.017169,
+                21.896031
+            ],
+            [
+                105.018126,
+                21.894752
+            ],
+            [
+                105.018681,
+                21.894159
+            ],
+            [
+                105.018983,
+                21.89393
+            ],
+            [
+                105.019689,
+                21.893976
+            ],
+            [
+                105.020949,
+                21.894295
+            ],
+            [
+                105.021806,
+                21.894341
+            ],
+            [
+                105.022663,
+                21.89425
+            ],
+            [
+                105.023268,
+                21.894021
+            ],
+            [
+                105.023923,
+                21.893473
+            ],
+            [
+                105.024679,
+                21.892651
+            ],
+            [
+                105.02546,
+                21.892081
+            ],
+            [
+                105.026166,
+                21.891807
+            ],
+            [
+                105.027123,
+                21.891761
+            ],
+            [
+                105.028737,
+                21.891989
+            ],
+            [
+                105.030299,
+                21.892354
+            ],
+            [
+                105.032215,
+                21.892353
+            ],
+            [
+                105.033878,
+                21.892262
+            ],
+            [
+                105.03534,
+                21.891988
+            ],
+            [
+                105.036146,
+                21.891668
+            ],
+            [
+                105.036928,
+                21.891051
+            ],
+            [
+                105.037179,
+                21.890458
+            ],
+            [
+                105.03733,
+                21.889682
+            ],
+            [
+                105.037532,
+                21.888312
+            ],
+            [
+                105.037632,
+                21.887856
+            ],
+            [
+                105.037985,
+                21.887353
+            ],
+            [
+                105.03864,
+                21.886851
+            ],
+            [
+                105.03985,
+                21.886212
+            ],
+            [
+                105.04116,
+                21.885526
+            ],
+            [
+                105.041714,
+                21.884842
+            ],
+            [
+                105.041891,
+                21.884271
+            ],
+            [
+                105.042042,
+                21.883495
+            ],
+            [
+                105.04189,
+                21.882399
+            ],
+            [
+                105.041587,
+                21.881075
+            ],
+            [
+                105.041688,
+                21.879888
+            ],
+            [
+                105.042141,
+                21.878153
+            ],
+            [
+                105.042166,
+                21.877081
+            ],
+            [
+                105.041863,
+                21.875665
+            ],
+            [
+                105.041308,
+                21.874387
+            ],
+            [
+                105.041258,
+                21.87384
+            ],
+            [
+                105.041409,
+                21.873246
+            ],
+            [
+                105.042315,
+                21.871739
+            ],
+            [
+                105.043146,
+                21.869068
+            ],
+            [
+                105.043599,
+                21.867151
+            ],
+            [
+                105.043952,
+                21.866009
+            ],
+            [
+                105.044355,
+                21.865188
+            ],
+            [
+                105.044758,
+                21.864548
+            ],
+            [
+                105.046017,
+                21.863498
+            ],
+            [
+                105.04962,
+                21.860918
+            ],
+            [
+                105.051433,
+                21.859548
+            ],
+            [
+                105.052693,
+                21.858908
+            ],
+            [
+                105.053348,
+                21.858771
+            ],
+            [
+                105.055112,
+                21.858725
+            ],
+            [
+                105.056725,
+                21.858678
+            ],
+            [
+                105.057934,
+                21.858541
+            ],
+            [
+                105.058539,
+                21.858221
+            ],
+            [
+                105.058891,
+                21.857719
+            ],
+            [
+                105.059395,
+                21.856486
+            ],
+            [
+                105.060276,
+                21.853587
+            ],
+            [
+                105.061383,
+                21.850345
+            ],
+            [
+                105.06234,
+                21.848656
+            ],
+            [
+                105.06448,
+                21.845391
+            ],
+            [
+                105.068307,
+                21.840231
+            ],
+            [
+                105.070447,
+                21.837742
+            ],
+            [
+                105.07639,
+                21.831028
+            ],
+            [
+                105.07785,
+                21.829795
+            ],
+            [
+                105.078228,
+                21.829589
+            ],
+            [
+                105.079235,
+                21.829269
+            ],
+            [
+                105.081301,
+                21.829085
+            ],
+            [
+                105.083266,
+                21.828993
+            ],
+            [
+                105.085987,
+                21.828992
+            ],
+            [
+                105.087246,
+                21.828854
+            ],
+            [
+                105.088254,
+                21.82826
+            ],
+            [
+                105.089639,
+                21.826913
+            ],
+            [
+                105.090847,
+                21.825314
+            ],
+            [
+                105.091601,
+                21.822712
+            ],
+            [
+                105.092104,
+                21.821479
+            ],
+            [
+                105.092708,
+                21.820657
+            ],
+            [
+                105.094043,
+                21.819903
+            ],
+            [
+                105.096712,
+                21.818668
+            ],
+            [
+                105.097367,
+                21.818257
+            ],
+            [
+                105.098021,
+                21.817709
+            ],
+            [
+                105.098575,
+                21.81675
+            ],
+            [
+                105.099682,
+                21.814512
+            ],
+            [
+                105.100033,
+                21.813279
+            ],
+            [
+                105.100033,
+                21.812823
+            ],
+            [
+                105.099882,
+                21.812458
+            ],
+            [
+                105.099252,
+                21.81207
+            ],
+            [
+                105.097136,
+                21.811615
+            ],
+            [
+                105.094616,
+                21.810658
+            ],
+            [
+                105.091945,
+                21.809564
+            ],
+            [
+                105.089728,
+                21.808058
+            ],
+            [
+                105.08877,
+                21.807328
+            ],
+            [
+                105.087888,
+                21.80621
+            ],
+            [
+                105.086879,
+                21.80475
+            ],
+            [
+                105.085618,
+                21.80224
+            ],
+            [
+                105.084483,
+                21.799159
+            ],
+            [
+                105.084179,
+                21.796602
+            ],
+            [
+                105.083826,
+                21.795507
+            ],
+            [
+                105.081733,
+                21.790829
+            ],
+            [
+                105.08027,
+                21.787131
+            ],
+            [
+                105.079917,
+                21.786538
+            ],
+            [
+                105.079212,
+                21.78631
+            ],
+            [
+                105.078507,
+                21.786311
+            ],
+            [
+                105.077449,
+                21.786265
+            ],
+            [
+                105.077096,
+                21.786083
+            ],
+            [
+                105.076643,
+                21.785764
+            ],
+            [
+                105.07319,
+                21.782181
+            ],
+            [
+                105.072737,
+                21.781634
+            ],
+            [
+                105.072535,
+                21.780858
+            ],
+            [
+                105.072434,
+                21.780173
+            ],
+            [
+                105.072433,
+                21.779123
+            ],
+            [
+                105.072584,
+                21.778393
+            ],
+            [
+                105.072987,
+                21.777753
+            ],
+            [
+                105.07495,
+                21.776154
+            ],
+            [
+                105.077266,
+                21.774464
+            ],
+            [
+                105.079481,
+                21.773002
+            ],
+            [
+                105.080237,
+                21.772363
+            ],
+            [
+                105.080538,
+                21.771769
+            ],
+            [
+                105.08079,
+                21.771176
+            ],
+            [
+                105.080613,
+                21.770285
+            ],
+            [
+                105.079907,
+                21.768825
+            ],
+            [
+                105.076984,
+                21.7649
+            ],
+            [
+                105.07597,
+                21.763547
+            ],
+            [
+                105.075559,
+                21.763236
+            ],
+            [
+                105.074562,
+                21.762578
+            ],
+            [
+                105.074062,
+                21.762071
+            ],
+            [
+                105.07396,
+                21.761341
+            ],
+            [
+                105.074262,
+                21.759971
+            ],
+            [
+                105.074765,
+                21.758966
+            ],
+            [
+                105.074765,
+                21.758236
+            ],
+            [
+                105.074005,
+                21.757001
+            ],
+            [
+                105.07391,
+                21.75703
+            ],
+            [
+                105.073769,
+                21.757052
+            ],
+            [
+                105.073323,
+                21.757097
+            ],
+            [
+                105.07297,
+                21.757075
+            ],
+            [
+                105.072617,
+                21.756888
+            ],
+            [
+                105.072194,
+                21.756425
+            ],
+            [
+                105.07123,
+                21.755039
+            ],
+            [
+                105.070395,
+                21.753837
+            ],
+            [
+                105.070113,
+                21.753187
+            ],
+            [
+                105.069887,
+                21.752501
+            ],
+            [
+                105.069699,
+                21.752079
+            ],
+            [
+                105.069455,
+                21.75171
+            ],
+            [
+                105.069253,
+                21.751495
+            ],
+            [
+                105.068877,
+                21.751275
+            ],
+            [
+                105.068184,
+                21.751016
+            ],
+            [
+                105.066543,
+                21.750409
+            ],
+            [
+                105.066268,
+                21.750342
+            ],
+            [
+                105.066024,
+                21.750352
+            ],
+            [
+                105.065912,
+                21.750447
+            ],
+            [
+                105.065882,
+                21.750838
+            ],
+            [
+                105.065801,
+                21.751048
+            ],
+            [
+                105.065658,
+                21.751191
+            ],
+            [
+                105.065302,
+                21.751267
+            ],
+            [
+                105.06455,
+                21.751143
+            ],
+            [
+                105.064407,
+                21.751058
+            ],
+            [
+                105.064112,
+                21.750743
+            ],
+            [
+                105.063441,
+                21.750001
+            ],
+            [
+                105.062989,
+                21.749587
+            ],
+            [
+                105.062883,
+                21.749114
+            ],
+            [
+                105.062683,
+                21.748839
+            ],
+            [
+                105.06233,
+                21.74853
+            ],
+            [
+                105.062048,
+                21.748321
+            ],
+            [
+                105.061672,
+                21.748211
+            ],
+            [
+                105.061215,
+                21.748232
+            ],
+            [
+                105.06077,
+                21.748411
+            ],
+            [
+                105.059689,
+                21.749007
+            ],
+            [
+                105.058799,
+                21.749305
+            ],
+            [
+                105.058226,
+                21.749246
+            ],
+            [
+                105.05759,
+                21.74871
+            ],
+            [
+                105.056682,
+                21.747767
+            ],
+            [
+                105.056649,
+                21.747465
+            ],
+            [
+                105.056757,
+                21.747127
+            ],
+            [
+                105.057118,
+                21.746823
+            ],
+            [
+                105.057875,
+                21.746485
+            ],
+            [
+                105.058092,
+                21.746282
+            ],
+            [
+                105.058356,
+                21.745833
+            ],
+            [
+                105.058588,
+                21.745138
+            ],
+            [
+                105.059639,
+                21.744878
+            ],
+            [
+                105.062272,
+                21.743747
+            ],
+            [
+                105.064947,
+                21.743377
+            ],
+            [
+                105.06611,
+                21.743036
+            ],
+            [
+                105.066837,
+                21.742355
+            ],
+            [
+                105.067854,
+                21.740719
+            ],
+            [
+                105.068726,
+                21.739833
+            ],
+            [
+                105.070398,
+                21.738538
+            ],
+            [
+                105.07207,
+                21.737584
+            ],
+            [
+                105.074833,
+                21.736561
+            ],
+            [
+                105.075705,
+                21.736015
+            ],
+            [
+                105.076359,
+                21.735334
+            ],
+            [
+                105.076795,
+                21.73438
+            ],
+            [
+                105.076867,
+                21.733222
+            ],
+            [
+                105.076284,
+                21.731315
+            ],
+            [
+                105.075629,
+                21.730361
+            ],
+            [
+                105.074538,
+                21.72934
+            ],
+            [
+                105.074029,
+                21.728659
+            ],
+            [
+                105.074029,
+                21.728114
+            ],
+            [
+                105.0749,
+                21.726478
+            ],
+            [
+                105.075844,
+                21.724298
+            ],
+            [
+                105.07628,
+                21.722663
+            ],
+            [
+                105.076498,
+                21.722118
+            ],
+            [
+                105.077079,
+                21.721777
+            ],
+            [
+                105.07737,
+                21.721777
+            ],
+            [
+                105.078533,
+                21.72198
+            ],
+            [
+                105.080061,
+                21.722933
+            ],
+            [
+                105.081443,
+                21.723818
+            ],
+            [
+                105.081806,
+                21.724023
+            ],
+            [
+                105.082606,
+                21.72409
+            ],
+            [
+                105.083188,
+                21.723954
+            ],
+            [
+                105.083624,
+                21.723545
+            ],
+            [
+                105.084568,
+                21.722386
+            ],
+            [
+                105.085367,
+                21.720751
+            ],
+            [
+                105.08573,
+                21.718639
+            ],
+            [
+                105.085892,
+                21.718233
+            ],
+            [
+                105.086165,
+                21.717549
+            ],
+            [
+                105.086601,
+                21.716867
+            ],
+            [
+                105.087255,
+                21.716185
+            ],
+            [
+                105.088345,
+                21.715504
+            ],
+            [
+                105.090307,
+                21.714481
+            ],
+            [
+                105.091397,
+                21.713526
+            ],
+            [
+                105.09176,
+                21.712266
+            ],
+            [
+                105.091541,
+                21.710972
+            ],
+            [
+                105.09125,
+                21.710154
+            ],
+            [
+                105.090522,
+                21.709405
+            ],
+            [
+                105.088486,
+                21.708248
+            ],
+            [
+                105.087613,
+                21.707499
+            ],
+            [
+                105.087176,
+                21.70675
+            ],
+            [
+                105.086667,
+                21.705661
+            ],
+            [
+                105.086594,
+                21.704979
+            ],
+            [
+                105.086521,
+                21.703958
+            ],
+            [
+                105.08652,
+                21.702323
+            ],
+            [
+                105.086665,
+                21.701982
+            ],
+            [
+                105.087682,
+                21.7013
+            ],
+            [
+                105.089063,
+                21.700822
+            ],
+            [
+                105.09168,
+                21.700549
+            ],
+            [
+                105.093861,
+                21.700615
+            ],
+            [
+                105.095242,
+                21.700615
+            ],
+            [
+                105.095823,
+                21.700274
+            ],
+            [
+                105.096332,
+                21.699797
+            ],
+            [
+                105.096622,
+                21.698775
+            ],
+            [
+                105.096766,
+                21.696799
+            ],
+            [
+                105.096837,
+                21.694346
+            ],
+            [
+                105.097418,
+                21.692881
+            ],
+            [
+                105.097999,
+                21.691791
+            ],
+            [
+                105.099887,
+                21.689133
+            ],
+            [
+                105.100177,
+                21.688315
+            ],
+            [
+                105.100176,
+                21.687225
+            ],
+            [
+                105.099884,
+                21.685659
+            ],
+            [
+                105.099374,
+                21.683615
+            ],
+            [
+                105.098913,
+                21.682494
+            ],
+            [
+                105.098408,
+                21.682189
+            ],
+            [
+                105.096369,
+                21.682121
+            ],
+            [
+                105.095211,
+                21.681848
+            ],
+            [
+                105.094657,
+                21.681255
+            ],
+            [
+                105.094203,
+                21.680296
+            ],
+            [
+                105.093952,
+                21.679977
+            ],
+            [
+                105.093851,
+                21.679931
+            ],
+            [
+                105.09365,
+                21.680251
+            ],
+            [
+                105.093147,
+                21.681347
+            ],
+            [
+                105.092594,
+                21.682352
+            ],
+            [
+                105.092242,
+                21.68258
+            ],
+            [
+                105.091437,
+                21.682718
+            ],
+            [
+                105.085698,
+                21.68199
+            ],
+            [
+                105.081873,
+                21.681718
+            ],
+            [
+                105.080814,
+                21.681742
+            ],
+            [
+                105.079941,
+                21.681863
+            ],
+            [
+                105.078601,
+                21.682176
+            ],
+            [
+                105.076437,
+                21.682908
+            ],
+            [
+                105.075499,
+                21.683238
+            ],
+            [
+                105.074776,
+                21.683502
+            ],
+            [
+                105.073367,
+                21.683914
+            ],
+            [
+                105.071706,
+                21.684188
+            ],
+            [
+                105.070599,
+                21.68428
+            ],
+            [
+                105.069391,
+                21.684418
+            ],
+            [
+                105.068334,
+                21.684692
+            ],
+            [
+                105.067428,
+                21.684921
+            ],
+            [
+                105.065793,
+                21.686085
+            ],
+            [
+                105.062623,
+                21.688461
+            ],
+            [
+                105.061164,
+                21.689831
+            ],
+            [
+                105.060761,
+                21.690105
+            ],
+            [
+                105.06056,
+                21.690059
+            ],
+            [
+                105.060408,
+                21.68974
+            ],
+            [
+                105.060257,
+                21.689146
+            ],
+            [
+                105.060206,
+                21.688096
+            ],
+            [
+                105.059904,
+                21.68732
+            ],
+            [
+                105.059451,
+                21.686681
+            ],
+            [
+                105.058796,
+                21.686179
+            ],
+            [
+                105.058091,
+                21.685814
+            ],
+            [
+                105.057185,
+                21.685723
+            ],
+            [
+                105.055927,
+                21.685861
+            ],
+            [
+                105.053159,
+                21.686455
+            ],
+            [
+                105.052077,
+                21.68698
+            ],
+            [
+                105.051573,
+                21.687437
+            ],
+            [
+                105.051322,
+                21.687939
+            ],
+            [
+                105.051171,
+                21.688442
+            ],
+            [
+                105.051071,
+                21.688716
+            ],
+            [
+                105.050517,
+                21.689035
+            ],
+            [
+                105.049863,
+                21.689264
+            ],
+            [
+                105.045031,
+                21.690315
+            ],
+            [
+                105.044326,
+                21.690544
+            ],
+            [
+                105.043974,
+                21.690818
+            ],
+            [
+                105.043571,
+                21.691274
+            ],
+            [
+                105.039907,
+                21.695051
+            ],
+            [
+                105.03947,
+                21.695726
+            ],
+            [
+                105.039222,
+                21.696825
+            ],
+            [
+                105.038967,
+                21.697142
+            ],
+            [
+                105.037054,
+                21.69801
+            ],
+            [
+                105.0364,
+                21.698421
+            ],
+            [
+                105.035242,
+                21.699197
+            ],
+            [
+                105.033078,
+                21.70075
+            ],
+            [
+                105.032625,
+                21.701024
+            ],
+            [
+                105.032113,
+                21.701045
+            ],
+            [
+                105.03171,
+                21.700908
+            ],
+            [
+                105.031241,
+                21.700499
+            ],
+            [
+                105.029226,
+                21.697715
+            ],
+            [
+                105.027263,
+                21.69598
+            ],
+            [
+                105.025954,
+                21.695022
+            ],
+            [
+                105.024997,
+                21.694656
+            ],
+            [
+                105.024393,
+                21.69452
+            ],
+            [
+                105.024091,
+                21.69452
+            ],
+            [
+                105.023638,
+                21.694657
+            ],
+            [
+                105.022934,
+                21.695205
+            ],
+            [
+                105.02243,
+                21.695433
+            ],
+            [
+                105.021574,
+                21.69557
+            ],
+            [
+                105.020819,
+                21.695524
+            ],
+            [
+                105.02024,
+                21.695319
+            ],
+            [
+                105.019907,
+                21.695046
+            ],
+            [
+                105.019695,
+                21.694828
+            ],
+            [
+                105.019314,
+                21.694332
+            ],
+            [
+                105.019271,
+                21.694114
+            ],
+            [
+                105.019144,
+                21.693578
+            ],
+            [
+                105.019017,
+                21.692665
+            ],
+            [
+                105.018932,
+                21.691475
+            ],
+            [
+                105.018936,
+                21.691399
+            ],
+            [
+                105.018953,
+                21.691098
+            ],
+            [
+                105.019144,
+                21.689609
+            ],
+            [
+                105.019186,
+                21.689332
+            ],
+            [
+                105.019283,
+                21.688471
+            ],
+            [
+                105.018981,
+                21.688106
+            ],
+            [
+                105.018377,
+                21.68806
+            ],
+            [
+                105.015961,
+                21.688426
+            ],
+            [
+                105.012739,
+                21.688563
+            ],
+            [
+                105.010525,
+                21.688472
+            ],
+            [
+                105.008058,
+                21.688153
+            ],
+            [
+                105.006145,
+                21.687696
+            ],
+            [
+                105.005793,
+                21.68765
+            ],
+            [
+                105.00539,
+                21.687833
+            ],
+            [
+                105.004635,
+                21.688518
+            ],
+            [
+                105.004283,
+                21.688655
+            ],
+            [
+                105.003729,
+                21.688655
+            ],
+            [
+                105.001893,
+                21.688375
+            ],
+            [
+                104.999471,
+                21.687697
+            ],
+            [
+                104.998954,
+                21.686627
+            ],
+            [
+                104.999139,
+                21.685696
+            ],
+            [
+                105.001131,
+                21.684316
+            ],
+            [
+                105.001389,
+                21.683384
+            ],
+            [
+                105.000615,
+                21.679796
+            ],
+            [
+                105.000172,
+                21.679416
+            ],
+            [
+                104.998217,
+                21.679106
+            ],
+            [
+                104.996239,
+                21.67926
+            ],
+            [
+                104.995012,
+                21.678654
+            ],
+            [
+                104.988227,
+                21.675741
+            ],
+            [
+                104.982554,
+                21.673972
+            ],
+            [
+                104.980329,
+                21.673139
+            ],
+            [
+                104.979996,
+                21.672515
+            ],
+            [
+                104.984728,
+                21.66897
+            ],
+            [
+                104.985792,
+                21.668141
+            ],
+            [
+                104.985824,
+                21.667081
+            ],
+            [
+                104.985805,
+                21.667037
+            ],
+            [
+                104.985547,
+                21.666305
+            ],
+            [
+                104.985289,
+                21.665574
+            ],
+            [
+                104.985901,
+                21.664506
+            ],
+            [
+                104.986795,
+                21.662948
+            ],
+            [
+                104.985962,
+                21.66219
+            ],
+            [
+                104.984858,
+                21.661184
+            ],
+            [
+                104.983518,
+                21.660572
+            ],
+            [
+                104.982316,
+                21.660555
+            ],
+            [
+                104.981114,
+                21.660539
+            ],
+            [
+                104.97935,
+                21.660711
+            ],
+            [
+                104.979049,
+                21.660582
+            ],
+            [
+                104.97853,
+                21.659803
+            ],
+            [
+                104.977844,
+                21.658774
+            ],
+            [
+                104.976725,
+                21.657612
+            ],
+            [
+                104.975722,
+                21.657284
+            ],
+            [
+                104.974403,
+                21.657396
+            ],
+            [
+                104.973443,
+                21.657059
+            ],
+            [
+                104.973368,
+                21.657005
+            ],
+            [
+                104.973368,
+                21.656622
+            ],
+            [
+                104.973626,
+                21.655633
+            ],
+            [
+                104.973885,
+                21.654471
+            ],
+            [
+                104.973885,
+                21.653868
+            ],
+            [
+                104.973454,
+                21.653524
+            ],
+            [
+                104.97268,
+                21.653309
+            ],
+            [
+                104.972163,
+                21.653094
+            ],
+            [
+                104.971044,
+                21.652018
+            ],
+            [
+                104.970528,
+                21.651458
+            ],
+            [
+                104.970571,
+                21.650985
+            ],
+            [
+                104.970786,
+                21.650684
+            ],
+            [
+                104.971604,
+                21.650124
+            ],
+            [
+                104.972335,
+                21.649565
+            ],
+            [
+                104.972464,
+                21.648919
+            ],
+            [
+                104.972508,
+                21.647542
+            ],
+            [
+                104.972335,
+                21.646811
+            ],
+            [
+                104.97212,
+                21.646639
+            ],
+            [
+                104.971518,
+                21.646897
+            ],
+            [
+                104.969409,
+                21.647714
+            ],
+            [
+                104.968634,
+                21.648274
+            ],
+            [
+                104.96786,
+                21.648833
+            ],
+            [
+                104.966741,
+                21.649909
+            ],
+            [
+                104.966009,
+                21.650942
+            ],
+            [
+                104.965536,
+                21.651975
+            ],
+            [
+                104.965289,
+                21.652346
+            ],
+            [
+                104.96361,
+                21.652794
+            ],
+            [
+                104.96229,
+                21.653579
+            ],
+            [
+                104.96133,
+                21.655149
+            ],
+            [
+                104.96085,
+                21.656047
+            ],
+            [
+                104.958211,
+                21.659075
+            ],
+            [
+                104.957196,
+                21.660131
+            ],
+            [
+                104.955452,
+                21.660421
+            ],
+            [
+                104.953893,
+                21.660869
+            ],
+            [
+                104.950654,
+                21.662663
+            ],
+            [
+                104.946335,
+                21.665578
+            ],
+            [
+                104.943936,
+                21.666475
+            ],
+            [
+                104.942016,
+                21.666811
+            ],
+            [
+                104.941805,
+                21.667356
+            ],
+            [
+                104.942042,
+                21.668159
+            ],
+            [
+                104.943081,
+                21.669128
+            ],
+            [
+                104.946673,
+                21.670484
+            ],
+            [
+                104.949641,
+                21.672228
+            ],
+            [
+                104.95255,
+                21.674968
+            ],
+            [
+                104.953142,
+                21.678676
+            ],
+            [
+                104.952785,
+                21.680944
+            ],
+            [
+                104.952206,
+                21.681871
+            ],
+            [
+                104.951582,
+                21.683724
+            ],
+            [
+                104.951463,
+                21.684997
+            ],
+            [
+                104.951581,
+                21.685799
+            ],
+            [
+                104.952412,
+                21.68627
+            ],
+            [
+                104.954631,
+                21.687747
+            ],
+            [
+                104.954017,
+                21.688457
+            ],
+            [
+                104.9509,
+                21.695493
+            ],
+            [
+                104.950344,
+                21.69855
+            ],
+            [
+                104.950158,
+                21.70103
+            ],
+            [
+                104.952962,
+                21.707433
+            ],
+            [
+                104.954996,
+                21.711759
+            ],
+            [
+                104.948518,
+                21.714468
+            ],
+            [
+                104.946852,
+                21.715794
+            ],
+            [
+                104.945989,
+                21.716889
+            ],
+            [
+                104.945957,
+                21.717985
+            ],
+            [
+                104.946697,
+                21.719024
+            ],
+            [
+                104.947129,
+                21.719485
+            ],
+            [
+                104.951199,
+                21.723755
+            ],
+            [
+                104.953604,
+                21.72537
+            ],
+            [
+                104.953726,
+                21.728023
+            ],
+            [
+                104.953479,
+                21.729004
+            ],
+            [
+                104.949962,
+                21.732694
+            ],
+            [
+                104.947555,
+                21.734135
+            ],
+            [
+                104.945951,
+                21.734712
+            ],
+            [
+                104.944655,
+                21.734653
+            ],
+            [
+                104.943237,
+                21.734595
+            ],
+            [
+                104.939721,
+                21.733383
+            ],
+            [
+                104.938919,
+                21.733325
+            ],
+            [
+                104.937931,
+                21.733671
+            ],
+            [
+                104.936944,
+                21.734881
+            ],
+            [
+                104.934475,
+                21.737072
+            ],
+            [
+                104.933796,
+                21.738687
+            ],
+            [
+                104.932746,
+                21.741455
+            ],
+            [
+                104.932437,
+                21.742551
+            ],
+            [
+                104.932436,
+                21.743935
+            ],
+            [
+                104.933052,
+                21.745608
+            ],
+            [
+                104.932682,
+                21.746184
+            ],
+            [
+                104.932003,
+                21.746415
+            ],
+            [
+                104.931078,
+                21.746414
+            ],
+            [
+                104.928795,
+                21.745433
+            ],
+            [
+                104.92861,
+                21.74526
+            ],
+            [
+                104.926233,
+                21.74895
+            ],
+            [
+                104.924504,
+                21.751891
+            ],
+            [
+                104.92364,
+                21.752755
+            ],
+            [
+                104.922406,
+                21.75287
+            ],
+            [
+                104.920493,
+                21.75235
+            ],
+            [
+                104.919691,
+                21.75235
+            ],
+            [
+                104.918827,
+                21.75258
+            ],
+            [
+                104.91784,
+                21.753272
+            ],
+            [
+                104.917283,
+                21.755579
+            ],
+            [
+                104.917035,
+                21.757712
+            ],
+            [
+                104.917157,
+                21.760366
+            ],
+            [
+                104.917156,
+                21.761404
+            ],
+            [
+                104.914903,
+                21.762902
+            ],
+            [
+                104.912618,
+                21.765496
+            ],
+            [
+                104.910396,
+                21.767341
+            ],
+            [
+                104.90947,
+                21.768436
+            ],
+            [
+                104.909099,
+                21.769359
+            ],
+            [
+                104.909499,
+                21.771205
+            ],
+            [
+                104.909498,
+                21.772704
+            ],
+            [
+                104.908571,
+                21.774838
+            ],
+            [
+                104.905853,
+                21.779047
+            ],
+            [
+                104.904092,
+                21.78141
+            ],
+            [
+                104.901684,
+                21.784177
+            ],
+            [
+                104.898658,
+                21.786656
+            ],
+            [
+                104.896065,
+                21.788673
+            ],
+            [
+                104.891155,
+                21.792995
+            ],
+            [
+                104.89029,
+                21.794206
+            ],
+            [
+                104.888066,
+                21.79755
+            ],
+            [
+                104.886521,
+                21.799683
+            ],
+            [
+                104.882352,
+                21.803371
+            ],
+            [
+                104.878337,
+                21.806656
+            ],
+            [
+                104.877287,
+                21.807981
+            ],
+            [
+                104.876112,
+                21.810114
+            ],
+            [
+                104.874196,
+                21.813516
+            ],
+            [
+                104.873207,
+                21.814611
+            ],
+            [
+                104.871015,
+                21.815763
+            ],
+            [
+                104.867618,
+                21.817202
+            ],
+            [
+                104.861442,
+                21.8206
+            ],
+            [
+                104.855451,
+                21.824344
+            ],
+            [
+                104.850664,
+                21.826589
+            ],
+            [
+                104.848442,
+                21.827048
+            ],
+            [
+                104.847145,
+                21.827047
+            ],
+            [
+                104.842702,
+                21.826062
+            ],
+            [
+                104.841775,
+                21.826465
+            ],
+            [
+                104.83986,
+                21.827617
+            ],
+            [
+                104.837328,
+                21.828537
+            ],
+            [
+                104.83597,
+                21.828651
+            ],
+            [
+                104.833933,
+                21.828245
+            ],
+            [
+                104.832912,
+                21.830321
+            ],
+            [
+                104.8326,
+                21.833723
+            ],
+            [
+                104.831979,
+                21.836145
+            ],
+            [
+                104.830986,
+                21.841392
+            ],
+            [
+                104.829683,
+                21.846409
+            ],
+            [
+                104.828071,
+                21.852405
+            ],
+            [
+                104.827018,
+                21.855173
+            ],
+            [
+                104.819786,
+                21.861163
+            ],
+            [
+                104.816109,
+                21.863928
+            ],
+            [
+                104.809866,
+                21.868938
+            ],
+            [
+                104.804857,
+                21.873604
+            ],
+            [
+                104.803806,
+                21.874583
+            ],
+            [
+                104.797998,
+                21.877056
+            ],
+            [
+                104.793396,
+                21.8778
+            ],
+            [
+                104.791338,
+                21.882556
+            ],
+            [
+                104.789666,
+                21.884669
+            ],
+            [
+                104.787159,
+                21.886893
+            ],
+            [
+                104.786561,
+                21.887672
+            ],
+            [
+                104.786082,
+                21.889119
+            ],
+            [
+                104.786079,
+                21.891568
+            ],
+            [
+                104.786788,
+                21.8958
+            ],
+            [
+                104.782722,
+                21.90359
+            ],
+            [
+                104.77568,
+                21.907811
+            ],
+            [
+                104.769114,
+                21.912256
+            ],
+            [
+                104.767801,
+                21.912811
+            ],
+            [
+                104.766847,
+                21.91281
+            ],
+            [
+                104.764464,
+                21.912027
+            ],
+            [
+                104.763033,
+                21.911468
+            ],
+            [
+                104.762199,
+                21.911467
+            ],
+            [
+                104.760289,
+                21.912244
+            ],
+            [
+                104.755634,
+                21.914687
+            ],
+            [
+                104.74979,
+                21.915123
+            ],
+            [
+                104.749597,
+                21.918103
+            ],
+            [
+                104.749835,
+                21.918708
+            ],
+            [
+                104.751026,
+                21.919728
+            ],
+            [
+                104.751059,
+                21.920142
+            ],
+            [
+                104.750513,
+                21.921
+            ],
+            [
+                104.747511,
+                21.922587
+            ],
+            [
+                104.745557,
+                21.924231
+            ],
+            [
+                104.746757,
+                21.927539
+            ],
+            [
+                104.748168,
+                21.931636
+            ],
+            [
+                104.749129,
+                21.932648
+            ],
+            [
+                104.748068,
+                21.935315
+            ],
+            [
+                104.749815,
+                21.939709
+            ],
+            [
+                104.749888,
+                21.93984
+            ],
+            [
+                104.750597,
+                21.941111
+            ],
+            [
+                104.750233,
+                21.94461
+            ],
+            [
+                104.750364,
+                21.947601
+            ],
+            [
+                104.754364,
+                21.950471
+            ],
+            [
+                104.756711,
+                21.953275
+            ],
+            [
+                104.763132,
+                21.956371
+            ],
+            [
+                104.764291,
+                21.956563
+            ],
+            [
+                104.766132,
+                21.95612
+            ],
+            [
+                104.768691,
+                21.954724
+            ],
+            [
+                104.776901,
+                21.958363
+            ],
+            [
+                104.77908,
+                21.959607
+            ],
+            [
+                104.787205,
+                21.963499
+            ],
+            [
+                104.789183,
+                21.962738
+            ],
+            [
+                104.792061,
+                21.964651
+            ],
+            [
+                104.794244,
+                21.963763
+            ],
+            [
+                104.795267,
+                21.96386
+            ],
+            [
+                104.797515,
+                21.965422
+            ],
+            [
+                104.799183,
+                21.966633
+            ],
+            [
+                104.800325,
+                21.966857
+            ],
+            [
+                104.802099,
+                21.965714
+            ],
+            [
+                104.804455,
+                21.96333
+            ],
+            [
+                104.807973,
+                21.958625
+            ],
+            [
+                104.81014,
+                21.956305
+            ],
+            [
+                104.821042,
+                21.961631
+            ],
+            [
+                104.828743,
+                21.950056
+            ],
+            [
+                104.8323,
+                21.93975
+            ],
+            [
+                104.832579,
+                21.935041
+            ],
+            [
+                104.833398,
+                21.933515
+            ],
+            [
+                104.835309,
+                21.93148
+            ],
+            [
+                104.8379,
+                21.931101
+            ],
+            [
+                104.843895,
+                21.934034
+            ],
+            [
+                104.844302,
+                21.936326
+            ],
+            [
+                104.84416,
+                21.94129
+            ],
+            [
+                104.848924,
+                21.948931
+            ],
+            [
+                104.862703,
+                21.941179
+            ],
+            [
+                104.859896,
+                21.953523
+            ],
+            [
+                104.861121,
+                21.955051
+            ],
+            [
+                104.868069,
+                21.961421
+            ],
+            [
+                104.868205,
+                21.962439
+            ],
+            [
+                104.864923,
+                21.972491
+            ],
+            [
+                104.865941,
+                21.977456
+            ],
+            [
+                104.866894,
+                21.979111
+            ],
+            [
+                104.867711,
+                21.980512
+            ],
+            [
+                104.869347,
+                21.981023
+            ],
+            [
+                104.874256,
+                21.981154
+            ],
+            [
+                104.874528,
+                21.982299
+            ],
+            [
+                104.869305,
+                21.99903
+            ],
+            [
+                104.869305,
+                21.99903
+            ],
+            [
+                104.870469,
+                22.003625
+            ],
+            [
+                104.870866,
+                22.006075
+            ],
+            [
+                104.87078,
+                22.008074
+            ],
+            [
+                104.870778,
+                22.009955
+            ],
+            [
+                104.87086,
+                22.01262
+            ],
+            [
+                104.870605,
+                22.015912
+            ],
+            [
+                104.869846,
+                22.018773
+            ],
+            [
+                104.868793,
+                22.021398
+            ],
+            [
+                104.867131,
+                22.024121
+            ],
+            [
+                104.865827,
+                22.025923
+            ],
+            [
+                104.863729,
+                22.029091
+            ],
+            [
+                104.862812,
+                22.03122
+            ],
+            [
+                104.862155,
+                22.032558
+            ],
+            [
+                104.861892,
+                22.0342
+            ],
+            [
+                104.861956,
+                22.035599
+            ],
+            [
+                104.862467,
+                22.036512
+            ],
+            [
+                104.863654,
+                22.037304
+            ],
+            [
+                104.866266,
+                22.038766
+            ],
+            [
+                104.868552,
+                22.039984
+            ],
+            [
+                104.870055,
+                22.040837
+            ],
+            [
+                104.871427,
+                22.041325
+            ],
+            [
+                104.872014,
+                22.04169
+            ],
+            [
+                104.87221,
+                22.041934
+            ],
+            [
+                104.87221,
+                22.042299
+            ],
+            [
+                104.871948,
+                22.043272
+            ],
+            [
+                104.871849,
+                22.044165
+            ],
+            [
+                104.872436,
+                22.045444
+            ],
+            [
+                104.873154,
+                22.046236
+            ],
+            [
+                104.874461,
+                22.046724
+            ],
+            [
+                104.876094,
+                22.047029
+            ],
+            [
+                104.877205,
+                22.047213
+            ],
+            [
+                104.877723,
+                22.04726
+            ],
+            [
+                104.877955,
+                22.047261
+            ],
+            [
+                104.878091,
+                22.047297
+            ],
+            [
+                104.87811,
+                22.047369
+            ],
+            [
+                104.87811,
+                22.047513
+            ],
+            [
+                104.877839,
+                22.047928
+            ],
+            [
+                104.876966,
+                22.049243
+            ],
+            [
+                104.876403,
+                22.050306
+            ],
+            [
+                104.875637,
+                22.051869
+            ],
+            [
+                104.875248,
+                22.053456
+            ],
+            [
+                104.875015,
+                22.054376
+            ],
+            [
+                104.87483,
+                22.055341
+            ],
+            [
+                104.874557,
+                22.057163
+            ],
+            [
+                104.874343,
+                22.0583
+            ],
+            [
+                104.873886,
+                22.059986
+            ],
+            [
+                104.873672,
+                22.061249
+            ],
+            [
+                104.873885,
+                22.062205
+            ],
+            [
+                104.874242,
+                22.062882
+            ],
+            [
+                104.875771,
+                22.064723
+            ],
+            [
+                104.876912,
+                22.066294
+            ],
+            [
+                104.878548,
+                22.068288
+            ],
+            [
+                104.881712,
+                22.07198
+            ],
+            [
+                104.882124,
+                22.0724
+            ],
+            [
+                104.883211,
+                22.071666
+            ],
+            [
+                104.886136,
+                22.070986
+            ],
+            [
+                104.889518,
+                22.072011
+            ],
+            [
+                104.891619,
+                22.072524
+            ],
+            [
+                104.894545,
+                22.072185
+            ]
+        ]
+    ]
+}

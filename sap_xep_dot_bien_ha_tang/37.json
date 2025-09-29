@@ -1,0 +1,4430 @@
+{
+    "id_district": "37",
+    "id_province": 22,
+    "name_province": "Hà Giang",
+    "name_district": "Huyện Bắc Mê",
+    "list_sukien": [
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "UỶ BAN NHÂN DÂN XÃ YÊN CƯỜNG",
+            "createdBy": "vn5100301352",
+            "publicDate": "2024-12-23 16:50:33",
+            "projectName": null,
+            "bidCloseDate": "2025-01-02 14:00:00",
+            "id_muasamcong": "002d3bff-5659-4028-a8df-3c27d2b34f75",
+            "tongmuc_dautu": 1311787940.0,
+            "bidNamePlanNew": "PL2400304355",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "ỦY BAN NHÂN DÂN XÃ PHÚ NAM",
+            "createdBy": "vn5100437970",
+            "publicDate": "2024-12-06 15:41:52",
+            "projectName": null,
+            "bidCloseDate": "2024-12-15 08:00:00",
+            "id_muasamcong": "02d583a0-d2c5-4f09-93e0-d2ebd4d0c399",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400258271",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây lắp",
+            "chudautu": "UỶ BAN NHÂN DÂN XÃ YÊN CƯỜNG",
+            "createdBy": "vn5100265048",
+            "publicDate": "2023-02-22 14:27:35",
+            "projectName": null,
+            "bidCloseDate": "2023-03-04 15:00:00",
+            "id_muasamcong": "0335bf85-8446-4de9-aafb-62b8dc405476",
+            "tongmuc_dautu": 1485000000.0,
+            "bidNamePlanNew": "PL2300018377",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây lắp công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BẮC MÊ\t",
+            "createdBy": "vn5100265048",
+            "publicDate": "2023-09-25 09:18:05",
+            "projectName": null,
+            "bidCloseDate": "2023-10-05 14:00:00",
+            "id_muasamcong": "0736eee1-f57e-445f-869e-ced5ea0d24ab",
+            "tongmuc_dautu": 2698250045.0,
+            "bidNamePlanNew": "PL2300169441",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây lắp công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây lắp công trình",
+            "chudautu": "UỶ BAN NHÂN DÂN XÃ YÊN CƯỜNG",
+            "createdBy": "vn5100265048",
+            "publicDate": "2023-07-10 11:41:06",
+            "projectName": null,
+            "bidCloseDate": "2023-07-28 10:00:00",
+            "id_muasamcong": "0d6c49ac-fdf9-466a-94ba-83a2f6e9bc63",
+            "tongmuc_dautu": 1530352093.0,
+            "bidNamePlanNew": "PL2300096657",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây lắp công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06:\nTư vấn giám sát\nthi công xây dựng",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BẮC MÊ\t",
+            "createdBy": "vn5100437970",
+            "publicDate": "2023-11-17 16:37:43",
+            "projectName": null,
+            "bidCloseDate": "2023-11-29 08:00:00",
+            "id_muasamcong": "0ed94f25-06f2-4133-807b-91892e40350b",
+            "tongmuc_dautu": 756000000.0,
+            "bidNamePlanNew": "PL2300128503",
+            "dotbien_hatang": "Gói thầu số 06:\nTư vấn giám sát\nthi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Chi phí thi công xây dựng công trình",
+            "chudautu": "Ban quản lý Dự án lòng hồ giai đoạn 2 (Ban quản lý dự án DA01)",
+            "createdBy": "vn5100412856",
+            "publicDate": "2023-07-28 10:51:25",
+            "projectName": "Liên danh Hợp tác xã Hoàng Tuấn BM - Bảo Khanh",
+            "bidCloseDate": "2023-08-07 11:00:00",
+            "id_muasamcong": "15523d42-e2f0-4f99-acd7-be192ac28c60",
+            "tongmuc_dautu": 4081088150.0,
+            "bidNamePlanNew": "PL2300125426",
+            "dotbien_hatang": "Gói thầu số 03: Chi phí thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng + Lắp đặt thiết bị",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BẮC MÊ\t",
+            "createdBy": "vn5100437970",
+            "publicDate": "2024-11-18 17:01:58",
+            "projectName": "Liên danh Viết Liêm – PCCC",
+            "bidCloseDate": "2024-11-28 08:00:00",
+            "id_muasamcong": "1850abdc-c237-4b4c-88b1-820111ee17f2",
+            "tongmuc_dautu": 13128829414.0,
+            "bidNamePlanNew": "PL2400257306",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng + Lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BẮC MÊ\t",
+            "createdBy": "vn5100412856",
+            "publicDate": "2023-05-09 15:18:45",
+            "projectName": "Liên danh hợp tác xã Hoàng Tuấn BM - Bảo Khanh",
+            "bidCloseDate": "2023-05-19 16:30:00",
+            "id_muasamcong": "22f1d4d4-1c8b-4168-85bb-beda86cf3dfc",
+            "tongmuc_dautu": 5269253124.0,
+            "bidNamePlanNew": "PL2300062497",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "ỦY BAN NHÂN DÂN XÃ PHÚ NAM",
+            "createdBy": "vn5100437970",
+            "publicDate": "2024-12-06 15:54:42",
+            "projectName": null,
+            "bidCloseDate": "2024-12-15 08:00:00",
+            "id_muasamcong": "23dc1e95-164d-487a-82f1-6db52382d313",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400258306",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02:Thi công xây dựng công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BẮC MÊ\t",
+            "createdBy": "vn5100265048",
+            "publicDate": "2023-05-20 18:21:14",
+            "projectName": null,
+            "bidCloseDate": "2023-05-30 19:00:00",
+            "id_muasamcong": "23f250b1-b019-4284-9caa-fe175cf81ed0",
+            "tongmuc_dautu": 11589578158.0,
+            "bidNamePlanNew": "PL2300067481",
+            "dotbien_hatang": "Gói thầu số 02:Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây lắp. Công trình: Nâng cấp, đổ bê tông mặt đường từ trung tâm xã đến thôn Hạ Sơn I, đoạn từ đầu cầu treo trung tâm huyện đến thôn Hạ Sơn I xã Lạc Nông, huyện Bắc Mê; Hạng mục: Nâng cấp nền đường, đổ bê tông mặt đường, cống rãnh thoát nước",
+            "chudautu": "UỶ BAN NHÂN DÂN XÃ LẠC NÔNG",
+            "createdBy": "vn5100472407",
+            "publicDate": "2023-03-04 23:15:46",
+            "projectName": "Liên danh Công ty TNHH Kiến trúc và Xây dựng Hà Giang và Công ty TNHH một thành viên Hoàng Quân 668",
+            "bidCloseDate": "2023-03-14 17:00:00",
+            "id_muasamcong": "2713d18b-d3a7-45d2-985f-c3254f32a7e8",
+            "tongmuc_dautu": 4271338798.0,
+            "bidNamePlanNew": "PL2300018407",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây lắp. Công trình: Nâng cấp, đổ bê tông mặt đường từ trung tâm xã đến thôn Hạ Sơn I, đoạn từ đầu cầu treo trung tâm huyện đến thôn Hạ Sơn I xã Lạc Nông, huyện Bắc Mê; Hạng mục: Nâng cấp nền đường, đổ bê tông mặt đường, cống rãnh thoát nước",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 1:Thi công xây lắp",
+            "chudautu": "ỦY BAN NHÂN DÂN XÃ PHÚ NAM\t",
+            "createdBy": "vn5100265048",
+            "publicDate": "2022-11-27 10:22:02",
+            "projectName": null,
+            "bidCloseDate": "2022-12-07 14:00:00",
+            "id_muasamcong": "2e452b39-b5db-47f0-916d-5cb66db4e1be",
+            "tongmuc_dautu": 1279146902.0,
+            "bidNamePlanNew": "PL2200057569",
+            "dotbien_hatang": "Gói thầu số 1:Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "UỶ BAN NHÂN DÂN XÃ LẠC NÔNG",
+            "createdBy": "vn5100437970",
+            "publicDate": "2024-12-16 17:36:15",
+            "projectName": null,
+            "bidCloseDate": "2024-12-26 08:00:00",
+            "id_muasamcong": "2e5540e3-4683-4bbf-b73d-a6a1ecb18c71",
+            "tongmuc_dautu": 1108516545.0,
+            "bidNamePlanNew": "PL2400305274",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây lắp",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BẮC MÊ\t",
+            "createdBy": "vn5100265048",
+            "publicDate": "2023-03-10 16:57:01",
+            "projectName": null,
+            "bidCloseDate": "2023-03-20 17:00:00",
+            "id_muasamcong": "2e9ca9ba-df9b-4d75-9282-b23aef88b361",
+            "tongmuc_dautu": 7280000000.0,
+            "bidNamePlanNew": "PL2300016550",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01 thi công xây dựng",
+            "chudautu": "Uỷ Ban Nhân Dân Xã Đường Hồng",
+            "createdBy": "vn5100438438",
+            "publicDate": "2023-02-22 09:53:41",
+            "projectName": null,
+            "bidCloseDate": "2023-03-04 10:00:00",
+            "id_muasamcong": "308626cf-bb9b-4583-8487-b2dd75809469",
+            "tongmuc_dautu": 2830492402.0,
+            "bidNamePlanNew": "PL2300014708",
+            "dotbien_hatang": "Gói thầu số 01 thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây lắp công trình",
+            "chudautu": "UỶ BAN NHÂN DÂN XÃ YÊN CƯỜNG",
+            "createdBy": "vn5100265048",
+            "publicDate": "2023-07-19 08:27:21",
+            "projectName": null,
+            "bidCloseDate": "2023-07-29 09:00:00",
+            "id_muasamcong": "32db71e1-9193-4b97-9022-d41f0d2d9ee8",
+            "tongmuc_dautu": 1226190688.0,
+            "bidNamePlanNew": "PL2300111852",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây lắp công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số: 01 Thi công xây lắp",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BẮC MÊ\t",
+            "createdBy": "vn5100265048",
+            "publicDate": "2023-04-21 09:29:39",
+            "projectName": "Liên danh Công ty TNHH MTV Hoàng Kim 868 và Công ty TNHH MTV Hoàng Quân 668",
+            "bidCloseDate": "2023-04-28 08:00:00",
+            "id_muasamcong": "370e6bfc-3eb5-47d9-a47c-70e62eca8b7a",
+            "tongmuc_dautu": 5509355694.0,
+            "bidNamePlanNew": "PL2300034474",
+            "dotbien_hatang": "Gói thầu số: 01 Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây lắp",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BẮC MÊ\t",
+            "createdBy": "vn5100437970",
+            "publicDate": "2023-03-02 09:01:15",
+            "projectName": "Liên danh Công ty TNHH 1 TV 339 & Công ty TNHH 1TV Xây dựng Nam Hải",
+            "bidCloseDate": "2023-03-13 08:00:00",
+            "id_muasamcong": "374f625a-d85b-4ec7-b802-544b0be415a2",
+            "tongmuc_dautu": 6899900980.0,
+            "bidNamePlanNew": "PL2300023347",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02 Cung cấp VTTB + Thi công xây lắp",
+            "chudautu": "CÔNG TY ĐIỆN LỰC HÀ GIANG - CHI NHÁNH TỔNG CÔNG TY ĐIỆN LỰC MIỀN BẮC",
+            "createdBy": "vnz000004691-19",
+            "publicDate": "2024-10-14 14:05:16",
+            "projectName": null,
+            "bidCloseDate": "2024-10-26 09:30:00",
+            "id_muasamcong": "37cfa27d-7d4e-46b0-a74f-f9c6ea0c4b9d",
+            "tongmuc_dautu": 4985226469.0,
+            "bidNamePlanNew": "PL2400226914",
+            "dotbien_hatang": "Gói thầu số 02 Cung cấp VTTB + Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng + lắp đặt thiết bị",
+            "chudautu": "Uỷ ban nhân dân xã Yên Định",
+            "createdBy": "vn5100437970",
+            "publicDate": "2023-02-24 15:25:53",
+            "projectName": "Liên danh Công ty TNHH 1 TV Tiến Phát 7979 & Hợp tác xã tổng hợp Bình Minh",
+            "bidCloseDate": "2023-03-07 08:00:00",
+            "id_muasamcong": "3ac0e5aa-d48a-42e7-b402-4f9cdd033f03",
+            "tongmuc_dautu": 2730637435.0,
+            "bidNamePlanNew": "PL2300011210",
+            "dotbien_hatang": "Thi công xây dựng + lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BẮC MÊ\t",
+            "createdBy": "vn5100472407",
+            "publicDate": "2023-02-17 09:52:12",
+            "projectName": null,
+            "bidCloseDate": "2023-02-27 10:00:00",
+            "id_muasamcong": "3e102c28-a141-4747-a5cd-24d5c36d86e4",
+            "tongmuc_dautu": 11611627179.0,
+            "bidNamePlanNew": "PL2300014258",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng",
+            "chudautu": "UỶ BAN NHÂN DÂN XÃ GIÁP TRUNG",
+            "createdBy": "vn5100437970",
+            "publicDate": "2024-12-06 10:22:30",
+            "projectName": null,
+            "bidCloseDate": "2024-12-15 08:00:00",
+            "id_muasamcong": "3e7e9e9c-5aa7-439f-acbb-57141e782fa8",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400262900",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Giám sát thi công xây dựng + Lắp đặt thiết bị",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BẮC MÊ\t",
+            "createdBy": "vn5100437970",
+            "publicDate": "2024-11-23 11:37:24",
+            "projectName": "Liên danh Công ty TNHH 1TV Đại Thắng HG và Công ty Cổ phần tư vấn xây dựng Lê Hoàng",
+            "bidCloseDate": "2024-12-04 08:00:00",
+            "id_muasamcong": "41917da7-8a67-4edf-a8af-420618fd6a64",
+            "tongmuc_dautu": 348755980.0,
+            "bidNamePlanNew": "PL2400257306",
+            "dotbien_hatang": "Gói thầu số 04: Giám sát thi công xây dựng + Lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng",
+            "chudautu": "Uỷ Ban Nhân Dân Xã Đường Hồng",
+            "createdBy": "vn5100437970",
+            "publicDate": "2023-08-18 16:44:40",
+            "projectName": null,
+            "bidCloseDate": "2023-08-25 08:00:00",
+            "id_muasamcong": "42edc2f7-847d-4e8f-8558-6e9cb8ec5b86",
+            "tongmuc_dautu": 3544853778.0,
+            "bidNamePlanNew": "PL2300138675",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình",
+            "chudautu": "Ủy Ban Nhân Dân Xã Đường Âm",
+            "createdBy": "vn5100239337",
+            "publicDate": "2023-03-16 16:52:10",
+            "projectName": null,
+            "bidCloseDate": "2023-03-26 17:00:00",
+            "id_muasamcong": "460789fd-bdea-4104-903d-e0ebefdfa721",
+            "tongmuc_dautu": 1273936566.0,
+            "bidNamePlanNew": "PL2300028866",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng",
+            "chudautu": "Trường Tiểu học Minh Ngọc, huyện Bắc Mê, tỉnh Hà giang",
+            "createdBy": "vn5100266147",
+            "publicDate": "2024-11-19 21:00:32",
+            "projectName": null,
+            "bidCloseDate": "2024-12-04 11:00:00",
+            "id_muasamcong": "4a498ca0-92a2-4450-b6ef-3c0c0f505f05",
+            "tongmuc_dautu": 426000000.0,
+            "bidNamePlanNew": "PL2400251859",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng",
+            "chudautu": "Trường PTDT bán trú tiểu học Minh Sơn",
+            "createdBy": "vn5100301271",
+            "publicDate": "2024-12-17 15:05:33",
+            "projectName": null,
+            "bidCloseDate": "2024-12-26 09:00:00",
+            "id_muasamcong": "4d00451e-e610-4676-97ac-04851098ec71",
+            "tongmuc_dautu": 860287369.0,
+            "bidNamePlanNew": "PL2400286441",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Ủy ban nhân dân xã Yên Phong",
+            "createdBy": "vn5100437970",
+            "publicDate": "2023-03-28 17:45:59",
+            "projectName": "Liên danh Công ty TNHH 1 TV Tiến Phát 7979 & Hợp tác xã tổng hợp Bình Minh",
+            "bidCloseDate": "2023-04-10 08:00:00",
+            "id_muasamcong": "57519eda-b64e-4af4-b52e-02bb077cdec5",
+            "tongmuc_dautu": 1242006424.0,
+            "bidNamePlanNew": "PL2300035410",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03.1: Thi công xây dựng",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BẮC MÊ\t",
+            "createdBy": "vn3002252720",
+            "publicDate": "2023-11-13 23:29:13",
+            "projectName": "Liên danh Công ty TNHH Thái Hà - MT",
+            "bidCloseDate": "2023-12-03 08:00:00",
+            "id_muasamcong": "58c89fd4-a83b-47bc-bd07-5941cb551f99",
+            "tongmuc_dautu": 80507168321.0,
+            "bidNamePlanNew": "PL2300173708",
+            "dotbien_hatang": "Gói thầu số 03.1: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây lắp",
+            "chudautu": "Ủy Ban Nhân Dân Xã Phiêng Luông",
+            "createdBy": "vn5100265048",
+            "publicDate": "2023-04-19 14:22:53",
+            "projectName": null,
+            "bidCloseDate": "2023-04-29 15:00:00",
+            "id_muasamcong": "5b6a250f-273d-4ab2-bbfc-3c563cc21c2b",
+            "tongmuc_dautu": 1366000000.0,
+            "bidNamePlanNew": "PL2300026645",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BẮC MÊ\t",
+            "createdBy": "vn5100492308",
+            "publicDate": "2023-05-18 23:07:02",
+            "projectName": "Liên danh Công ty TNHH Kiến trúc và Xây dựng HG, Công ty TNHH Khánh Sơn, Công ty TNHH Khánh Chi",
+            "bidCloseDate": "2023-06-08 09:00:00",
+            "id_muasamcong": "5be10516-7287-4141-bc86-2611369c9ebb",
+            "tongmuc_dautu": 24505668704.0,
+            "bidNamePlanNew": "PL2300072597",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "gói thầu số 01: Thi công xây lắp",
+            "chudautu": "uỷ ban nhân dân xã Minh Sơn",
+            "createdBy": "vn5100472407",
+            "publicDate": "2022-12-28 10:18:30",
+            "projectName": null,
+            "bidCloseDate": "2023-12-05 08:00:00",
+            "id_muasamcong": "5e12d633-fe86-4922-98d8-ed9b5539ad20",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2200084725",
+            "dotbien_hatang": "gói thầu số 01: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02:Thi công xây dựng công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BẮC MÊ\t",
+            "createdBy": "vn5100472407",
+            "publicDate": "2023-04-13 18:13:58",
+            "projectName": null,
+            "bidCloseDate": "2023-04-24 14:00:00",
+            "id_muasamcong": "628fd991-d835-4be3-8a09-a7327ab68d5a",
+            "tongmuc_dautu": 2813204220.0,
+            "bidNamePlanNew": "PL2300049462",
+            "dotbien_hatang": "Gói thầu số 02:Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "uỷ ban nhân dân xã Minh Sơn",
+            "createdBy": "vn5100437970",
+            "publicDate": "2023-05-21 10:59:51",
+            "projectName": null,
+            "bidCloseDate": "2023-06-01 08:00:00",
+            "id_muasamcong": "645500eb-9914-4702-acba-c1d0da3acf20",
+            "tongmuc_dautu": 1508407654.0,
+            "bidNamePlanNew": "PL2300055007",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BẮC MÊ\t",
+            "createdBy": "vn5100472407",
+            "publicDate": "2023-04-13 18:13:35",
+            "projectName": null,
+            "bidCloseDate": "2023-04-24 16:00:00",
+            "id_muasamcong": "65419306-175f-4ee1-8315-f5da2e17eec8",
+            "tongmuc_dautu": 11378036058.0,
+            "bidNamePlanNew": "PL2300049492",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng",
+            "chudautu": "ỦY BAN NHÂN DÂN XÃ PHÚ NAM\t",
+            "createdBy": "vn5100437970",
+            "publicDate": "2023-07-01 08:46:12",
+            "projectName": "Liên danh Công ty TNHH 1 TV 339 & Công ty TNHH 1TV Xây dựng Nam Hải",
+            "bidCloseDate": "2023-07-12 08:00:00",
+            "id_muasamcong": "66f0774f-d82a-4305-9f3c-e0ff1ba80a87",
+            "tongmuc_dautu": 2836943989.0,
+            "bidNamePlanNew": "PL2300100518",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "ỦY BAN NHÂN DÂN XÃ PHÚ NAM\t",
+            "createdBy": "vn5100437970",
+            "publicDate": "2023-02-03 14:59:52",
+            "projectName": "Liên danh Công ty TNHH Một thành viên 586-Công ty TNHH Thọ Giang",
+            "bidCloseDate": "2023-02-14 08:00:00",
+            "id_muasamcong": "73a3e156-93b7-4a5f-b37a-467ae6247015",
+            "tongmuc_dautu": 5769322965.0,
+            "bidNamePlanNew": "PL2300009481",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02:Thi công xây lắp + thiết bị",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BẮC MÊ\t",
+            "createdBy": "vn5100265048",
+            "publicDate": "2023-05-10 09:07:58",
+            "projectName": null,
+            "bidCloseDate": "2023-05-20 09:30:00",
+            "id_muasamcong": "78263b5d-217e-441b-a85b-2d4f7f8a624c",
+            "tongmuc_dautu": 9739832827.0,
+            "bidNamePlanNew": "PL2300066552",
+            "dotbien_hatang": "Gói thầu số 02:Thi công xây lắp + thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây lắp Công trình: Nâng cấp, sửa chữa đập đầu mối và kênh mương từ Bản Thôm đến Lùng Cuối, xã Đường Hồng, huyện Bắc Mê",
+            "chudautu": "Uỷ Ban Nhân Dân Xã Đường Hồng",
+            "createdBy": "vn5100472407",
+            "publicDate": "2023-03-29 15:17:27",
+            "projectName": "Liên danh Hợp tác xã xây dựng Quang Trung - Hợp tác xã Bảo Khanh",
+            "bidCloseDate": "2023-04-08 10:00:00",
+            "id_muasamcong": "7876b037-ef8d-46c1-aef1-5d09447999ad",
+            "tongmuc_dautu": 2606908676.0,
+            "bidNamePlanNew": "PL2300030328",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây lắp Công trình: Nâng cấp, sửa chữa đập đầu mối và kênh mương từ Bản Thôm đến Lùng Cuối, xã Đường Hồng, huyện Bắc Mê",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Phòng Nông nghiệp và PTNT huyện Bắc Mê tỉnh Hà Giang",
+            "createdBy": "vn5100437970",
+            "publicDate": "2024-12-09 17:35:11",
+            "projectName": null,
+            "bidCloseDate": "2024-12-18 08:00:00",
+            "id_muasamcong": "81eaa346-3e45-48c4-893f-bb18bd6173e0",
+            "tongmuc_dautu": 960928714.0,
+            "bidNamePlanNew": "PL2400273762",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu sô 02: thi công xây lắp công trình Sửa chữa điểm trườngTiểu học Bản Lòong xã Đường Âm, Hạng mục: Cải tạo sửa chữa nhà lớp học, sân cổng hàng rào và các hạng mục phụ trợ",
+            "chudautu": "Trường phổ thông dân tộc bán trú tiểu học Đường Âm",
+            "createdBy": "vn5100472407",
+            "publicDate": "2023-06-21 23:07:08",
+            "projectName": null,
+            "bidCloseDate": "2023-07-02 08:00:00",
+            "id_muasamcong": "83f37c55-1820-4cd7-be62-e3d837c7a0be",
+            "tongmuc_dautu": 1317038637.0,
+            "bidNamePlanNew": "PL2300088250",
+            "dotbien_hatang": "Gói thầu sô 02: thi công xây lắp công trình Sửa chữa điểm trườngTiểu học Bản Lòong xã Đường Âm, Hạng mục: Cải tạo sửa chữa nhà lớp học, sân cổng hàng rào và các hạng mục phụ trợ",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03:\nThi công xây lắp\ncông trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BẮC MÊ\t",
+            "createdBy": "vn5100265048",
+            "publicDate": "2023-09-06 16:28:58",
+            "projectName": "Liên danh Giang Hải – Phương Anh",
+            "bidCloseDate": "2023-09-20 08:00:00",
+            "id_muasamcong": "867a83a0-342d-4bde-b4ae-58a972777f62",
+            "tongmuc_dautu": 31201034200.0,
+            "bidNamePlanNew": "PL2300145594",
+            "dotbien_hatang": "Gói thầu số 03:\nThi công xây lắp\ncông trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "uỷ ban nhân dân xã Minh Sơn",
+            "createdBy": "vn5100437970",
+            "publicDate": "2024-12-13 11:00:38",
+            "projectName": null,
+            "bidCloseDate": "2024-12-23 08:00:00",
+            "id_muasamcong": "8acb9225-399d-4f8c-9903-9cac92c17486",
+            "tongmuc_dautu": 1300247254.0,
+            "bidNamePlanNew": "PL2400311518",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng",
+            "chudautu": "Trường mầm non Minh Ngọc",
+            "createdBy": "vn5100266161",
+            "publicDate": "2024-11-20 10:30:17",
+            "projectName": null,
+            "bidCloseDate": "2024-12-04 10:00:00",
+            "id_muasamcong": "8ada2897-f0d8-40f1-8474-72054531647c",
+            "tongmuc_dautu": 365000000.0,
+            "bidNamePlanNew": "PL2400252634",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02:Thi công xây lắp",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BẮC MÊ\t",
+            "createdBy": "vn5100265048",
+            "publicDate": "2023-02-28 17:00:27",
+            "projectName": null,
+            "bidCloseDate": "2023-03-11 08:00:00",
+            "id_muasamcong": "8ba5759e-b9f7-4390-a6b7-8f3377a5917e",
+            "tongmuc_dautu": 4705000000.0,
+            "bidNamePlanNew": "PL2300016500",
+            "dotbien_hatang": "Gói thầu số 02:Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây lắp",
+            "chudautu": "UỶ BAN NHÂN DÂN XÃ GIÁP TRUNG",
+            "createdBy": "vn5100492308",
+            "publicDate": "2023-03-03 13:44:03",
+            "projectName": "Liên danh Công ty TNHH Kiến trúc và xây dựng HG và Công ty TNHH ĐT&PT Giáo dục Trí Cường",
+            "bidCloseDate": "2023-03-13 21:00:00",
+            "id_muasamcong": "8d412b41-f810-48ff-b250-12ff5a2e22d7",
+            "tongmuc_dautu": 1185600910.0,
+            "bidNamePlanNew": "PL2300019860",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu 01: Thi công xây dựng công trình",
+            "chudautu": "CÔNG TY XĂNG DẦU HÀ GIANG",
+            "createdBy": "vn5100100046",
+            "publicDate": "2023-11-25 17:32:35",
+            "projectName": null,
+            "bidCloseDate": "2023-12-05 17:00:00",
+            "id_muasamcong": "8de66c60-7591-486b-a691-691cd3ce33ae",
+            "tongmuc_dautu": 4137089933.0,
+            "bidNamePlanNew": "PL2300227218",
+            "dotbien_hatang": "Gói thầu 01: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Uỷ ban nhân dân xã Yên Định",
+            "createdBy": "vn5100437970",
+            "publicDate": "2024-12-19 16:38:06",
+            "projectName": null,
+            "bidCloseDate": "2024-12-28 08:00:00",
+            "id_muasamcong": "902a939e-02b8-40a1-af47-bad5013a984d",
+            "tongmuc_dautu": 1274177748.0,
+            "bidNamePlanNew": "PL2400311189",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng",
+            "chudautu": "UỶ BAN NHÂN DÂN XÃ YÊN CƯỜNG",
+            "createdBy": "vn5100492308",
+            "publicDate": "2024-09-24 22:41:46",
+            "projectName": null,
+            "bidCloseDate": "2024-10-03 21:00:00",
+            "id_muasamcong": "92d6f117-5359-471d-b607-ae50a6acf468",
+            "tongmuc_dautu": 1250512992.0,
+            "bidNamePlanNew": "PL2400204863",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "gói thầu số 01: Thi công xây lắp",
+            "chudautu": "uỷ ban nhân dân xã Minh Sơn",
+            "createdBy": "vn5100472407",
+            "publicDate": "2022-12-30 14:52:13",
+            "projectName": null,
+            "bidCloseDate": "2023-01-09 15:00:00",
+            "id_muasamcong": "93e25648-6e98-4b84-9474-2e0e6692997d",
+            "tongmuc_dautu": 4890950058.0,
+            "bidNamePlanNew": "PL2200084725",
+            "dotbien_hatang": "gói thầu số 01: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng",
+            "chudautu": "Trường trung cơ sơ Yên Phong",
+            "createdBy": "vn5100301169",
+            "publicDate": "2024-11-24 10:39:00",
+            "projectName": null,
+            "bidCloseDate": "2024-12-03 09:00:00",
+            "id_muasamcong": "9465d49b-fa4a-469b-ab1d-9a934ed18220",
+            "tongmuc_dautu": 566500005.0,
+            "bidNamePlanNew": "PL2400252030",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Uỷ ban nhân dân xã Yên Định",
+            "createdBy": "vn5100437970",
+            "publicDate": "2024-12-19 16:36:25",
+            "projectName": null,
+            "bidCloseDate": "2024-12-28 08:00:00",
+            "id_muasamcong": "98a650c9-fa3d-467f-b545-c2a0dfbd60d9",
+            "tongmuc_dautu": 820644482.0,
+            "bidNamePlanNew": "PL2400311239",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08:\nTư vấn giám sát\nthi công xây dựng",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BẮC MÊ\t",
+            "createdBy": "vn5100265048",
+            "publicDate": "2023-11-16 14:20:55",
+            "projectName": null,
+            "bidCloseDate": "2023-12-06 14:30:00",
+            "id_muasamcong": "9bc7f7de-4e83-4351-8fa5-7717dd1a586b",
+            "tongmuc_dautu": 1690200000.0,
+            "bidNamePlanNew": "PL2300128426",
+            "dotbien_hatang": "Gói thầu số 08:\nTư vấn giám sát\nthi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Chi phi Thi công xây dựng",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BẮC MÊ\t",
+            "createdBy": "vn5100412856",
+            "publicDate": "2023-05-19 16:53:11",
+            "projectName": "Liên danh hợp tác xã Bảo Khanh - Hoàng Tuấn",
+            "bidCloseDate": "2023-05-29 17:00:00",
+            "id_muasamcong": "9d41d03e-8f75-440e-a223-188bf0e79847",
+            "tongmuc_dautu": 10720492987.0,
+            "bidNamePlanNew": "PL2300067512",
+            "dotbien_hatang": "Gói thầu số 02: Chi phi Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Cung cấp VTTB + Thi công xây lắp",
+            "chudautu": "CÔNG TY ĐIỆN LỰC HÀ GIANG - CHI NHÁNH TỔNG CÔNG TY ĐIỆN LỰC MIỀN BẮC",
+            "createdBy": "vnz000004691-19",
+            "publicDate": "2023-08-20 15:10:31",
+            "projectName": null,
+            "bidCloseDate": "2023-08-30 10:00:00",
+            "id_muasamcong": "9eaab133-69d1-4743-a23f-202ec654532e",
+            "tongmuc_dautu": 2647834307.0,
+            "bidNamePlanNew": "PL2300144656",
+            "dotbien_hatang": "Gói thầu số 02: Cung cấp VTTB + Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Giám sát thi công xây dựng",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BẮC MÊ\t",
+            "createdBy": "vn5100492308",
+            "publicDate": "2023-05-19 20:54:09",
+            "projectName": null,
+            "bidCloseDate": "2023-05-29 21:00:00",
+            "id_muasamcong": "9ed9ea66-4815-4abd-9bb9-2cf073e1c1bd",
+            "tongmuc_dautu": 633000000.0,
+            "bidNamePlanNew": "PL2300072597",
+            "dotbien_hatang": "Gói thầu số 03: Giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03 Thi công xây dựng công trình",
+            "chudautu": "TRƯỜNG MẦM NON YÊN ĐỊNH",
+            "createdBy": "vn5100437970",
+            "publicDate": "2024-11-18 21:20:21",
+            "projectName": null,
+            "bidCloseDate": "2024-11-23 08:00:00",
+            "id_muasamcong": "9fdf0b76-0085-4bdb-9a20-0eb14ae0e64b",
+            "tongmuc_dautu": 955315868.0,
+            "bidNamePlanNew": "PL2400223510",
+            "dotbien_hatang": "Gói thầu số 03 Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình",
+            "chudautu": "Trung tâm y tế huyện Bắc Mê",
+            "createdBy": "vn5100437970",
+            "publicDate": "2024-11-20 10:54:05",
+            "projectName": null,
+            "bidCloseDate": "2024-11-29 08:00:00",
+            "id_muasamcong": "a4d3ff46-8de0-41cd-853f-a298bd2c2192",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400269666",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02:Thi công xây lắp",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BẮC MÊ\t",
+            "createdBy": "vn5100265048",
+            "publicDate": "2023-04-03 11:27:56",
+            "projectName": "Liên danh Công ty TNHH Sơn Nam Hà Giang và Công ty TNHH MTV Nam Tuyên",
+            "bidCloseDate": "2023-04-13 14:00:00",
+            "id_muasamcong": "a762d8b8-9b71-45da-9220-6a65e1ab7118",
+            "tongmuc_dautu": 6208308159.0,
+            "bidNamePlanNew": "PL2300043199",
+            "dotbien_hatang": "Gói thầu số 02:Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BẮC MÊ\t",
+            "createdBy": "vn5100437970",
+            "publicDate": "2025-01-08 10:49:07",
+            "projectName": null,
+            "bidCloseDate": "2025-01-18 08:00:00",
+            "id_muasamcong": "afc111c3-3488-4b3c-bbd3-cdd034f50b63",
+            "tongmuc_dautu": 8226529000.0,
+            "bidNamePlanNew": "PL2400334288",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây lắp công trình: Xây mới công trình nước sinh hoạt tập trung thôn Nà Quặc xã Phú Nam; Hạng mục: Đập đầu mối, bể lắng lọc, bể chứa, tuyến ống",
+            "chudautu": "ỦY BAN NHÂN DÂN XÃ PHÚ NAM\t",
+            "createdBy": "vn5100472407",
+            "publicDate": "2023-03-29 23:02:24",
+            "projectName": "Liên danh Hợp tác xã xây dựng Quang Trung - Hợp tác xã Bảo Khanh",
+            "bidCloseDate": "2023-04-10 08:00:00",
+            "id_muasamcong": "b1dc0bba-6045-4dfd-9ce4-207651c1b833",
+            "tongmuc_dautu": 1030196041.0,
+            "bidNamePlanNew": "PL2300030123",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây lắp công trình: Xây mới công trình nước sinh hoạt tập trung thôn Nà Quặc xã Phú Nam; Hạng mục: Đập đầu mối, bể lắng lọc, bể chứa, tuyến ống",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng công trình",
+            "chudautu": "Trung tâm y tế huyện Bắc Mê",
+            "createdBy": "vn5100437970",
+            "publicDate": "2024-11-25 16:35:19",
+            "projectName": null,
+            "bidCloseDate": "2024-12-05 08:00:00",
+            "id_muasamcong": "b5363a57-4aa5-4856-bb65-2811db15bba4",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400280373",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây lắp",
+            "chudautu": "Ủy Ban Nhân Dân Xã Minh Ngọc",
+            "createdBy": "vn5100265048",
+            "publicDate": "2023-05-07 09:30:58",
+            "projectName": null,
+            "bidCloseDate": "2023-05-17 14:00:00",
+            "id_muasamcong": "b7b498fd-761e-47d3-a1a9-18e24524e595",
+            "tongmuc_dautu": 1907387346.0,
+            "bidNamePlanNew": "PL2300059317",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình",
+            "chudautu": "Ủy Ban Nhân Dân Xã Phiêng Luông",
+            "createdBy": "vn5100265048",
+            "publicDate": "2023-02-28 11:10:34",
+            "projectName": null,
+            "bidCloseDate": "2023-03-10 10:00:00",
+            "id_muasamcong": "b88fea41-176f-4c22-ba83-593927f6387c",
+            "tongmuc_dautu": 1702763652.0,
+            "bidNamePlanNew": "PL2300019717",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Goái thầu số 02: Thi công xây dựng + lắp đặt thiết bị",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BẮC MÊ\t",
+            "createdBy": "vn5100492308",
+            "publicDate": "2023-01-07 22:54:39",
+            "projectName": "Liên danh Công ty TNHH Khánh Chi - Công ty TNHH Kiến trúc và xây dựng HG - Công ty TNHH Đức Tín HG",
+            "bidCloseDate": "2023-01-17 08:30:00",
+            "id_muasamcong": "b89375d9-4edf-4365-bfec-b7ca378df8b5",
+            "tongmuc_dautu": 3896450526.0,
+            "bidNamePlanNew": "PL2300002196",
+            "dotbien_hatang": "Goái thầu số 02: Thi công xây dựng + lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 1: Thi công xây lắp",
+            "chudautu": "Văn phòng huyện ủy",
+            "createdBy": "vn5100265048",
+            "publicDate": "2022-11-04 15:43:03",
+            "projectName": null,
+            "bidCloseDate": "2022-11-14 16:00:00",
+            "id_muasamcong": "c2006889-85f5-4778-8976-1048e73fa2a2",
+            "tongmuc_dautu": 1195549972.0,
+            "bidNamePlanNew": "PL2200032375",
+            "dotbien_hatang": "Gói thầu số 1: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói số 03: Thi công xây dựng",
+            "chudautu": "Uỷ ban nhân dân xã Yên Định",
+            "createdBy": "vn5100412856",
+            "publicDate": "2023-03-02 11:13:06",
+            "projectName": null,
+            "bidCloseDate": "2023-03-13 08:00:00",
+            "id_muasamcong": "c211a6e0-b389-4a7d-a362-c22aec00d9af",
+            "tongmuc_dautu": 3068445740.0,
+            "bidNamePlanNew": "PL2300020963",
+            "dotbien_hatang": "Gói số 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng công trình",
+            "chudautu": "Uỷ Ban Nhân Dân Xã Đường Hồng",
+            "createdBy": "vn5100239337",
+            "publicDate": "2023-04-19 17:05:43",
+            "projectName": null,
+            "bidCloseDate": "2023-04-29 17:00:00",
+            "id_muasamcong": "c298c82d-b430-473a-bae1-af2ec04f67b0",
+            "tongmuc_dautu": 5444856888.0,
+            "bidNamePlanNew": "PL2300050843",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây lắp",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BẮC MÊ\t",
+            "createdBy": "vn5100492308",
+            "publicDate": "2023-04-24 12:51:08",
+            "projectName": "Liên danh Công ty TNHH Kiến trúc và xây dựng Hà Giang - Công ty TNHH Khánh Chi ",
+            "bidCloseDate": "2023-05-04 21:00:00",
+            "id_muasamcong": "c7127e3e-2236-4aa0-b55b-9344e33303d1",
+            "tongmuc_dautu": 13077901842.0,
+            "bidNamePlanNew": "PL2300056822",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "UỶ BAN NHÂN DÂN XÃ YÊN CƯỜNG",
+            "createdBy": "vn5100437970",
+            "publicDate": "2024-10-24 08:22:08",
+            "projectName": null,
+            "bidCloseDate": "2024-11-05 08:00:00",
+            "id_muasamcong": "c9036ea7-03bf-4110-b701-6389fc02963d",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400221405",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng + Lắp đặt thiết bị",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BẮC MÊ\t",
+            "createdBy": "vn5100239337",
+            "publicDate": "2023-02-16 10:21:42",
+            "projectName": null,
+            "bidCloseDate": "2023-02-27 09:00:00",
+            "id_muasamcong": "caf38f4d-b766-45b2-9268-7164cc8c485a",
+            "tongmuc_dautu": 9294971901.0,
+            "bidNamePlanNew": "PL2300002219",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng + Lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 9: Cung cấp vật tư và thi công xây lắp các Hạng mục SCL khu vực huyện Bắc Mê",
+            "chudautu": "CÔNG TY ĐIỆN LỰC HÀ GIANG - CHI NHÁNH TỔNG CÔNG TY ĐIỆN LỰC MIỀN BẮC",
+            "createdBy": "vnz000004691-13",
+            "publicDate": "2024-09-28 08:59:23",
+            "projectName": null,
+            "bidCloseDate": "2024-10-07 09:00:00",
+            "id_muasamcong": "ce10a11a-5965-4b31-a5da-1cbcbd7d0817",
+            "tongmuc_dautu": 3682838985.0,
+            "bidNamePlanNew": "PL2400199810",
+            "dotbien_hatang": "Gói thầu số 9: Cung cấp vật tư và thi công xây lắp các Hạng mục SCL khu vực huyện Bắc Mê",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04 Thi công xây dựng công trình",
+            "chudautu": "uỷ ban nhân dân xã Minh Sơn",
+            "createdBy": "vn5100412856",
+            "publicDate": "2023-06-16 15:28:37",
+            "projectName": "Liên danh HTX Hoàng Tuấn - Hoàng Quân 668",
+            "bidCloseDate": "2023-06-26 16:30:00",
+            "id_muasamcong": "d0636a65-b705-438a-ab3a-c35e1e229a9e",
+            "tongmuc_dautu": 1335368194.0,
+            "bidNamePlanNew": "PL2300094562",
+            "dotbien_hatang": "Gói thầu số 04 Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "gói thầu số 01: Thi công xây lắp  Công trình: Xây mới công trình nước sinh hoạt tập trung thôn Thâm Quảng, xã Đường Âm, huyện Bắc Mê",
+            "chudautu": "Ủy Ban Nhân Dân Xã Đường Âm",
+            "createdBy": "vn5100472407",
+            "publicDate": "2023-04-27 23:46:38",
+            "projectName": null,
+            "bidCloseDate": "2023-05-07 08:00:00",
+            "id_muasamcong": "d2617ac4-5fbd-4b65-9f58-31ebf5a6efb6",
+            "tongmuc_dautu": 1250120935.0,
+            "bidNamePlanNew": "PL2300049632",
+            "dotbien_hatang": "gói thầu số 01: Thi công xây lắp  Công trình: Xây mới công trình nước sinh hoạt tập trung thôn Thâm Quảng, xã Đường Âm, huyện Bắc Mê",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "CÔNG TY CỔ PHẦN XĂNG DẦU DẦU KHÍ HÀ NỘI",
+            "createdBy": "vn0105029292",
+            "publicDate": "2023-06-26 16:35:01",
+            "projectName": null,
+            "bidCloseDate": "2023-07-06 09:00:00",
+            "id_muasamcong": "d84cc67e-7bed-4dc4-86ca-940f91101796",
+            "tongmuc_dautu": 1040647000.0,
+            "bidNamePlanNew": "PL2300082704",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân thị trấn Yên Phú",
+            "createdBy": "vn5100265048",
+            "publicDate": "2024-12-12 08:47:34",
+            "projectName": null,
+            "bidCloseDate": "2024-12-21 08:00:00",
+            "id_muasamcong": "d8a15155-5057-436c-a8b1-bceb7f822b9f",
+            "tongmuc_dautu": 2545540453.0,
+            "bidNamePlanNew": "PL2400300867",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04 thi công xây dựng",
+            "chudautu": "UỶ BAN NHÂN DÂN XÃ YÊN CƯỜNG",
+            "createdBy": "vn5100492308",
+            "publicDate": "2024-11-26 12:50:08",
+            "projectName": null,
+            "bidCloseDate": "2024-12-06 10:00:00",
+            "id_muasamcong": "dcd046bf-ebc6-4f1f-a42b-4f857fda7a70",
+            "tongmuc_dautu": 847000000.0,
+            "bidNamePlanNew": "PL2400283743",
+            "dotbien_hatang": "Gói thầu số 04 thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Trường THCS Yên Định",
+            "createdBy": "vn5100492308",
+            "publicDate": "2024-10-17 09:49:47",
+            "projectName": null,
+            "bidCloseDate": "2024-10-26 07:30:00",
+            "id_muasamcong": "e0bd5e4d-9bf0-4e39-974d-8841627f2391",
+            "tongmuc_dautu": 1294331286.0,
+            "bidNamePlanNew": "PL2400230731",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng",
+            "chudautu": "Ủy Ban Nhân Dân Xã Đường Âm",
+            "createdBy": "vn5100492308",
+            "publicDate": "2023-05-04 17:20:58",
+            "projectName": null,
+            "bidCloseDate": "2023-05-14 21:00:00",
+            "id_muasamcong": "e2548601-62f9-42d2-809a-cfd7ec271a06",
+            "tongmuc_dautu": 1466525707.0,
+            "bidNamePlanNew": "PL2300063395",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02:Thi công xây lắp",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BẮC MÊ\t",
+            "createdBy": "vn5100265048",
+            "publicDate": "2023-03-06 09:00:27",
+            "projectName": null,
+            "bidCloseDate": "2023-03-16 09:00:00",
+            "id_muasamcong": "e46580a8-2bbf-4c2a-9422-7e5bd2fbc291",
+            "tongmuc_dautu": 4710000000.0,
+            "bidNamePlanNew": "PL2300016529",
+            "dotbien_hatang": "Gói thầu số 02:Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Chi phí thi công xây dựng công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BẮC MÊ\t",
+            "createdBy": "vn5100412856",
+            "publicDate": "2023-05-09 15:19:58",
+            "projectName": "Liên danh hợp tác xã Bảo Khanh - Hoàng Tuấn",
+            "bidCloseDate": "2023-05-19 16:00:00",
+            "id_muasamcong": "e55d3b06-9147-47b0-a058-40b97fe273c7",
+            "tongmuc_dautu": 9962331776.0,
+            "bidNamePlanNew": "PL2300062546",
+            "dotbien_hatang": "Gói thầu số 02: Chi phí thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây lắp Công trình: Nâng cấp, sửa chữa kênh mương Đoàn Kết - Nà Phiêng xã Đường Âm, huyện Bắc Mê; Hạng mục: Đập đầu mối + Kênh mương",
+            "chudautu": "Ủy Ban Nhân Dân Xã Đường Âm",
+            "createdBy": "vn5100472407",
+            "publicDate": "2023-04-14 15:20:03",
+            "projectName": "Liên danh Hợp tác xã xây dựng Quang Trung và Hợp tác xã Bảo Khanh",
+            "bidCloseDate": "2023-04-24 16:00:00",
+            "id_muasamcong": "e63a0efb-001c-4b8b-9ea4-0edae997e82e",
+            "tongmuc_dautu": 2987647753.0,
+            "bidNamePlanNew": "PL2300046274",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây lắp Công trình: Nâng cấp, sửa chữa kênh mương Đoàn Kết - Nà Phiêng xã Đường Âm, huyện Bắc Mê; Hạng mục: Đập đầu mối + Kênh mương",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng + lắp đặt thiết bị",
+            "chudautu": "Uỷ Ban Nhân Dân Xã Đường Hồng",
+            "createdBy": "vn5100437970",
+            "publicDate": "2023-03-07 11:03:49",
+            "projectName": "Liên danh Công ty TNHH 1 TV Tiến Phát 7979 & Hợp tác xã tổng hợp Bình Minh",
+            "bidCloseDate": "2023-03-17 14:00:00",
+            "id_muasamcong": "e6d713ee-8a0e-4753-b3cc-4009a16dfb76",
+            "tongmuc_dautu": 3709993051.0,
+            "bidNamePlanNew": "PL2300019786",
+            "dotbien_hatang": "Thi công xây dựng + lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây lắp + Thiết bị",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BẮC MÊ\t",
+            "createdBy": "vn5100437970",
+            "publicDate": "2023-10-02 08:13:03",
+            "projectName": null,
+            "bidCloseDate": "2023-10-13 08:00:00",
+            "id_muasamcong": "e8ba49cd-07c2-4492-934a-30d9d9d29d02",
+            "tongmuc_dautu": 8071666888.0,
+            "bidNamePlanNew": "PL2300170446",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây lắp + Thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng + Lắp đặt thiết bị",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BẮC MÊ\t",
+            "createdBy": "vn5100492308",
+            "publicDate": "2023-01-07 22:40:44",
+            "projectName": "Liên danh Công ty TNHH Khánh chi - Công ty TNHH Kiến trúc và xây dựng HG - Công ty TNHH Đức Tín HG",
+            "bidCloseDate": "2023-01-17 08:30:00",
+            "id_muasamcong": "e9f46421-283b-458e-99d5-6e5565b7dc68",
+            "tongmuc_dautu": 9874335318.0,
+            "bidNamePlanNew": "PL2300002182",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng + Lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Chi phí thi công xây dựng công trình",
+            "chudautu": "Ủy ban nhân dân thị trấn Yên Phú",
+            "createdBy": "vn5100239337",
+            "publicDate": "2023-10-22 15:25:54",
+            "projectName": "Liên danh Hợp tác xã Hoàng Tuấn BM - Bảo Khanh",
+            "bidCloseDate": "2023-11-01 17:00:00",
+            "id_muasamcong": "eb744ab2-2b36-4a85-95da-7044b144da1a",
+            "tongmuc_dautu": 1426991263.0,
+            "bidNamePlanNew": "PL2300196964",
+            "dotbien_hatang": "Gói thầu số 03: Chi phí thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng + thiết bị",
+            "chudautu": "Hội đồng bồi thường giải phóng mặt bằng huyện Bắc Mê, tỉnh Hà Giang",
+            "createdBy": "vn5100411919",
+            "publicDate": "2024-05-30 14:32:59",
+            "projectName": null,
+            "bidCloseDate": "2024-06-08 09:00:00",
+            "id_muasamcong": "ef3ab963-4589-4e46-821a-25f82fe0fd3a",
+            "tongmuc_dautu": 6100351267.0,
+            "bidNamePlanNew": "PL2400084112",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng + thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng",
+            "chudautu": "uỷ ban nhân dân xã Minh Sơn",
+            "createdBy": "vn5100492308",
+            "publicDate": "2024-12-19 22:38:10",
+            "projectName": null,
+            "bidCloseDate": "2024-12-26 21:00:00",
+            "id_muasamcong": "f48d5d79-55ed-4614-95ab-68a52016fce4",
+            "tongmuc_dautu": 1226118638.0,
+            "bidNamePlanNew": "PL2400312833",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03 Thi công xây dựng công trình",
+            "chudautu": "Trung tâm Giáo dục nghề nghiệp – Giáo dục thường xuyên huyện Bắc Mê",
+            "createdBy": "vn5100472407",
+            "publicDate": "2023-11-20 23:53:16",
+            "projectName": null,
+            "bidCloseDate": "2023-11-30 16:30:00",
+            "id_muasamcong": "f9b01d54-a558-4185-88a0-cbe2d73f8aad",
+            "tongmuc_dautu": 5908646278.0,
+            "bidNamePlanNew": "PL2300223175",
+            "dotbien_hatang": "Gói thầu số 03 Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "gói thầu số 02: thi công xây lắp công trình: Sửa chữa điểm trường Mầm non Tả Lùng xã Yên Cường. Hạng mục: Cải tạo sửa chữa nhà lớp học, nhà lưu trú, cổng hàng rào, sân và các hạng mục phụ trợ",
+            "chudautu": "Trường Mầm Non Yên Cường",
+            "createdBy": "vn5100472407",
+            "publicDate": "2023-06-25 00:43:26",
+            "projectName": null,
+            "bidCloseDate": "2023-07-05 09:00:00",
+            "id_muasamcong": "fb1d2cb2-574a-4a29-af06-93f1a07cc489",
+            "tongmuc_dautu": 1786405538.0,
+            "bidNamePlanNew": "PL2300090507",
+            "dotbien_hatang": "gói thầu số 02: thi công xây lắp công trình: Sửa chữa điểm trường Mầm non Tả Lùng xã Yên Cường. Hạng mục: Cải tạo sửa chữa nhà lớp học, nhà lưu trú, cổng hàng rào, sân và các hạng mục phụ trợ",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Trường mầm non Phiêng Luông",
+            "createdBy": "vn5100437970",
+            "publicDate": "2024-11-02 09:35:51",
+            "projectName": null,
+            "bidCloseDate": "2024-11-12 08:00:00",
+            "id_muasamcong": "feae0965-19ef-4a40-be14-ee6efcf2430a",
+            "tongmuc_dautu": 2255856077.0,
+            "bidNamePlanNew": "PL2400234607",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        }
+    ],
+    "so_dot_bien": 92,
+    "thu_tu_sap_xep": 212,
+    "polygon": [
+        [
+            [
+                105.224886,
+                22.884627
+            ],
+            [
+                105.227038,
+                22.884462
+            ],
+            [
+                105.229777,
+                22.884563
+            ],
+            [
+                105.238557,
+                22.885253
+            ],
+            [
+                105.247032,
+                22.885573
+            ],
+            [
+                105.251454,
+                22.885943
+            ],
+            [
+                105.254701,
+                22.886762
+            ],
+            [
+                105.257057,
+                22.887001
+            ],
+            [
+                105.258337,
+                22.886999
+            ],
+            [
+                105.259615,
+                22.886566
+            ],
+            [
+                105.263715,
+                22.884109
+            ],
+            [
+                105.269025,
+                22.880255
+            ],
+            [
+                105.271929,
+                22.878367
+            ],
+            [
+                105.271626,
+                22.878189
+            ],
+            [
+                105.271415,
+                22.877896
+            ],
+            [
+                105.271344,
+                22.87744
+            ],
+            [
+                105.271343,
+                22.876854
+            ],
+            [
+                105.271392,
+                22.874979
+            ],
+            [
+                105.271212,
+                22.872959
+            ],
+            [
+                105.270961,
+                22.870255
+            ],
+            [
+                105.270551,
+                22.867404
+            ],
+            [
+                105.270513,
+                22.865644
+            ],
+            [
+                105.270511,
+                22.864927
+            ],
+            [
+                105.270615,
+                22.864242
+            ],
+            [
+                105.272508,
+                22.862284
+            ],
+            [
+                105.278839,
+                22.858769
+            ],
+            [
+                105.281716,
+                22.85746
+            ],
+            [
+                105.286209,
+                22.856507
+            ],
+            [
+                105.292934,
+                22.856381
+            ],
+            [
+                105.296411,
+                22.856766
+            ],
+            [
+                105.300008,
+                22.855732
+            ],
+            [
+                105.303199,
+                22.853673
+            ],
+            [
+                105.307481,
+                22.852557
+            ],
+            [
+                105.308252,
+                22.852001
+            ],
+            [
+                105.311036,
+                22.84859
+            ],
+            [
+                105.312296,
+                22.846925
+            ],
+            [
+                105.313432,
+                22.844658
+            ],
+            [
+                105.314692,
+                22.842928
+            ],
+            [
+                105.31753,
+                22.840283
+            ],
+            [
+                105.319809,
+                22.838877
+            ],
+            [
+                105.322562,
+                22.837714
+            ],
+            [
+                105.325755,
+                22.836535
+            ],
+            [
+                105.328348,
+                22.834378
+            ],
+            [
+                105.330557,
+                22.833201
+            ],
+            [
+                105.332557,
+                22.83274
+            ],
+            [
+                105.333539,
+                22.832184
+            ],
+            [
+                105.334976,
+                22.831236
+            ],
+            [
+                105.336344,
+                22.830581
+            ],
+            [
+                105.337256,
+                22.830286
+            ],
+            [
+                105.338905,
+                22.829957
+            ],
+            [
+                105.340063,
+                22.829759
+            ],
+            [
+                105.340905,
+                22.829301
+            ],
+            [
+                105.341885,
+                22.828419
+            ],
+            [
+                105.342551,
+                22.827668
+            ],
+            [
+                105.34283,
+                22.826885
+            ],
+            [
+                105.343072,
+                22.825548
+            ],
+            [
+                105.343174,
+                22.82431
+            ],
+            [
+                105.34352,
+                22.82206
+            ],
+            [
+                105.343866,
+                22.820365
+            ],
+            [
+                105.34425,
+                22.819158
+            ],
+            [
+                105.344704,
+                22.81831
+            ],
+            [
+                105.345194,
+                22.817689
+            ],
+            [
+                105.34614,
+                22.817231
+            ],
+            [
+                105.347299,
+                22.817163
+            ],
+            [
+                105.347896,
+                22.817162
+            ],
+            [
+                105.348739,
+                22.817454
+            ],
+            [
+                105.350144,
+                22.817842
+            ],
+            [
+                105.35234,
+                22.818374
+            ],
+            [
+                105.354235,
+                22.818403
+            ],
+            [
+                105.356236,
+                22.818366
+            ],
+            [
+                105.3575,
+                22.818363
+            ],
+            [
+                105.359536,
+                22.818326
+            ],
+            [
+                105.36101,
+                22.818257
+            ],
+            [
+                105.362694,
+                22.817862
+            ],
+            [
+                105.363781,
+                22.817306
+            ],
+            [
+                105.364658,
+                22.816815
+            ],
+            [
+                105.365639,
+                22.816128
+            ],
+            [
+                105.367006,
+                22.815343
+            ],
+            [
+                105.368513,
+                22.814395
+            ],
+            [
+                105.3696,
+                22.813968
+            ],
+            [
+                105.371354,
+                22.813508
+            ],
+            [
+                105.372407,
+                22.813408
+            ],
+            [
+                105.374232,
+                22.813403
+            ],
+            [
+                105.377461,
+                22.813298
+            ],
+            [
+                105.379637,
+                22.813228
+            ],
+            [
+                105.381392,
+                22.813191
+            ],
+            [
+                105.383007,
+                22.812959
+            ],
+            [
+                105.384234,
+                22.812532
+            ],
+            [
+                105.385321,
+                22.812041
+            ],
+            [
+                105.386407,
+                22.811321
+            ],
+            [
+                105.387458,
+                22.810439
+            ],
+            [
+                105.388771,
+                22.809279
+            ],
+            [
+                105.390346,
+                22.807678
+            ],
+            [
+                105.391676,
+                22.806241
+            ],
+            [
+                105.392235,
+                22.805457
+            ],
+            [
+                105.393893,
+                22.802373
+            ],
+            [
+                105.394975,
+                22.800155
+            ],
+            [
+                105.395917,
+                22.798066
+            ],
+            [
+                105.396371,
+                22.797283
+            ],
+            [
+                105.397035,
+                22.796467
+            ],
+            [
+                105.397805,
+                22.79565
+            ],
+            [
+                105.398751,
+                22.794996
+            ],
+            [
+                105.399838,
+                22.79457
+            ],
+            [
+                105.40175,
+                22.794288
+            ],
+            [
+                105.404242,
+                22.794281
+            ],
+            [
+                105.405611,
+                22.794213
+            ],
+            [
+                105.406803,
+                22.793819
+            ],
+            [
+                105.407994,
+                22.793131
+            ],
+            [
+                105.408659,
+                22.792608
+            ],
+            [
+                105.409394,
+                22.791792
+            ],
+            [
+                105.409918,
+                22.790975
+            ],
+            [
+                105.410477,
+                22.790192
+            ],
+            [
+                105.411282,
+                22.789245
+            ],
+            [
+                105.412175,
+                22.788542
+            ],
+            [
+                105.413086,
+                22.788018
+            ],
+            [
+                105.414172,
+                22.787624
+            ],
+            [
+                105.415189,
+                22.787393
+            ],
+            [
+                105.416067,
+                22.787391
+            ],
+            [
+                105.418068,
+                22.787451
+            ],
+            [
+                105.419296,
+                22.787415
+            ],
+            [
+                105.420137,
+                22.787152
+            ],
+            [
+                105.420908,
+                22.786726
+            ],
+            [
+                105.421678,
+                22.78591
+            ],
+            [
+                105.421992,
+                22.785355
+            ],
+            [
+                105.422199,
+                22.784148
+            ],
+            [
+                105.422387,
+                22.782567
+            ],
+            [
+                105.422735,
+                22.781491
+            ],
+            [
+                105.423259,
+                22.780642
+            ],
+            [
+                105.424203,
+                22.779532
+            ],
+            [
+                105.425113,
+                22.77878
+            ],
+            [
+                105.425954,
+                22.778354
+            ],
+            [
+                105.42676,
+                22.778189
+            ],
+            [
+                105.427708,
+                22.778154
+            ],
+            [
+                105.428796,
+                22.778151
+            ],
+            [
+                105.429708,
+                22.778083
+            ],
+            [
+                105.430514,
+                22.77782
+            ],
+            [
+                105.43225,
+                22.777147
+            ],
+            [
+                105.433722,
+                22.776687
+            ],
+            [
+                105.434914,
+                22.776293
+            ],
+            [
+                105.436527,
+                22.775865
+            ],
+            [
+                105.43849,
+                22.775273
+            ],
+            [
+                105.439998,
+                22.774682
+            ],
+            [
+                105.441119,
+                22.774157
+            ],
+            [
+                105.442712,
+                22.772996
+            ],
+            [
+                105.443482,
+                22.772309
+            ],
+            [
+                105.444146,
+                22.771591
+            ],
+            [
+                105.445335,
+                22.770316
+            ],
+            [
+                105.446348,
+                22.768847
+            ],
+            [
+                105.447516,
+                22.766383
+            ],
+            [
+                105.448072,
+                22.76485
+            ],
+            [
+                105.448978,
+                22.762892
+            ],
+            [
+                105.449885,
+                22.76126
+            ],
+            [
+                105.450444,
+                22.760476
+            ],
+            [
+                105.450899,
+                22.760019
+            ],
+            [
+                105.451301,
+                22.759806
+            ],
+            [
+                105.452038,
+                22.759673
+            ],
+            [
+                105.453476,
+                22.759474
+            ],
+            [
+                105.454563,
+                22.759308
+            ],
+            [
+                105.456212,
+                22.759172
+            ],
+            [
+                105.458036,
+                22.758907
+            ],
+            [
+                105.461245,
+                22.758392
+            ],
+            [
+                105.46405,
+                22.7577
+            ],
+            [
+                105.466399,
+                22.757302
+            ],
+            [
+                105.46903,
+                22.757066
+            ],
+            [
+                105.469942,
+                22.756965
+            ],
+            [
+                105.470432,
+                22.756703
+            ],
+            [
+                105.470747,
+                22.756279
+            ],
+            [
+                105.47106,
+                22.75543
+            ],
+            [
+                105.471634,
+                22.754076
+            ],
+            [
+                105.472017,
+                22.753163
+            ],
+            [
+                105.472469,
+                22.751988
+            ],
+            [
+                105.473339,
+                22.749835
+            ],
+            [
+                105.474048,
+                22.747046
+            ],
+            [
+                105.474777,
+                22.744795
+            ],
+            [
+                105.475158,
+                22.74323
+            ],
+            [
+                105.475727,
+                22.740279
+            ],
+            [
+                105.476209,
+                22.737637
+            ],
+            [
+                105.476484,
+                22.736105
+            ],
+            [
+                105.477264,
+                22.733316
+            ],
+            [
+                105.47768,
+                22.731914
+            ],
+            [
+                105.478377,
+                22.73051
+            ],
+            [
+                105.478829,
+                22.729531
+            ],
+            [
+                105.480591,
+                22.726642
+            ],
+            [
+                105.481357,
+                22.724977
+            ],
+            [
+                105.482681,
+                22.722464
+            ],
+            [
+                105.484126,
+                22.719412
+            ],
+            [
+                105.485205,
+                22.71703
+            ],
+            [
+                105.485552,
+                22.715921
+            ],
+            [
+                105.485789,
+                22.713313
+            ],
+            [
+                105.486117,
+                22.711927
+            ],
+            [
+                105.486708,
+                22.710328
+            ],
+            [
+                105.487681,
+                22.707913
+            ],
+            [
+                105.488134,
+                22.70713
+            ],
+            [
+                105.488763,
+                22.706281
+            ],
+            [
+                105.48948,
+                22.705708
+            ],
+            [
+                105.491159,
+                22.70453
+            ],
+            [
+                105.492874,
+                22.703319
+            ],
+            [
+                105.493818,
+                22.702697
+            ],
+            [
+                105.495183,
+                22.701878
+            ],
+            [
+                105.496163,
+                22.701092
+            ],
+            [
+                105.497107,
+                22.70034
+            ],
+            [
+                105.497806,
+                22.699588
+            ],
+            [
+                105.498521,
+                22.698657
+            ],
+            [
+                105.498905,
+                22.697972
+            ],
+            [
+                105.499427,
+                22.697057
+            ],
+            [
+                105.49974,
+                22.696111
+            ],
+            [
+                105.499876,
+                22.695035
+            ],
+            [
+                105.499873,
+                22.694156
+            ],
+            [
+                105.49973,
+                22.693406
+            ],
+            [
+                105.499518,
+                22.692886
+            ],
+            [
+                105.498972,
+                22.692447
+            ],
+            [
+                105.497778,
+                22.692027
+            ],
+            [
+                105.49655,
+                22.691835
+            ],
+            [
+                105.49455,
+                22.691646
+            ],
+            [
+                105.49255,
+                22.691424
+            ],
+            [
+                105.491217,
+                22.691135
+            ],
+            [
+                105.490514,
+                22.690876
+            ],
+            [
+                105.489987,
+                22.69052
+            ],
+            [
+                105.489389,
+                22.689967
+            ],
+            [
+                105.48891,
+                22.688616
+            ],
+            [
+                105.488484,
+                22.686939
+            ],
+            [
+                105.488164,
+                22.685686
+            ],
+            [
+                105.487667,
+                22.684058
+            ],
+            [
+                105.487159,
+                22.682832
+            ],
+            [
+                105.486461,
+                22.680867
+            ],
+            [
+                105.485789,
+                22.679196
+            ],
+            [
+                105.485437,
+                22.67743
+            ],
+            [
+                105.485391,
+                22.676627
+            ],
+            [
+                105.485645,
+                22.675061
+            ],
+            [
+                105.48618,
+                22.673714
+            ],
+            [
+                105.486866,
+                22.672227
+            ],
+            [
+                105.487766,
+                22.670136
+            ],
+            [
+                105.489397,
+                22.66712
+            ],
+            [
+                105.490924,
+                22.665208
+            ],
+            [
+                105.492344,
+                22.663839
+            ],
+            [
+                105.493937,
+                22.662308
+            ],
+            [
+                105.495012,
+                22.66094
+            ],
+            [
+                105.495657,
+                22.659894
+            ],
+            [
+                105.496041,
+                22.658648
+            ],
+            [
+                105.496057,
+                22.657263
+            ],
+            [
+                105.495751,
+                22.656059
+            ],
+            [
+                105.495011,
+                22.654616
+            ],
+            [
+                105.494272,
+                22.653333
+            ],
+            [
+                105.493489,
+                22.65173
+            ],
+            [
+                105.493313,
+                22.650887
+            ],
+            [
+                105.49331,
+                22.649964
+            ],
+            [
+                105.493499,
+                22.648538
+            ],
+            [
+                105.494181,
+                22.645926
+            ],
+            [
+                105.494392,
+                22.64444
+            ],
+            [
+                105.494905,
+                22.642953
+            ],
+            [
+                105.49604,
+                22.64048
+            ],
+            [
+                105.497801,
+                22.637664
+            ],
+            [
+                105.498316,
+                22.636619
+            ],
+            [
+                105.498356,
+                22.635936
+            ],
+            [
+                105.498092,
+                22.634532
+            ],
+            [
+                105.497742,
+                22.633368
+            ],
+            [
+                105.496916,
+                22.631644
+            ],
+            [
+                105.49624,
+                22.62998
+            ],
+            [
+                105.494634,
+                22.627697
+            ],
+            [
+                105.492986,
+                22.625654
+            ],
+            [
+                105.491122,
+                22.623893
+            ],
+            [
+                105.489779,
+                22.622613
+            ],
+            [
+                105.487961,
+                22.621454
+            ],
+            [
+                105.486642,
+                22.620916
+            ],
+            [
+                105.484785,
+                22.620841
+            ],
+            [
+                105.483187,
+                22.620966
+            ],
+            [
+                105.481849,
+                22.621171
+            ],
+            [
+                105.479519,
+                22.62166
+            ],
+            [
+                105.478353,
+                22.621663
+            ],
+            [
+                105.477142,
+                22.621306
+            ],
+            [
+                105.47645,
+                22.620866
+            ],
+            [
+                105.475843,
+                22.620306
+            ],
+            [
+                105.474932,
+                22.618984
+            ],
+            [
+                105.474303,
+                22.618363
+            ],
+            [
+                105.472442,
+                22.617244
+            ],
+            [
+                105.470496,
+                22.616286
+            ],
+            [
+                105.468636,
+                22.615328
+            ],
+            [
+                105.466258,
+                22.614492
+            ],
+            [
+                105.464657,
+                22.613734
+            ],
+            [
+                105.463662,
+                22.613014
+            ],
+            [
+                105.462881,
+                22.612173
+            ],
+            [
+                105.46182,
+                22.611152
+            ],
+            [
+                105.461127,
+                22.610512
+            ],
+            [
+                105.458921,
+                22.609434
+            ],
+            [
+                105.457537,
+                22.608836
+            ],
+            [
+                105.455981,
+                22.608318
+            ],
+            [
+                105.454425,
+                22.608042
+            ],
+            [
+                105.452827,
+                22.607725
+            ],
+            [
+                105.451876,
+                22.607407
+            ],
+            [
+                105.450838,
+                22.607048
+            ],
+            [
+                105.450233,
+                22.60705
+            ],
+            [
+                105.449975,
+                22.607171
+            ],
+            [
+                105.449523,
+                22.607674
+            ],
+            [
+                105.449354,
+                22.608799
+            ],
+            [
+                105.449054,
+                22.609482
+            ],
+            [
+                105.44858,
+                22.609805
+            ],
+            [
+                105.446902,
+                22.611696
+            ],
+            [
+                105.446298,
+                22.611899
+            ],
+            [
+                105.445909,
+                22.611739
+            ],
+            [
+                105.445864,
+                22.611418
+            ],
+            [
+                105.446078,
+                22.610815
+            ],
+            [
+                105.446247,
+                22.60941
+            ],
+            [
+                105.446201,
+                22.608486
+            ],
+            [
+                105.446068,
+                22.607563
+            ],
+            [
+                105.445375,
+                22.606883
+            ],
+            [
+                105.44451,
+                22.606403
+            ],
+            [
+                105.443947,
+                22.606003
+            ],
+            [
+                105.443557,
+                22.605643
+            ],
+            [
+                105.443383,
+                22.605041
+            ],
+            [
+                105.442948,
+                22.604079
+            ],
+            [
+                105.442515,
+                22.603679
+            ],
+            [
+                105.441737,
+                22.603681
+            ],
+            [
+                105.441219,
+                22.603762
+            ],
+            [
+                105.440746,
+                22.604125
+            ],
+            [
+                105.440403,
+                22.604929
+            ],
+            [
+                105.44032,
+                22.606054
+            ],
+            [
+                105.440329,
+                22.608864
+            ],
+            [
+                105.4402,
+                22.609186
+            ],
+            [
+                105.439812,
+                22.609227
+            ],
+            [
+                105.439034,
+                22.609068
+            ],
+            [
+                105.438471,
+                22.608708
+            ],
+            [
+                105.43834,
+                22.608227
+            ],
+            [
+                105.438335,
+                22.606661
+            ],
+            [
+                105.437814,
+                22.605619
+            ],
+            [
+                105.437467,
+                22.605138
+            ],
+            [
+                105.436883,
+                22.604878
+            ],
+            [
+                105.43589,
+                22.604801
+            ],
+            [
+                105.434897,
+                22.604844
+            ],
+            [
+                105.433344,
+                22.60545
+            ],
+            [
+                105.431361,
+                22.606499
+            ],
+            [
+                105.429767,
+                22.607588
+            ],
+            [
+                105.428818,
+                22.607992
+            ],
+            [
+                105.427567,
+                22.608597
+            ],
+            [
+                105.424009,
+                22.609831
+            ],
+            [
+                105.418617,
+                22.611893
+            ],
+            [
+                105.416978,
+                22.61266
+            ],
+            [
+                105.415339,
+                22.613267
+            ],
+            [
+                105.414648,
+                22.613349
+            ],
+            [
+                105.413137,
+                22.613353
+            ],
+            [
+                105.411841,
+                22.613316
+            ],
+            [
+                105.409682,
+                22.613322
+            ],
+            [
+                105.408927,
+                22.613625
+            ],
+            [
+                105.408497,
+                22.614107
+            ],
+            [
+                105.407938,
+                22.614872
+            ],
+            [
+                105.407036,
+                22.61656
+            ],
+            [
+                105.406563,
+                22.617405
+            ],
+            [
+                105.405919,
+                22.618531
+            ],
+            [
+                105.405404,
+                22.619897
+            ],
+            [
+                105.404847,
+                22.621143
+            ],
+            [
+                105.404072,
+                22.622149
+            ],
+            [
+                105.403298,
+                22.623114
+            ],
+            [
+                105.402286,
+                22.624181
+            ],
+            [
+                105.400176,
+                22.626475
+            ],
+            [
+                105.399013,
+                22.627562
+            ],
+            [
+                105.39772,
+                22.628488
+            ],
+            [
+                105.396384,
+                22.629254
+            ],
+            [
+                105.394357,
+                22.630343
+            ],
+            [
+                105.393321,
+                22.630788
+            ],
+            [
+                105.392285,
+                22.630991
+            ],
+            [
+                105.391378,
+                22.630993
+            ],
+            [
+                105.390687,
+                22.630915
+            ],
+            [
+                105.389455,
+                22.630335
+            ],
+            [
+                105.387552,
+                22.629537
+            ],
+            [
+                105.385564,
+                22.62906
+            ],
+            [
+                105.384311,
+                22.629023
+            ],
+            [
+                105.383102,
+                22.629026
+            ],
+            [
+                105.381807,
+                22.629149
+            ],
+            [
+                105.380771,
+                22.629312
+            ],
+            [
+                105.380167,
+                22.629555
+            ],
+            [
+                105.378657,
+                22.63012
+            ],
+            [
+                105.376349,
+                22.63139
+            ],
+            [
+                105.373028,
+                22.633044
+            ],
+            [
+                105.370656,
+                22.634295
+            ],
+            [
+                105.368931,
+                22.635142
+            ],
+            [
+                105.36729,
+                22.635587
+            ],
+            [
+                105.366082,
+                22.635991
+            ],
+            [
+                105.364744,
+                22.636155
+            ],
+            [
+                105.364031,
+                22.636177
+            ],
+            [
+                105.361569,
+                22.636142
+            ],
+            [
+                105.361051,
+                22.636143
+            ],
+            [
+                105.360619,
+                22.636305
+            ],
+            [
+                105.36006,
+                22.637149
+            ],
+            [
+                105.359458,
+                22.638275
+            ],
+            [
+                105.35877,
+                22.63924
+            ],
+            [
+                105.357907,
+                22.639884
+            ],
+            [
+                105.357346,
+                22.640006
+            ],
+            [
+                105.356569,
+                22.640008
+            ],
+            [
+                105.3551,
+                22.640051
+            ],
+            [
+                105.350415,
+                22.640363
+            ],
+            [
+                105.347477,
+                22.640329
+            ],
+            [
+                105.34467,
+                22.640375
+            ],
+            [
+                105.341042,
+                22.640584
+            ],
+            [
+                105.336399,
+                22.640533
+            ],
+            [
+                105.334369,
+                22.640698
+            ],
+            [
+                105.332728,
+                22.640822
+            ],
+            [
+                105.33126,
+                22.641146
+            ],
+            [
+                105.329274,
+                22.641512
+            ],
+            [
+                105.327547,
+                22.641595
+            ],
+            [
+                105.326467,
+                22.641517
+            ],
+            [
+                105.325602,
+                22.641399
+            ],
+            [
+                105.32504,
+                22.641119
+            ],
+            [
+                105.324391,
+                22.640719
+            ],
+            [
+                105.323482,
+                22.639837
+            ],
+            [
+                105.323049,
+                22.639155
+            ],
+            [
+                105.322875,
+                22.638594
+            ],
+            [
+                105.3227,
+                22.63759
+            ],
+            [
+                105.322697,
+                22.636586
+            ],
+            [
+                105.322802,
+                22.635402
+            ],
+            [
+                105.322973,
+                22.634317
+            ],
+            [
+                105.323012,
+                22.632872
+            ],
+            [
+                105.322751,
+                22.631949
+            ],
+            [
+                105.322231,
+                22.631147
+            ],
+            [
+                105.321668,
+                22.630425
+            ],
+            [
+                105.319763,
+                22.628703
+            ],
+            [
+                105.319287,
+                22.628142
+            ],
+            [
+                105.319092,
+                22.6276
+            ],
+            [
+                105.319091,
+                22.627198
+            ],
+            [
+                105.319219,
+                22.626716
+            ],
+            [
+                105.319693,
+                22.626113
+            ],
+            [
+                105.32008,
+                22.62535
+            ],
+            [
+                105.320078,
+                22.624627
+            ],
+            [
+                105.319861,
+                22.624306
+            ],
+            [
+                105.319342,
+                22.623745
+            ],
+            [
+                105.318131,
+                22.623025
+            ],
+            [
+                105.316703,
+                22.622024
+            ],
+            [
+                105.316097,
+                22.621342
+            ],
+            [
+                105.31575,
+                22.620741
+            ],
+            [
+                105.31549,
+                22.620139
+            ],
+            [
+                105.31538,
+                22.619557
+            ],
+            [
+                105.31542,
+                22.617991
+            ],
+            [
+                105.315286,
+                22.616225
+            ],
+            [
+                105.31511,
+                22.61478
+            ],
+            [
+                105.315021,
+                22.613455
+            ],
+            [
+                105.315062,
+                22.612371
+            ],
+            [
+                105.315186,
+                22.610202
+            ],
+            [
+                105.315183,
+                22.608556
+            ],
+            [
+                105.315183,
+                22.608556
+            ],
+            [
+                105.315183,
+                22.608556
+            ],
+            [
+                105.315183,
+                22.608556
+            ],
+            [
+                105.315183,
+                22.608556
+            ],
+            [
+                105.315183,
+                22.608556
+            ],
+            [
+                105.315183,
+                22.608556
+            ],
+            [
+                105.315183,
+                22.608556
+            ],
+            [
+                105.315183,
+                22.608556
+            ],
+            [
+                105.315183,
+                22.608556
+            ],
+            [
+                105.315183,
+                22.608556
+            ],
+            [
+                105.315183,
+                22.608556
+            ],
+            [
+                105.315183,
+                22.608556
+            ],
+            [
+                105.315183,
+                22.608556
+            ],
+            [
+                105.315183,
+                22.608556
+            ],
+            [
+                105.314923,
+                22.608316
+            ],
+            [
+                105.314491,
+                22.608277
+            ],
+            [
+                105.314189,
+                22.608277
+            ],
+            [
+                105.313887,
+                22.608599
+            ],
+            [
+                105.313198,
+                22.609443
+            ],
+            [
+                105.311885,
+                22.611233
+            ],
+            [
+                105.311241,
+                22.612639
+            ],
+            [
+                105.310811,
+                22.613483
+            ],
+            [
+                105.310251,
+                22.614087
+            ],
+            [
+                105.309389,
+                22.614891
+            ],
+            [
+                105.308656,
+                22.615495
+            ],
+            [
+                105.307707,
+                22.615938
+            ],
+            [
+                105.306067,
+                22.616463
+            ],
+            [
+                105.305419,
+                22.616545
+            ],
+            [
+                105.303951,
+                22.616548
+            ],
+            [
+                105.302612,
+                22.61651
+            ],
+            [
+                105.300971,
+                22.616473
+            ],
+            [
+                105.299546,
+                22.616516
+            ],
+            [
+                105.298769,
+                22.616558
+            ],
+            [
+                105.297819,
+                22.616961
+            ],
+            [
+                105.296784,
+                22.617284
+            ],
+            [
+                105.295747,
+                22.617366
+            ],
+            [
+                105.293717,
+                22.617169
+            ],
+            [
+                105.292551,
+                22.617252
+            ],
+            [
+                105.290695,
+                22.617576
+            ],
+            [
+                105.28927,
+                22.617659
+            ],
+            [
+                105.287802,
+                22.617662
+            ],
+            [
+                105.285988,
+                22.617705
+            ],
+            [
+                105.283441,
+                22.618232
+            ],
+            [
+                105.282319,
+                22.618796
+            ],
+            [
+                105.281371,
+                22.61964
+            ],
+            [
+                105.281243,
+                22.620644
+            ],
+            [
+                105.281331,
+                22.621206
+            ],
+            [
+                105.282024,
+                22.622369
+            ],
+            [
+                105.282804,
+                22.623692
+            ],
+            [
+                105.283152,
+                22.624575
+            ],
+            [
+                105.283586,
+                22.625658
+            ],
+            [
+                105.283674,
+                22.626581
+            ],
+            [
+                105.283762,
+                22.627585
+            ],
+            [
+                105.283765,
+                22.628588
+            ],
+            [
+                105.283616,
+                22.630034
+            ],
+            [
+                105.283403,
+                22.631158
+            ],
+            [
+                105.282628,
+                22.632565
+            ],
+            [
+                105.281725,
+                22.634453
+            ],
+            [
+                105.280993,
+                22.635579
+            ],
+            [
+                105.279077,
+                22.638553
+            ],
+            [
+                105.277311,
+                22.641005
+            ],
+            [
+                105.276493,
+                22.642211
+            ],
+            [
+                105.275631,
+                22.643296
+            ],
+            [
+                105.274079,
+                22.644865
+            ],
+            [
+                105.272872,
+                22.646232
+            ],
+            [
+                105.271579,
+                22.647438
+            ],
+            [
+                105.27091,
+                22.647841
+            ],
+            [
+                105.269443,
+                22.648446
+            ],
+            [
+                105.268579,
+                22.648688
+            ],
+            [
+                105.267413,
+                22.648971
+            ],
+            [
+                105.265556,
+                22.649135
+            ],
+            [
+                105.263311,
+                22.64962
+            ],
+            [
+                105.261756,
+                22.649904
+            ],
+            [
+                105.2599,
+                22.650348
+            ],
+            [
+                105.257374,
+                22.651196
+            ],
+            [
+                105.253921,
+                22.652365
+            ],
+            [
+                105.252366,
+                22.652649
+            ],
+            [
+                105.251416,
+                22.65265
+            ],
+            [
+                105.250681,
+                22.652571
+            ],
+            [
+                105.249558,
+                22.652212
+            ],
+            [
+                105.247698,
+                22.65109
+            ],
+            [
+                105.246012,
+                22.650009
+            ],
+            [
+                105.245233,
+                22.649729
+            ],
+            [
+                105.244672,
+                22.64977
+            ],
+            [
+                105.244241,
+                22.650052
+            ],
+            [
+                105.243572,
+                22.650695
+            ],
+            [
+                105.242537,
+                22.651701
+            ],
+            [
+                105.238484,
+                22.655962
+            ],
+            [
+                105.237233,
+                22.657169
+            ],
+            [
+                105.236284,
+                22.657893
+            ],
+            [
+                105.235335,
+                22.658536
+            ],
+            [
+                105.234558,
+                22.658899
+            ],
+            [
+                105.233716,
+                22.65898
+            ],
+            [
+                105.232376,
+                22.658942
+            ],
+            [
+                105.231728,
+                22.658782
+            ],
+            [
+                105.230518,
+                22.658543
+            ],
+            [
+                105.229352,
+                22.658505
+            ],
+            [
+                105.228531,
+                22.658546
+            ],
+            [
+                105.227711,
+                22.659069
+            ],
+            [
+                105.226978,
+                22.659793
+            ],
+            [
+                105.226417,
+                22.660436
+            ],
+            [
+                105.225598,
+                22.66132
+            ],
+            [
+                105.225167,
+                22.661682
+            ],
+            [
+                105.224217,
+                22.661925
+            ],
+            [
+                105.223007,
+                22.662007
+            ],
+            [
+                105.22143,
+                22.662049
+            ],
+            [
+                105.218881,
+                22.661932
+            ],
+            [
+                105.215425,
+                22.661937
+            ],
+            [
+                105.21292,
+                22.66198
+            ],
+            [
+                105.211667,
+                22.662223
+            ],
+            [
+                105.210372,
+                22.662505
+            ],
+            [
+                105.209077,
+                22.663109
+            ],
+            [
+                105.208559,
+                22.663632
+            ],
+            [
+                105.208215,
+                22.664395
+            ],
+            [
+                105.208,
+                22.665319
+            ],
+            [
+                105.207915,
+                22.666242
+            ],
+            [
+                105.20781,
+                22.66837
+            ],
+            [
+                105.207553,
+                22.669816
+            ],
+            [
+                105.207081,
+                22.671623
+            ],
+            [
+                105.206737,
+                22.673029
+            ],
+            [
+                105.20622,
+                22.673873
+            ],
+            [
+                105.205831,
+                22.674194
+            ],
+            [
+                105.205097,
+                22.674476
+            ],
+            [
+                105.203585,
+                22.674599
+            ],
+            [
+                105.202246,
+                22.6746
+            ],
+            [
+                105.200346,
+                22.675044
+            ],
+            [
+                105.19931,
+                22.675487
+            ],
+            [
+                105.197518,
+                22.676734
+            ],
+            [
+                105.195835,
+                22.6777
+            ],
+            [
+                105.194021,
+                22.678424
+            ],
+            [
+                105.192596,
+                22.678707
+            ],
+            [
+                105.191429,
+                22.678829
+            ],
+            [
+                105.190522,
+                22.67883
+            ],
+            [
+                105.189485,
+                22.67859
+            ],
+            [
+                105.188318,
+                22.678351
+            ],
+            [
+                105.186459,
+                22.677791
+            ],
+            [
+                105.18486,
+                22.677231
+            ],
+            [
+                105.183715,
+                22.677072
+            ],
+            [
+                105.181728,
+                22.677275
+            ],
+            [
+                105.18002,
+                22.677704
+            ],
+            [
+                105.178791,
+                22.678277
+            ],
+            [
+                105.177056,
+                22.679274
+            ],
+            [
+                105.176146,
+                22.679866
+            ],
+            [
+                105.174474,
+                22.681168
+            ],
+            [
+                105.170669,
+                22.684249
+            ],
+            [
+                105.16828,
+                22.686408
+            ],
+            [
+                105.166437,
+                22.687679
+            ],
+            [
+                105.165311,
+                22.688188
+            ],
+            [
+                105.164184,
+                22.68857
+            ],
+            [
+                105.161435,
+                22.689016
+            ],
+            [
+                105.159214,
+                22.689209
+            ],
+            [
+                105.15696,
+                22.689275
+            ],
+            [
+                105.155047,
+                22.68934
+            ],
+            [
+                105.151409,
+                22.689121
+            ],
+            [
+                105.150418,
+                22.689186
+            ],
+            [
+                105.149428,
+                22.689345
+            ],
+            [
+                105.148096,
+                22.689981
+            ],
+            [
+                105.147038,
+                22.690521
+            ],
+            [
+                105.146333,
+                22.690712
+            ],
+            [
+                105.144142,
+                22.692156
+            ],
+            [
+                105.143229,
+                22.692794
+            ],
+            [
+                105.142727,
+                22.693473
+            ],
+            [
+                105.142408,
+                22.694491
+            ],
+            [
+                105.142455,
+                22.695552
+            ],
+            [
+                105.142776,
+                22.697334
+            ],
+            [
+                105.143121,
+                22.699497
+            ],
+            [
+                105.143534,
+                22.700642
+            ],
+            [
+                105.144037,
+                22.701405
+            ],
+            [
+                105.144495,
+                22.701829
+            ],
+            [
+                105.147009,
+                22.703142
+            ],
+            [
+                105.148152,
+                22.703777
+            ],
+            [
+                105.149593,
+                22.704582
+            ],
+            [
+                105.15037,
+                22.705091
+            ],
+            [
+                105.150965,
+                22.705811
+            ],
+            [
+                105.151423,
+                22.706659
+            ],
+            [
+                105.151881,
+                22.707762
+            ],
+            [
+                105.152339,
+                22.708949
+            ],
+            [
+                105.152798,
+                22.710476
+            ],
+            [
+                105.153187,
+                22.711579
+            ],
+            [
+                105.153189,
+                22.712682
+            ],
+            [
+                105.152961,
+                22.713913
+            ],
+            [
+                105.152642,
+                22.714634
+            ],
+            [
+                105.152095,
+                22.715229
+            ],
+            [
+                105.150953,
+                22.716206
+            ],
+            [
+                105.149812,
+                22.717055
+            ],
+            [
+                105.148556,
+                22.717863
+            ],
+            [
+                105.147369,
+                22.718755
+            ],
+            [
+                105.145907,
+                22.719774
+            ],
+            [
+                105.144583,
+                22.720497
+            ],
+            [
+                105.143212,
+                22.721177
+            ],
+            [
+                105.142253,
+                22.721729
+            ],
+            [
+                105.141203,
+                22.722154
+            ],
+            [
+                105.140335,
+                22.722367
+            ],
+            [
+                105.139238,
+                22.72292
+            ],
+            [
+                105.136909,
+                22.72394
+            ],
+            [
+                105.133962,
+                22.725215
+            ],
+            [
+                105.132546,
+                22.72598
+            ],
+            [
+                105.126477,
+                22.729627
+            ],
+            [
+                105.126793,
+                22.730948
+            ],
+            [
+                105.12704,
+                22.731534
+            ],
+            [
+                105.128269,
+                22.733226
+            ],
+            [
+                105.131325,
+                22.736839
+            ],
+            [
+                105.131992,
+                22.737489
+            ],
+            [
+                105.1338,
+                22.739409
+            ],
+            [
+                105.134749,
+                22.740516
+            ],
+            [
+                105.131699,
+                22.743449
+            ],
+            [
+                105.129754,
+                22.745111
+            ],
+            [
+                105.127966,
+                22.746871
+            ],
+            [
+                105.127125,
+                22.747719
+            ],
+            [
+                105.125653,
+                22.749511
+            ],
+            [
+                105.123708,
+                22.752085
+            ],
+            [
+                105.123007,
+                22.753649
+            ],
+            [
+                105.122167,
+                22.755148
+            ],
+            [
+                105.121133,
+                22.756288
+            ],
+            [
+                105.120291,
+                22.757038
+            ],
+            [
+                105.118608,
+                22.758244
+            ],
+            [
+                105.116539,
+                22.759646
+            ],
+            [
+                105.114926,
+                22.76095
+            ],
+            [
+                105.114067,
+                22.761895
+            ],
+            [
+                105.113086,
+                22.763426
+            ],
+            [
+                105.111824,
+                22.765609
+            ],
+            [
+                105.109704,
+                22.768476
+            ],
+            [
+                105.109459,
+                22.769323
+            ],
+            [
+                105.10911,
+                22.772026
+            ],
+            [
+                105.106636,
+                22.771865
+            ],
+            [
+                105.10453,
+                22.771899
+            ],
+            [
+                105.103478,
+                22.771965
+            ],
+            [
+                105.102285,
+                22.772291
+            ],
+            [
+                105.100917,
+                22.772976
+            ],
+            [
+                105.099514,
+                22.774051
+            ],
+            [
+                105.098058,
+                22.775159
+            ],
+            [
+                105.097251,
+                22.775616
+            ],
+            [
+                105.096059,
+                22.776235
+            ],
+            [
+                105.094515,
+                22.776855
+            ],
+            [
+                105.091428,
+                22.77829
+            ],
+            [
+                105.089077,
+                22.779366
+            ],
+            [
+                105.083165,
+                22.781681
+            ],
+            [
+                105.081481,
+                22.782463
+            ],
+            [
+                105.07892,
+                22.783572
+            ],
+            [
+                105.076692,
+                22.784713
+            ],
+            [
+                105.075745,
+                22.785332
+            ],
+            [
+                105.074763,
+                22.786472
+            ],
+            [
+                105.073711,
+                22.787808
+            ],
+            [
+                105.069345,
+                22.795072
+            ],
+            [
+                105.06775,
+                22.798948
+            ],
+            [
+                105.066733,
+                22.80113
+            ],
+            [
+                105.064962,
+                22.804583
+            ],
+            [
+                105.063734,
+                22.806407
+            ],
+            [
+                105.061753,
+                22.809273
+            ],
+            [
+                105.060735,
+                22.810446
+            ],
+            [
+                105.059297,
+                22.811847
+            ],
+            [
+                105.056367,
+                22.814909
+            ],
+            [
+                105.054683,
+                22.816538
+            ],
+            [
+                105.053665,
+                22.817353
+            ],
+            [
+                105.051507,
+                22.818851
+            ],
+            [
+                105.050419,
+                22.819438
+            ],
+            [
+                105.050911,
+                22.821066
+            ],
+            [
+                105.051473,
+                22.821847
+            ],
+            [
+                105.052491,
+                22.822791
+            ],
+            [
+                105.053983,
+                22.823866
+            ],
+            [
+                105.055318,
+                22.824809
+            ],
+            [
+                105.05616,
+                22.825395
+            ],
+            [
+                105.056547,
+                22.825981
+            ],
+            [
+                105.056863,
+                22.826795
+            ],
+            [
+                105.056969,
+                22.82787
+            ],
+            [
+                105.057233,
+                22.830833
+            ],
+            [
+                105.05748,
+                22.832364
+            ],
+            [
+                105.057831,
+                22.833503
+            ],
+            [
+                105.058306,
+                22.83448
+            ],
+            [
+                105.058797,
+                22.834838
+            ],
+            [
+                105.059429,
+                22.835001
+            ],
+            [
+                105.061326,
+                22.835423
+            ],
+            [
+                105.063362,
+                22.836074
+            ],
+            [
+                105.065539,
+                22.836985
+            ],
+            [
+                105.0674,
+                22.837733
+            ],
+            [
+                105.070192,
+                22.838807
+            ],
+            [
+                105.072194,
+                22.839815
+            ],
+            [
+                105.073423,
+                22.840531
+            ],
+            [
+                105.074336,
+                22.840889
+            ],
+            [
+                105.075449,
+                22.841117
+            ],
+            [
+                105.075356,
+                22.839581
+            ],
+            [
+                105.075429,
+                22.838296
+            ],
+            [
+                105.075775,
+                22.837286
+            ],
+            [
+                105.07622,
+                22.836552
+            ],
+            [
+                105.07711,
+                22.835909
+            ],
+            [
+                105.078347,
+                22.835679
+            ],
+            [
+                105.080721,
+                22.835219
+            ],
+            [
+                105.080919,
+                22.835219
+            ],
+            [
+                105.083046,
+                22.834988
+            ],
+            [
+                105.084282,
+                22.834575
+            ],
+            [
+                105.08631,
+                22.833335
+            ],
+            [
+                105.087151,
+                22.832921
+            ],
+            [
+                105.088066,
+                22.832737
+            ],
+            [
+                105.089451,
+                22.832645
+            ],
+            [
+                105.091924,
+                22.832643
+            ],
+            [
+                105.093309,
+                22.832459
+            ],
+            [
+                105.094744,
+                22.832137
+            ],
+            [
+                105.096623,
+                22.831769
+            ],
+            [
+                105.09786,
+                22.831493
+            ],
+            [
+                105.098651,
+                22.831309
+            ],
+            [
+                105.099591,
+                22.831262
+            ],
+            [
+                105.101792,
+                22.831123
+            ],
+            [
+                105.103425,
+                22.831305
+            ],
+            [
+                105.104959,
+                22.831717
+            ],
+            [
+                105.106196,
+                22.83213
+            ],
+            [
+                105.107087,
+                22.83245
+            ],
+            [
+                105.108274,
+                22.833046
+            ],
+            [
+                105.109165,
+                22.833734
+            ],
+            [
+                105.110007,
+                22.834559
+            ],
+            [
+                105.110849,
+                22.835752
+            ],
+            [
+                105.111889,
+                22.837127
+            ],
+            [
+                105.113202,
+                22.839467
+            ],
+            [
+                105.114094,
+                22.840934
+            ],
+            [
+                105.114638,
+                22.841531
+            ],
+            [
+                105.115331,
+                22.841989
+            ],
+            [
+                105.116074,
+                22.842264
+            ],
+            [
+                105.117063,
+                22.842355
+            ],
+            [
+                105.118597,
+                22.842262
+            ],
+            [
+                105.12013,
+                22.842031
+            ],
+            [
+                105.121614,
+                22.841617
+            ],
+            [
+                105.124186,
+                22.840835
+            ],
+            [
+                105.128069,
+                22.840052
+            ],
+            [
+                105.130196,
+                22.839591
+            ],
+            [
+                105.13529,
+                22.838807
+            ],
+            [
+                105.134998,
+                22.842937
+            ],
+            [
+                105.136187,
+                22.845322
+            ],
+            [
+                105.142504,
+                22.853806
+            ],
+            [
+                105.149909,
+                22.860957
+            ],
+            [
+                105.15142,
+                22.863296
+            ],
+            [
+                105.15157,
+                22.86426
+            ],
+            [
+                105.151872,
+                22.869169
+            ],
+            [
+                105.152543,
+                22.871876
+            ],
+            [
+                105.152545,
+                22.872977
+            ],
+            [
+                105.150867,
+                22.877797
+            ],
+            [
+                105.149363,
+                22.881974
+            ],
+            [
+                105.148405,
+                22.888537
+            ],
+            [
+                105.147271,
+                22.892255
+            ],
+            [
+                105.145765,
+                22.895927
+            ],
+            [
+                105.143492,
+                22.899646
+            ],
+            [
+                105.142652,
+                22.901115
+            ],
+            [
+                105.141046,
+                22.903594
+            ],
+            [
+                105.139812,
+                22.906853
+            ],
+            [
+                105.139518,
+                22.909423
+            ],
+            [
+                105.142521,
+                22.916946
+            ],
+            [
+                105.142943,
+                22.918735
+            ],
+            [
+                105.143063,
+                22.921871
+            ],
+            [
+                105.159122,
+                22.92235
+            ],
+            [
+                105.166889,
+                22.922477
+            ],
+            [
+                105.175151,
+                22.922252
+            ],
+            [
+                105.176054,
+                22.920157
+            ],
+            [
+                105.17727,
+                22.916334
+            ],
+            [
+                105.177672,
+                22.9142
+            ],
+            [
+                105.178077,
+                22.912961
+            ],
+            [
+                105.178716,
+                22.912153
+            ],
+            [
+                105.180826,
+                22.911141
+            ],
+            [
+                105.183572,
+                22.910343
+            ],
+            [
+                105.189969,
+                22.908882
+            ],
+            [
+                105.195669,
+                22.908013
+            ],
+            [
+                105.202386,
+                22.906578
+            ],
+            [
+                105.205468,
+                22.90539
+            ],
+            [
+                105.207385,
+                22.903826
+            ],
+            [
+                105.207953,
+                22.903207
+            ],
+            [
+                105.21002,
+                22.900208
+            ],
+            [
+                105.211638,
+                22.897681
+            ],
+            [
+                105.215616,
+                22.893287
+            ],
+            [
+                105.219283,
+                22.890638
+            ],
+            [
+                105.221605,
+                22.887512
+            ],
+            [
+                105.224073,
+                22.88522
+            ],
+            [
+                105.224886,
+                22.884627
+            ]
+        ]
+    ]
+}

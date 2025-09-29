@@ -1,0 +1,4163 @@
+{
+    "id_district": "122",
+    "id_province": 28,
+    "name_province": "Hòa Bình",
+    "name_district": "Huyện Lạc Sơn",
+    "list_sukien": [
+        {
+            "bidName": "Thi công xây lắp:Cứng hóa đường nội đồng xóm Cơi đi Nà Đớm, xã Vũ Bình, huyện Lạc Sơn",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2024-01-05 11:17:44",
+            "projectName": "Liên danh Công ty TNHH TMXD Minh Khang và Công ty TNHH An Khang Lạc Sơn",
+            "bidCloseDate": "2024-01-12 15:00:00",
+            "id_muasamcong": "03317c01-28b6-4ffb-af86-3ce62138f6fc",
+            "tongmuc_dautu": 1382403000.0,
+            "bidNamePlanNew": "PL2400001526",
+            "dotbien_hatang": "Thi công xây lắp:Cứng hóa đường nội đồng xóm Cơi đi Nà Đớm, xã Vũ Bình, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng: Đường giao thông nông thôn từ xóm Sì nối đến đường đến trung tâm xã, xã Mỹ Thành, huyện Lạc Sơn",
+            "chudautu": "Phòng Dân tộc huyện Lạc Sơn",
+            "createdBy": "vnz000015653",
+            "publicDate": "2024-10-18 14:39:14",
+            "projectName": "Liên danh Công ty TNHH Đức Tùng HB - Công ty TNHH Xây Dựng vận tải Mạnh Dũng",
+            "bidCloseDate": "2024-10-25 16:18:00",
+            "id_muasamcong": "053b690f-9813-4d32-97b5-e25747ae39dc",
+            "tongmuc_dautu": 2919717000.0,
+            "bidNamePlanNew": "PL2400236107",
+            "dotbien_hatang": "Thi công xây dựng: Đường giao thông nông thôn từ xóm Sì nối đến đường đến trung tâm xã, xã Mỹ Thành, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Cứng hoá đường giao thông giao thông xóm Sống, xóm Yên Kim, xóm Lục 1, xóm Lục 3, xã Yên Nghiệp, huyện Lạc Sơn",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2023-10-25 08:50:19",
+            "projectName": null,
+            "bidCloseDate": "2023-11-01 09:00:00",
+            "id_muasamcong": "06c65dc9-96b1-48fd-bb76-29fb93dd5ef0",
+            "tongmuc_dautu": 1318716000.0,
+            "bidNamePlanNew": "PL2300198145",
+            "dotbien_hatang": "Thi công xây lắp công trình: Cứng hoá đường giao thông giao thông xóm Sống, xóm Yên Kim, xóm Lục 1, xóm Lục 3, xã Yên Nghiệp, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án:Đường giao thông nông thôn nội xóm Vó Cỏ, Bùi Rường, xã Mỹ Thành, huyện Lạc Sơn",
+            "chudautu": "Phòng Dân tộc huyện Lạc Sơn",
+            "createdBy": "vnz000015653",
+            "publicDate": "2024-10-17 16:18:48",
+            "projectName": null,
+            "bidCloseDate": "2024-10-25 10:10:00",
+            "id_muasamcong": "09e3ca71-5390-480e-9c09-2feb3f06c7c5",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400236080",
+            "dotbien_hatang": "Thi công xây dựng dự án:Đường giao thông nông thôn nội xóm Vó Cỏ, Bùi Rường, xã Mỹ Thành, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp: Cứng hóa đường giao thông nông thôn xóm Cành 1, xóm Cành 2, xóm Cổi 1, xóm Cổi 2, xã Vũ Bình, huyện Lạc Sơn, tỉnh Hòa Bình",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2023-07-25 13:42:58",
+            "projectName": null,
+            "bidCloseDate": "2023-08-01 14:00:00",
+            "id_muasamcong": "0a326110-3574-4cfd-ae00-dc0225906a19",
+            "tongmuc_dautu": 1728331000.0,
+            "bidNamePlanNew": "PL2300117402",
+            "dotbien_hatang": "Thi công xây lắp: Cứng hóa đường giao thông nông thôn xóm Cành 1, xóm Cành 2, xóm Cổi 1, xóm Cổi 2, xã Vũ Bình, huyện Lạc Sơn, tỉnh Hòa Bình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án:Xây dựng lớp học tại\nđiểm trường chi Khải Cai, Trường Mầm non Phú Lương,\nxã Quyết Thắng, huyện Lạc Sơn",
+            "chudautu": "Phòng Giáo dục và Đào tạo huyện Lạc Sơn",
+            "createdBy": "vn5400191284",
+            "publicDate": "2024-06-26 08:01:23",
+            "projectName": null,
+            "bidCloseDate": "2024-07-03 16:28:00",
+            "id_muasamcong": "0c4a64d5-b9f8-40a4-9460-e15090befb5e",
+            "tongmuc_dautu": 467445000.0,
+            "bidNamePlanNew": "PL2400118746",
+            "dotbien_hatang": "Thi công xây dựng dự án:Xây dựng lớp học tại\nđiểm trường chi Khải Cai, Trường Mầm non Phú Lương,\nxã Quyết Thắng, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu xây lắp thi công xây dựng công trình",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2024-12-06 17:09:54",
+            "projectName": null,
+            "bidCloseDate": "2024-12-13 17:00:00",
+            "id_muasamcong": "0e940b92-087b-4d20-9820-eb28182b2ba1",
+            "tongmuc_dautu": 464911000.0,
+            "bidNamePlanNew": "PL2400293461",
+            "dotbien_hatang": "Gói thầu xây lắp thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Cứng hóa đường nội xóm Bu, xã Tân Mỹ, huyện Lạc Sơn",
+            "chudautu": "Phòng Dân tộc huyện Lạc Sơn",
+            "createdBy": "vnz000015653",
+            "publicDate": "2023-09-04 08:47:37",
+            "projectName": null,
+            "bidCloseDate": "2023-09-12 16:51:00",
+            "id_muasamcong": "0fbb248c-54e9-40db-8846-5860f379d17c",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300155413",
+            "dotbien_hatang": "Thi công xây lắp công trình: Cứng hóa đường nội xóm Bu, xã Tân Mỹ, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lạc Sơn, tỉnh Hòa Bình",
+            "createdBy": "vn5400476089",
+            "publicDate": "2023-06-29 20:11:34",
+            "projectName": "Liên danh Công ty TNHH xây dựng Cao Cường và Công ty TNHH đầu tư và xây dựng Đức Hùng",
+            "bidCloseDate": "2023-07-09 10:00:00",
+            "id_muasamcong": "0fdf274e-13db-4c08-8418-eccb5d39b135",
+            "tongmuc_dautu": 9164726000.0,
+            "bidNamePlanNew": "PL2300092117",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Cứng hoá đường giao thông nông thôn xóm Re, xóm Láo Thành, xã Ân Nghĩa, huyện Lạc Sơn",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2023-09-22 11:09:30",
+            "projectName": null,
+            "bidCloseDate": "2023-09-29 11:00:00",
+            "id_muasamcong": "102dfadc-2808-4d8b-9617-7d1c0304d7f4",
+            "tongmuc_dautu": 1297695000.0,
+            "bidNamePlanNew": "PL2300158510",
+            "dotbien_hatang": "Thi công xây lắp công trình: Cứng hoá đường giao thông nông thôn xóm Re, xóm Láo Thành, xã Ân Nghĩa, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Phòng Dân tộc huyện Lạc Sơn",
+            "createdBy": "vnz000015653",
+            "publicDate": "2023-09-05 16:26:49",
+            "projectName": null,
+            "bidCloseDate": "2023-09-13 16:28:00",
+            "id_muasamcong": "12054315-decf-4c0c-ad38-1a7bbab8578b",
+            "tongmuc_dautu": 2953378000.0,
+            "bidNamePlanNew": "PL2300158034",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án: Sửa chữa mương xã Ân Nghĩa, huyện Lạc Sơn",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2024-12-06 11:49:24",
+            "projectName": null,
+            "bidCloseDate": "2024-12-13 16:30:00",
+            "id_muasamcong": "1269c7e6-2a0b-4d94-97b8-7cd6f6eea6c3",
+            "tongmuc_dautu": 674907000.0,
+            "bidNamePlanNew": "PL2400293383",
+            "dotbien_hatang": "Thi công xây dựng dự án: Sửa chữa mương xã Ân Nghĩa, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng công trình",
+            "chudautu": "Cơ sở cai nghiện ma túy số II",
+            "createdBy": "vn5400320437",
+            "publicDate": "2024-12-07 09:43:42",
+            "projectName": null,
+            "bidCloseDate": "2024-12-14 15:00:00",
+            "id_muasamcong": "16c53541-3d38-4d9c-a7e1-68f755774576",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400301820",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2024-12-06 11:47:49",
+            "projectName": null,
+            "bidCloseDate": "2024-12-13 09:30:00",
+            "id_muasamcong": "17818d27-cbf7-4080-b9ea-27f5b5264485",
+            "tongmuc_dautu": 323247784.63,
+            "bidNamePlanNew": "PL2400293474",
+            "dotbien_hatang": "Thi công xây dựng dự án",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Cải tạo, nâng cấp đường xóm Ốc 2 đi Đồng Tâm, xã Thượng Cốc, huyện Lạc Sơn",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lạc Sơn, tỉnh Hòa Bình",
+            "createdBy": "vn5400476089",
+            "publicDate": "2023-10-05 10:22:17",
+            "projectName": "Liên danh Công ty TNHH xây dựng và thương mại tổng hợp Thành Nam và Công ty TNHH Xây dựng và Du lịch Quỳnh Anh",
+            "bidCloseDate": "2023-10-12 10:00:00",
+            "id_muasamcong": "1e4f500c-e389-41f5-8cd9-0c66e393663f",
+            "tongmuc_dautu": 4752642000.0,
+            "bidNamePlanNew": "PL2300169611",
+            "dotbien_hatang": "Thi công xây lắp công trình: Cải tạo, nâng cấp đường xóm Ốc 2 đi Đồng Tâm, xã Thượng Cốc, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng:Cải tạo, nâng cấp sân vận động huyện Lạc Sơn.",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng và Phát triển quỹ đất huyện Lạc Sơn",
+            "createdBy": "vn5400476089",
+            "publicDate": "2024-08-19 14:43:38",
+            "projectName": null,
+            "bidCloseDate": "2024-08-28 08:06:00",
+            "id_muasamcong": "20a7b1f8-d446-4f16-a39c-f11b04fa06c8",
+            "tongmuc_dautu": 6392083000.0,
+            "bidNamePlanNew": "PL2400172500",
+            "dotbien_hatang": "Thi công xây dựng:Cải tạo, nâng cấp sân vận động huyện Lạc Sơn.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Cải tạo, nâng cấp đường liên xóm xã Ân Nghĩa, huyện Lạc Sơn",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lạc Sơn, tỉnh Hòa Bình",
+            "createdBy": "vn5400476089",
+            "publicDate": "2023-10-09 11:09:41",
+            "projectName": null,
+            "bidCloseDate": "2023-10-19 11:00:00",
+            "id_muasamcong": "21113132-2d23-435e-8f78-a40dc965d5f6",
+            "tongmuc_dautu": 6987266000.0,
+            "bidNamePlanNew": "PL2300169597",
+            "dotbien_hatang": "Thi công xây lắp công trình: Cải tạo, nâng cấp đường liên xóm xã Ân Nghĩa, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lạc Sơn, tỉnh Hòa Bình",
+            "createdBy": "vn5400476089",
+            "publicDate": "2023-09-08 13:40:55",
+            "projectName": "Liên danh Công ty Cổ phần ĐTXD phát triển hạ tầng Hòa Bình và Công ty TNHH Xây Dựng Hoàng Nhơn",
+            "bidCloseDate": "2023-09-18 10:30:00",
+            "id_muasamcong": "237991ae-ff8b-4c05-8d91-f462b56383d5",
+            "tongmuc_dautu": 5168354000.0,
+            "bidNamePlanNew": "PL2300143915",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Sở Giao thông vận tải tỉnh Hòa Bình",
+            "createdBy": "vnz000007347",
+            "publicDate": "2022-11-09 16:57:58",
+            "projectName": null,
+            "bidCloseDate": "2022-11-19 20:00:00",
+            "id_muasamcong": "248c05e4-44a8-42b6-974e-a4c1576ebc06",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2200035143",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Ủy ban nhân dân xã Thượng Cốc",
+            "createdBy": "vn5400191460",
+            "publicDate": "2024-09-08 23:01:52",
+            "projectName": null,
+            "bidCloseDate": "2024-09-14 08:00:00",
+            "id_muasamcong": "2649e9d7-9b10-4098-8d45-ad42cf1cc5c3",
+            "tongmuc_dautu": 1694187000.0,
+            "bidNamePlanNew": "PL2400185258",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án:Đường giao thông nông thôn nội xóm Đào, xã Tuân Đạo, huyện Lạc Sơn",
+            "chudautu": "Phòng Dân tộc huyện Lạc Sơn",
+            "createdBy": "vnz000015653",
+            "publicDate": "2024-09-20 14:47:48",
+            "projectName": null,
+            "bidCloseDate": "2024-09-28 16:36:00",
+            "id_muasamcong": "2977259d-4ca4-4010-a9ea-b361956f25ac",
+            "tongmuc_dautu": 1705991000.0,
+            "bidNamePlanNew": "PL2400197246",
+            "dotbien_hatang": "Thi công xây dựng dự án:Đường giao thông nông thôn nội xóm Đào, xã Tuân Đạo, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây lắp",
+            "chudautu": " BAN QUẢN LÝ KHU BẢO TỒN THIÊN NHIÊN NGỌC SƠN - NGỔ LUÔNG",
+            "createdBy": "vn5400323879",
+            "publicDate": "2023-09-27 13:02:50",
+            "projectName": null,
+            "bidCloseDate": "2023-10-04 08:00:00",
+            "id_muasamcong": "2a2439d1-1264-45b3-91a0-8e6a3e61f3ef",
+            "tongmuc_dautu": 1734414000.0,
+            "bidNamePlanNew": "PL2300176540",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2024-12-10 10:31:19",
+            "projectName": null,
+            "bidCloseDate": "2024-12-17 14:00:00",
+            "id_muasamcong": "2ae5e849-eafa-4993-8042-304bea4e46fd",
+            "tongmuc_dautu": 364802000.0,
+            "bidNamePlanNew": "PL2400293490",
+            "dotbien_hatang": "Thi công xây dựng dự án",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp dự án: Cứng hóa đường giao thông nông thôn xóm Ngải, xóm Nam Hòa 2, xóm Vỏ, Xưa Hạ, Bắp 2, Ngã Ba Xưa, xã Xuất Hóa, huyện Lạc Sơn",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2023-10-04 13:51:49",
+            "projectName": null,
+            "bidCloseDate": "2023-10-11 10:00:00",
+            "id_muasamcong": "2c68209b-edd9-40ee-9013-7ba1d3990a6d",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300144899",
+            "dotbien_hatang": "Thi công xây lắp dự án: Cứng hóa đường giao thông nông thôn xóm Ngải, xóm Nam Hòa 2, xóm Vỏ, Xưa Hạ, Bắp 2, Ngã Ba Xưa, xã Xuất Hóa, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án sửa chữa công trình thủy lợi",
+            "createdBy": "vnz000010831",
+            "publicDate": "2024-10-17 22:25:58",
+            "projectName": null,
+            "bidCloseDate": "2024-10-25 08:00:00",
+            "id_muasamcong": "2e444748-6062-4ab7-8176-738d702db7e5",
+            "tongmuc_dautu": 817317539.0,
+            "bidNamePlanNew": "PL2400233369",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu xây lắp thi công xây dựng công trình:Cứng hóa đường giao thông nông thôn xóm Trán, xã Ân Nghĩa, huyện Lạc Sơn, tỉnh Hòa Bình",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2025-01-08 20:02:16",
+            "projectName": "Liên danh Công ty TNHH MTV Minh Giang HB và Công ty TNHH Á Châu HB",
+            "bidCloseDate": "2025-01-15 20:00:00",
+            "id_muasamcong": "35a2c665-bb17-4bdc-a9dc-4373a721c128",
+            "tongmuc_dautu": 1755086000.0,
+            "bidNamePlanNew": "PL2400329306",
+            "dotbien_hatang": "Gói thầu xây lắp thi công xây dựng công trình:Cứng hóa đường giao thông nông thôn xóm Trán, xã Ân Nghĩa, huyện Lạc Sơn, tỉnh Hòa Bình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lạc Sơn, tỉnh Hòa Bình",
+            "createdBy": "vn5400476089",
+            "publicDate": "2023-09-13 14:34:58",
+            "projectName": null,
+            "bidCloseDate": "2023-09-20 16:37:00",
+            "id_muasamcong": "384f7a33-a690-4256-81f3-e89163207c8f",
+            "tongmuc_dautu": 3391134000.0,
+            "bidNamePlanNew": "PL2300153302",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp: Nhà văn hóa xã Văn Nghĩa, huyện Lạc Sơn",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lạc Sơn, tỉnh Hòa Bình",
+            "createdBy": "vn5400476089",
+            "publicDate": "2023-07-26 17:30:24",
+            "projectName": "Liên danh CÔNG TY TRÁCH NHIỆM HỮU HẠN MỘT THÀNH VIÊN XÂY DỰNG DUY LINH Và CÔNG TY TNHH CƠ ĐIỆN VÀ PHÒNG CHÁY CHỮA CHÁY THÀNH NAM",
+            "bidCloseDate": "2023-08-03 16:35:00",
+            "id_muasamcong": "3ac68751-b13e-43c4-9b13-29473cfeb1af",
+            "tongmuc_dautu": 4172680000.0,
+            "bidNamePlanNew": "PL2300127415",
+            "dotbien_hatang": "Thi công xây lắp: Nhà văn hóa xã Văn Nghĩa, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp: Xây dựng phòng học, các phòng chức năng, công trình phụ trợ trường mầm non Nhân Nghĩa, huyện Lạc Sơn",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lạc Sơn, tỉnh Hòa Bình",
+            "createdBy": "vn5400476089",
+            "publicDate": "2023-10-04 15:41:20",
+            "projectName": "Liên danh Công ty TNHH xây dựng và thương mại tổng hợp thành nam và Công ty Công ty TNHH thương mại dịch vụ xây dựng PCCC Cường Thành",
+            "bidCloseDate": "2023-10-14 16:32:00",
+            "id_muasamcong": "3ce4c09d-32cd-4836-9661-c19c70716ac4",
+            "tongmuc_dautu": 8164887965.0,
+            "bidNamePlanNew": "PL2300169875",
+            "dotbien_hatang": "Thi công xây lắp: Xây dựng phòng học, các phòng chức năng, công trình phụ trợ trường mầm non Nhân Nghĩa, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Sửa chữa mương xã Miền Đồi, huyện Lạc Sơn",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2024-11-21 15:06:47",
+            "projectName": null,
+            "bidCloseDate": "2024-11-28 14:30:00",
+            "id_muasamcong": "41159b34-bed0-4cdb-a561-eff7ea4e3f38",
+            "tongmuc_dautu": 751788000.0,
+            "bidNamePlanNew": "PL2400269846",
+            "dotbien_hatang": "Thi công xây dựng công trình: Sửa chữa mương xã Miền Đồi, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp: Cứng hóa đường nội xóm Vâng, xã Ngọc Sơn, huyện Lạc Sơn",
+            "chudautu": "Phòng Dân tộc huyện Lạc Sơn",
+            "createdBy": "vnz000015653",
+            "publicDate": "2023-07-19 14:17:26",
+            "projectName": "Liên danh công ty TNHH MTV Đức Đạt Phát và Công ty TNHH xây dựng và Thương Mại Lan Hải",
+            "bidCloseDate": "2023-07-27 16:13:00",
+            "id_muasamcong": "45083e45-ed80-4c3a-931c-0e0c4371cb07",
+            "tongmuc_dautu": 1823100000.0,
+            "bidNamePlanNew": "PL2300122374",
+            "dotbien_hatang": "Thi công xây lắp: Cứng hóa đường nội xóm Vâng, xã Ngọc Sơn, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình :Xây dựng phòng học, các phòng chức năng, công trình phụ trợ + Cải tạo, sửa chữa các phòng học, công trình phụ trợ trường TH&THCS Phú Lương xã Quyết Thắng, huyện Lạc Sơn",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lạc Sơn, tỉnh Hòa Bình",
+            "createdBy": "vn5400476089",
+            "publicDate": "2023-09-13 14:30:53",
+            "projectName": "Liên danh Công ty TNHH MTV xây dựng Huy Hoàng và Công ty TNHH An Khang Lạc Sơn",
+            "bidCloseDate": "2023-09-20 16:50:00",
+            "id_muasamcong": "468cc1c6-a4ba-496b-8200-29f325009948",
+            "tongmuc_dautu": 2481854000.0,
+            "bidNamePlanNew": "PL2300160341",
+            "dotbien_hatang": "Thi công xây lắp công trình :Xây dựng phòng học, các phòng chức năng, công trình phụ trợ + Cải tạo, sửa chữa các phòng học, công trình phụ trợ trường TH&THCS Phú Lương xã Quyết Thắng, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2023-09-06 14:11:12",
+            "projectName": null,
+            "bidCloseDate": "2023-09-13 10:00:00",
+            "id_muasamcong": "4692caeb-538a-4424-864c-55237ad05a01",
+            "tongmuc_dautu": 1308037000.0,
+            "bidNamePlanNew": "PL2300143337",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án:Đường giao thông nông thôn nội xóm Ong Man (Đoạn từ nhà ông Viền đi nhà ông Thọ), xã Chí Đạo, huyện Lạc Sơn",
+            "chudautu": "Phòng Dân tộc huyện Lạc Sơn",
+            "createdBy": "vnz000015653",
+            "publicDate": "2024-08-16 08:25:29",
+            "projectName": null,
+            "bidCloseDate": "2024-08-22 11:00:00",
+            "id_muasamcong": "46ae836c-5110-4aa8-a121-e68b3f3f83f2",
+            "tongmuc_dautu": 1671000000.0,
+            "bidNamePlanNew": "PL2400151215",
+            "dotbien_hatang": "Thi công xây dựng dự án:Đường giao thông nông thôn nội xóm Ong Man (Đoạn từ nhà ông Viền đi nhà ông Thọ), xã Chí Đạo, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2024-11-30 12:47:42",
+            "projectName": "Liên danh Công ty Tùng Lâm 68 và Công ty An Thành",
+            "bidCloseDate": "2024-12-12 17:25:00",
+            "id_muasamcong": "4b9970d4-3dbf-4ae3-92f4-bd85f735569a",
+            "tongmuc_dautu": 675264000.0,
+            "bidNamePlanNew": "PL2400293422",
+            "dotbien_hatang": "Thi công xây dựng dự án",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Đường + sửa chữa, cải tạo trụ sở UBND xã Yên Nghiệp, huyện Lạc Sơn",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lạc Sơn, tỉnh Hòa Bình",
+            "createdBy": "vn5400476089",
+            "publicDate": "2023-10-02 16:56:58",
+            "projectName": null,
+            "bidCloseDate": "2023-10-12 10:00:00",
+            "id_muasamcong": "4bc54c19-b183-43f6-bf39-06ce5bcb80c6",
+            "tongmuc_dautu": 7906523000.0,
+            "bidNamePlanNew": "PL2300177771",
+            "dotbien_hatang": "Thi công xây lắp công trình: Đường + sửa chữa, cải tạo trụ sở UBND xã Yên Nghiệp, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Cứng hoá đường giao thông nông thôn xóm Bui, xóm Vó Giò, xã Nhân Nghĩa, huyện Lạc Sơn",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2023-11-14 09:03:36",
+            "projectName": null,
+            "bidCloseDate": "2023-11-21 09:00:00",
+            "id_muasamcong": "4f1a217f-9e39-42d4-9064-6ae16db7299e",
+            "tongmuc_dautu": 1301738000.0,
+            "bidNamePlanNew": "PL2300172501",
+            "dotbien_hatang": "Thi công xây lắp công trình: Cứng hoá đường giao thông nông thôn xóm Bui, xóm Vó Giò, xã Nhân Nghĩa, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 10: Thi công xây dựng công trình Kè chống sạt lở bờ sông Bưởi, thị trấn Vụ Bản; Kè chống sạt lở suối Yên Điềm, xã Yên Phú, huyện Lạc Sơn (đã bao gồm nội dung chi phí an toàn giao thông)",
+            "chudautu": "Ban Quản lý dự án Xây dựng và Tu bổ các công trình Nông nghiệp và Phát triển nông thôn",
+            "createdBy": "vnz000006699",
+            "publicDate": "2023-12-28 15:24:14",
+            "projectName": null,
+            "bidCloseDate": "2024-01-17 07:35:00",
+            "id_muasamcong": "4fd537e5-a2b0-4523-89d6-a0209b9e9b89",
+            "tongmuc_dautu": 76009781000.0,
+            "bidNamePlanNew": "PL2300206953",
+            "dotbien_hatang": "Gói thầu số 10: Thi công xây dựng công trình Kè chống sạt lở bờ sông Bưởi, thị trấn Vụ Bản; Kè chống sạt lở suối Yên Điềm, xã Yên Phú, huyện Lạc Sơn (đã bao gồm nội dung chi phí an toàn giao thông)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án:Đường giao thông nông thôn nội xóm Rài, xã Tuân Đạo, huyện Lạc Sơn",
+            "chudautu": "Phòng Dân tộc huyện Lạc Sơn",
+            "createdBy": "vnz000015653",
+            "publicDate": "2024-10-02 08:26:51",
+            "projectName": "Liên danh Công ty TNHH TMXD Minh Khang và Công ty TNHH xây dựng và Thương Mại Lan Hải",
+            "bidCloseDate": "2024-10-09 10:05:00",
+            "id_muasamcong": "54923042-ecf7-423b-bfef-e54ede43d837",
+            "tongmuc_dautu": 1692124000.0,
+            "bidNamePlanNew": "PL2400217472",
+            "dotbien_hatang": "Thi công xây dựng dự án:Đường giao thông nông thôn nội xóm Rài, xã Tuân Đạo, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình",
+            "chudautu": "CÔNG TY TNHH XÂY DỰNG ĐỨC DUY VIỆT NAM",
+            "createdBy": "vn0108810835",
+            "publicDate": "2023-07-11 19:08:29",
+            "projectName": null,
+            "bidCloseDate": "2023-07-18 19:00:00",
+            "id_muasamcong": "54e8bc21-1f2b-42e9-8867-339f0326c576",
+            "tongmuc_dautu": 3545202000.0,
+            "bidNamePlanNew": "PL2300116372",
+            "dotbien_hatang": "Thi công xây lắp công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án:Đường giao thông nông thôn nội xóm Ót, xã Chí Đạo, huyện Lạc Sơn",
+            "chudautu": "Phòng Dân tộc huyện Lạc Sơn",
+            "createdBy": "vnz000015653",
+            "publicDate": "2024-08-09 07:58:19",
+            "projectName": null,
+            "bidCloseDate": "2024-08-16 11:00:00",
+            "id_muasamcong": "576575f1-e13e-4578-9c97-6c62a0ccb818",
+            "tongmuc_dautu": 1343325000.0,
+            "bidNamePlanNew": "PL2400151246",
+            "dotbien_hatang": "Thi công xây dựng dự án:Đường giao thông nông thôn nội xóm Ót, xã Chí Đạo, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp dự án:Trường Mầm non Văn Nghĩa, huyện Lạc Sơn;",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lạc Sơn, tỉnh Hòa Bình",
+            "createdBy": "vn5400476089",
+            "publicDate": "2023-02-14 14:43:11",
+            "projectName": null,
+            "bidCloseDate": "2023-02-24 11:11:00",
+            "id_muasamcong": "5a722f5a-60ce-4cbc-a0e5-d0f437ba672f",
+            "tongmuc_dautu": 10085630000.0,
+            "bidNamePlanNew": "PL2300012845",
+            "dotbien_hatang": "Thi công xây lắp dự án:Trường Mầm non Văn Nghĩa, huyện Lạc Sơn;",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp dựa án:Dự án: Cứng hoá đường giao thông nông thôn xóm Bưng Cọi, xóm Vín Hòa, xã Hương Nhượng, huyện Lạc Sơn",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2023-09-07 10:38:00",
+            "projectName": null,
+            "bidCloseDate": "2023-09-14 09:00:00",
+            "id_muasamcong": "5a7b0fb0-f7b1-4638-8b43-7c49325dc593",
+            "tongmuc_dautu": 1304131000.0,
+            "bidNamePlanNew": "PL2300145216",
+            "dotbien_hatang": "Thi công xây lắp dựa án:Dự án: Cứng hoá đường giao thông nông thôn xóm Bưng Cọi, xóm Vín Hòa, xã Hương Nhượng, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Cứng hóa đường giao thông nông thôn xóm Tre, xóm Anh, xóm Mè Cổm, xã Thượng Cốc, huyện Lạc Sơn",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2023-11-07 15:58:53",
+            "projectName": "LIÊN DANH CÔNG TY TNHH AN KHANG LẠC SƠN - CÔNG TY TNHH MỘT THÀNH VIÊN XÂY DỰNG HUY HOÀNG (Tên viết tắt: LIÊN DANH AN KHANG – HUY HOÀNG)",
+            "bidCloseDate": "2023-11-14 15:00:00",
+            "id_muasamcong": "5c27d5b6-0905-478b-bdf0-2c52708e7267",
+            "tongmuc_dautu": 1330269000.0,
+            "bidNamePlanNew": "PL2300172540",
+            "dotbien_hatang": "Thi công xây lắp công trình: Cứng hóa đường giao thông nông thôn xóm Tre, xóm Anh, xóm Mè Cổm, xã Thượng Cốc, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp dự án: Cứng hóa đường giao thông nông thôn xóm Ngải, xóm Nam Hòa 2, xóm Vỏ, Xưa Hạ, Bắp 2, Ngã Ba Xưa, xã Xuất Hóa, huyện Lạc Sơn",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2023-09-12 09:13:21",
+            "projectName": null,
+            "bidCloseDate": "2023-09-19 10:00:00",
+            "id_muasamcong": "5d4af8c0-c1cf-4efe-9793-430fe8f1c9b6",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300144899",
+            "dotbien_hatang": "Thi công xây lắp dự án: Cứng hóa đường giao thông nông thôn xóm Ngải, xóm Nam Hòa 2, xóm Vỏ, Xưa Hạ, Bắp 2, Ngã Ba Xưa, xã Xuất Hóa, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng:Cứng hóa đường xóm Bán Ngoài, Bán Trong, xã Định Cư, huyện Lạc Sơn.",
+            "chudautu": "Phòng Dân tộc huyện Lạc Sơn",
+            "createdBy": "vnz000015653",
+            "publicDate": "2023-08-23 17:10:49",
+            "projectName": "Liên danh công ty TNHH xây dựng Phú Quý Group và công ty TNHH xây dựng Duy Tiến",
+            "bidCloseDate": "2023-08-31 10:26:00",
+            "id_muasamcong": "5e1a0304-9a73-43cc-95cb-67173430dac7",
+            "tongmuc_dautu": 2540135000.0,
+            "bidNamePlanNew": "PL2300149672",
+            "dotbien_hatang": "Thi công xây dựng:Cứng hóa đường xóm Bán Ngoài, Bán Trong, xã Định Cư, huyện Lạc Sơn.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án: Sửa chữa mương xã Nhân Nghĩa, huyện Lạc Sơn",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2024-12-10 15:35:25",
+            "projectName": "Liên danh Công ty TNHH Tùng Lâm 68 và Công ty TNHH xây dựng Mạnh Phong",
+            "bidCloseDate": "2024-12-17 08:15:00",
+            "id_muasamcong": "5e1a3a69-679d-482d-928a-1425ddb8953a",
+            "tongmuc_dautu": 667383000.0,
+            "bidNamePlanNew": "PL2400287614",
+            "dotbien_hatang": "Thi công xây dựng dự án: Sửa chữa mương xã Nhân Nghĩa, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2024-12-06 17:08:58",
+            "projectName": null,
+            "bidCloseDate": "2024-12-13 08:00:00",
+            "id_muasamcong": "60b578e6-96f0-45b8-8c66-aad47ee5b54c",
+            "tongmuc_dautu": 463594000.0,
+            "bidNamePlanNew": "PL2400293465",
+            "dotbien_hatang": "Thi công xây dựng dự án",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án: Đường giao thông nông thôn nội xóm Vẹ, xã Quý Hoà, huyện Lạc Sơn",
+            "chudautu": "Phòng Dân tộc huyện Lạc Sơn",
+            "createdBy": "vnz000015653",
+            "publicDate": "2024-09-09 11:12:23",
+            "projectName": null,
+            "bidCloseDate": "2024-09-17 10:50:00",
+            "id_muasamcong": "61b13156-691e-4541-ab5f-0ae483a7ade2",
+            "tongmuc_dautu": 1665061000.0,
+            "bidNamePlanNew": "PL2400189963",
+            "dotbien_hatang": "Thi công xây dựng dự án: Đường giao thông nông thôn nội xóm Vẹ, xã Quý Hoà, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Phòng Dân tộc huyện Lạc Sơn",
+            "createdBy": "vnz000015653",
+            "publicDate": "2023-06-22 17:36:02",
+            "projectName": null,
+            "bidCloseDate": "2023-06-30 16:14:00",
+            "id_muasamcong": "64112db6-c53c-46b9-b0c1-26e0ddda8b29",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300083105",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án:Đường giao thông nông thôn nội xóm Vó Cỏ, Bùi Rường, xã Mỹ Thành, huyện Lạc Sơn",
+            "chudautu": "Phòng Dân tộc huyện Lạc Sơn",
+            "createdBy": "vnz000015653",
+            "publicDate": "2024-11-05 09:57:42",
+            "projectName": null,
+            "bidCloseDate": "2024-11-13 15:13:00",
+            "id_muasamcong": "65b52328-1245-4a45-84d8-f4512be7cdb1",
+            "tongmuc_dautu": 1679586000.0,
+            "bidNamePlanNew": "PL2400236080",
+            "dotbien_hatang": "Thi công xây dựng dự án:Đường giao thông nông thôn nội xóm Vó Cỏ, Bùi Rường, xã Mỹ Thành, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Cứng hóa đường giao thông nông thôn xóm Khị, xóm Dằm, xã Nhân Nghĩa, huyện Lạc Sơn",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2023-10-30 16:52:45",
+            "projectName": null,
+            "bidCloseDate": "2023-11-06 10:00:00",
+            "id_muasamcong": "6687832d-8bc7-44db-ad63-41a09a2a804a",
+            "tongmuc_dautu": 1333287000.0,
+            "bidNamePlanNew": "PL2300172487",
+            "dotbien_hatang": "Thi công xây lắp công trình: Cứng hóa đường giao thông nông thôn xóm Khị, xóm Dằm, xã Nhân Nghĩa, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Sửa chữa hồ xóm Chiềng, xã Tân Lập, huyện Lạc Sơn",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2023-11-22 09:16:30",
+            "projectName": null,
+            "bidCloseDate": "2023-11-29 09:00:00",
+            "id_muasamcong": "69a67f2d-8f67-4372-9de6-660b0f37cf71",
+            "tongmuc_dautu": 4223215000.0,
+            "bidNamePlanNew": "PL2300227542",
+            "dotbien_hatang": "Thi công xây lắp công trình: Sửa chữa hồ xóm Chiềng, xã Tân Lập, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Trung tâm Y tế huyện Lạc Sơn",
+            "createdBy": "vn5400522345",
+            "publicDate": "2024-11-16 12:59:19",
+            "projectName": null,
+            "bidCloseDate": "2024-11-25 18:00:00",
+            "id_muasamcong": "6b5441be-496e-4df5-8e6b-4a1227e7bdaf",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400273486",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2023-09-07 07:31:10",
+            "projectName": null,
+            "bidCloseDate": "2023-09-14 14:00:00",
+            "id_muasamcong": "6bcffdd4-3e80-42a7-8642-172d56d7dce9",
+            "tongmuc_dautu": 1710000000.0,
+            "bidNamePlanNew": "PL2300143503",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Sở Giao thông vận tải tỉnh Hòa Bình",
+            "createdBy": "vnz000007347",
+            "publicDate": "2023-08-15 14:14:57",
+            "projectName": "LIÊN DANH CÔNG TY TNHH MỘT THÀNH VIÊN XÂY DỰNG DUY LINH - CÔNG TY TNHH MỘT THÀNH VIÊN XÂY DỰNG HUY HOÀNG",
+            "bidCloseDate": "2023-08-25 14:30:00",
+            "id_muasamcong": "6c0a9bd4-d06e-4c84-a0a2-5b8e8c819401",
+            "tongmuc_dautu": 4368666000.0,
+            "bidNamePlanNew": "PL2300092072",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp: Cứng hóa đường giao thông nông thôn xóm Át, xóm Cài, xã Vũ Bình, huyện Lạc Sơn, tỉnh Hòa Bình",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2023-07-27 15:44:13",
+            "projectName": "Liên danh Công ty Giang Sơn – Nhật Hoàng Long Tây Bắc",
+            "bidCloseDate": "2023-08-03 15:00:00",
+            "id_muasamcong": "6cbb6707-7ed5-4482-a250-5df93e68edcc",
+            "tongmuc_dautu": 1720263000.0,
+            "bidNamePlanNew": "PL2300120226",
+            "dotbien_hatang": "Thi công xây lắp: Cứng hóa đường giao thông nông thôn xóm Át, xóm Cài, xã Vũ Bình, huyện Lạc Sơn, tỉnh Hòa Bình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Cứng hóa đường giao thông nông thôn xóm Bui, xã Nhân Nghĩa, huyện Lạc Sơn",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2023-10-18 13:49:40",
+            "projectName": null,
+            "bidCloseDate": "2023-10-25 14:00:00",
+            "id_muasamcong": "6f96412c-d1d3-456d-bb4f-37b8dba35ca4",
+            "tongmuc_dautu": 1033190000.0,
+            "bidNamePlanNew": "PL2300172618",
+            "dotbien_hatang": "Thi công xây lắp công trình: Cứng hóa đường giao thông nông thôn xóm Bui, xã Nhân Nghĩa, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2023-09-13 10:47:53",
+            "projectName": null,
+            "bidCloseDate": "2023-09-19 10:59:00",
+            "id_muasamcong": "6ffaa43a-cc46-4d2d-8cae-ba829d772152",
+            "tongmuc_dautu": 1685739000.0,
+            "bidNamePlanNew": "PL2300151523",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Cung cấp và thi công xây dựng công trình Nâng cao chất lượng lưới điện hạ áp năm 2024-2025 cho các trạm biến áp công cộng khu vực huyện Lạc Sơn (I), tỉnh Hoà Bình",
+            "chudautu": "Công ty Điện lực Hòa Bình - Chi nhánh Tổng công ty Điện lực miền Bắc",
+            "createdBy": "vnz000012015-04",
+            "publicDate": "2024-11-19 16:43:31",
+            "projectName": null,
+            "bidCloseDate": "2024-11-28 09:00:00",
+            "id_muasamcong": "70d6a770-2ddf-4c55-9b35-821f8dfec123",
+            "tongmuc_dautu": 11949301415.0,
+            "bidNamePlanNew": "PL2400278512",
+            "dotbien_hatang": "Cung cấp và thi công xây dựng công trình Nâng cao chất lượng lưới điện hạ áp năm 2024-2025 cho các trạm biến áp công cộng khu vực huyện Lạc Sơn (I), tỉnh Hoà Bình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Phòng Dân tộc huyện Lạc Sơn",
+            "createdBy": "vnz000015653",
+            "publicDate": "2023-06-10 09:37:30",
+            "projectName": "Liên danh Công ty TNHH xây dựng và thương mại Lan Hải và Công ty TNHH MTV xây dựng Duy Linh",
+            "bidCloseDate": "2023-06-20 16:33:00",
+            "id_muasamcong": "7100ea15-62b5-424c-b086-3220835c6562",
+            "tongmuc_dautu": 5105888000.0,
+            "bidNamePlanNew": "PL2300080764",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Sửa chữa, nâng cấp đường liên xóm xã Vũ Bình, huyện Lạc Sơn",
+            "chudautu": "Ủy ban nhân dân xã Vũ Bình, huyện Lạc Sơn, tỉnh Hòa Bình",
+            "createdBy": "vnz000032480",
+            "publicDate": "2024-11-18 13:47:48",
+            "projectName": null,
+            "bidCloseDate": "2024-11-25 10:00:00",
+            "id_muasamcong": "721bee8e-6050-42d3-ad18-49732b62e2e9",
+            "tongmuc_dautu": 4372136000.0,
+            "bidNamePlanNew": "PL2400254917",
+            "dotbien_hatang": "Thi công xây lắp công trình: Sửa chữa, nâng cấp đường liên xóm xã Vũ Bình, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Cứng hóa đường giao thông nông thôn xóm Trang, xóm Anh, xã Thượng Cốc, huyện Lạc Sơn",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2023-12-13 14:39:21",
+            "projectName": null,
+            "bidCloseDate": "2023-12-20 14:30:00",
+            "id_muasamcong": "7379d822-c879-47aa-a984-3153510a4a7e",
+            "tongmuc_dautu": 1526988000.0,
+            "bidNamePlanNew": "PL2300198115",
+            "dotbien_hatang": "Thi công xây lắp công trình: Cứng hóa đường giao thông nông thôn xóm Trang, xóm Anh, xã Thượng Cốc, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp: Xây dựng phòng học, các phòng chức năng, công trình phụ trợ trường\nTH&THCS Vũ Lâm, huyện Lạc Sơn",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lạc Sơn, tỉnh Hòa Bình",
+            "createdBy": "vn5400476089",
+            "publicDate": "2023-11-14 16:49:55",
+            "projectName": "Liên danh Công ty TNHH An Khang Lạc Sơn và Công ty TNHH Như Lộc và  Công ty TNHH Tư vấn và xây lắp PCCC NTK",
+            "bidCloseDate": "2023-11-24 16:58:00",
+            "id_muasamcong": "738fe29e-3e3e-42c5-b510-5c79882af735",
+            "tongmuc_dautu": 12559011000.0,
+            "bidNamePlanNew": "PL2300183570",
+            "dotbien_hatang": "Thi công xây lắp: Xây dựng phòng học, các phòng chức năng, công trình phụ trợ trường\nTH&THCS Vũ Lâm, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắpDự án: Cứng hóa đường giao thông nông thôn xóm Húng, xã Yên Phú, huyện Lạc Sơn",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2023-09-20 21:05:42",
+            "projectName": null,
+            "bidCloseDate": "2023-10-04 10:00:00",
+            "id_muasamcong": "740ab94a-0727-49e1-95db-1ac3387f10a6",
+            "tongmuc_dautu": 1721325000.0,
+            "bidNamePlanNew": "PL2300170935",
+            "dotbien_hatang": "Thi công xây lắpDự án: Cứng hóa đường giao thông nông thôn xóm Húng, xã Yên Phú, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Cứng hóa đường giao thông nông thôn xóm Búm 1, xã Ân Nghĩa, huyện Lạc Sơn",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2023-10-05 11:06:18",
+            "projectName": "Liên danh Công ty TNHH xây dựng Phú Quý Group và Công ty TNHH xây dựng Duy Tiến",
+            "bidCloseDate": "2023-10-12 10:00:00",
+            "id_muasamcong": "74efa411-2c20-4208-b383-de79500efe1c",
+            "tongmuc_dautu": 1525394000.0,
+            "bidNamePlanNew": "PL2300158540",
+            "dotbien_hatang": "Thi công xây lắp công trình: Cứng hóa đường giao thông nông thôn xóm Búm 1, xã Ân Nghĩa, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "gói thầu thi công xây dựng hạng mục SCL ĐZ 371; ĐZ 373; ĐZ 374 E19.1- Điện lực Lạc Sơn",
+            "chudautu": "Công ty Điện lực Hòa Bình - Chi nhánh Tổng công ty Điện lực miền Bắc",
+            "createdBy": "vnz000012015-03",
+            "publicDate": "2023-11-14 15:53:04",
+            "projectName": null,
+            "bidCloseDate": "2023-11-24 09:00:00",
+            "id_muasamcong": "754aed9f-9660-40dd-bf4f-f572651b1579",
+            "tongmuc_dautu": 2440504798.0,
+            "bidNamePlanNew": "PL2300147334",
+            "dotbien_hatang": "gói thầu thi công xây dựng hạng mục SCL ĐZ 371; ĐZ 373; ĐZ 374 E19.1- Điện lực Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án",
+            "chudautu": "Ủy ban nhân dân xã Xuất Hóa",
+            "createdBy": "vn5400191911",
+            "publicDate": "2024-07-29 16:40:57",
+            "projectName": null,
+            "bidCloseDate": "2024-08-08 16:45:00",
+            "id_muasamcong": "76e7c015-450d-4b07-8f07-c1e8c72c8475",
+            "tongmuc_dautu": 5298985000.0,
+            "bidNamePlanNew": "PL2400141556",
+            "dotbien_hatang": "Thi công xây dựng dự án",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án",
+            "chudautu": "Ủy ban nhân dân xã Văn Nghĩa",
+            "createdBy": "vn5400191816",
+            "publicDate": "2024-10-01 16:06:07",
+            "projectName": "Liên danh Công ty Giang Sơn -  Công ty Nhật Hoàng Long Tây Bắc",
+            "bidCloseDate": "2024-10-14 16:30:00",
+            "id_muasamcong": "78686823-8160-458b-9dcd-a06f50866ee0",
+            "tongmuc_dautu": 2090939000.0,
+            "bidNamePlanNew": "PL2400216124",
+            "dotbien_hatang": "Thi công xây dựng dự án",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình",
+            "chudautu": "Hạt kiểm lâm huyện Lạc Sơn",
+            "createdBy": "vn5400320250",
+            "publicDate": "2024-11-27 16:51:54",
+            "projectName": null,
+            "bidCloseDate": "2024-12-05 15:25:00",
+            "id_muasamcong": "78901a7f-81d3-4967-a98c-e20484028e25",
+            "tongmuc_dautu": 1402961000.0,
+            "bidNamePlanNew": "PL2400291045",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Cứng hoá đường giao thông nông thôn phố Re, xóm Đội 5, xã Ân Nghĩa, huyện Lạc Sơn",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2023-09-22 11:06:23",
+            "projectName": null,
+            "bidCloseDate": "2023-09-29 10:00:00",
+            "id_muasamcong": "7ac13ab4-ef5c-4f9c-8489-3aa88c5f2d18",
+            "tongmuc_dautu": 1322077000.0,
+            "bidNamePlanNew": "PL2300158480",
+            "dotbien_hatang": "Thi công xây lắp công trình: Cứng hoá đường giao thông nông thôn phố Re, xóm Đội 5, xã Ân Nghĩa, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Cung cấp và thi công xây dựng công trình Nâng cao chất lượng lưới điện hạ áp năm 2024-2025 cho các trạm biến áp công cộng khu vực huyện Lạc Sơn (II), tỉnh Hoà Bình",
+            "chudautu": "Công ty Điện lực Hòa Bình - Chi nhánh Tổng công ty Điện lực miền Bắc",
+            "createdBy": "vnz000012015-04",
+            "publicDate": "2024-11-21 09:33:15",
+            "projectName": "Liên danh CÔNG TY CỔ PHẦN ĐẦU TƯ SẢN XUẤT VÀ XÂY DỰNG HÀ NỘI và CÔNG TY TNHH DÂY VÀ CÁP ĐIỆN TRƯỜNG THỊNH\n\n",
+            "bidCloseDate": "2024-12-01 09:00:00",
+            "id_muasamcong": "7ad5b11f-ebdc-4b55-88cb-e275d38b53d2",
+            "tongmuc_dautu": 11896753458.0,
+            "bidNamePlanNew": "PL2400279761",
+            "dotbien_hatang": "Cung cấp và thi công xây dựng công trình Nâng cao chất lượng lưới điện hạ áp năm 2024-2025 cho các trạm biến áp công cộng khu vực huyện Lạc Sơn (II), tỉnh Hoà Bình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án + lắp đặt thiết bị",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2024-12-06 11:51:45",
+            "projectName": null,
+            "bidCloseDate": "2024-12-13 15:52:00",
+            "id_muasamcong": "7ba0dec2-dcb9-43ff-95f5-3a2c065ffd19",
+            "tongmuc_dautu": 497678000.0,
+            "bidNamePlanNew": "PL2400293449",
+            "dotbien_hatang": "Thi công xây dựng dự án + lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp dự án: Cứng hóa đường giao thông nông thôn xóm Ngải, xóm Nam Hòa 2, xóm Vỏ, Xưa Hạ, Bắp 2, Ngã Ba Xưa, xã Xuất Hóa, huyện Lạc Sơn",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2023-11-17 10:45:41",
+            "projectName": null,
+            "bidCloseDate": "2023-11-24 09:05:00",
+            "id_muasamcong": "7e442688-3ea8-4cbf-bd48-35d850c0330f",
+            "tongmuc_dautu": 1336621000.0,
+            "bidNamePlanNew": "PL2300144899",
+            "dotbien_hatang": "Thi công xây lắp dự án: Cứng hóa đường giao thông nông thôn xóm Ngải, xóm Nam Hòa 2, xóm Vỏ, Xưa Hạ, Bắp 2, Ngã Ba Xưa, xã Xuất Hóa, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình Cải tạo, nâng cấp đường xóm Thượng Riêng, xã Miền Đồi, huyện Lạc Sơn",
+            "chudautu": "ỦY BAN NHÂN DÂN XÃ MIỀN ĐỒI",
+            "createdBy": "vn5400191855",
+            "publicDate": "2024-11-07 14:59:23",
+            "projectName": null,
+            "bidCloseDate": "2024-11-14 15:25:00",
+            "id_muasamcong": "7e551373-5342-4aaf-935e-6e812ef0494f",
+            "tongmuc_dautu": 4373045000.0,
+            "bidNamePlanNew": "PL2400261102",
+            "dotbien_hatang": "Thi công xây lắp công trình Cải tạo, nâng cấp đường xóm Thượng Riêng, xã Miền Đồi, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2024-11-30 12:54:16",
+            "projectName": "Liên danh Công ty Quang Khánh và Công ty Minh Thành",
+            "bidCloseDate": "2024-12-07 17:20:00",
+            "id_muasamcong": "7e7d7604-bbd6-462b-888d-19dd12b40bcd",
+            "tongmuc_dautu": 448204000.0,
+            "bidNamePlanNew": "PL2400293492",
+            "dotbien_hatang": "Thi công xây dựng dự án",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án: Sửa chữa mương xã Nhân Nghĩa, huyện Lạc Sơn",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2024-11-25 21:02:06",
+            "projectName": null,
+            "bidCloseDate": "2024-12-07 16:45:00",
+            "id_muasamcong": "7eacbe42-ddcb-4123-8e35-04bf03f55e46",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400287614",
+            "dotbien_hatang": "Thi công xây dựng dự án: Sửa chữa mương xã Nhân Nghĩa, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp:Xây dựng phòng học, các phòng chức năng, công trình phụ trợ + Cải tạo, sửa chữa các phòng học, công trình phụ trợ trường Mầm non xã Hương Nhượng, huyện Lạc Sơn",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lạc Sơn, tỉnh Hòa Bình",
+            "createdBy": "vn5400476089",
+            "publicDate": "2024-01-17 14:53:45",
+            "projectName": "Liên danh Công ty TNHH Như Lộc và Công ty TNHH cơ điện Max Việt Nam           ",
+            "bidCloseDate": "2024-01-26 16:47:00",
+            "id_muasamcong": "7f5b8f22-4317-48ca-9eb6-be566b2d0e73",
+            "tongmuc_dautu": 12566849000.0,
+            "bidNamePlanNew": "PL2400007825",
+            "dotbien_hatang": "Thi công xây lắp:Xây dựng phòng học, các phòng chức năng, công trình phụ trợ + Cải tạo, sửa chữa các phòng học, công trình phụ trợ trường Mầm non xã Hương Nhượng, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu xây lắp thi công xây dựng công trình",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2024-12-06 11:44:24",
+            "projectName": null,
+            "bidCloseDate": "2024-12-13 16:15:00",
+            "id_muasamcong": "7fa489b0-99bf-44c2-80ad-260bcda132a1",
+            "tongmuc_dautu": 508969000.0,
+            "bidNamePlanNew": "PL2400293454",
+            "dotbien_hatang": "Gói thầu xây lắp thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp:Cải tạo phòng học, các hạng mục phụ trợ Trưòng TH và THCS Hương Nhượng, huyện Lạc Sơn",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lạc Sơn, tỉnh Hòa Bình",
+            "createdBy": "vn5400476089",
+            "publicDate": "2023-11-16 10:37:12",
+            "projectName": null,
+            "bidCloseDate": "2023-11-22 11:23:00",
+            "id_muasamcong": "8035f99b-5206-4b0f-baef-f4a06fceacda",
+            "tongmuc_dautu": 1818518000.0,
+            "bidNamePlanNew": "PL2300222014",
+            "dotbien_hatang": "Thi công xây lắp:Cải tạo phòng học, các hạng mục phụ trợ Trưòng TH và THCS Hương Nhượng, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án: Bảo dưỡng, sửa chữa điện chiếu sáng huyện Lạc Sơn.",
+            "chudautu": "Phòng Kinh tế và Hạ tầng huyện Lạc Sơn",
+            "createdBy": "vn5400318861",
+            "publicDate": "2024-11-22 15:18:03",
+            "projectName": null,
+            "bidCloseDate": "2024-11-29 16:56:00",
+            "id_muasamcong": "86f64ddf-1f2b-4755-b6e7-b0fa7d4bf252",
+            "tongmuc_dautu": 696760000.0,
+            "bidNamePlanNew": "PL2400283974",
+            "dotbien_hatang": "Thi công xây dựng dự án: Bảo dưỡng, sửa chữa điện chiếu sáng huyện Lạc Sơn.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Cứng hóa đường giao thông nông thôn xóm Khị, xóm Dằm, xã Nhân Nghĩa, huyện Lạc Sơn",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2023-10-10 15:04:13",
+            "projectName": null,
+            "bidCloseDate": "2023-10-17 15:00:00",
+            "id_muasamcong": "8c3d76b5-d969-42fd-9eb5-772ed1bf9cb3",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300172487",
+            "dotbien_hatang": "Thi công xây lắp công trình: Cứng hóa đường giao thông nông thôn xóm Khị, xóm Dằm, xã Nhân Nghĩa, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Cứng hóa đường nội xóm Bu, xã Tân Mỹ, huyện Lạc Sơn",
+            "chudautu": "Phòng Dân tộc huyện Lạc Sơn",
+            "createdBy": "vnz000015653",
+            "publicDate": "2023-10-12 15:22:50",
+            "projectName": null,
+            "bidCloseDate": "2023-10-19 16:05:00",
+            "id_muasamcong": "8f0bbf26-3e1b-4585-a020-258ad4f00567",
+            "tongmuc_dautu": 1825193000.0,
+            "bidNamePlanNew": "PL2300155413",
+            "dotbien_hatang": "Thi công xây lắp công trình: Cứng hóa đường nội xóm Bu, xã Tân Mỹ, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Phòng Dân tộc huyện Lạc Sơn",
+            "createdBy": "vnz000015653",
+            "publicDate": "2023-06-27 16:59:36",
+            "projectName": null,
+            "bidCloseDate": "2023-07-05 09:33:00",
+            "id_muasamcong": "8fcb6b7b-ae43-4cf9-a83c-f2ab38f59adf",
+            "tongmuc_dautu": 2118818000.0,
+            "bidNamePlanNew": "PL2300084008",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án:Đường giao thông nông thôn nội xóm Đanh, xã Tuân Đạo, huyện Lạc Sơn",
+            "chudautu": "Phòng Dân tộc huyện Lạc Sơn",
+            "createdBy": "vnz000015653",
+            "publicDate": "2024-09-20 15:20:27",
+            "projectName": null,
+            "bidCloseDate": "2024-09-28 11:25:00",
+            "id_muasamcong": "91332658-6294-49c4-9caf-2fdbaa510e03",
+            "tongmuc_dautu": 1689605000.0,
+            "bidNamePlanNew": "PL2400197197",
+            "dotbien_hatang": "Thi công xây dựng dự án:Đường giao thông nông thôn nội xóm Đanh, xã Tuân Đạo, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng: Cứng hóa đường giao thông nông thôn xóm Cơi, xóm Đạn, xã Vũ Bình, huyện Lạc Sơn, tỉnh Hòa Bình",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2023-07-25 10:33:41",
+            "projectName": null,
+            "bidCloseDate": "2023-08-01 11:00:00",
+            "id_muasamcong": "93e8fcb2-0834-4d41-aa15-3f9618674ed0",
+            "tongmuc_dautu": 1717382000.0,
+            "bidNamePlanNew": "PL2300120276",
+            "dotbien_hatang": "Thi công xây dựng: Cứng hóa đường giao thông nông thôn xóm Cơi, xóm Đạn, xã Vũ Bình, huyện Lạc Sơn, tỉnh Hòa Bình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Cải tạo, nâng cấp đường liên xóm xã Văn Nghĩa, huyện Lạc Sơn",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lạc Sơn, tỉnh Hòa Bình",
+            "createdBy": "vn5400476089",
+            "publicDate": "2023-10-24 08:14:07",
+            "projectName": null,
+            "bidCloseDate": "2023-10-31 09:00:00",
+            "id_muasamcong": "949dffba-469c-4e75-8901-5416218b2afa",
+            "tongmuc_dautu": 4281252000.0,
+            "bidNamePlanNew": "PL2300183371",
+            "dotbien_hatang": "Thi công xây dựng công trình: Cải tạo, nâng cấp đường liên xóm xã Văn Nghĩa, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Đường liên xóm Bai Chim, Bai Khưa đi Bai Vớn, xã Định Cư, huyện Lạc Sơn",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lạc Sơn, tỉnh Hòa Bình",
+            "createdBy": "vn5400476089",
+            "publicDate": "2023-09-23 09:47:14",
+            "projectName": null,
+            "bidCloseDate": "2023-10-03 08:30:00",
+            "id_muasamcong": "962f3692-0886-4af2-9075-fab1106d46fa",
+            "tongmuc_dautu": 5051145000.0,
+            "bidNamePlanNew": "PL2300169570",
+            "dotbien_hatang": "Thi công xây lắp công trình: Đường liên xóm Bai Chim, Bai Khưa đi Bai Vớn, xã Định Cư, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng: Nhà làm việc Khối đoàn thể xã Tân Mỹ, huyện Lạc Sơn, tỉnh Hòa Bình",
+            "chudautu": "Ủy ban nhân dân xã Tân Mỹ, huyện Lạc SƠn",
+            "createdBy": "vnz000032187",
+            "publicDate": "2023-12-14 13:50:33",
+            "projectName": null,
+            "bidCloseDate": "2023-12-21 16:34:00",
+            "id_muasamcong": "996a309f-78aa-4fc5-a2b2-f8ae9bfa5ab1",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300243909",
+            "dotbien_hatang": "Thi công xây dựng: Nhà làm việc Khối đoàn thể xã Tân Mỹ, huyện Lạc Sơn, tỉnh Hòa Bình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án: Bảo dưỡng, sửa chữa hệ thống cửa nhà làm việc HĐND và UBND huyện",
+            "chudautu": "Văn phòng HĐND và UBND huyện Lạc Sơn",
+            "createdBy": "vn5400318702",
+            "publicDate": "2024-08-19 15:35:16",
+            "projectName": null,
+            "bidCloseDate": "2024-08-26 16:00:00",
+            "id_muasamcong": "99d5a015-935b-443e-8030-f82d1ad0e47d",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400168451",
+            "dotbien_hatang": "Thi công xây dựng dự án: Bảo dưỡng, sửa chữa hệ thống cửa nhà làm việc HĐND và UBND huyện",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Trung tâm học tập công đồng xã Hương Nhượng, huyện Lạc Sơn",
+            "chudautu": "Ủy ban nhân dân xã Hương Nhượng",
+            "createdBy": "vnz000029319",
+            "publicDate": "2024-11-29 12:22:06",
+            "projectName": "Liên danh Công ty TNHH Toàn Thực HB – Công ty TNHH xây dựng Ngọc Lâm",
+            "bidCloseDate": "2024-12-06 15:00:00",
+            "id_muasamcong": "9bf28e86-65ea-4440-b0f1-a5ff2d816308",
+            "tongmuc_dautu": 4267900000.0,
+            "bidNamePlanNew": "PL2400243181",
+            "dotbien_hatang": "Thi công xây lắp công trình: Trung tâm học tập công đồng xã Hương Nhượng, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "gói thầu thi công xây dựng hạng mục SCL ĐZ 371; ĐZ 373; ĐZ 374 E19.1- Điện lực Lạc Sơn",
+            "chudautu": "Công ty Điện lực Hòa Bình - Chi nhánh Tổng công ty Điện lực miền Bắc",
+            "createdBy": "vnz000012015-03",
+            "publicDate": "2023-09-29 16:50:18",
+            "projectName": null,
+            "bidCloseDate": "2023-10-09 09:00:00",
+            "id_muasamcong": "9c240d47-76fa-4eca-bc76-2f21bf868b91",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300147334",
+            "dotbien_hatang": "gói thầu thi công xây dựng hạng mục SCL ĐZ 371; ĐZ 373; ĐZ 374 E19.1- Điện lực Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01 - Thi công xây dựng công trình Xây dựng nhà công vụ, nhà kho và các hạng mục phụ trợ Ban quản lý khu bảo tồn thiên nhiên Ngọc Sơn - Ngổ Luông huyện Lạc Sơn",
+            "chudautu": "BAN QUẢN LÝ KHU BẢO TỒN THIÊN NHIÊN NGỌC SƠN - NGỔ LUÔNG",
+            "createdBy": "vn5400323879",
+            "publicDate": "2024-11-24 21:12:28",
+            "projectName": null,
+            "bidCloseDate": "2024-11-30 15:00:00",
+            "id_muasamcong": "9c456827-8873-4a96-afe0-e4e45eaf7b36",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400285859",
+            "dotbien_hatang": "Gói thầu số 01 - Thi công xây dựng công trình Xây dựng nhà công vụ, nhà kho và các hạng mục phụ trợ Ban quản lý khu bảo tồn thiên nhiên Ngọc Sơn - Ngổ Luông huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu Thi công xây dựng công trình",
+            "chudautu": "Uỷ ban nhân dân xã Tân Lập",
+            "createdBy": "vn5400191862",
+            "publicDate": "2024-12-02 18:32:28",
+            "projectName": null,
+            "bidCloseDate": "2024-12-07 14:00:00",
+            "id_muasamcong": "a142252b-c9e3-4dda-8904-6643743f50b4",
+            "tongmuc_dautu": 1655125000.0,
+            "bidNamePlanNew": "PL2400286264",
+            "dotbien_hatang": "Gói thầu Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án:Đường nội xóm Pheo, xã Văn Nghĩa, huyện Lạc Sơn",
+            "chudautu": "Phòng Dân tộc huyện Lạc Sơn",
+            "createdBy": "vnz000015653",
+            "publicDate": "2024-10-16 11:13:35",
+            "projectName": "Liên danh Công ty TNHH đầu tư và phát triển Quang Khánh và Công ty TNHH MTV Sự Thuỷ",
+            "bidCloseDate": "2024-10-23 16:12:00",
+            "id_muasamcong": "a163b9a9-0ccb-4671-a985-2e92676fb6e2",
+            "tongmuc_dautu": 1092167000.0,
+            "bidNamePlanNew": "PL2400213640",
+            "dotbien_hatang": "Thi công xây dựng dự án:Đường nội xóm Pheo, xã Văn Nghĩa, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp:",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng và Phát triển quỹ đất huyện Lạc Sơn",
+            "createdBy": "vn5400476089",
+            "publicDate": "2023-12-05 17:04:42",
+            "projectName": "Liên danh Công ty TNHH MTV xây dựng Đức Cường - Công ty cổ phần đầu tư xây dựng Sông Đà",
+            "bidCloseDate": "2023-12-15 10:30:00",
+            "id_muasamcong": "a289f615-9f77-46c9-80c7-49e1ab668086",
+            "tongmuc_dautu": 10520000000.0,
+            "bidNamePlanNew": "PL2300243948",
+            "dotbien_hatang": "Thi công xây lắp:",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án: Đường giao thông nông thôn xóm Cốc, xã Quý Hoà, huyện Lạc Sơn",
+            "chudautu": "Phòng Dân tộc huyện Lạc Sơn",
+            "createdBy": "vnz000015653",
+            "publicDate": "2024-09-14 11:21:19",
+            "projectName": "Liên danh Công ty TNHH đầu tư và phát triển Quang Khánh và CÔNG TY TRÁCH NHIỆM HỮU HẠN MỘT THÀNH VIÊN QUANG THƯ",
+            "bidCloseDate": "2024-09-21 16:48:00",
+            "id_muasamcong": "a392c041-7c11-4291-bca8-c3b098f90144",
+            "tongmuc_dautu": 1072269000.0,
+            "bidNamePlanNew": "PL2400190273",
+            "dotbien_hatang": "Thi công xây dựng dự án: Đường giao thông nông thôn xóm Cốc, xã Quý Hoà, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Cứng hóa đường giao thông nông thôn từ xóm Cổi 2 đi xóm Cành 1, xã Vũ Bình, huyện Lạc Sơn",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2024-08-14 16:19:23",
+            "projectName": "Số 9 Hà Nội - Nam Đan",
+            "bidCloseDate": "2024-08-21 09:00:00",
+            "id_muasamcong": "a6101ceb-7d05-4f2f-8256-a50fefb4fe3f",
+            "tongmuc_dautu": 1517729000.0,
+            "bidNamePlanNew": "PL2400161938",
+            "dotbien_hatang": "Thi công xây dựng công trình: Cứng hóa đường giao thông nông thôn từ xóm Cổi 2 đi xóm Cành 1, xã Vũ Bình, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Ủy ban nhân dân xã Hương Nhượng",
+            "createdBy": "vnz000029319",
+            "publicDate": "2023-06-30 16:38:40",
+            "projectName": null,
+            "bidCloseDate": "2023-07-13 16:30:00",
+            "id_muasamcong": "a63f591b-7ad2-4f32-9b29-b4c4c0e58da3",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300100226",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2023-09-14 15:26:18",
+            "projectName": "Liên danh công ty cổ phần đầu tư xây dựng phát triển hạ tầng Hòa Bình và Công ty TNHH tư vấn xây dựng Nam Thiên Phong",
+            "bidCloseDate": "2023-09-20 10:30:00",
+            "id_muasamcong": "a6762609-964f-43eb-b762-e2224525d68e",
+            "tongmuc_dautu": 1334056000.0,
+            "bidNamePlanNew": "PL2300154979",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Tư vấn giám sát thi công xây lắp... DTNT Ngoc Son",
+            "chudautu": "Sở Giáo dục và Đào tạo tỉnh Hòa Bình",
+            "createdBy": "vn5400495885",
+            "publicDate": "2025-01-09 10:38:15",
+            "projectName": null,
+            "bidCloseDate": "2025-02-05 15:00:00",
+            "id_muasamcong": "a83a12ff-3657-4696-9b39-68df70afcf14",
+            "tongmuc_dautu": 237429000.0,
+            "bidNamePlanNew": "PL2400336184",
+            "dotbien_hatang": "Tư vấn giám sát thi công xây lắp... DTNT Ngoc Son",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án",
+            "chudautu": "Đoàn thành niên CSHCM huyện Lạc Sơn",
+            "createdBy": "vnz000037567",
+            "publicDate": "2024-11-29 16:54:34",
+            "projectName": null,
+            "bidCloseDate": "2024-12-07 16:15:00",
+            "id_muasamcong": "aaa0f729-1625-4716-9fea-c3b72b7fb7ce",
+            "tongmuc_dautu": 174160000.0,
+            "bidNamePlanNew": "PL2400294918",
+            "dotbien_hatang": "Thi công xây dựng dự án",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Cải tạo, nâng cấp đường bê tông xóm Mận Thơng đi xóm Vạch xã Đông Lai, xã Quyết Thắng, huyện Lạc Sơn",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lạc Sơn, tỉnh Hòa Bình",
+            "createdBy": "vn5400476089",
+            "publicDate": "2023-07-26 11:54:21",
+            "projectName": null,
+            "bidCloseDate": "2023-07-31 09:00:00",
+            "id_muasamcong": "abdbbcb6-f72b-4dbe-8a7f-d56593f0e5f5",
+            "tongmuc_dautu": 8736965000.0,
+            "bidNamePlanNew": "PL2300104518",
+            "dotbien_hatang": "Thi công xây lắp công trình: Cải tạo, nâng cấp đường bê tông xóm Mận Thơng đi xóm Vạch xã Đông Lai, xã Quyết Thắng, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp:Cải tạo, xây mới phòng học, các phòng chức năng và công trình phụ trợ Trường Tiểu học và Trung học cơ sở Liên Vũ, huyện Lạc Sơn.",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lạc Sơn, tỉnh Hòa Bình",
+            "createdBy": "vn5400476089",
+            "publicDate": "2024-01-17 16:42:22",
+            "projectName": "Liên danh Công ty TNHH xây dựng và thương mại Lan Hải và Công ty TNHH MTV xây dựng Duy Linh và Công ty TNHH tư vấn và xây lắp PCCC NTK",
+            "bidCloseDate": "2024-01-26 16:30:00",
+            "id_muasamcong": "acff81f9-599a-44a4-985c-fc4d52c77fd8",
+            "tongmuc_dautu": 16680993000.0,
+            "bidNamePlanNew": "PL2400007777",
+            "dotbien_hatang": "Thi công xây lắp:Cải tạo, xây mới phòng học, các phòng chức năng và công trình phụ trợ Trường Tiểu học và Trung học cơ sở Liên Vũ, huyện Lạc Sơn.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp: Sửa chữa, cải tạo sân, các hạng mục phụ trợ xã Ngọc Sơn, huyện Lạc Sơn.",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lạc Sơn, tỉnh Hòa Bình",
+            "createdBy": "vn5400476089",
+            "publicDate": "2023-10-13 10:07:54",
+            "projectName": "Liên danh Công ty TNHH TMXD Minh Khang và Công ty TNHH An Khang Lạc Sơn",
+            "bidCloseDate": "2023-10-20 16:48:00",
+            "id_muasamcong": "ad89b41c-5662-42a2-8bfb-b7cd86ee7f80",
+            "tongmuc_dautu": 3005439000.0,
+            "bidNamePlanNew": "PL2300183542",
+            "dotbien_hatang": "Thi công xây lắp: Sửa chữa, cải tạo sân, các hạng mục phụ trợ xã Ngọc Sơn, huyện Lạc Sơn.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp Công trình: Cải tạo, nâng cấp đường xóm Song Khảnh, xóm Nại, xã Tân Mỹ, huyện Lạc Sơn",
+            "chudautu": "Ủy ban nhân dân xã Tân Mỹ, huyện Lạc SƠn",
+            "createdBy": "vnz000032187",
+            "publicDate": "2024-10-21 09:48:25",
+            "projectName": "Liên danh Công ty TNHH MTV Quang Thư và Công ty TNHH xây dựng và thương mại Lan Hải",
+            "bidCloseDate": "2024-10-28 16:00:00",
+            "id_muasamcong": "ae85d10c-0f1e-43d3-823e-a8752b082386",
+            "tongmuc_dautu": 2564139000.0,
+            "bidNamePlanNew": "PL2400237546",
+            "dotbien_hatang": "Thi công xây lắp Công trình: Cải tạo, nâng cấp đường xóm Song Khảnh, xóm Nại, xã Tân Mỹ, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Sở Giao thông vận tải tỉnh Hòa Bình",
+            "createdBy": "vnz000007347",
+            "publicDate": "2023-07-13 10:08:50",
+            "projectName": null,
+            "bidCloseDate": "2023-07-18 16:00:00",
+            "id_muasamcong": "b279622a-c71a-481f-b1ed-5838bfa1e9ed",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300092072",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án sửa chữa công trình thủy lợi",
+            "createdBy": "vnz000010831",
+            "publicDate": "2024-10-17 22:18:53",
+            "projectName": "Liên danh Công ty Cổ phần tư vấn và Xây lắp Văn Dũng và Công ty Cổ phần xây dựng 142 Hòa Bình",
+            "bidCloseDate": "2024-10-25 08:00:00",
+            "id_muasamcong": "b305a438-42a3-4a67-b29a-d108f305616b",
+            "tongmuc_dautu": 3202640595.0,
+            "bidNamePlanNew": "PL2400233397",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án:Sửa chữa, bảo dưỡng nhà hội trường và các hạng mục phụ trợ Huyện uỷ Lạc Sơn",
+            "chudautu": "Văn phòng Huyện ủy Lạc Sơn",
+            "createdBy": "vn5400318815",
+            "publicDate": "2025-02-21 14:33:50",
+            "projectName": null,
+            "bidCloseDate": "2025-03-01 15:30:00",
+            "id_muasamcong": "b4ce6524-a813-423a-9846-e60c8f763e46",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500027863",
+            "dotbien_hatang": "Thi công xây dựng dự án:Sửa chữa, bảo dưỡng nhà hội trường và các hạng mục phụ trợ Huyện uỷ Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp Dự án: Cải tạo, nâng cấp đường Xưa Thượng Xuất Hóa đi Yên Phú + nhánh đi Đồng Tâm, xã Thượng Cốc, huyện Lạc Sơn",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lạc Sơn, tỉnh Hòa Bình",
+            "createdBy": "vn5400476089",
+            "publicDate": "2023-10-12 08:50:23",
+            "projectName": "Liên danh CÔNG TY CỔ PHẦN XÂY DỰNG 142 HÒA BÌNH và CÔNG TY CỔ PHẦN TƯ VẤN VÀ XÂY LẮP MẠNH TIẾN\t",
+            "bidCloseDate": "2023-10-23 15:31:00",
+            "id_muasamcong": "b6915c63-cd67-4313-afe6-e3324e35d562",
+            "tongmuc_dautu": 6477352000.0,
+            "bidNamePlanNew": "PL2300188747",
+            "dotbien_hatang": "Thi công xây lắp Dự án: Cải tạo, nâng cấp đường Xưa Thượng Xuất Hóa đi Yên Phú + nhánh đi Đồng Tâm, xã Thượng Cốc, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Phòng Dân tộc huyện Lạc Sơn",
+            "createdBy": "vnz000015653",
+            "publicDate": "2023-07-05 14:01:10",
+            "projectName": null,
+            "bidCloseDate": "2023-07-13 16:27:00",
+            "id_muasamcong": "b6fb21c5-ed1f-4927-b03c-33e5a7a8483a",
+            "tongmuc_dautu": 1172476000.0,
+            "bidNamePlanNew": "PL2300083105",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình",
+            "chudautu": "Ủy ban nhân dân thị trấn Vụ Bản ",
+            "createdBy": "vn5400191887",
+            "publicDate": "2022-10-10 14:38:25",
+            "projectName": null,
+            "bidCloseDate": "2022-10-18 18:00:00",
+            "id_muasamcong": "b72ea51e-621a-4866-a7e3-1ed8bcf48876",
+            "tongmuc_dautu": 1867395000.0,
+            "bidNamePlanNew": "PL2200007895",
+            "dotbien_hatang": "Thi công xây lắp công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp Cứng hóa đường nội đồng xóm Ấm, xã Văn Nghĩa, huyện Lạc Sơn",
+            "chudautu": "Phòng Dân tộc huyện Lạc Sơn",
+            "createdBy": "vnz000015653",
+            "publicDate": "2023-06-16 08:39:47",
+            "projectName": "Liên danh Công ty TNHH An Khang Lạc Sơn và Công ty TNHH xây dựng và thương mại Lan Hải",
+            "bidCloseDate": "2023-06-21 16:17:00",
+            "id_muasamcong": "b82de186-5a2d-4b7d-b2ac-8b622320e128",
+            "tongmuc_dautu": 1653693000.0,
+            "bidNamePlanNew": "PL2300086922",
+            "dotbien_hatang": "Thi công xây lắp Cứng hóa đường nội đồng xóm Ấm, xã Văn Nghĩa, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Sở Giao thông vận tải tỉnh Hòa Bình",
+            "createdBy": "vnz000007347",
+            "publicDate": "2022-11-24 16:05:14",
+            "projectName": null,
+            "bidCloseDate": "2022-12-04 16:30:00",
+            "id_muasamcong": "b863ba94-5a1a-4e72-90ff-9f9e8748eeef",
+            "tongmuc_dautu": 4360533000.0,
+            "bidNamePlanNew": "PL2200035143",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án: Bảo dưỡng, sửa chữa nhà lớp học và các hạng mục phụ trợ Trường TH&THCS Tân Mỹ huyện Lạc Sơn",
+            "chudautu": "Phòng Giáo dục và Đào tạo huyện Lạc Sơn",
+            "createdBy": "vn5400191284",
+            "publicDate": "2024-09-17 10:53:49",
+            "projectName": null,
+            "bidCloseDate": "2024-09-24 10:30:00",
+            "id_muasamcong": "bab0145a-3b0b-4585-87c2-da8605cabc3f",
+            "tongmuc_dautu": 1727654000.0,
+            "bidNamePlanNew": "PL2400196129",
+            "dotbien_hatang": "Thi công xây dựng dự án: Bảo dưỡng, sửa chữa nhà lớp học và các hạng mục phụ trợ Trường TH&THCS Tân Mỹ huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án",
+            "chudautu": "Phòng Dân tộc huyện Lạc Sơn",
+            "createdBy": "vnz000015653",
+            "publicDate": "2024-08-09 07:59:35",
+            "projectName": null,
+            "bidCloseDate": "2024-08-16 11:00:00",
+            "id_muasamcong": "bdbcf1ec-8f42-4927-966c-eef66cbb0530",
+            "tongmuc_dautu": 1660580000.0,
+            "bidNamePlanNew": "PL2400148977",
+            "dotbien_hatang": "Thi công xây dựng dự án",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp:",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lạc Sơn, tỉnh Hòa Bình",
+            "createdBy": "vn5400476089",
+            "publicDate": "2023-09-18 16:00:49",
+            "projectName": null,
+            "bidCloseDate": "2023-09-23 10:10:00",
+            "id_muasamcong": "c70d606a-5148-4ac4-b1c9-97bebe934dc8",
+            "tongmuc_dautu": 5005374000.0,
+            "bidNamePlanNew": "PL2300164354",
+            "dotbien_hatang": "Thi công xây lắp:",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Phòng Dân tộc huyện Lạc Sơn",
+            "createdBy": "vnz000015653",
+            "publicDate": "2023-06-01 14:52:05",
+            "projectName": null,
+            "bidCloseDate": "2023-06-16 10:44:00",
+            "id_muasamcong": "c7d5ee26-7252-4e94-8c00-cd4730d55c69",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300084008",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp:Nhà hội trường xã Ân Nghĩa, huyện Lạc Sơn",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lạc Sơn, tỉnh Hòa Bình",
+            "createdBy": "vn5400476089",
+            "publicDate": "2023-11-15 15:32:16",
+            "projectName": null,
+            "bidCloseDate": "2023-11-25 16:52:00",
+            "id_muasamcong": "c820019d-7129-479b-b7fe-2207926b1926",
+            "tongmuc_dautu": 5116071000.0,
+            "bidNamePlanNew": "PL2300218972",
+            "dotbien_hatang": "Thi công xây lắp:Nhà hội trường xã Ân Nghĩa, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp:Cứng hóa đường xóm Sào Mọng đi Ủy ban xã Tuân Đạo, huyện Lạc Sơn.",
+            "chudautu": "Phòng Dân tộc huyện Lạc Sơn",
+            "createdBy": "vnz000015653",
+            "publicDate": "2023-08-25 09:54:35",
+            "projectName": "Liên danh Công ty TNHH Thiện Thành HB và Công ty TNHH xây dựng và thương mại Lan Hải",
+            "bidCloseDate": "2023-09-01 16:00:00",
+            "id_muasamcong": "c821cb0c-f674-4061-88be-e0ec0a3ff399",
+            "tongmuc_dautu": 1683939000.0,
+            "bidNamePlanNew": "PL2300149664",
+            "dotbien_hatang": "Thi công xây lắp:Cứng hóa đường xóm Sào Mọng đi Ủy ban xã Tuân Đạo, huyện Lạc Sơn.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2024-12-06 11:42:27",
+            "projectName": null,
+            "bidCloseDate": "2024-12-13 15:33:00",
+            "id_muasamcong": "cb37921d-6565-4c37-9e56-fbedcc978f73",
+            "tongmuc_dautu": 365768000.0,
+            "bidNamePlanNew": "PL2400293482",
+            "dotbien_hatang": "Thi công xây dựng dự án",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp:Xây dựng phòng học, các phòng chức năng, công trình phục trợ + Cải tạo, sửa chữa các phòng học, công trình phụ trợ trường TH&THCS Tự Do, huyện Lạc Sơn.",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lạc Sơn, tỉnh Hòa Bình",
+            "createdBy": "vn5400476089",
+            "publicDate": "2023-12-08 17:03:23",
+            "projectName": null,
+            "bidCloseDate": "2024-12-15 16:00:00",
+            "id_muasamcong": "cd08d1f9-1a3c-44d5-b833-fb971f4a8efd",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300241790",
+            "dotbien_hatang": "Thi công xây lắp:Xây dựng phòng học, các phòng chức năng, công trình phục trợ + Cải tạo, sửa chữa các phòng học, công trình phụ trợ trường TH&THCS Tự Do, huyện Lạc Sơn.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng:Về việc phê duyệt kế hoạch lựa chọn nhà thầu dự án: Đường giao thông nông thôn từ xóm Sì nối đến đường đến trung tâm xã, xã Mỹ Thành, huyện Lạc Sơn",
+            "chudautu": "Phòng Dân tộc huyện Lạc Sơn",
+            "createdBy": "vnz000015653",
+            "publicDate": "2024-10-17 16:20:02",
+            "projectName": null,
+            "bidCloseDate": "2024-10-25 10:49:00",
+            "id_muasamcong": "cd32943f-c793-416b-8439-d6c0f44d0e02",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400236107",
+            "dotbien_hatang": "Thi công xây dựng:Về việc phê duyệt kế hoạch lựa chọn nhà thầu dự án: Đường giao thông nông thôn từ xóm Sì nối đến đường đến trung tâm xã, xã Mỹ Thành, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp: Cứng hóa đường nội xóm Khụ, xã Tuân Đạo, huyện Lạc Sơn.",
+            "chudautu": "Phòng Dân tộc huyện Lạc Sơn",
+            "createdBy": "vnz000015653",
+            "publicDate": "2023-09-21 14:47:24",
+            "projectName": null,
+            "bidCloseDate": "2023-09-29 16:14:00",
+            "id_muasamcong": "cd43bf1f-32fe-4935-939f-a7d3342fd9ad",
+            "tongmuc_dautu": 1692959000.0,
+            "bidNamePlanNew": "PL2300166976",
+            "dotbien_hatang": "Thi công xây lắp: Cứng hóa đường nội xóm Khụ, xã Tuân Đạo, huyện Lạc Sơn.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2024-11-30 12:16:30",
+            "projectName": null,
+            "bidCloseDate": "2024-12-07 16:20:00",
+            "id_muasamcong": "d1999e14-b552-454f-be67-775c32e0e545",
+            "tongmuc_dautu": 674506000.0,
+            "bidNamePlanNew": "PL2400293411",
+            "dotbien_hatang": "Thi công xây dựng dự án",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp: Sửa chữa, cải tạo phòng học, các hạng mục phụ trợ trường Mầm non xã\nMỹ Thành, huyện Lạc Sơn",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng và Phát triển quỹ đất huyện Lạc Sơn",
+            "createdBy": "vn5400476089",
+            "publicDate": "2024-06-19 16:03:38",
+            "projectName": null,
+            "bidCloseDate": "2024-06-26 11:15:00",
+            "id_muasamcong": "d1e3a851-a737-47ae-bb57-af84690c2582",
+            "tongmuc_dautu": 2560717000.0,
+            "bidNamePlanNew": "PL2400022628",
+            "dotbien_hatang": "Thi công xây lắp: Sửa chữa, cải tạo phòng học, các hạng mục phụ trợ trường Mầm non xã\nMỹ Thành, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án:Bảo dưỡng, sửa chữa\ncác hạng mục phụ trợ Trường Mầm non Định Cư và Các hạng mục\nphụ trợ Trường TH&THCS Nhân Nghĩa, huyện Lạc Sơn",
+            "chudautu": "Phòng Giáo dục và Đào tạo huyện Lạc Sơn",
+            "createdBy": "vn5400191284",
+            "publicDate": "2025-02-03 08:00:44",
+            "projectName": "Liên danh Công ty TNHH TMXD Minh Khang và Công ty TNHH An Khang Lạc Sơn",
+            "bidCloseDate": "2025-02-11 15:15:00",
+            "id_muasamcong": "d34dd742-684a-48ac-b180-e97bf49b7082",
+            "tongmuc_dautu": 2189294000.0,
+            "bidNamePlanNew": "PL2500014684",
+            "dotbien_hatang": "Thi công xây dựng dự án:Bảo dưỡng, sửa chữa\ncác hạng mục phụ trợ Trường Mầm non Định Cư và Các hạng mục\nphụ trợ Trường TH&THCS Nhân Nghĩa, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp: Xây dựng hạ tầng bố trí ổn định dân cư khu vực sạt lở xã\nMiền Đồi, huyện Lạc Sơn",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2023-10-05 08:07:52",
+            "projectName": null,
+            "bidCloseDate": "2023-10-15 10:06:00",
+            "id_muasamcong": "d4b39099-cc9c-44d9-a31b-b17ab4a1ec12",
+            "tongmuc_dautu": 10849965000.0,
+            "bidNamePlanNew": "PL2300181256",
+            "dotbien_hatang": "Thi công xây lắp: Xây dựng hạ tầng bố trí ổn định dân cư khu vực sạt lở xã\nMiền Đồi, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Cứng hóa đường giao thông nông thôn xóm Trại Sào, xã Tân Lập, huyện Lạc Sơn",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2023-10-04 15:05:31",
+            "projectName": null,
+            "bidCloseDate": "2023-10-11 11:00:00",
+            "id_muasamcong": "d7def6e8-7c0f-4f91-a39c-799aa2bbd50f",
+            "tongmuc_dautu": 1015216000.0,
+            "bidNamePlanNew": "PL2300172653",
+            "dotbien_hatang": "Thi công xây lắp công trình: Cứng hóa đường giao thông nông thôn xóm Trại Sào, xã Tân Lập, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Cải tạo, nâng cấp đường Rẽ Vơng đi xóm Trẳm - xóm Éo, xã Quyết Thắng, huyện Lạc Sơn, tỉnh Hòa Bình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lạc Sơn, tỉnh Hòa Bình",
+            "createdBy": "vn5400476089",
+            "publicDate": "2023-09-11 14:53:03",
+            "projectName": "LIÊN DANH CÔNG TY TNHH MỘT THÀNH VIÊN XÂY DỰNG DUY LINH - CÔNG TY TNHH TRƯỜNG THÀNH",
+            "bidCloseDate": "2023-09-21 09:00:00",
+            "id_muasamcong": "d8cc2ec2-9989-4f51-9f27-a9a25e6341cf",
+            "tongmuc_dautu": 8698298946.0,
+            "bidNamePlanNew": "PL2300149561",
+            "dotbien_hatang": "Thi công xây lắp công trình: Cải tạo, nâng cấp đường Rẽ Vơng đi xóm Trẳm - xóm Éo, xã Quyết Thắng, huyện Lạc Sơn, tỉnh Hòa Bình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Cứng hóa đường giao thông nông thôn xóm Rậm Cọ, xóm Trang, xóm Cáo, xã Thượng Cốc, huyện Lạc Sơn",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2023-10-18 14:29:58",
+            "projectName": null,
+            "bidCloseDate": "2023-10-25 14:30:00",
+            "id_muasamcong": "da168362-ff44-45c1-9d06-0928f639de60",
+            "tongmuc_dautu": 1297604000.0,
+            "bidNamePlanNew": "PL2300172523",
+            "dotbien_hatang": "Thi công xây lắp công trình: Cứng hóa đường giao thông nông thôn xóm Rậm Cọ, xóm Trang, xóm Cáo, xã Thượng Cốc, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Cứng hóa đường giao thông nông thôn xóm Sơ, xóm Quyết Tiến, xã Vũ Bình, huyện Lạc Sơn, tỉnh Hòa Bình",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2023-08-24 13:45:05",
+            "projectName": "Liên danh Công ty TNHH xây dựng và Thương  mại tổng hợp Thành Nam  – Công ty TNHH MTV xây dựng Huy Hoàng",
+            "bidCloseDate": "2023-08-31 09:00:00",
+            "id_muasamcong": "db5170da-97b0-4d8c-82c5-0704036dadab",
+            "tongmuc_dautu": 1713877000.0,
+            "bidNamePlanNew": "PL2300117252",
+            "dotbien_hatang": "Thi công xây lắp công trình: Cứng hóa đường giao thông nông thôn xóm Sơ, xóm Quyết Tiến, xã Vũ Bình, huyện Lạc Sơn, tỉnh Hòa Bình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp:Xây dựng phòng học, các phòng chức năng, công trình phục trợ + Cải tạo, sửa chữa các phòng học, công trình phụ trợ trường TH&THCS Tự Do, huyện Lạc Sơn.",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lạc Sơn, tỉnh Hòa Bình",
+            "createdBy": "vn5400476089",
+            "publicDate": "2023-12-11 12:17:27",
+            "projectName": "Liên danh Công ty TNHH MTV Đức Đạt Phát và Công ty TNHH xây dựng và thương mại Lan Hải",
+            "bidCloseDate": "2023-12-19 16:49:00",
+            "id_muasamcong": "dbc6de8a-a482-436d-8b9c-c3508833045d",
+            "tongmuc_dautu": 4215150000.0,
+            "bidNamePlanNew": "PL2300241790",
+            "dotbien_hatang": "Thi công xây lắp:Xây dựng phòng học, các phòng chức năng, công trình phục trợ + Cải tạo, sửa chữa các phòng học, công trình phụ trợ trường TH&THCS Tự Do, huyện Lạc Sơn.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2023-10-05 10:32:29",
+            "projectName": null,
+            "bidCloseDate": "2023-10-12 10:15:00",
+            "id_muasamcong": "dc77ce51-b76e-4189-80fb-159576fa6caf",
+            "tongmuc_dautu": 1229476000.0,
+            "bidNamePlanNew": "PL2300164362",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Sửa chữa, nâng cấp đường giao thông liên xóm Ráy - xóm Khụ - xóm Răng Thiển, xã Văn Sơn, huyện Lạc Sơn",
+            "chudautu": "Ủy ban nhân dân xã Văn Sơn",
+            "createdBy": "vn5400191809",
+            "publicDate": "2024-11-13 15:16:50",
+            "projectName": "Liên danh Công ty TNHH xây dựng và thương mại tổng hợp Thành Nam – Công ty TNHH xây dựng và du lịch Quỳnh Anh",
+            "bidCloseDate": "2024-11-20 10:15:00",
+            "id_muasamcong": "dd259660-9bd1-4c20-8fa1-62e28b564cb3",
+            "tongmuc_dautu": 4270360000.0,
+            "bidNamePlanNew": "PL2400259111",
+            "dotbien_hatang": "Thi công xây lắp công trình: Sửa chữa, nâng cấp đường giao thông liên xóm Ráy - xóm Khụ - xóm Răng Thiển, xã Văn Sơn, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Cải tạo, nâng cấp đường xóm Mu Mạ đi xóm Lục 1 xã Yên Nghiệp, huyện Lạc Sơn",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lạc Sơn, tỉnh Hòa Bình",
+            "createdBy": "vn5400476089",
+            "publicDate": "2023-10-06 16:17:55",
+            "projectName": null,
+            "bidCloseDate": "2023-10-16 16:00:00",
+            "id_muasamcong": "ddf620a3-b343-482c-b7ee-9256687c3973",
+            "tongmuc_dautu": 9301045000.0,
+            "bidNamePlanNew": "PL2300184639",
+            "dotbien_hatang": "Thi công xây lắp công trình: Cải tạo, nâng cấp đường xóm Mu Mạ đi xóm Lục 1 xã Yên Nghiệp, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Phòng Tài chính Kế hoạch huyện Lạc Sơn",
+            "createdBy": "vn5400318822",
+            "publicDate": "2023-05-22 15:32:51",
+            "projectName": null,
+            "bidCloseDate": "2023-05-27 10:00:00",
+            "id_muasamcong": "df5e4613-69ed-4193-b7d1-467117b14d61",
+            "tongmuc_dautu": 3994745000.0,
+            "bidNamePlanNew": "PL2300074141",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Cứng hóa đường giao thông nông thôn xóm Đa Gắm, xóm Trung Quền, xóm Trang, xóm Thóng, xóm Cảng, xã Vũ Bình, huyện Lạc Sơn, tỉnh Hòa Bình",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2023-08-21 15:37:01",
+            "projectName": null,
+            "bidCloseDate": "2023-08-28 10:00:00",
+            "id_muasamcong": "e0ae1c69-c145-489f-928b-e40f10130427",
+            "tongmuc_dautu": 1723150000.0,
+            "bidNamePlanNew": "PL2300117324",
+            "dotbien_hatang": "Thi công xây lắp công trình: Cứng hóa đường giao thông nông thôn xóm Đa Gắm, xóm Trung Quền, xóm Trang, xóm Thóng, xóm Cảng, xã Vũ Bình, huyện Lạc Sơn, tỉnh Hòa Bình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Cứng hoá đường giao thông giao thông xóm Hổ 2, Xóm Gò Cha, xóm Mu Mạ, xã Yên Nghiệp, huyện Lạc Sơn",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2023-11-11 16:07:50",
+            "projectName": null,
+            "bidCloseDate": "2023-11-18 09:00:00",
+            "id_muasamcong": "e2f7e09e-93f8-40ed-9368-de750acbf5f0",
+            "tongmuc_dautu": 1348145000.0,
+            "bidNamePlanNew": "PL2300198178",
+            "dotbien_hatang": "Thi công xây lắp công trình: Cứng hoá đường giao thông giao thông xóm Hổ 2, Xóm Gò Cha, xóm Mu Mạ, xã Yên Nghiệp, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp: Sửa chữa, cải tạo phòng học, các hạng mục phụ trợ trường\nTH&THCS Nhân Nghĩa, huyện Lạc Sơn.",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lạc Sơn, tỉnh Hòa Bình",
+            "createdBy": "vn5400476089",
+            "publicDate": "2023-09-13 14:49:39",
+            "projectName": null,
+            "bidCloseDate": "2023-09-20 10:52:00",
+            "id_muasamcong": "e304a02e-3f0c-4965-bc4f-6d4bb54648e8",
+            "tongmuc_dautu": 3296705000.0,
+            "bidNamePlanNew": "PL2300164390",
+            "dotbien_hatang": "Thi công xây lắp: Sửa chữa, cải tạo phòng học, các hạng mục phụ trợ trường\nTH&THCS Nhân Nghĩa, huyện Lạc Sơn.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2024-12-06 11:53:56",
+            "projectName": null,
+            "bidCloseDate": "2024-12-13 09:09:00",
+            "id_muasamcong": "e4ecf83f-8f07-4ed6-b6c3-b108ad1ae886",
+            "tongmuc_dautu": 740279000.0,
+            "bidNamePlanNew": "PL2400293440",
+            "dotbien_hatang": "Thi công xây dựng dự án",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng hạng mục SCL:ĐZ 35kV lộ 371; 373; 374; ĐZ 373 T/C Chí Thiện - Điện lực Lạc Sơn (năm 2025)",
+            "chudautu": "Công ty Điện lực Hòa Bình - Chi nhánh Tổng công ty Điện lực miền Bắc",
+            "createdBy": "vnz000012015-03",
+            "publicDate": "2024-10-04 16:44:32",
+            "projectName": null,
+            "bidCloseDate": "2024-10-14 09:00:00",
+            "id_muasamcong": "e5db46bf-a64b-44cf-ab8b-c0ca2d62d897",
+            "tongmuc_dautu": 2966262981.0,
+            "bidNamePlanNew": "PL2400221284",
+            "dotbien_hatang": "Thi công xây dựng hạng mục SCL:ĐZ 35kV lộ 371; 373; 374; ĐZ 373 T/C Chí Thiện - Điện lực Lạc Sơn (năm 2025)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 46. Thi công xây dựng và thiết bị (CT đường ống)",
+            "chudautu": "Ban Quản lý Đầu tư và Xây dựng Thủy lợi 1",
+            "createdBy": "vn0104164676",
+            "publicDate": "2024-11-09 10:23:29",
+            "projectName": "Liên danh gói thầu số 46",
+            "bidCloseDate": "2024-11-20 14:00:00",
+            "id_muasamcong": "e673d9de-fa71-4d49-bd7b-218a388afffa",
+            "tongmuc_dautu": 837558950000.0,
+            "bidNamePlanNew": "PL2400206573",
+            "dotbien_hatang": "Gói thầu số 46. Thi công xây dựng và thiết bị (CT đường ống)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp Xây dựng nhà bộ phận tiếp nhận và trả kết quả xã Văn Nghĩa, huyện Lạc Sơn",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lạc Sơn, tỉnh Hòa Bình",
+            "createdBy": "vn5400476089",
+            "publicDate": "2023-07-21 10:01:27",
+            "projectName": "Liên danh Công ty Giang Sơn – Nhật Hoàng Long Tây Bắc",
+            "bidCloseDate": "2023-07-28 11:00:00",
+            "id_muasamcong": "e9928c03-6a23-4db5-a5c2-475bd6d6b3aa",
+            "tongmuc_dautu": 2630202000.0,
+            "bidNamePlanNew": "PL2300123533",
+            "dotbien_hatang": "Thi công xây lắp Xây dựng nhà bộ phận tiếp nhận và trả kết quả xã Văn Nghĩa, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Phòng Dân tộc huyện Lạc Sơn",
+            "createdBy": "vnz000015653",
+            "publicDate": "2023-09-06 10:46:51",
+            "projectName": "Liên danh Công ty TNHH Tân Sơn HB và Công ty TNHH MTV Hưng Hùng  HT",
+            "bidCloseDate": "2023-09-12 16:16:00",
+            "id_muasamcong": "ea852f78-940e-4a0e-a690-fcb849d5c0a2",
+            "tongmuc_dautu": 2500157000.0,
+            "bidNamePlanNew": "PL2300157335",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2023-09-14 15:01:27",
+            "projectName": null,
+            "bidCloseDate": "2023-09-21 09:00:00",
+            "id_muasamcong": "ea8b3ec9-0248-40b8-870a-b932d4e1dc60",
+            "tongmuc_dautu": 1338350000.0,
+            "bidNamePlanNew": "PL2300143027",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2023-10-13 15:33:01",
+            "projectName": "LIÊN DANH CÔNG TY TNHH MỘT THÀNH VIÊN XÂY DỰNG DUY LINH - CÔNG TY TNHH MỘT THÀNH VIÊN HOÀNG DƯƠNG",
+            "bidCloseDate": "2023-10-20 09:00:00",
+            "id_muasamcong": "ee798f3d-b2ae-49b3-af35-9fa6d6a57886",
+            "tongmuc_dautu": 4052051000.0,
+            "bidNamePlanNew": "PL2300164950",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp: Xây dựng phòng học, các phòng chức năng, công trình phụ trợ + Cải tạo\nsửa chữa các phòng học, công trình phụ trợ trường TH và THCS Mỹ Thành,\nhuyện Lạc Sơn",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lạc Sơn, tỉnh Hòa Bình",
+            "createdBy": "vn5400476089",
+            "publicDate": "2023-12-04 14:37:59",
+            "projectName": null,
+            "bidCloseDate": "2023-12-12 15:44:00",
+            "id_muasamcong": "eee90369-bb99-4ffd-868f-636baebb0d04",
+            "tongmuc_dautu": 1962356000.0,
+            "bidNamePlanNew": "PL2300241926",
+            "dotbien_hatang": "Thi công xây lắp: Xây dựng phòng học, các phòng chức năng, công trình phụ trợ + Cải tạo\nsửa chữa các phòng học, công trình phụ trợ trường TH và THCS Mỹ Thành,\nhuyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp: Xây dựng phòng học, các phòng chức năng, công trình phụ trợ Trường mầm non Chí Thiện, huyện Lạc Sơn.",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lạc Sơn, tỉnh Hòa Bình",
+            "createdBy": "vn5400476089",
+            "publicDate": "2023-09-22 10:18:20",
+            "projectName": null,
+            "bidCloseDate": "2023-09-29 10:01:00",
+            "id_muasamcong": "f20f586e-0b16-4516-8098-dc3f78c9f0b0",
+            "tongmuc_dautu": 3452046000.0,
+            "bidNamePlanNew": "PL2300169845",
+            "dotbien_hatang": "Thi công xây lắp: Xây dựng phòng học, các phòng chức năng, công trình phụ trợ Trường mầm non Chí Thiện, huyện Lạc Sơn.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án: Sửa chữa mương xã Quyết Thắng, huyện Lạc Sơn",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2024-11-30 12:51:45",
+            "projectName": null,
+            "bidCloseDate": "2024-12-07 17:30:00",
+            "id_muasamcong": "f3bba003-e948-4be0-bdc7-5d85adc57e76",
+            "tongmuc_dautu": 658353000.0,
+            "bidNamePlanNew": "PL2400293374",
+            "dotbien_hatang": "Thi công xây dựng dự án: Sửa chữa mương xã Quyết Thắng, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án Bảo dưỡng, sửa chữa nhà lớp học và các hạng mục phụ trợ trường Mầm non Chí Thiện, huyện Lạc Sơn",
+            "chudautu": "Phòng Giáo dục và Đào tạo huyện Lạc Sơn",
+            "createdBy": "vn5400191284",
+            "publicDate": "2024-10-16 20:20:17",
+            "projectName": null,
+            "bidCloseDate": "2024-10-23 14:00:00",
+            "id_muasamcong": "f3c76762-bc9f-42cb-a73a-2dcf2c875ca9",
+            "tongmuc_dautu": 513710000.0,
+            "bidNamePlanNew": "PL2400226311",
+            "dotbien_hatang": "Thi công xây dựng dự án Bảo dưỡng, sửa chữa nhà lớp học và các hạng mục phụ trợ trường Mầm non Chí Thiện, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp: Xây dựng phòng học, các phòng chức năng, công trình phụ trợ + Cải tạo, sửa chữa các phòng học, công trình phụ trợ trường TH&THCS Tân Mỹ, huyện Lạc Sơn",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lạc Sơn, tỉnh Hòa Bình",
+            "createdBy": "vn5400476089",
+            "publicDate": "2023-09-13 14:45:57",
+            "projectName": null,
+            "bidCloseDate": "2023-09-23 10:50:00",
+            "id_muasamcong": "f3dca32f-92a0-44d7-988e-44bb55e70177",
+            "tongmuc_dautu": 5101526000.0,
+            "bidNamePlanNew": "PL2300164327",
+            "dotbien_hatang": "Thi công xây lắp: Xây dựng phòng học, các phòng chức năng, công trình phụ trợ + Cải tạo, sửa chữa các phòng học, công trình phụ trợ trường TH&THCS Tân Mỹ, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Cứng hóa đường giao thông nông thôn xóm Đa Gắm, xóm Trung Quền, xóm Trang, xóm Thóng, xóm Cảng, xã Vũ Bình, huyện Lạc Sơn, tỉnh Hòa Bình",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2023-07-31 11:58:13",
+            "projectName": null,
+            "bidCloseDate": "2023-08-10 10:00:00",
+            "id_muasamcong": "f413c02c-3bc7-4317-adfa-6a3df784606c",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300117324",
+            "dotbien_hatang": "Thi công xây lắp công trình: Cứng hóa đường giao thông nông thôn xóm Đa Gắm, xóm Trung Quền, xóm Trang, xóm Thóng, xóm Cảng, xã Vũ Bình, huyện Lạc Sơn, tỉnh Hòa Bình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng:  Đường giao thông nông thôn nội xóm Chiềng (Đoạn đi hồ Pheo),\nxã Ngọc Lâu, huyện Lạc Sơn",
+            "chudautu": "Phòng Dân tộc huyện Lạc Sơn",
+            "createdBy": "vnz000015653",
+            "publicDate": "2024-11-18 10:59:09",
+            "projectName": null,
+            "bidCloseDate": "2024-11-25 14:00:00",
+            "id_muasamcong": "f6e13600-7159-4b8c-9407-2394207ebf9b",
+            "tongmuc_dautu": 1610660000.0,
+            "bidNamePlanNew": "PL2400242651",
+            "dotbien_hatang": "Thi công xây dựng:  Đường giao thông nông thôn nội xóm Chiềng (Đoạn đi hồ Pheo),\nxã Ngọc Lâu, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng và lắp đặt thiết bị công trình",
+            "chudautu": "Trung tâm Nước sạch và Vệ sinh môi trường nông thôn tỉnh Hòa Bình",
+            "createdBy": "vn5400177307",
+            "publicDate": "2024-12-06 13:54:23",
+            "projectName": null,
+            "bidCloseDate": "2024-12-13 08:00:00",
+            "id_muasamcong": "f9489d76-e760-404a-9ee8-93f3b2024f09",
+            "tongmuc_dautu": 1972438000.0,
+            "bidNamePlanNew": "PL2400300281",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng và lắp đặt thiết bị công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án:Đường giao thông nông thôn Nà Đạng, xóm Thăn; Nà Tra, xóm Dóm Bái, xã Miền Đồi, huyện Lạc Sơn",
+            "chudautu": "Phòng Dân tộc huyện Lạc Sơn",
+            "createdBy": "vnz000015653",
+            "publicDate": "2024-07-31 13:36:34",
+            "projectName": "Liên danh Công ty TNHH TMXD Minh Khang và Công ty TNHH MTV Quang Thư",
+            "bidCloseDate": "2024-08-07 11:00:00",
+            "id_muasamcong": "fa58df2d-f5c6-4d9f-ba8d-8ec6d2898695",
+            "tongmuc_dautu": 2546897000.0,
+            "bidNamePlanNew": "PL2400150608",
+            "dotbien_hatang": "Thi công xây dựng dự án:Đường giao thông nông thôn Nà Đạng, xóm Thăn; Nà Tra, xóm Dóm Bái, xã Miền Đồi, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án",
+            "chudautu": "Phòng Giáo dục và Đào tạo huyện Lạc Sơn",
+            "createdBy": "vn5400191284",
+            "publicDate": "2024-08-12 20:40:36",
+            "projectName": null,
+            "bidCloseDate": "2024-08-19 20:00:00",
+            "id_muasamcong": "fa77c6f2-13ea-4fbf-93a3-d648c8cacf59",
+            "tongmuc_dautu": 1738190000.0,
+            "bidNamePlanNew": "PL2400165305",
+            "dotbien_hatang": "Thi công xây dựng dự án",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án: Sửa chữa khắc phục hệ thống hạ tầng cơ sở phục vụ tái định cư khu vực sụt lún, sạt lở xã Tuân Đạo, huyện Lạc Sơn",
+            "chudautu": "Phòng Nông nghiệp và Phát triển nông thôn huyện Lạc Sơn",
+            "createdBy": "vn5400318773",
+            "publicDate": "2024-08-16 11:50:03",
+            "projectName": "LIÊN DANH CÔNG TY TNHH MỘT THÀNH VIÊN XÂY DỰNG DUY LINH - CÔNG TY TNHH TÂN SƠN HB",
+            "bidCloseDate": "2024-08-30 10:30:00",
+            "id_muasamcong": "fa8daf0c-0682-456f-8d54-730868afa955",
+            "tongmuc_dautu": 4828163000.0,
+            "bidNamePlanNew": "PL2400161186",
+            "dotbien_hatang": "Thi công xây dựng dự án: Sửa chữa khắc phục hệ thống hạ tầng cơ sở phục vụ tái định cư khu vực sụt lún, sạt lở xã Tuân Đạo, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng dự án:Đường giao thông nông thôn xóm Cha, xóm Khú, xã Ngọc Sơn, huyện Lạc Sơn",
+            "chudautu": "Phòng Dân tộc huyện Lạc Sơn",
+            "createdBy": "vnz000015653",
+            "publicDate": "2024-07-31 13:35:23",
+            "projectName": null,
+            "bidCloseDate": "2024-08-09 10:54:00",
+            "id_muasamcong": "fad6aa70-cacf-4f00-9064-f5848485f290",
+            "tongmuc_dautu": 5145624000.0,
+            "bidNamePlanNew": "PL2400147190",
+            "dotbien_hatang": "Thi công xây dựng dự án:Đường giao thông nông thôn xóm Cha, xóm Khú, xã Ngọc Sơn, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp: Cải tạo, nâng cấp đường xóm Ngái – Đình Khói – xóm Láo Thành, xã Ân Nghĩa, huyện Lạc Sơn, tỉnh Hòa Bình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lạc Sơn, tỉnh Hòa Bình",
+            "createdBy": "vn5400476089",
+            "publicDate": "2023-08-28 09:33:45",
+            "projectName": null,
+            "bidCloseDate": "2023-09-07 08:30:00",
+            "id_muasamcong": "fc4d96c1-9e03-4798-a227-efc130768fd1",
+            "tongmuc_dautu": 7733588000.0,
+            "bidNamePlanNew": "PL2300144018",
+            "dotbien_hatang": "Thi công xây lắp: Cải tạo, nâng cấp đường xóm Ngái – Đình Khói – xóm Láo Thành, xã Ân Nghĩa, huyện Lạc Sơn, tỉnh Hòa Bình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Cải tạo, nâng cấp đường xóm Xưa Hạ đi nhà máy Sankoh, xã Xuất Hóa, huyện Lạc Sơn",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lạc Sơn, tỉnh Hòa Bình",
+            "createdBy": "vn5400476089",
+            "publicDate": "2023-11-08 16:31:03",
+            "projectName": "Liên danh Công ty TNHH MTV đầu tư xây dựng và dịch vụ thương mại Giang Sơn – Công ty TNHH Đại Doanh",
+            "bidCloseDate": "2023-11-18 09:00:00",
+            "id_muasamcong": "fce71e7b-6438-4f55-8cc5-93ca593a0f59",
+            "tongmuc_dautu": 8801561000.0,
+            "bidNamePlanNew": "PL2300214775",
+            "dotbien_hatang": "Thi công xây lắp công trình: Cải tạo, nâng cấp đường xóm Xưa Hạ đi nhà máy Sankoh, xã Xuất Hóa, huyện Lạc Sơn",
+            "link_muasamcong": ""
+        }
+    ],
+    "so_dot_bien": 161,
+    "thu_tu_sap_xep": 71,
+    "polygon": [
+        [
+            [
+                105.561049,
+                20.549201
+            ],
+            [
+                105.556745,
+                20.547088
+            ],
+            [
+                105.552111,
+                20.544366
+            ],
+            [
+                105.549631,
+                20.542246
+            ],
+            [
+                105.547795,
+                20.540022
+            ],
+            [
+                105.546604,
+                20.537796
+            ],
+            [
+                105.54563,
+                20.536077
+            ],
+            [
+                105.54379,
+                20.532535
+            ],
+            [
+                105.542265,
+                20.526865
+            ],
+            [
+                105.541148,
+                20.523715
+            ],
+            [
+                105.540711,
+                20.521631
+            ],
+            [
+                105.540586,
+                20.519563
+            ],
+            [
+                105.541189,
+                20.518838
+            ],
+            [
+                105.541462,
+                20.518431
+            ],
+            [
+                105.541596,
+                20.518108
+            ],
+            [
+                105.542537,
+                20.516468
+            ],
+            [
+                105.54284,
+                20.515251
+            ],
+            [
+                105.54326,
+                20.512468
+            ],
+            [
+                105.543868,
+                20.510496
+            ],
+            [
+                105.544416,
+                20.509162
+            ],
+            [
+                105.544783,
+                20.508581
+            ],
+            [
+                105.545579,
+                20.507825
+            ],
+            [
+                105.547083,
+                20.507154
+            ],
+            [
+                105.554883,
+                20.505449
+            ],
+            [
+                105.55875,
+                20.504278
+            ],
+            [
+                105.560806,
+                20.503373
+            ],
+            [
+                105.561664,
+                20.502675
+            ],
+            [
+                105.563072,
+                20.501164
+            ],
+            [
+                105.563684,
+                20.500351
+            ],
+            [
+                105.56423,
+                20.498553
+            ],
+            [
+                105.564534,
+                20.497567
+            ],
+            [
+                105.564961,
+                20.496754
+            ],
+            [
+                105.566614,
+                20.494953
+            ],
+            [
+                105.569856,
+                20.490944
+            ],
+            [
+                105.570776,
+                20.490188
+            ],
+            [
+                105.571921,
+                20.48951
+            ],
+            [
+                105.573903,
+                20.48874
+            ],
+            [
+                105.576249,
+                20.487739
+            ],
+            [
+                105.577226,
+                20.487386
+            ],
+            [
+                105.577422,
+                20.487315
+            ],
+            [
+                105.577624,
+                20.487085
+            ],
+            [
+                105.578183,
+                20.48653
+            ],
+            [
+                105.578067,
+                20.486466
+            ],
+            [
+                105.5778,
+                20.486216
+            ],
+            [
+                105.577621,
+                20.485924
+            ],
+            [
+                105.577197,
+                20.485057
+            ],
+            [
+                105.57708,
+                20.484536
+            ],
+            [
+                105.577056,
+                20.484254
+            ],
+            [
+                105.577031,
+                20.483645
+            ],
+            [
+                105.577098,
+                20.483059
+            ],
+            [
+                105.577301,
+                20.482037
+            ],
+            [
+                105.577528,
+                20.481188
+            ],
+            [
+                105.577519,
+                20.480745
+            ],
+            [
+                105.577518,
+                20.480554
+            ],
+            [
+                105.577272,
+                20.479791
+            ],
+            [
+                105.576782,
+                20.478762
+            ],
+            [
+                105.576498,
+                20.478495
+            ],
+            [
+                105.576214,
+                20.478343
+            ],
+            [
+                105.574755,
+                20.478195
+            ],
+            [
+                105.572163,
+                20.478433
+            ],
+            [
+                105.571677,
+                20.478473
+            ],
+            [
+                105.571556,
+                20.478473
+            ],
+            [
+                105.571394,
+                20.478398
+            ],
+            [
+                105.571393,
+                20.47813
+            ],
+            [
+                105.571548,
+                20.47622
+            ],
+            [
+                105.572962,
+                20.475222
+            ],
+            [
+                105.573931,
+                20.474532
+            ],
+            [
+                105.574092,
+                20.47434
+            ],
+            [
+                105.574173,
+                20.474072
+            ],
+            [
+                105.574352,
+                20.473327
+            ],
+            [
+                105.574229,
+                20.472869
+            ],
+            [
+                105.573741,
+                20.472336
+            ],
+            [
+                105.573132,
+                20.472071
+            ],
+            [
+                105.571997,
+                20.471731
+            ],
+            [
+                105.570376,
+                20.471469
+            ],
+            [
+                105.569443,
+                20.471204
+            ],
+            [
+                105.569118,
+                20.470938
+            ],
+            [
+                105.568833,
+                20.470595
+            ],
+            [
+                105.568589,
+                20.470214
+            ],
+            [
+                105.568263,
+                20.469642
+            ],
+            [
+                105.567977,
+                20.469185
+            ],
+            [
+                105.567611,
+                20.468651
+            ],
+            [
+                105.567408,
+                20.468499
+            ],
+            [
+                105.566759,
+                20.46831
+            ],
+            [
+                105.560276,
+                20.467606
+            ],
+            [
+                105.559222,
+                20.467533
+            ],
+            [
+                105.558858,
+                20.467725
+            ],
+            [
+                105.558414,
+                20.467955
+            ],
+            [
+                105.55599,
+                20.469796
+            ],
+            [
+                105.555102,
+                20.470525
+            ],
+            [
+                105.55395,
+                20.471273
+            ],
+            [
+                105.5531,
+                20.471505
+            ],
+            [
+                105.551278,
+                20.471626
+            ],
+            [
+                105.548645,
+                20.471634
+            ],
+            [
+                105.54828,
+                20.471482
+            ],
+            [
+                105.548158,
+                20.471368
+            ],
+            [
+                105.548157,
+                20.471215
+            ],
+            [
+                105.548278,
+                20.47091
+            ],
+            [
+                105.549327,
+                20.469799
+            ],
+            [
+                105.549649,
+                20.469301
+            ],
+            [
+                105.549644,
+                20.467888
+            ],
+            [
+                105.549314,
+                20.466132
+            ],
+            [
+                105.549266,
+                20.464146
+            ],
+            [
+                105.549492,
+                20.459218
+            ],
+            [
+                105.549702,
+                20.457484
+            ],
+            [
+                105.549658,
+                20.456644
+            ],
+            [
+                105.549459,
+                20.455838
+            ],
+            [
+                105.548886,
+                20.453968
+            ],
+            [
+                105.548599,
+                20.452938
+            ],
+            [
+                105.548434,
+                20.452136
+            ],
+            [
+                105.548268,
+                20.451182
+            ],
+            [
+                105.547612,
+                20.448778
+            ],
+            [
+                105.547366,
+                20.447862
+            ],
+            [
+                105.547178,
+                20.446201
+            ],
+            [
+                105.547175,
+                20.445552
+            ],
+            [
+                105.547254,
+                20.444864
+            ],
+            [
+                105.547493,
+                20.443909
+            ],
+            [
+                105.547896,
+                20.443334
+            ],
+            [
+                105.548662,
+                20.442377
+            ],
+            [
+                105.550399,
+                20.441111
+            ],
+            [
+                105.558892,
+                20.436154
+            ],
+            [
+                105.562508,
+                20.433893
+            ],
+            [
+                105.562507,
+                20.433714
+            ],
+            [
+                105.562409,
+                20.432994
+            ],
+            [
+                105.560285,
+                20.425805
+            ],
+            [
+                105.559423,
+                20.424638
+            ],
+            [
+                105.558754,
+                20.42428
+            ],
+            [
+                105.556462,
+                20.423568
+            ],
+            [
+                105.555793,
+                20.42312
+            ],
+            [
+                105.55541,
+                20.422582
+            ],
+            [
+                105.555216,
+                20.421863
+            ],
+            [
+                105.555786,
+                20.421141
+            ],
+            [
+                105.558543,
+                20.418794
+            ],
+            [
+                105.559399,
+                20.418071
+            ],
+            [
+                105.561114,
+                20.416444
+            ],
+            [
+                105.559149,
+                20.414683
+            ],
+            [
+                105.558121,
+                20.413
+            ],
+            [
+                105.556666,
+                20.410756
+            ],
+            [
+                105.554957,
+                20.409074
+            ],
+            [
+                105.553762,
+                20.408275
+            ],
+            [
+                105.551801,
+                20.407398
+            ],
+            [
+                105.549244,
+                20.406603
+            ],
+            [
+                105.546602,
+                20.406049
+            ],
+            [
+                105.545606,
+                20.405956
+            ],
+            [
+                105.544853,
+                20.403724
+            ],
+            [
+                105.54671,
+                20.403134
+            ],
+            [
+                105.550617,
+                20.402492
+            ],
+            [
+                105.55176,
+                20.402128
+            ],
+            [
+                105.552521,
+                20.401586
+            ],
+            [
+                105.552806,
+                20.401226
+            ],
+            [
+                105.552805,
+                20.400776
+            ],
+            [
+                105.552134,
+                20.399788
+            ],
+            [
+                105.550987,
+                20.399072
+            ],
+            [
+                105.550033,
+                20.398896
+            ],
+            [
+                105.548317,
+                20.399171
+            ],
+            [
+                105.547365,
+                20.399534
+            ],
+            [
+                105.546792,
+                20.399266
+            ],
+            [
+                105.546695,
+                20.398996
+            ],
+            [
+                105.546695,
+                20.398726
+            ],
+            [
+                105.547257,
+                20.395936
+            ],
+            [
+                105.54743,
+                20.391078
+            ],
+            [
+                105.547426,
+                20.389728
+            ],
+            [
+                105.547041,
+                20.38892
+            ],
+            [
+                105.546563,
+                20.388472
+            ],
+            [
+                105.542549,
+                20.385875
+            ],
+            [
+                105.54188,
+                20.385248
+            ],
+            [
+                105.541687,
+                20.384799
+            ],
+            [
+                105.541588,
+                20.383719
+            ],
+            [
+                105.541777,
+                20.382999
+            ],
+            [
+                105.544341,
+                20.380202
+            ],
+            [
+                105.547147,
+                20.37826
+            ],
+            [
+                105.548192,
+                20.377177
+            ],
+            [
+                105.549233,
+                20.375105
+            ],
+            [
+                105.549989,
+                20.373123
+            ],
+            [
+                105.550078,
+                20.371504
+            ],
+            [
+                105.549981,
+                20.370784
+            ],
+            [
+                105.549692,
+                20.370066
+            ],
+            [
+                105.549404,
+                20.369527
+            ],
+            [
+                105.548638,
+                20.36854
+            ],
+            [
+                105.542704,
+                20.362821
+            ],
+            [
+                105.542541,
+                20.362976
+            ],
+            [
+                105.542079,
+                20.363709
+            ],
+            [
+                105.541313,
+                20.366491
+            ],
+            [
+                105.540233,
+                20.368104
+            ],
+            [
+                105.538686,
+                20.369133
+            ],
+            [
+                105.533574,
+                20.370905
+            ],
+            [
+                105.532334,
+                20.371055
+            ],
+            [
+                105.530784,
+                20.37106
+            ],
+            [
+                105.529387,
+                20.370918
+            ],
+            [
+                105.52768,
+                20.370337
+            ],
+            [
+                105.525969,
+                20.368879
+            ],
+            [
+                105.524255,
+                20.366397
+            ],
+            [
+                105.523466,
+                20.362595
+            ],
+            [
+                105.522997,
+                20.361279
+            ],
+            [
+                105.522529,
+                20.360403
+            ],
+            [
+                105.521752,
+                20.360112
+            ],
+            [
+                105.520511,
+                20.35997
+            ],
+            [
+                105.51772,
+                20.359832
+            ],
+            [
+                105.511828,
+                20.359996
+            ],
+            [
+                105.506246,
+                20.360158
+            ],
+            [
+                105.503612,
+                20.360897
+            ],
+            [
+                105.500677,
+                20.361844
+            ],
+            [
+                105.496663,
+                20.364037
+            ],
+            [
+                105.492247,
+                20.366611
+            ],
+            [
+                105.483613,
+                20.370809
+            ],
+            [
+                105.477793,
+                20.374525
+            ],
+            [
+                105.476286,
+                20.375004
+            ],
+            [
+                105.475382,
+                20.375196
+            ],
+            [
+                105.473371,
+                20.375296
+            ],
+            [
+                105.471562,
+                20.375301
+            ],
+            [
+                105.462009,
+                20.375042
+            ],
+            [
+                105.461204,
+                20.375044
+            ],
+            [
+                105.459998,
+                20.375237
+            ],
+            [
+                105.458694,
+                20.376095
+            ],
+            [
+                105.456687,
+                20.377523
+            ],
+            [
+                105.45498,
+                20.378192
+            ],
+            [
+                105.452368,
+                20.379052
+            ],
+            [
+                105.447865,
+                20.379975
+            ],
+            [
+                105.435489,
+                20.384552
+            ],
+            [
+                105.426823,
+                20.386781
+            ],
+            [
+                105.425584,
+                20.386784
+            ],
+            [
+                105.424758,
+                20.386656
+            ],
+            [
+                105.423516,
+                20.385621
+            ],
+            [
+                105.419652,
+                20.381993
+            ],
+            [
+                105.416064,
+                20.378625
+            ],
+            [
+                105.411097,
+                20.374351
+            ],
+            [
+                105.409856,
+                20.373705
+            ],
+            [
+                105.409797,
+                20.373684
+            ],
+            [
+                105.408754,
+                20.373318
+            ],
+            [
+                105.40724,
+                20.373191
+            ],
+            [
+                105.405313,
+                20.373326
+            ],
+            [
+                105.398436,
+                20.375419
+            ],
+            [
+                105.388808,
+                20.378298
+            ],
+            [
+                105.382894,
+                20.38039
+            ],
+            [
+                105.38152,
+                20.381302
+            ],
+            [
+                105.378361,
+                20.384296
+            ],
+            [
+                105.37726,
+                20.384428
+            ],
+            [
+                105.37437,
+                20.384434
+            ],
+            [
+                105.370791,
+                20.384572
+            ],
+            [
+                105.369278,
+                20.385094
+            ],
+            [
+                105.368591,
+                20.385745
+            ],
+            [
+                105.367632,
+                20.387436
+            ],
+            [
+                105.366947,
+                20.388866
+            ],
+            [
+                105.365847,
+                20.389647
+            ],
+            [
+                105.364472,
+                20.39004
+            ],
+            [
+                105.35773,
+                20.391872
+            ],
+            [
+                105.356354,
+                20.391875
+            ],
+            [
+                105.355389,
+                20.391357
+            ],
+            [
+                105.354148,
+                20.390451
+            ],
+            [
+                105.353458,
+                20.389803
+            ],
+            [
+                105.352356,
+                20.389545
+            ],
+            [
+                105.347733,
+                20.390238
+            ],
+            [
+                105.346582,
+                20.390421
+            ],
+            [
+                105.345433,
+                20.391147
+            ],
+            [
+                105.344667,
+                20.391963
+            ],
+            [
+                105.34352,
+                20.393322
+            ],
+            [
+                105.340649,
+                20.396405
+            ],
+            [
+                105.338638,
+                20.397947
+            ],
+            [
+                105.336052,
+                20.399399
+            ],
+            [
+                105.334518,
+                20.400036
+            ],
+            [
+                105.330588,
+                20.40131
+            ],
+            [
+                105.328384,
+                20.402219
+            ],
+            [
+                105.325126,
+                20.403492
+            ],
+            [
+                105.323209,
+                20.404491
+            ],
+            [
+                105.321007,
+                20.406033
+            ],
+            [
+                105.316313,
+                20.40939
+            ],
+            [
+                105.31047,
+                20.413291
+            ],
+            [
+                105.307884,
+                20.415196
+            ],
+            [
+                105.30664,
+                20.416827
+            ],
+            [
+                105.303961,
+                20.42018
+            ],
+            [
+                105.303482,
+                20.420633
+            ],
+            [
+                105.303098,
+                20.420634
+            ],
+            [
+                105.302618,
+                20.420544
+            ],
+            [
+                105.302234,
+                20.420273
+            ],
+            [
+                105.300407,
+                20.418286
+            ],
+            [
+                105.298966,
+                20.417021
+            ],
+            [
+                105.298198,
+                20.416751
+            ],
+            [
+                105.297239,
+                20.416753
+            ],
+            [
+                105.295896,
+                20.416936
+            ],
+            [
+                105.293979,
+                20.417482
+            ],
+            [
+                105.291943,
+                20.418365
+            ],
+            [
+                105.286517,
+                20.421757
+            ],
+            [
+                105.283037,
+                20.424083
+            ],
+            [
+                105.280888,
+                20.42573
+            ],
+            [
+                105.279866,
+                20.427278
+            ],
+            [
+                105.278538,
+                20.429794
+            ],
+            [
+                105.277617,
+                20.430762
+            ],
+            [
+                105.277003,
+                20.431053
+            ],
+            [
+                105.276285,
+                20.431054
+            ],
+            [
+                105.275875,
+                20.430861
+            ],
+            [
+                105.274541,
+                20.429897
+            ],
+            [
+                105.272898,
+                20.428449
+            ],
+            [
+                105.272078,
+                20.428257
+            ],
+            [
+                105.271463,
+                20.428258
+            ],
+            [
+                105.269722,
+                20.428841
+            ],
+            [
+                105.266855,
+                20.430295
+            ],
+            [
+                105.261734,
+                20.432816
+            ],
+            [
+                105.259379,
+                20.43398
+            ],
+            [
+                105.25856,
+                20.434368
+            ],
+            [
+                105.259999,
+                20.437072
+            ],
+            [
+                105.26298,
+                20.441901
+            ],
+            [
+                105.264116,
+                20.444439
+            ],
+            [
+                105.26692,
+                20.454187
+            ],
+            [
+                105.266921,
+                20.454781
+            ],
+            [
+                105.266832,
+                20.45512
+            ],
+            [
+                105.274596,
+                20.453716
+            ],
+            [
+                105.278622,
+                20.451585
+            ],
+            [
+                105.281257,
+                20.451507
+            ],
+            [
+                105.283472,
+                20.45213
+            ],
+            [
+                105.284258,
+                20.454414
+            ],
+            [
+                105.284494,
+                20.455151
+            ],
+            [
+                105.284729,
+                20.455666
+            ],
+            [
+                105.285199,
+                20.456108
+            ],
+            [
+                105.28606,
+                20.456401
+            ],
+            [
+                105.288562,
+                20.457281
+            ],
+            [
+                105.290753,
+                20.458236
+            ],
+            [
+                105.293335,
+                20.459706
+            ],
+            [
+                105.294195,
+                20.460073
+            ],
+            [
+                105.301047,
+                20.465731
+            ],
+            [
+                105.301345,
+                20.466988
+            ],
+            [
+                105.302465,
+                20.472925
+            ],
+            [
+                105.303798,
+                20.47439
+            ],
+            [
+                105.30709,
+                20.478368
+            ],
+            [
+                105.306779,
+                20.479032
+            ],
+            [
+                105.306701,
+                20.479474
+            ],
+            [
+                105.30678,
+                20.479769
+            ],
+            [
+                105.307644,
+                20.481757
+            ],
+            [
+                105.308436,
+                20.486916
+            ],
+            [
+                105.308439,
+                20.48839
+            ],
+            [
+                105.307971,
+                20.48898
+            ],
+            [
+                105.306488,
+                20.490015
+            ],
+            [
+                105.304848,
+                20.491197
+            ],
+            [
+                105.304771,
+                20.491492
+            ],
+            [
+                105.304771,
+                20.491787
+            ],
+            [
+                105.305086,
+                20.492818
+            ],
+            [
+                105.305479,
+                20.493849
+            ],
+            [
+                105.306264,
+                20.495322
+            ],
+            [
+                105.307753,
+                20.497457
+            ],
+            [
+                105.309165,
+                20.499371
+            ],
+            [
+                105.309951,
+                20.501581
+            ],
+            [
+                105.310424,
+                20.503644
+            ],
+            [
+                105.31027,
+                20.50475
+            ],
+            [
+                105.309568,
+                20.505709
+            ],
+            [
+                105.307305,
+                20.507851
+            ],
+            [
+                105.306213,
+                20.509032
+            ],
+            [
+                105.305403,
+                20.510717
+            ],
+            [
+                105.30554,
+                20.511729
+            ],
+            [
+                105.306079,
+                20.513119
+            ],
+            [
+                105.310378,
+                20.515894
+            ],
+            [
+                105.314271,
+                20.517026
+            ],
+            [
+                105.316151,
+                20.517402
+            ],
+            [
+                105.317895,
+                20.517651
+            ],
+            [
+                105.32031,
+                20.51752
+            ],
+            [
+                105.3242,
+                20.517007
+            ],
+            [
+                105.326882,
+                20.51599
+            ],
+            [
+                105.331305,
+                20.513958
+            ],
+            [
+                105.334252,
+                20.511803
+            ],
+            [
+                105.34068,
+                20.506225
+            ],
+            [
+                105.345634,
+                20.501915
+            ],
+            [
+                105.347913,
+                20.500772
+            ],
+            [
+                105.349656,
+                20.500642
+            ],
+            [
+                105.350864,
+                20.50064
+            ],
+            [
+                105.351803,
+                20.500891
+            ],
+            [
+                105.35261,
+                20.501395
+            ],
+            [
+                105.353956,
+                20.503416
+            ],
+            [
+                105.354497,
+                20.505438
+            ],
+            [
+                105.354356,
+                20.512269
+            ],
+            [
+                105.355402,
+                20.512074
+            ],
+            [
+                105.356752,
+                20.512021
+            ],
+            [
+                105.357638,
+                20.512029
+            ],
+            [
+                105.358661,
+                20.512087
+            ],
+            [
+                105.359612,
+                20.512182
+            ],
+            [
+                105.359958,
+                20.512181
+            ],
+            [
+                105.360389,
+                20.512054
+            ],
+            [
+                105.361112,
+                20.511698
+            ],
+            [
+                105.361635,
+                20.513028
+            ],
+            [
+                105.362435,
+                20.515274
+            ],
+            [
+                105.362838,
+                20.51777
+            ],
+            [
+                105.364842,
+                20.525007
+            ],
+            [
+                105.366174,
+                20.528001
+            ],
+            [
+                105.367505,
+                20.530745
+            ],
+            [
+                105.368303,
+                20.532116
+            ],
+            [
+                105.370028,
+                20.533236
+            ],
+            [
+                105.374935,
+                20.535723
+            ],
+            [
+                105.377719,
+                20.536965
+            ],
+            [
+                105.378251,
+                20.537713
+            ],
+            [
+                105.378916,
+                20.53896
+            ],
+            [
+                105.379185,
+                20.540458
+            ],
+            [
+                105.376612,
+                20.544396
+            ],
+            [
+                105.376747,
+                20.545769
+            ],
+            [
+                105.37728,
+                20.546892
+            ],
+            [
+                105.378211,
+                20.548388
+            ],
+            [
+                105.379537,
+                20.54876
+            ],
+            [
+                105.380332,
+                20.548758
+            ],
+            [
+                105.380863,
+                20.549381
+            ],
+            [
+                105.380997,
+                20.550005
+            ],
+            [
+                105.380474,
+                20.552628
+            ],
+            [
+                105.379292,
+                20.557
+            ],
+            [
+                105.379295,
+                20.558249
+            ],
+            [
+                105.379379,
+                20.559035
+            ],
+            [
+                105.380696,
+                20.562054
+            ],
+            [
+                105.382028,
+                20.565047
+            ],
+            [
+                105.383325,
+                20.565871
+            ],
+            [
+                105.386873,
+                20.568719
+            ],
+            [
+                105.392181,
+                20.571954
+            ],
+            [
+                105.394304,
+                20.573322
+            ],
+            [
+                105.394439,
+                20.574196
+            ],
+            [
+                105.394308,
+                20.574695
+            ],
+            [
+                105.392722,
+                20.576197
+            ],
+            [
+                105.383932,
+                20.584644
+            ],
+            [
+                105.383403,
+                20.58527
+            ],
+            [
+                105.383409,
+                20.587517
+            ],
+            [
+                105.383679,
+                20.589639
+            ],
+            [
+                105.384621,
+                20.59538
+            ],
+            [
+                105.384622,
+                20.595754
+            ],
+            [
+                105.384358,
+                20.596129
+            ],
+            [
+                105.384226,
+                20.59613
+            ],
+            [
+                105.38701,
+                20.599365
+            ],
+            [
+                105.388914,
+                20.600435
+            ],
+            [
+                105.391199,
+                20.601625
+            ],
+            [
+                105.392977,
+                20.603054
+            ],
+            [
+                105.395396,
+                20.60699
+            ],
+            [
+                105.39629,
+                20.609376
+            ],
+            [
+                105.396798,
+                20.609972
+            ],
+            [
+                105.397433,
+                20.61009
+            ],
+            [
+                105.398193,
+                20.610089
+            ],
+            [
+                105.404122,
+                20.6083
+            ],
+            [
+                105.407442,
+                20.607559
+            ],
+            [
+                105.409217,
+                20.607555
+            ],
+            [
+                105.409977,
+                20.607433
+            ],
+            [
+                105.41099,
+                20.606953
+            ],
+            [
+                105.412507,
+                20.605278
+            ],
+            [
+                105.413392,
+                20.60432
+            ],
+            [
+                105.414025,
+                20.60408
+            ],
+            [
+                105.414785,
+                20.604078
+            ],
+            [
+                105.420496,
+                20.606214
+            ],
+            [
+                105.423288,
+                20.607043
+            ],
+            [
+                105.426078,
+                20.607514
+            ],
+            [
+                105.429505,
+                20.608819
+            ],
+            [
+                105.431665,
+                20.610486
+            ],
+            [
+                105.431923,
+                20.612158
+            ],
+            [
+                105.431933,
+                20.61586
+            ],
+            [
+                105.43219,
+                20.616934
+            ],
+            [
+                105.432699,
+                20.61753
+            ],
+            [
+                105.433969,
+                20.618244
+            ],
+            [
+                105.43803,
+                20.619547
+            ],
+            [
+                105.440439,
+                20.619661
+            ],
+            [
+                105.445003,
+                20.619649
+            ],
+            [
+                105.449819,
+                20.6188
+            ],
+            [
+                105.451974,
+                20.618795
+            ],
+            [
+                105.455082,
+                20.619443
+            ],
+            [
+                105.465996,
+                20.622639
+            ],
+            [
+                105.466759,
+                20.623354
+            ],
+            [
+                105.46765,
+                20.624546
+            ],
+            [
+                105.468669,
+                20.626215
+            ],
+            [
+                105.470077,
+                20.630272
+            ],
+            [
+                105.470967,
+                20.631344
+            ],
+            [
+                105.471604,
+                20.632179
+            ],
+            [
+                105.472619,
+                20.632415
+            ],
+            [
+                105.482774,
+                20.63597
+            ],
+            [
+                105.484425,
+                20.636682
+            ],
+            [
+                105.486202,
+                20.637274
+            ],
+            [
+                105.487724,
+                20.63727
+            ],
+            [
+                105.48899,
+                20.636788
+            ],
+            [
+                105.492785,
+                20.634031
+            ],
+            [
+                105.496828,
+                20.629361
+            ],
+            [
+                105.49904,
+                20.627503
+            ],
+            [
+                105.500306,
+                20.626664
+            ],
+            [
+                105.501066,
+                20.626423
+            ],
+            [
+                105.502333,
+                20.62618
+            ],
+            [
+                105.508921,
+                20.624608
+            ],
+            [
+                105.510823,
+                20.624603
+            ],
+            [
+                105.514121,
+                20.62507
+            ],
+            [
+                105.516783,
+                20.625063
+            ],
+            [
+                105.520836,
+                20.623737
+            ],
+            [
+                105.521214,
+                20.623019
+            ],
+            [
+                105.520449,
+                20.621827
+            ],
+            [
+                105.51943,
+                20.620397
+            ],
+            [
+                105.518595,
+                20.616995
+            ],
+            [
+                105.518207,
+                20.614727
+            ],
+            [
+                105.517696,
+                20.613773
+            ],
+            [
+                105.517059,
+                20.61282
+            ],
+            [
+                105.515534,
+                20.61163
+            ],
+            [
+                105.505629,
+                20.607001
+            ],
+            [
+                105.50474,
+                20.606406
+            ],
+            [
+                105.504726,
+                20.605661
+            ],
+            [
+                105.505741,
+                20.602462
+            ],
+            [
+                105.506499,
+                20.601504
+            ],
+            [
+                105.508167,
+                20.600868
+            ],
+            [
+                105.512071,
+                20.599816
+            ],
+            [
+                105.513968,
+                20.598377
+            ],
+            [
+                105.51523,
+                20.596979
+            ],
+            [
+                105.515482,
+                20.596223
+            ],
+            [
+                105.51635,
+                20.590607
+            ],
+            [
+                105.516853,
+                20.589411
+            ],
+            [
+                105.517359,
+                20.588932
+            ],
+            [
+                105.518244,
+                20.588332
+            ],
+            [
+                105.522529,
+                20.5861
+            ],
+            [
+                105.523116,
+                20.585474
+            ],
+            [
+                105.52557,
+                20.580546
+            ],
+            [
+                105.526036,
+                20.57881
+            ],
+            [
+                105.526029,
+                20.576592
+            ],
+            [
+                105.525802,
+                20.574335
+            ],
+            [
+                105.525862,
+                20.57332
+            ],
+            [
+                105.526366,
+                20.572601
+            ],
+            [
+                105.533323,
+                20.568519
+            ],
+            [
+                105.537243,
+                20.565999
+            ],
+            [
+                105.543445,
+                20.563352
+            ],
+            [
+                105.548758,
+                20.560588
+            ],
+            [
+                105.552298,
+                20.558188
+            ],
+            [
+                105.55672,
+                20.554591
+            ],
+            [
+                105.559795,
+                20.551491
+            ],
+            [
+                105.560552,
+                20.550533
+            ],
+            [
+                105.561049,
+                20.549201
+            ]
+        ]
+    ]
+}

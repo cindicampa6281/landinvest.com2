@@ -1,0 +1,3374 @@
+{
+    "id_district": "368",
+    "id_province": 47,
+    "name_province": "Quảng Nam",
+    "name_district": "Thị xã Điện Bàn",
+    "list_sukien": [
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2022-11-17 16:06:50",
+            "projectName": null,
+            "bidCloseDate": "2022-11-28 08:30:00",
+            "id_muasamcong": "03e0e2f2-1f3f-451f-88b8-fc3659e0a266",
+            "tongmuc_dautu": 5458803400.0,
+            "bidNamePlanNew": "PL2200048334",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng vàlắp đặt thiết bị",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2022-12-09 17:47:07",
+            "projectName": null,
+            "bidCloseDate": "2022-12-19 07:45:00",
+            "id_muasamcong": "03e9b6cf-7127-4f47-833f-f65bf4cf62ef",
+            "tongmuc_dautu": 1141837013.0,
+            "bidNamePlanNew": "PL2200067857",
+            "dotbien_hatang": "Thi công xây dựng vàlắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2024-06-06 10:30:00",
+            "projectName": null,
+            "bidCloseDate": "2024-06-17 08:00:00",
+            "id_muasamcong": "04bac0f4-6c93-4bd4-9d20-0c74bfe048af",
+            "tongmuc_dautu": 1157459715.0,
+            "bidNamePlanNew": "PL2400071581",
+            "dotbien_hatang": "Thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "CÔNG TY TNHH GIÁM ĐỊNH VÀ KIỂM ĐỊNH TÂM VIỆT",
+            "createdBy": "vn0401852442",
+            "publicDate": "2022-10-11 23:05:07",
+            "projectName": null,
+            "bidCloseDate": "2022-10-24 09:00:00",
+            "id_muasamcong": "08e069d5-0c75-4a4c-896d-b3d8d18445e9",
+            "tongmuc_dautu": 1134159044.0,
+            "bidNamePlanNew": "PL2200017573",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Uỷ ban nhân dân xã Điện Tiến",
+            "createdBy": "vn0402079779",
+            "publicDate": "2023-06-02 06:11:29",
+            "projectName": null,
+            "bidCloseDate": "2023-06-12 07:30:00",
+            "id_muasamcong": "09c14116-0217-4251-a193-f43ad713552d",
+            "tongmuc_dautu": 1064088000.0,
+            "bidNamePlanNew": "PL2300069212",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và lắp đặt thiết bị Công trình: Nâng cấp, cải tạo Nghĩa trang liệt sĩ phường Điện Dương\nĐịa điểm: Phường Điện Dương, thị xã Điện Bàn, tỉnh Quảng Nam",
+            "chudautu": "Ủy Ban Nhân Dân Phường Điện Dương",
+            "createdBy": "vn4001278647",
+            "publicDate": "2024-07-29 17:14:02",
+            "projectName": null,
+            "bidCloseDate": "2024-08-05 10:00:00",
+            "id_muasamcong": "0f352375-eda9-47f7-97ee-51941dde6cec",
+            "tongmuc_dautu": 5018076097.0,
+            "bidNamePlanNew": "PL2400123043",
+            "dotbien_hatang": "Thi công xây dựng và lắp đặt thiết bị Công trình: Nâng cấp, cải tạo Nghĩa trang liệt sĩ phường Điện Dương\nĐịa điểm: Phường Điện Dương, thị xã Điện Bàn, tỉnh Quảng Nam",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2024-11-21 10:52:36",
+            "projectName": null,
+            "bidCloseDate": "2024-12-04 08:00:00",
+            "id_muasamcong": "13fb9d79-6fe6-4ac5-9736-23d9a4c8230f",
+            "tongmuc_dautu": 2821544000.0,
+            "bidNamePlanNew": "PL2400250118",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01/XL: Cung cấp vật tư (trừ vật tư A cấp) và thi công xây lắp",
+            "chudautu": "CHI NHÁNH TỔNG CÔNG TY ĐIỆN LỰC MIỀN TRUNG - CÔNG TY ĐIỆN LỰC QUẢNG NAM ",
+            "createdBy": "vnz000022501-13",
+            "publicDate": "2023-07-31 13:42:54",
+            "projectName": null,
+            "bidCloseDate": "2023-08-11 15:00:00",
+            "id_muasamcong": "1494d247-b4e4-41ba-9b15-e1f563f18dc2",
+            "tongmuc_dautu": 276712274.8,
+            "bidNamePlanNew": "PL2300107778",
+            "dotbien_hatang": "Gói thầu số 01/XL: Cung cấp vật tư (trừ vật tư A cấp) và thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2024-11-08 15:00:37",
+            "projectName": null,
+            "bidCloseDate": "2024-11-18 08:15:00",
+            "id_muasamcong": "14d831f1-f5b8-49f0-b32c-f7a64794059e",
+            "tongmuc_dautu": 3346682861.0,
+            "bidNamePlanNew": "PL2400263051",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2024-09-05 14:21:46",
+            "projectName": "Liên danh trường mẫu giáo Điện Minh",
+            "bidCloseDate": "2024-09-16 08:00:00",
+            "id_muasamcong": "19623a5b-cab6-4ee4-9ea3-122482dbc337",
+            "tongmuc_dautu": 6082111597.0,
+            "bidNamePlanNew": "PL2400189406",
+            "dotbien_hatang": "Thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "CÔNG TY TNHH GIÁM ĐỊNH VÀ KIỂM ĐỊNH TÂM VIỆT",
+            "createdBy": "vn0401852442",
+            "publicDate": "2023-12-27 17:27:37",
+            "projectName": null,
+            "bidCloseDate": "2024-01-10 07:30:00",
+            "id_muasamcong": "1af5d750-1a94-404f-80cd-cb23b9f89f51",
+            "tongmuc_dautu": 1399969000.0,
+            "bidNamePlanNew": "PL2300249881",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2023-09-15 16:29:40",
+            "projectName": null,
+            "bidCloseDate": "2023-09-25 08:01:00",
+            "id_muasamcong": "1cae5f14-8c22-439d-a7f7-c0fbd4af5d55",
+            "tongmuc_dautu": 823569000.0,
+            "bidNamePlanNew": "PL2300137964",
+            "dotbien_hatang": "Thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã ĐIện Minh",
+            "createdBy": "vnz000024622",
+            "publicDate": "2022-10-25 08:01:58",
+            "projectName": null,
+            "bidCloseDate": "2022-11-06 10:00:00",
+            "id_muasamcong": "2154045a-5dde-4249-a829-aadc83b51168",
+            "tongmuc_dautu": 1299506972.0,
+            "bidNamePlanNew": "PL2200017207",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Giám sát thi công xây dựng; giám sát môi trường trong quá trình thi công",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2024-07-12 10:15:43",
+            "projectName": "Liên danh Công ty Cổ phần tư vấn và Xây dựng Bách Khoa - Viện Khoa học và Công nghệ Giao thông vận tải - Công ty TNHH Khoa học kỹ thuật Nam Thành",
+            "bidCloseDate": "2024-07-30 08:10:00",
+            "id_muasamcong": "21ea0d0a-0a28-4298-bcf1-3870f19a1d30",
+            "tongmuc_dautu": 3231264000.0,
+            "bidNamePlanNew": "PL2300196043",
+            "dotbien_hatang": "Giám sát thi công xây dựng; giám sát môi trường trong quá trình thi công",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "CÔNG TY TNHH DUY GIA HƯNG",
+            "createdBy": "vn0401989542",
+            "publicDate": "2023-06-24 13:26:13",
+            "projectName": null,
+            "bidCloseDate": "2023-07-04 09:00:00",
+            "id_muasamcong": "22ae7334-37c9-44d7-b220-5a6d1e7da307",
+            "tongmuc_dautu": 1580540000.0,
+            "bidNamePlanNew": "PL2300095625",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "UBND phường Điện Thắng Trung",
+            "createdBy": "vn0402079779",
+            "publicDate": "2023-12-07 14:06:45",
+            "projectName": null,
+            "bidCloseDate": "2023-12-17 14:30:00",
+            "id_muasamcong": "269bf66f-c6cd-4859-a058-4cd35480f719",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300225472",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công",
+            "chudautu": "Bệnh Viện Đa Khoa Khu Vực Quảng Nam",
+            "createdBy": "vn4000378649",
+            "publicDate": "2023-09-29 11:17:49",
+            "projectName": null,
+            "bidCloseDate": "2023-10-09 14:00:00",
+            "id_muasamcong": "274f734f-d6f6-46cb-b58d-a98f3b92f223",
+            "tongmuc_dautu": 2413786000.0,
+            "bidNamePlanNew": "PL2300162552",
+            "dotbien_hatang": "Thi công xây dựng công",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2022-12-09 17:12:54",
+            "projectName": null,
+            "bidCloseDate": "2022-12-19 08:00:00",
+            "id_muasamcong": "2c4dea6c-c52d-4792-9fe7-e7792cc64f74",
+            "tongmuc_dautu": 2700235000.0,
+            "bidNamePlanNew": "PL2200067884",
+            "dotbien_hatang": "Thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu XL-01: Thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "Cục Tác chiến điện tử/BTTM",
+            "createdBy": "vnz000005114",
+            "publicDate": "2024-06-29 16:24:45",
+            "projectName": null,
+            "bidCloseDate": "2024-07-08 10:00:00",
+            "id_muasamcong": "2fb758bf-895b-4723-a429-b74a8924f988",
+            "tongmuc_dautu": 3547117000.0,
+            "bidNamePlanNew": "PL2400096892",
+            "dotbien_hatang": "Gói thầu XL-01: Thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2023-09-14 15:16:16",
+            "projectName": "LIÊN DANH CÔNG TY TNHH MTV XDTM VÀ DV ĐẠI PHÚ BẢO - CÔNG TY TNHH DUY NAM",
+            "bidCloseDate": "2023-09-25 08:00:00",
+            "id_muasamcong": "30b81df6-2c66-4af2-b410-460cc7dce258",
+            "tongmuc_dautu": 2911343000.0,
+            "bidNamePlanNew": "PL2300139465",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2022-11-11 17:14:02",
+            "projectName": null,
+            "bidCloseDate": "2022-11-21 17:15:00",
+            "id_muasamcong": "33e0997e-8f36-4c21-a74a-27d89de33ec8",
+            "tongmuc_dautu": 2227829435.0,
+            "bidNamePlanNew": "PL2200034031",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và quản lý vận hành",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2023-02-06 16:17:19",
+            "projectName": null,
+            "bidCloseDate": "2023-03-25 15:00:00",
+            "id_muasamcong": "37459382-65f9-457b-b414-ced98a380245",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300010313",
+            "dotbien_hatang": "Thi công xây dựng và quản lý vận hành",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Trung tâm Phát triển quỹ đất thị xã Điện Bàn",
+            "createdBy": "vn0401852442",
+            "publicDate": "2023-12-13 15:12:34",
+            "projectName": null,
+            "bidCloseDate": "2023-12-25 07:10:00",
+            "id_muasamcong": "396283b0-d360-4018-a31e-db747aa240e6",
+            "tongmuc_dautu": 1229996000.0,
+            "bidNamePlanNew": "20220509232",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2022-12-14 16:54:56",
+            "projectName": null,
+            "bidCloseDate": "2022-12-24 17:00:00",
+            "id_muasamcong": "3a40d0d1-bc57-4bd0-9737-a4b19d633cbe",
+            "tongmuc_dautu": 8517142344.0,
+            "bidNamePlanNew": "PL2200048297",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "UỶ BAN NHÂN DÂN PHƯỜNG ĐIỆN NAM TRUNG",
+            "createdBy": "vn0402161448",
+            "publicDate": "2023-12-13 10:15:59",
+            "projectName": null,
+            "bidCloseDate": "2023-12-23 17:00:00",
+            "id_muasamcong": "409ea2fb-2472-4d85-8265-5ea6c5c3af2a",
+            "tongmuc_dautu": 3911379000.0,
+            "bidNamePlanNew": "PL2300229749",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2023-02-08 14:16:46",
+            "projectName": "Liên danh Phú Thành Hưng – Hà Thành",
+            "bidCloseDate": "2023-02-16 16:50:00",
+            "id_muasamcong": "45a2b691-bb57-49cc-b9b6-2c81ad74cd51",
+            "tongmuc_dautu": 7800997041.0,
+            "bidNamePlanNew": "PL2200086250",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2023-12-28 16:13:25",
+            "projectName": "Liên danh Thi công đường trục chính GTNT Điện Minh",
+            "bidCloseDate": "2024-01-10 08:00:00",
+            "id_muasamcong": "460d9264-d49a-4ebd-bb18-06146d395b85",
+            "tongmuc_dautu": 4332978436.0,
+            "bidNamePlanNew": "PL2300235438",
+            "dotbien_hatang": "Thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "UBND phường Vĩnh Điện",
+            "createdBy": "vn0402079779",
+            "publicDate": "2024-01-31 07:06:04",
+            "projectName": null,
+            "bidCloseDate": "2024-02-16 07:30:00",
+            "id_muasamcong": "46fc7ecb-052d-4d19-a38e-73bba2991ef7",
+            "tongmuc_dautu": 5231257000.0,
+            "bidNamePlanNew": "PL2300225471",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và Lắp đặt thiết bị",
+            "chudautu": "Uỷ ban nhân dân phường Điện Phương",
+            "createdBy": "vn0402079779",
+            "publicDate": "2023-11-24 16:06:14",
+            "projectName": "Liên danh Nhà Đẹp - Hiệp Phát - HTG",
+            "bidCloseDate": "2023-12-04 16:15:00",
+            "id_muasamcong": "4d9702d1-57e5-4492-a90e-68cbf340f692",
+            "tongmuc_dautu": 10518299019.0,
+            "bidNamePlanNew": "PL2300207305",
+            "dotbien_hatang": "Thi công xây dựng và Lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "UỶ BAN NHÂN DÂN PHƯỜNG ĐIỆN NAM TRUNG",
+            "createdBy": "vn4001230719",
+            "publicDate": "2024-09-25 16:03:23",
+            "projectName": null,
+            "bidCloseDate": "2024-10-31 15:30:00",
+            "id_muasamcong": "5077c6b6-e3f9-4030-bdea-1174066139ed",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400153993",
+            "dotbien_hatang": "Thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "UBND Phường Điện Nam Bắc",
+            "createdBy": "vn4001230719",
+            "publicDate": "2023-10-23 01:47:48",
+            "projectName": null,
+            "bidCloseDate": "2023-11-03 08:30:00",
+            "id_muasamcong": "54421b48-f2cb-4002-88f5-c2f394d544d9",
+            "tongmuc_dautu": 1425790140.0,
+            "bidNamePlanNew": "PL2300194023",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Giám sát thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2024-11-22 16:43:03",
+            "projectName": null,
+            "bidCloseDate": "2024-12-10 08:00:00",
+            "id_muasamcong": "5af9e2c7-b0ea-477c-8c8d-b318b9dc7616",
+            "tongmuc_dautu": 530280000.0,
+            "bidNamePlanNew": "PL2300253314",
+            "dotbien_hatang": "Giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "UBND XÃ ĐIỆN PHONG",
+            "createdBy": "vn0402224401",
+            "publicDate": "2024-03-14 20:34:54",
+            "projectName": null,
+            "bidCloseDate": "2024-03-24 08:00:00",
+            "id_muasamcong": "5fc02dce-9701-4ac8-addc-664515540613",
+            "tongmuc_dautu": 1898076000.0,
+            "bidNamePlanNew": "PL2400028144",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2022-11-01 10:34:48",
+            "projectName": null,
+            "bidCloseDate": "2022-11-07 17:00:00",
+            "id_muasamcong": "60f9c0a8-2b81-4b7f-8575-e6a50f2ed6b8",
+            "tongmuc_dautu": 4107334168.0,
+            "bidNamePlanNew": "PL2200030880",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2022-11-24 10:43:16",
+            "projectName": null,
+            "bidCloseDate": "2022-12-05 08:00:00",
+            "id_muasamcong": "617703c6-0ef5-447d-b7fa-f9a74ddd13e2",
+            "tongmuc_dautu": 4879085000.0,
+            "bidNamePlanNew": "PL2200034004",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2024-06-06 14:38:12",
+            "projectName": "Liên danh Đường từ ngõ ông Câu đến ngõ ông Lai",
+            "bidCloseDate": "2024-06-17 08:05:00",
+            "id_muasamcong": "62e707f9-8d85-4864-bb2d-5f48607e46fd",
+            "tongmuc_dautu": 1939361000.0,
+            "bidNamePlanNew": "PL2300265488",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2022-12-09 17:48:24",
+            "projectName": null,
+            "bidCloseDate": "2022-12-19 08:30:00",
+            "id_muasamcong": "62e90541-4aec-45b6-ad3b-3049df306e79",
+            "tongmuc_dautu": 3081950000.0,
+            "bidNamePlanNew": "PL2200067872",
+            "dotbien_hatang": "Thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Giám sát thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "Trung tâm Phát triển quỹ đất thị xã Điện Bàn",
+            "createdBy": "vn0402161448",
+            "publicDate": "2024-10-09 11:14:22",
+            "projectName": null,
+            "bidCloseDate": "2024-10-28 13:30:00",
+            "id_muasamcong": "642c7519-f0f2-49bd-a4bd-8ac8b86c8ed7",
+            "tongmuc_dautu": 350049000.0,
+            "bidNamePlanNew": "PL2200012724",
+            "dotbien_hatang": "Giám sát thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "UỶ BAN NHÂN DÂN XÃ ĐIỆN TRUNG",
+            "createdBy": "vn4001247952",
+            "publicDate": "2023-08-22 18:13:08",
+            "projectName": null,
+            "bidCloseDate": "2023-09-01 18:30:00",
+            "id_muasamcong": "670ce788-30eb-49ff-85ca-3f293a43d5a7",
+            "tongmuc_dautu": 1508000000.0,
+            "bidNamePlanNew": "PL2300148959",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2023-10-13 16:07:16",
+            "projectName": null,
+            "bidCloseDate": "2023-10-23 08:00:00",
+            "id_muasamcong": "68fbf1c5-b2d9-43d0-b666-a475e191b8e9",
+            "tongmuc_dautu": 7120141779.0,
+            "bidNamePlanNew": "PL2300165570",
+            "dotbien_hatang": "Thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2023-09-25 15:10:12",
+            "projectName": null,
+            "bidCloseDate": "2023-10-05 08:00:00",
+            "id_muasamcong": "697102da-c874-4b47-97bf-0e0c73ef0588",
+            "tongmuc_dautu": 7982157000.0,
+            "bidNamePlanNew": "PL2300136322",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2022-11-30 16:38:06",
+            "projectName": "Liên danh công ty TNHH MTV XD và DV Kiên Bình và Công ty TNHH XD Thuận Vũ",
+            "bidCloseDate": "2022-12-12 08:00:00",
+            "id_muasamcong": "69c2006c-a200-4348-a594-de32e6aac58a",
+            "tongmuc_dautu": 3575038408.0,
+            "bidNamePlanNew": "PL2200060766",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "UBND xã Điện Phước",
+            "createdBy": "vn0402020214",
+            "publicDate": "2023-08-04 11:51:18",
+            "projectName": null,
+            "bidCloseDate": "2023-08-14 17:00:00",
+            "id_muasamcong": "6c64e055-4b70-4b33-9e6c-170141b27eb4",
+            "tongmuc_dautu": 4392283625.0,
+            "bidNamePlanNew": "PL2300130907",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "Uỷ ban nhân dân phường Điện Phương",
+            "createdBy": "vn0402079779",
+            "publicDate": "2024-06-17 11:00:59",
+            "projectName": "Liên danh Minh Phúc Khang",
+            "bidCloseDate": "2024-06-29 13:30:00",
+            "id_muasamcong": "6cd4fff4-4fba-4cdc-a770-3407f66406f8",
+            "tongmuc_dautu": 1260455476.0,
+            "bidNamePlanNew": "PL2300148550",
+            "dotbien_hatang": "Thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "Ủy ban nhân dân xã Điện Quang",
+            "createdBy": "vn4000373979",
+            "publicDate": "2024-04-23 20:10:17",
+            "projectName": null,
+            "bidCloseDate": "2024-05-02 09:00:00",
+            "id_muasamcong": "71210f64-193a-4bb8-b29c-dcd257992dd5",
+            "tongmuc_dautu": 2932525686.0,
+            "bidNamePlanNew": "PL2400042345",
+            "dotbien_hatang": "Thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "UBND phường Điện Nam Đông",
+            "createdBy": "vn4001230719",
+            "publicDate": "2022-11-20 17:18:22",
+            "projectName": "Liên danh Công ty cổ phần kỹ thuật Nhân Thịnh và Công ty TNHH Hải Nguyên Linh",
+            "bidCloseDate": "2022-12-01 09:00:00",
+            "id_muasamcong": "7746e5a5-fe08-457a-aa10-d2e28c9c4580",
+            "tongmuc_dautu": 4192219000.0,
+            "bidNamePlanNew": "PL2200037478",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "CÔNG TY TNHH MỘT THÀNH VIÊN KHAI THÁC THỦY LỢI QUẢNG NAM ",
+            "createdBy": "vn4000472899",
+            "publicDate": "2023-10-24 09:38:16",
+            "projectName": null,
+            "bidCloseDate": "2023-11-03 10:00:00",
+            "id_muasamcong": "779932b6-1b94-46a7-97fe-f9862a252017",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300184646",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2024-05-06 10:39:34",
+            "projectName": null,
+            "bidCloseDate": "2024-05-16 08:00:00",
+            "id_muasamcong": "7ac13f92-a56e-4c7b-ba0b-f0a29cc28dfe",
+            "tongmuc_dautu": 5550550999.0,
+            "bidNamePlanNew": "PL2300257450",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "UBND phường Vĩnh Điện",
+            "createdBy": "vn0402079779",
+            "publicDate": "2023-12-07 14:08:03",
+            "projectName": null,
+            "bidCloseDate": "2023-12-29 13:30:00",
+            "id_muasamcong": "7cfd1617-173f-4f59-9292-82c44fbf089b",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300225471",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "ủy ban nhân dân phường Điện An",
+            "createdBy": "vn4001133602",
+            "publicDate": "2024-09-24 12:38:28",
+            "projectName": "Liên danh Hà Thanh",
+            "bidCloseDate": "2024-10-04 10:00:00",
+            "id_muasamcong": "7d2a05f8-912d-4790-8b23-b21948f9222d",
+            "tongmuc_dautu": 11616754810.0,
+            "bidNamePlanNew": "PL2400105931",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "UBND Phường Điện Nam Bắc",
+            "createdBy": "vn0402079779",
+            "publicDate": "2023-06-20 17:48:18",
+            "projectName": null,
+            "bidCloseDate": "2023-06-30 18:00:00",
+            "id_muasamcong": "7fa6dfe8-6052-4153-b793-e042b76d89ab",
+            "tongmuc_dautu": 1864825000.0,
+            "bidNamePlanNew": "PL2300099101",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "UBND phường Điện Thắng Trung",
+            "createdBy": "vn0402079779",
+            "publicDate": "2024-03-08 09:26:29",
+            "projectName": null,
+            "bidCloseDate": "2024-03-17 10:30:00",
+            "id_muasamcong": "80822ab7-3b32-47c3-9d79-32f9ba01ba71",
+            "tongmuc_dautu": 3810071271.0,
+            "bidNamePlanNew": "PL2300225472",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2022-11-21 16:37:29",
+            "projectName": null,
+            "bidCloseDate": "2022-12-01 16:45:00",
+            "id_muasamcong": "80aba847-96eb-4704-ad84-3bb6ce5baffa",
+            "tongmuc_dautu": 9554926000.0,
+            "bidNamePlanNew": "PL2200048313",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Giám sát thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2022-12-02 15:34:46",
+            "projectName": null,
+            "bidCloseDate": "2022-12-22 08:00:00",
+            "id_muasamcong": "817a94a5-fca7-4240-bf40-0230a581669b",
+            "tongmuc_dautu": 500000000.0,
+            "bidNamePlanNew": "PL2200062345",
+            "dotbien_hatang": "Giám sát thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng + bảo đảm giao",
+            "chudautu": "UỶ BAN NHÂN XÃ ĐIỆN THẮNG BẮC",
+            "createdBy": "vn4001230719",
+            "publicDate": "2023-10-06 18:47:00",
+            "projectName": null,
+            "bidCloseDate": "2023-10-17 08:30:00",
+            "id_muasamcong": "822045a5-335c-4701-a8d7-b1ad90194d45",
+            "tongmuc_dautu": 5912061000.0,
+            "bidNamePlanNew": "PL2300171089",
+            "dotbien_hatang": "Thi công xây dựng + bảo đảm giao",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "ỦY BAN NHÂN DÂN PHƯỜNG ĐIỆN NGỌC",
+            "createdBy": "vn4000292279",
+            "publicDate": "2023-01-17 11:00:42",
+            "projectName": null,
+            "bidCloseDate": "2023-02-03 16:30:00",
+            "id_muasamcong": "825354f4-5caa-46fb-9d5c-fa886c807590",
+            "tongmuc_dautu": 1213225066.0,
+            "bidNamePlanNew": "PL2200024962",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "NGÂN HÀNG NÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN VIỆT NAM - CHI NHÁNH TỈNH QUẢNG NAM",
+            "createdBy": "vn4000373979",
+            "publicDate": "2024-11-10 15:10:54",
+            "projectName": null,
+            "bidCloseDate": "2024-11-16 08:00:00",
+            "id_muasamcong": "84245838-d553-443a-9810-3623c8c0f909",
+            "tongmuc_dautu": 1310387000.0,
+            "bidNamePlanNew": "PL2400262463",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2024-12-30 08:25:21",
+            "projectName": "Liên danh thi công đập ngăn mặn 2025",
+            "bidCloseDate": "2025-01-10 08:00:00",
+            "id_muasamcong": "84555383-840b-4940-a574-e14b69368074",
+            "tongmuc_dautu": 1315691523.0,
+            "bidNamePlanNew": "PL2400323434",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2023-08-17 14:16:34",
+            "projectName": null,
+            "bidCloseDate": "2023-08-28 08:00:00",
+            "id_muasamcong": "86d1d8d4-fb24-49ec-8ec9-f81db6edc2bb",
+            "tongmuc_dautu": 2961260464.0,
+            "bidNamePlanNew": "PL2300075845",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2022-12-02 16:34:09",
+            "projectName": "LIÊN DANH CÔNG TY TNHH THƯƠNG MAI & XÂY DỰNG PHÚC ANH NHÂN VÀ CÔNG TY CỔ PHẦN PHÁT TRIỂN QUẢNG NAM",
+            "bidCloseDate": "2022-12-22 08:00:00",
+            "id_muasamcong": "8a51c83a-5187-43e2-b03c-4bc18b52e4ea",
+            "tongmuc_dautu": 48205003000.0,
+            "bidNamePlanNew": "PL2200062345",
+            "dotbien_hatang": "Thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2023-12-29 15:05:31",
+            "projectName": "Liên danh Phước Thịnh Phát – Phú Thành Hưng",
+            "bidCloseDate": "2024-01-10 08:30:00",
+            "id_muasamcong": "8b76c065-3ab5-486f-a07e-87d4dcff2f2d",
+            "tongmuc_dautu": 5562558440.0,
+            "bidNamePlanNew": "PL2300240510",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "thi công xây dựng công trình",
+            "chudautu": "Trung tâm Y tế Thị xã Điện Bàn",
+            "createdBy": "vn4001233910",
+            "publicDate": "2024-09-26 16:47:59",
+            "projectName": null,
+            "bidCloseDate": "2024-10-03 14:00:00",
+            "id_muasamcong": "8c4da1bc-830f-404e-9241-4941cca9e989",
+            "tongmuc_dautu": 610214769.0,
+            "bidNamePlanNew": "PL2400160187",
+            "dotbien_hatang": "thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2022-11-17 14:05:54",
+            "projectName": null,
+            "bidCloseDate": "2022-11-28 08:00:00",
+            "id_muasamcong": "8c8b6d02-aba5-49bb-97bd-7ce016000749",
+            "tongmuc_dautu": 9090518041.0,
+            "bidNamePlanNew": "PL2200033985",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp hạng mục hệ thống điện chiếu sáng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2022-10-29 07:39:10",
+            "projectName": null,
+            "bidCloseDate": "2022-11-08 08:00:00",
+            "id_muasamcong": "8d38f0bb-3635-4b84-8e24-af2331a501e8",
+            "tongmuc_dautu": 4598285000.0,
+            "bidNamePlanNew": "PL2200030895",
+            "dotbien_hatang": "Thi công xây lắp hạng mục hệ thống điện chiếu sáng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Uỷ ban nhân dân xã Điện Tiến",
+            "createdBy": "vn4001247952",
+            "publicDate": "2025-01-23 14:17:25",
+            "projectName": null,
+            "bidCloseDate": "2025-02-10 07:00:00",
+            "id_muasamcong": "8ef5d817-f114-4676-ab1c-2f43b07c8bdf",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500006851",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "TRƯỜNG THPT LƯƠNG THẾ VINH",
+            "createdBy": "vn4001003191",
+            "publicDate": "2023-10-20 15:15:41",
+            "projectName": null,
+            "bidCloseDate": "2023-10-30 17:00:00",
+            "id_muasamcong": "902ca778-4cb6-4494-a141-04c79117b795",
+            "tongmuc_dautu": 991989000.0,
+            "bidNamePlanNew": "PL2300196788",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình Trường THPT Nguyễn Duy Hiệu; Hạng mục: Sửa chữa Khu nhà xe học sinh, \nSửa la phông mái hiên tầng 2 phòng tin học, phòng truyền thống.",
+            "chudautu": "CÔNG TY TNHH XÂY DỰNG THƯƠNG MẠI NAM SÀO NAM",
+            "createdBy": "vn4001190216",
+            "publicDate": "2023-04-10 10:20:09",
+            "projectName": null,
+            "bidCloseDate": "2023-04-13 14:00:00",
+            "id_muasamcong": "90dc8fdf-d10e-4cbd-a065-64a27cac03d7",
+            "tongmuc_dautu": 128269000.0,
+            "bidNamePlanNew": "PL2300047791",
+            "dotbien_hatang": "Thi công xây dựng công trình Trường THPT Nguyễn Duy Hiệu; Hạng mục: Sửa chữa Khu nhà xe học sinh, \nSửa la phông mái hiên tầng 2 phòng tin học, phòng truyền thống.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Điện Hòa",
+            "createdBy": "vn4001247952",
+            "publicDate": "2023-01-14 11:41:03",
+            "projectName": null,
+            "bidCloseDate": "2023-02-01 07:00:00",
+            "id_muasamcong": "916df530-5cc2-49cb-a3da-50801e9a768e",
+            "tongmuc_dautu": 2580003000.0,
+            "bidNamePlanNew": "PL2300005813",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói số 1: Thi công xây dựng và lắp đặt thiết bị công trình",
+            "chudautu": "TÒA ÁN NHÂN DÂN THỊ XÃ ĐIỆN BÀN",
+            "createdBy": "vn3213000758",
+            "publicDate": "2024-10-02 16:35:51",
+            "projectName": "SN-CTM",
+            "bidCloseDate": "2024-10-11 08:30:00",
+            "id_muasamcong": "91f36099-b5f7-478e-a7bf-21541b27a045",
+            "tongmuc_dautu": 1642264874.0,
+            "bidNamePlanNew": "PL2400197215",
+            "dotbien_hatang": "Gói số 1: Thi công xây dựng và lắp đặt thiết bị công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Uỷ ban nhân dân xã Điện Tiến",
+            "createdBy": "vn0401990234",
+            "publicDate": "2022-10-07 17:06:14",
+            "projectName": null,
+            "bidCloseDate": "2022-10-18 08:00:00",
+            "id_muasamcong": "9210a1bd-a24f-44f2-9dc1-61c9a3f02ed4",
+            "tongmuc_dautu": 1118309858.0,
+            "bidNamePlanNew": "PL2200011668",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2024-02-02 16:51:02",
+            "projectName": "Liên danh Đường vành đai phía Bắc tỉnh Quảng Nam",
+            "bidCloseDate": "2024-02-28 08:00:00",
+            "id_muasamcong": "93300bb3-be82-445e-a678-49fc0c45497f",
+            "tongmuc_dautu": 375367462000.0,
+            "bidNamePlanNew": "PL2300196043",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "Trung tâm Văn hóa - Thể thao và Truyền thanh - Truyền hình thị xã Điện Bàn",
+            "createdBy": "vn0402161448",
+            "publicDate": "2024-10-16 16:49:19",
+            "projectName": "Media Led Miền Trung",
+            "bidCloseDate": "2024-10-23 16:50:00",
+            "id_muasamcong": "95faf79d-745a-42de-aaba-1ea02d174326",
+            "tongmuc_dautu": 1262000000.0,
+            "bidNamePlanNew": "PL2400218262",
+            "dotbien_hatang": "Thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã ĐIện Minh",
+            "createdBy": "vnz000024622",
+            "publicDate": "2023-02-03 16:55:51",
+            "projectName": null,
+            "bidCloseDate": "2023-02-13 17:00:00",
+            "id_muasamcong": "97dc01d4-6345-4b85-bc44-7adb9a43a930",
+            "tongmuc_dautu": 1129772000.0,
+            "bidNamePlanNew": "PL2300010473",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "CÔNG TY TNHH MỘT THÀNH VIÊN KHAI THÁC THỦY LỢI QUẢNG NAM ",
+            "createdBy": "vn4000472899",
+            "publicDate": "2023-11-13 15:49:36",
+            "projectName": null,
+            "bidCloseDate": "2023-11-24 07:00:00",
+            "id_muasamcong": "9804479d-d4a0-4b34-8af0-3f178fcba64f",
+            "tongmuc_dautu": 937045000.0,
+            "bidNamePlanNew": "PL2300184646",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "TRƯỜNG PHỔ THÔNG TRUNG HỌC PHẠM PHÚ THỨ",
+            "createdBy": "vn4001170315",
+            "publicDate": "2024-10-28 13:41:34",
+            "projectName": "Liên danh xây dựng Trường THPT Phạm Phú Thứ",
+            "bidCloseDate": "2024-11-02 06:00:00",
+            "id_muasamcong": "98830c85-96e5-4c35-97ff-637a465e3ea8",
+            "tongmuc_dautu": 712784931.0,
+            "bidNamePlanNew": "PL2400230313",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "UBND phường Vĩnh Điện",
+            "createdBy": "vn0402079779",
+            "publicDate": "2023-09-22 14:27:21",
+            "projectName": null,
+            "bidCloseDate": "2023-10-02 15:00:00",
+            "id_muasamcong": "9a289ae3-f233-4fcf-b34a-97ef73c54529",
+            "tongmuc_dautu": 5135540560.0,
+            "bidNamePlanNew": "PL2300162284",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và cung cấp lắp đặt thiết bị công trình",
+            "chudautu": "Phòng Giao dịch Ngân hàng Chính sách xã hội Thị xã Điện Bàn",
+            "createdBy": "vn4001133602",
+            "publicDate": "2024-10-04 22:12:59",
+            "projectName": null,
+            "bidCloseDate": "2024-10-14 09:30:00",
+            "id_muasamcong": "9b878e51-03d3-4a30-9796-e80707e08318",
+            "tongmuc_dautu": 2695050000.0,
+            "bidNamePlanNew": "PL2400195500",
+            "dotbien_hatang": "Thi công xây dựng và cung cấp lắp đặt thiết bị công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "UỶ BAN NHÂN DÂN XÃ ĐIỆN TRUNG",
+            "createdBy": "vn4001247952",
+            "publicDate": "2023-09-28 17:03:24",
+            "projectName": null,
+            "bidCloseDate": "2023-10-08 17:05:00",
+            "id_muasamcong": "9c3d32c5-9161-451e-a539-fa4af25e72b4",
+            "tongmuc_dautu": 5243970000.0,
+            "bidNamePlanNew": "PL2300171543",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2023-11-01 09:03:24",
+            "projectName": "Liên danh Hải Đăng Khoa - Huỳnh Gia Tín",
+            "bidCloseDate": "2023-11-13 08:00:00",
+            "id_muasamcong": "9db135a2-db0b-4036-a134-2428b9de9c23",
+            "tongmuc_dautu": 1612686000.0,
+            "bidNamePlanNew": "PL2300185729",
+            "dotbien_hatang": "thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Trường THPT Nguyễn Duy Hiệu",
+            "createdBy": "vn4001170315",
+            "publicDate": "2024-08-31 10:20:07",
+            "projectName": null,
+            "bidCloseDate": "2024-09-11 06:00:00",
+            "id_muasamcong": "9e9f0c37-b710-49b7-9ce8-7b581081b9fc",
+            "tongmuc_dautu": 674892000.0,
+            "bidNamePlanNew": "PL2400169345",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Cung cấp vật tư (trừ vật tư A cấp) và thi công xây lắp phần lưới điện",
+            "chudautu": "CHI NHÁNH TỔNG CÔNG TY ĐIỆN LỰC MIỀN TRUNG - CÔNG TY ĐIỆN LỰC QUẢNG NAM ",
+            "createdBy": "vnz000022501-09",
+            "publicDate": "2023-01-16 13:52:12",
+            "projectName": null,
+            "bidCloseDate": "2023-02-02 14:30:00",
+            "id_muasamcong": "a1bacdb6-501f-4ad6-983e-b7d6798d181d",
+            "tongmuc_dautu": 4081427600.0,
+            "bidNamePlanNew": "PL2200048190",
+            "dotbien_hatang": "Cung cấp vật tư (trừ vật tư A cấp) và thi công xây lắp phần lưới điện",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2023-06-26 14:58:14",
+            "projectName": null,
+            "bidCloseDate": "2023-07-06 08:00:00",
+            "id_muasamcong": "a49187cc-9dc9-4799-8ede-ac79c3da3bdd",
+            "tongmuc_dautu": 5904719000.0,
+            "bidNamePlanNew": "PL2300040136",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "Ủy ban nhân dân xã Điện Hòa",
+            "createdBy": "vn4001230719",
+            "publicDate": "2023-12-06 08:13:48",
+            "projectName": "Liên danh Phan Kha",
+            "bidCloseDate": "2023-12-16 08:30:00",
+            "id_muasamcong": "a537e923-c5d5-42ed-a447-cafdb659cc62",
+            "tongmuc_dautu": 9589286434.0,
+            "bidNamePlanNew": "PL2300243662",
+            "dotbien_hatang": "Thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2024-10-11 15:42:10",
+            "projectName": "Liên danh thi công Khu công viên phường Điện Ngọc",
+            "bidCloseDate": "2024-10-21 08:00:00",
+            "id_muasamcong": "a7af36f6-8674-4d61-8bf6-882e3c519356",
+            "tongmuc_dautu": 962639514.0,
+            "bidNamePlanNew": "PL2400219833",
+            "dotbien_hatang": "Thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "UBND phường Điện Nam Đông",
+            "createdBy": "vn4001230719",
+            "publicDate": "2023-06-08 07:45:59",
+            "projectName": null,
+            "bidCloseDate": "2023-06-15 09:15:00",
+            "id_muasamcong": "a7e47bed-7970-4a36-90df-4a50dbcee7b1",
+            "tongmuc_dautu": 953013313.0,
+            "bidNamePlanNew": "PL2300082968",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "Phòng Văn hóa và Thông tin thị xã Điện Bàn",
+            "createdBy": "vnz000026557",
+            "publicDate": "2024-08-02 14:24:47",
+            "projectName": null,
+            "bidCloseDate": "2024-08-12 10:00:00",
+            "id_muasamcong": "a842e301-cf54-4c85-858d-4b2d4adb4fdb",
+            "tongmuc_dautu": 1752455972.0,
+            "bidNamePlanNew": "PL2400138618",
+            "dotbien_hatang": "Thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Trung tâm Văn hóa - Thể thao và Truyền thanh - Truyền hình thị xã Điện Bàn",
+            "createdBy": "vn0401989542",
+            "publicDate": "2024-12-24 17:08:50",
+            "projectName": null,
+            "bidCloseDate": "2025-01-02 09:00:00",
+            "id_muasamcong": "a968e254-75f9-4121-829e-7c88892a6e90",
+            "tongmuc_dautu": 5655990000.0,
+            "bidNamePlanNew": "PL2400328626",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp và lắp đặt thiết bị",
+            "chudautu": "NGÂN HÀNG NÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN VIỆT NAM - CHI NHÁNH TỈNH QUẢNG NAM",
+            "createdBy": "vn4001230719",
+            "publicDate": "2022-10-21 16:37:08",
+            "projectName": null,
+            "bidCloseDate": "2022-10-28 16:45:00",
+            "id_muasamcong": "a971d7be-3955-43ac-a25a-585e4e9096a3",
+            "tongmuc_dautu": 2751345091.0,
+            "bidNamePlanNew": "PL2200024985",
+            "dotbien_hatang": "Thi công xây lắp và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2023-08-04 16:47:13",
+            "projectName": null,
+            "bidCloseDate": "2023-08-14 08:00:00",
+            "id_muasamcong": "ade13612-c547-4452-a26f-e1de60fe99d5",
+            "tongmuc_dautu": 1841496000.0,
+            "bidNamePlanNew": "PL2300127579",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Trung tâm Văn hóa - Thể thao và Truyền thanh-Truyền hình thị xã Điện Bàn",
+            "createdBy": "vn4001170770",
+            "publicDate": "2023-12-19 11:00:02",
+            "projectName": null,
+            "bidCloseDate": "2023-12-28 14:00:00",
+            "id_muasamcong": "b0f59b9c-08aa-4058-93b4-4230ec3ef88d",
+            "tongmuc_dautu": 7851999000.0,
+            "bidNamePlanNew": "PL2300255897",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Trung tâm Phát triển quỹ đất thị xã Điện Bàn",
+            "createdBy": "vn0401852442",
+            "publicDate": "2023-12-13 15:04:15",
+            "projectName": null,
+            "bidCloseDate": "2023-12-25 07:00:00",
+            "id_muasamcong": "bbe585d1-a6d1-42ac-b7eb-0e91c5bcd762",
+            "tongmuc_dautu": 1899997000.0,
+            "bidNamePlanNew": "20220509627",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01/XL: Cung cấp vật tư (trừ vật tư A cấp) và thi công xây lắp",
+            "chudautu": "CHI NHÁNH TỔNG CÔNG TY ĐIỆN LỰC MIỀN TRUNG - CÔNG TY ĐIỆN LỰC QUẢNG NAM ",
+            "createdBy": "vnz000022501-09",
+            "publicDate": "2023-01-17 09:40:35",
+            "projectName": null,
+            "bidCloseDate": "2023-01-31 08:29:00",
+            "id_muasamcong": "c027943c-eab7-401e-921e-98f869b5d4ce",
+            "tongmuc_dautu": 6726265168.0,
+            "bidNamePlanNew": "PL2200074716",
+            "dotbien_hatang": "Gói thầu số 01/XL: Cung cấp vật tư (trừ vật tư A cấp) và thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "ủy ban nhân dân phường Điện An",
+            "createdBy": "vn4000292247",
+            "publicDate": "2022-10-19 19:19:03",
+            "projectName": null,
+            "bidCloseDate": "2022-10-24 09:30:00",
+            "id_muasamcong": "c03af4b4-2c74-4746-bb87-1b9699352822",
+            "tongmuc_dautu": 1313080627.0,
+            "bidNamePlanNew": "PL2200006668",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "UBND phường Điện Thắng Trung",
+            "createdBy": "vn4001230719",
+            "publicDate": "2024-08-21 17:38:37",
+            "projectName": "Liên danh thi công Nhà bia ghi danh liệt sỹ phường Điện Thắng Trung",
+            "bidCloseDate": "2024-08-31 10:30:00",
+            "id_muasamcong": "c25fa47f-0b11-49c9-8d27-4d228516e7b2",
+            "tongmuc_dautu": 1098106000.0,
+            "bidNamePlanNew": "PL2400133481",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Giám sát thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2023-11-02 08:23:27",
+            "projectName": null,
+            "bidCloseDate": "2023-11-22 08:05:00",
+            "id_muasamcong": "c34f54ab-05b4-49e8-9f0c-2b00c55d87e3",
+            "tongmuc_dautu": 1370334000.0,
+            "bidNamePlanNew": "20220584330",
+            "dotbien_hatang": "Giám sát thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "UBND xã Điện Thọ",
+            "createdBy": "vn4001230719",
+            "publicDate": "2024-09-13 11:21:31",
+            "projectName": null,
+            "bidCloseDate": "2024-09-22 16:30:00",
+            "id_muasamcong": "c3879cb5-642c-432f-a47f-29f539d6bdff",
+            "tongmuc_dautu": 5689984512.0,
+            "bidNamePlanNew": "PL2400144369",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "UBND phường Điện Nam Đông",
+            "createdBy": "vn4000425708",
+            "publicDate": "2023-06-16 17:00:11",
+            "projectName": null,
+            "bidCloseDate": "2023-06-26 17:00:00",
+            "id_muasamcong": "c40df126-e020-4970-bd7c-e800926b5843",
+            "tongmuc_dautu": 2319280000.0,
+            "bidNamePlanNew": "PL2300097176",
+            "dotbien_hatang": "Thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2024-08-30 09:18:39",
+            "projectName": "Liên danh thi công Quảng trường Trung tâm hành chính xã Điện Trung",
+            "bidCloseDate": "2024-09-09 08:00:00",
+            "id_muasamcong": "c4adbdf6-ead5-48b5-92bb-bda025195fa0",
+            "tongmuc_dautu": 11513162356.0,
+            "bidNamePlanNew": "PL2400087940",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy Ban Nhân Dân Phường Điện Dương",
+            "createdBy": "vnz000026529",
+            "publicDate": "2022-12-02 15:20:01",
+            "projectName": null,
+            "bidCloseDate": "2022-12-12 09:00:00",
+            "id_muasamcong": "c73450b1-be94-45c1-beb7-de839170b4e5",
+            "tongmuc_dautu": 1464000000.0,
+            "bidNamePlanNew": "PL2200059142",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "UỶ BAN NHÂN DÂN PHƯỜNG ĐIỆN NAM TRUNG",
+            "createdBy": "vn4001230719",
+            "publicDate": "2024-09-25 17:59:06",
+            "projectName": "Liên danh Nghĩa trang liệt sĩ phường Điện Nam Trung",
+            "bidCloseDate": "2024-10-04 15:30:00",
+            "id_muasamcong": "ca5be99b-08ac-4cb2-80e5-3f8ebb8f2754",
+            "tongmuc_dautu": 7347717000.0,
+            "bidNamePlanNew": "PL2400153993",
+            "dotbien_hatang": "Thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Giám sát thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2022-11-09 17:23:22",
+            "projectName": "Liên danh Ngọc Hân - Sulico",
+            "bidCloseDate": "2022-11-29 17:30:00",
+            "id_muasamcong": "cca1e706-d349-4164-8b6b-29bca7d3d043",
+            "tongmuc_dautu": 2538117680.0,
+            "bidNamePlanNew": "PL2200038341",
+            "dotbien_hatang": "Giám sát thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2024-04-11 10:08:12",
+            "projectName": "Liên danh Phú Thành Hưng - Hy Mã ",
+            "bidCloseDate": "2024-04-19 08:00:00",
+            "id_muasamcong": "cd21f115-6914-42a4-9c6c-511db4bbd1da",
+            "tongmuc_dautu": 13626790263.0,
+            "bidNamePlanNew": "PL2400043029",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và thiết bị",
+            "chudautu": "Trung tâm Phát triển quỹ đất thị xã Điện Bàn",
+            "createdBy": "vn0402161448",
+            "publicDate": "2024-10-09 11:09:57",
+            "projectName": "Liên danh thi công Khu dân cư Đồng Hạnh, xã Điện Minh",
+            "bidCloseDate": "2024-10-28 13:30:00",
+            "id_muasamcong": "ce7506ab-fa25-4445-bd51-73ed0f4e1b46",
+            "tongmuc_dautu": 19996775360.0,
+            "bidNamePlanNew": "PL2200012724",
+            "dotbien_hatang": "Thi công xây dựng và thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Điện Hòa",
+            "createdBy": "vn0401989542",
+            "publicDate": "2024-11-23 14:33:24",
+            "projectName": null,
+            "bidCloseDate": "2024-11-30 08:00:00",
+            "id_muasamcong": "d0559095-062e-43c4-b276-b1a43acc5438",
+            "tongmuc_dautu": 198321842.0,
+            "bidNamePlanNew": "PL2400278266",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "ủy ban nhân dân phường Điện An",
+            "createdBy": "vn4000292247",
+            "publicDate": "2022-11-23 17:56:17",
+            "projectName": null,
+            "bidCloseDate": "2022-12-03 18:00:00",
+            "id_muasamcong": "d7f43cbe-74a5-4994-8397-c520b8034952",
+            "tongmuc_dautu": 3590187000.0,
+            "bidNamePlanNew": "PL2200041627",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01/XL: Cung cấp vật tư (trừ vật tư A cấp) và thi công xây lắp phần lưới điện",
+            "chudautu": "CHI NHÁNH TỔNG CÔNG TY ĐIỆN LỰC MIỀN TRUNG - CÔNG TY ĐIỆN LỰC QUẢNG NAM ",
+            "createdBy": "vnz000022501-23",
+            "publicDate": "2023-12-01 08:47:48",
+            "projectName": null,
+            "bidCloseDate": "2023-12-11 14:00:00",
+            "id_muasamcong": "d89d9d17-7023-465e-acbf-2b4eda481316",
+            "tongmuc_dautu": 4516176000.0,
+            "bidNamePlanNew": "PL2300211454",
+            "dotbien_hatang": "Gói thầu số 01/XL: Cung cấp vật tư (trừ vật tư A cấp) và thi công xây lắp phần lưới điện",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01/XL: Cung cấp vật tư (trừ vật tư A cấp) và thi công xây lắp",
+            "chudautu": "CHI NHÁNH TỔNG CÔNG TY ĐIỆN LỰC MIỀN TRUNG - CÔNG TY ĐIỆN LỰC QUẢNG NAM ",
+            "createdBy": "vnz000022501-13",
+            "publicDate": "2024-11-05 08:11:44",
+            "projectName": "LIÊN DANH H.A.C",
+            "bidCloseDate": "2024-11-14 09:30:00",
+            "id_muasamcong": "db0e2bc4-ba60-445b-aa0e-45d78d84a1af",
+            "tongmuc_dautu": 10029253608.33,
+            "bidNamePlanNew": "PL2400228466",
+            "dotbien_hatang": "Gói thầu số 01/XL: Cung cấp vật tư (trừ vật tư A cấp) và thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng hạng mục bổ sung: San nền, sân nền, tường rào cổng ngõ, sơn lại các khối phòng học cũ và các hạng mục khác",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2023-04-10 15:06:41",
+            "projectName": null,
+            "bidCloseDate": "2023-04-20 08:00:00",
+            "id_muasamcong": "dc140b52-5007-44eb-9f3f-ff8863593a4e",
+            "tongmuc_dautu": 1560191000.0,
+            "bidNamePlanNew": "PL2300048032",
+            "dotbien_hatang": "Thi công xây dựng hạng mục bổ sung: San nền, sân nền, tường rào cổng ngõ, sơn lại các khối phòng học cũ và các hạng mục khác",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "TRƯỜNG THPT NGUYỄN KHUYẾN",
+            "createdBy": "vn4001170315",
+            "publicDate": "2024-08-31 11:08:43",
+            "projectName": null,
+            "bidCloseDate": "2024-09-11 06:00:00",
+            "id_muasamcong": "dc906734-b020-407e-a471-ee47942c4866",
+            "tongmuc_dautu": 785151000.0,
+            "bidNamePlanNew": "PL2400173605",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "UBND xã Điện Phước",
+            "createdBy": "vn4001230719",
+            "publicDate": "2022-12-01 16:55:05",
+            "projectName": null,
+            "bidCloseDate": "2022-12-12 08:00:00",
+            "id_muasamcong": "dda5ac86-2494-4738-b671-5f5eeb6da3cd",
+            "tongmuc_dautu": 4323382939.0,
+            "bidNamePlanNew": "PL2200050635",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "UỶ BAN NHÂN DÂN XÃ ĐIỆN TRUNG",
+            "createdBy": "vn4001230719",
+            "publicDate": "2023-09-05 23:23:15",
+            "projectName": null,
+            "bidCloseDate": "2023-09-16 08:30:00",
+            "id_muasamcong": "df7f2772-40ee-4367-b67a-0346e045c94d",
+            "tongmuc_dautu": 1267279756.0,
+            "bidNamePlanNew": "PL2300157955",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2024-11-07 15:58:09",
+            "projectName": null,
+            "bidCloseDate": "2024-11-18 08:00:00",
+            "id_muasamcong": "e2660822-00ce-4144-a651-4165a502ee83",
+            "tongmuc_dautu": 1285921790.0,
+            "bidNamePlanNew": "PL2300264369",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2023-10-20 14:45:16",
+            "projectName": null,
+            "bidCloseDate": "2023-10-30 08:00:00",
+            "id_muasamcong": "e2f3337c-40f7-47da-9ba3-8c59b9903aa3",
+            "tongmuc_dautu": 5844206410.0,
+            "bidNamePlanNew": "PL2300180952",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "CÔNG TY TNHH DUY GIA HƯNG",
+            "createdBy": "vn0401989542-01",
+            "publicDate": "2023-11-18 10:54:59",
+            "projectName": null,
+            "bidCloseDate": "2023-11-28 11:00:00",
+            "id_muasamcong": "e42344aa-8e74-46bd-bf6f-e88dccf326a6",
+            "tongmuc_dautu": 1006868000.0,
+            "bidNamePlanNew": "PL2300214729",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2024-11-13 09:45:12",
+            "projectName": null,
+            "bidCloseDate": "2024-11-27 14:00:00",
+            "id_muasamcong": "e5e29f8e-4360-461c-8d7a-b06731285aa1",
+            "tongmuc_dautu": 2798029000.0,
+            "bidNamePlanNew": "PL2400249997",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Uỷ ban nhân dân xã Điện Phương",
+            "createdBy": "vn0402079779",
+            "publicDate": "2022-11-07 17:02:13",
+            "projectName": null,
+            "bidCloseDate": "2022-11-17 17:30:00",
+            "id_muasamcong": "e768019a-52ee-463e-b2dc-2c45d6a22cb6",
+            "tongmuc_dautu": 1779000000.0,
+            "bidNamePlanNew": "PL2200038804",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng, lắp đặt thiết bị",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2023-11-01 14:53:19",
+            "projectName": "Liên danh Công Kin Group",
+            "bidCloseDate": "2023-11-21 08:00:00",
+            "id_muasamcong": "e90656a7-d68a-4abd-9eb5-e7d4201c3547",
+            "tongmuc_dautu": 75435342000.0,
+            "bidNamePlanNew": "20220584330",
+            "dotbien_hatang": "Thi công xây dựng, lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "UỶ BAN NHÂN DÂN XÃ ĐIỆN TRUNG",
+            "createdBy": "vn4001247952",
+            "publicDate": "2023-08-22 17:59:42",
+            "projectName": null,
+            "bidCloseDate": "2023-09-01 18:30:00",
+            "id_muasamcong": "ec60512e-9418-42c7-b8a1-05677ec3a12a",
+            "tongmuc_dautu": 1455344000.0,
+            "bidNamePlanNew": "PL2300148910",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "UỶ BAN NHÂN DÂN XÃ ĐIỆN TRUNG",
+            "createdBy": "vn0402079779",
+            "publicDate": "2024-03-27 14:11:18",
+            "projectName": null,
+            "bidCloseDate": "2024-04-05 14:30:00",
+            "id_muasamcong": "ee326d28-3b39-4495-8522-6e1ea627e1d4",
+            "tongmuc_dautu": 1598735000.0,
+            "bidNamePlanNew": "PL2400028841",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2024-05-07 14:40:03",
+            "projectName": "Liên danh HĐK - HGT",
+            "bidCloseDate": "2024-05-17 08:00:00",
+            "id_muasamcong": "ee84054f-6481-48b7-865e-f57d53bec09a",
+            "tongmuc_dautu": 1668668868.0,
+            "bidNamePlanNew": "PL2300242911",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "ủy ban nhân dân phường Điện An",
+            "createdBy": "vn4000292247",
+            "publicDate": "2022-10-19 19:25:59",
+            "projectName": null,
+            "bidCloseDate": "2022-10-24 14:00:00",
+            "id_muasamcong": "efa22324-fd25-460b-b172-bbd92167731f",
+            "tongmuc_dautu": 1232140830.0,
+            "bidNamePlanNew": "PL2200006667",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Trung tâm Phát triển quỹ đất thị xã Điện Bàn",
+            "createdBy": "vn0402161448",
+            "publicDate": "2023-12-14 16:11:27",
+            "projectName": null,
+            "bidCloseDate": "2023-12-27 09:00:00",
+            "id_muasamcong": "f4b47317-4cd4-42e6-9f92-d692f3f226fb",
+            "tongmuc_dautu": 3992376000.0,
+            "bidNamePlanNew": "PL2300163791",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "TRƯỜNG THPT LƯƠNG THẾ VINH",
+            "createdBy": "vn4001003191",
+            "publicDate": "2024-10-18 10:43:32",
+            "projectName": null,
+            "bidCloseDate": "2024-10-29 16:30:00",
+            "id_muasamcong": "f922d83c-d52b-461a-b573-1ed332168568",
+            "tongmuc_dautu": 224438000.0,
+            "bidNamePlanNew": "PL2400214967",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "UBND PHƯỜNG ĐIỆN NAM ĐÔNG",
+            "createdBy": "vn0401658692",
+            "publicDate": "2022-11-24 08:42:20",
+            "projectName": null,
+            "bidCloseDate": "2022-12-04 16:16:00",
+            "id_muasamcong": "f9899252-efa8-4623-9490-29a4359a5b0c",
+            "tongmuc_dautu": 1564618531.0,
+            "bidNamePlanNew": "PL2200054042",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Trường Cao Đẳng Quảng Nam",
+            "createdBy": "vn4001170315",
+            "publicDate": "2024-08-09 15:28:33",
+            "projectName": "Liên danh thi công xây dựng",
+            "bidCloseDate": "2024-08-17 06:00:00",
+            "id_muasamcong": "f991d3c9-96bf-48ef-a835-b5493489093a",
+            "tongmuc_dautu": 664570000.0,
+            "bidNamePlanNew": "PL2400141263",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thị xã Điện Bàn",
+            "createdBy": "vn4000607899",
+            "publicDate": "2022-11-10 09:30:33",
+            "projectName": "Liên danh Công ty Cổ phần xây dựng giao thông Quảng Nam và Công ty TNHH Xây dựng và Thương mại Nhất Huy",
+            "bidCloseDate": "2022-11-30 10:00:00",
+            "id_muasamcong": "fd535a3f-511c-40a8-a17e-a9dc99e932ad",
+            "tongmuc_dautu": 107975011218.0,
+            "bidNamePlanNew": "PL2200038341",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Bệnh Viện Đa Khoa Khu Vực Quảng Nam",
+            "createdBy": "vn4000378649",
+            "publicDate": "2022-10-19 09:53:51",
+            "projectName": null,
+            "bidCloseDate": "2022-10-29 13:30:00",
+            "id_muasamcong": "fd856609-7561-45b2-899f-23a6325d7afc",
+            "tongmuc_dautu": 3148496894.3715,
+            "bidNamePlanNew": "PL2200017386",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "CÔNG TY TNHH GIÁM ĐỊNH VÀ KIỂM ĐỊNH TÂM VIỆT",
+            "createdBy": "vn0401852442",
+            "publicDate": "2022-12-11 10:30:29",
+            "projectName": null,
+            "bidCloseDate": "2022-12-21 10:30:00",
+            "id_muasamcong": "ffa8921d-38fb-43d1-a23f-748219d24ac6",
+            "tongmuc_dautu": 1600522000.0,
+            "bidNamePlanNew": "PL2200036340",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        }
+    ],
+    "so_dot_bien": 128,
+    "thu_tu_sap_xep": 127,
+    "polygon": [
+        [
+            [
+                108.262086,
+                15.965328
+            ],
+            [
+                108.262714,
+                15.965256
+            ],
+            [
+                108.263668,
+                15.965295
+            ],
+            [
+                108.264346,
+                15.965647
+            ],
+            [
+                108.265618,
+                15.96635
+            ],
+            [
+                108.26665,
+                15.966732
+            ],
+            [
+                108.267466,
+                15.966869
+            ],
+            [
+                108.267571,
+                15.96516
+            ],
+            [
+                108.267644,
+                15.96384
+            ],
+            [
+                108.267731,
+                15.963472
+            ],
+            [
+                108.268258,
+                15.962845
+            ],
+            [
+                108.270701,
+                15.960153
+            ],
+            [
+                108.273045,
+                15.959816
+            ],
+            [
+                108.274085,
+                15.963632
+            ],
+            [
+                108.275041,
+                15.963564
+            ],
+            [
+                108.276815,
+                15.963508
+            ],
+            [
+                108.27848,
+                15.963423
+            ],
+            [
+                108.279843,
+                15.963493
+            ],
+            [
+                108.281693,
+                15.96386
+            ],
+            [
+                108.283243,
+                15.964276
+            ],
+            [
+                108.286636,
+                15.965507
+            ],
+            [
+                108.288988,
+                15.967121
+            ],
+            [
+                108.289435,
+                15.967458
+            ],
+            [
+                108.290124,
+                15.966319
+            ],
+            [
+                108.296333,
+                15.956544
+            ],
+            [
+                108.300523,
+                15.950961
+            ],
+            [
+                108.305998,
+                15.944162
+            ],
+            [
+                108.313255,
+                15.936415
+            ],
+            [
+                108.319526,
+                15.930409
+            ],
+            [
+                108.32326,
+                15.927246
+            ],
+            [
+                108.328007,
+                15.92305
+            ],
+            [
+                108.330587,
+                15.921222
+            ],
+            [
+                108.329081,
+                15.918872
+            ],
+            [
+                108.327318,
+                15.91616
+            ],
+            [
+                108.326521,
+                15.914687
+            ],
+            [
+                108.32467,
+                15.910965
+            ],
+            [
+                108.324474,
+                15.910369
+            ],
+            [
+                108.324442,
+                15.909696
+            ],
+            [
+                108.324376,
+                15.908469
+            ],
+            [
+                108.324306,
+                15.907598
+            ],
+            [
+                108.324107,
+                15.90716
+            ],
+            [
+                108.32374,
+                15.907116
+            ],
+            [
+                108.322801,
+                15.907104
+            ],
+            [
+                108.321492,
+                15.907167
+            ],
+            [
+                108.319689,
+                15.907619
+            ],
+            [
+                108.318375,
+                15.908038
+            ],
+            [
+                108.31697,
+                15.908797
+            ],
+            [
+                108.315914,
+                15.910491
+            ],
+            [
+                108.314783,
+                15.912478
+            ],
+            [
+                108.314431,
+                15.913712
+            ],
+            [
+                108.313079,
+                15.913036
+            ],
+            [
+                108.310951,
+                15.911763
+            ],
+            [
+                108.309654,
+                15.910956
+            ],
+            [
+                108.306012,
+                15.908339
+            ],
+            [
+                108.303621,
+                15.906846
+            ],
+            [
+                108.299853,
+                15.904425
+            ],
+            [
+                108.294955,
+                15.90104
+            ],
+            [
+                108.293446,
+                15.900232
+            ],
+            [
+                108.293414,
+                15.900137
+            ],
+            [
+                108.292932,
+                15.898709
+            ],
+            [
+                108.292783,
+                15.89755
+            ],
+            [
+                108.292591,
+                15.893396
+            ],
+            [
+                108.292141,
+                15.890157
+            ],
+            [
+                108.291463,
+                15.888632
+            ],
+            [
+                108.289757,
+                15.886619
+            ],
+            [
+                108.291121,
+                15.885699
+            ],
+            [
+                108.293496,
+                15.883903
+            ],
+            [
+                108.295557,
+                15.882103
+            ],
+            [
+                108.296703,
+                15.880813
+            ],
+            [
+                108.29628,
+                15.876786
+            ],
+            [
+                108.296448,
+                15.876393
+            ],
+            [
+                108.296696,
+                15.876198
+            ],
+            [
+                108.299916,
+                15.873667
+            ],
+            [
+                108.300206,
+                15.873394
+            ],
+            [
+                108.300986,
+                15.873127
+            ],
+            [
+                108.302256,
+                15.872826
+            ],
+            [
+                108.305237,
+                15.872903
+            ],
+            [
+                108.306624,
+                15.873039
+            ],
+            [
+                108.309026,
+                15.873701
+            ],
+            [
+                108.311549,
+                15.874445
+            ],
+            [
+                108.312487,
+                15.874575
+            ],
+            [
+                108.312895,
+                15.87458
+            ],
+            [
+                108.312472,
+                15.872637
+            ],
+            [
+                108.312078,
+                15.871524
+            ],
+            [
+                108.311339,
+                15.870269
+            ],
+            [
+                108.310417,
+                15.868912
+            ],
+            [
+                108.309773,
+                15.868231
+            ],
+            [
+                108.309004,
+                15.867668
+            ],
+            [
+                108.30807,
+                15.867261
+            ],
+            [
+                108.3075,
+                15.867096
+            ],
+            [
+                108.306562,
+                15.867005
+            ],
+            [
+                108.305469,
+                15.866968
+            ],
+            [
+                108.30374,
+                15.867018
+            ],
+            [
+                108.302404,
+                15.867001
+            ],
+            [
+                108.300042,
+                15.867058
+            ],
+            [
+                108.2971,
+                15.867194
+            ],
+            [
+                108.291815,
+                15.867667
+            ],
+            [
+                108.288386,
+                15.867538
+            ],
+            [
+                108.281525,
+                15.867581
+            ],
+            [
+                108.280013,
+                15.86739
+            ],
+            [
+                108.278771,
+                15.866943
+            ],
+            [
+                108.276868,
+                15.866056
+            ],
+            [
+                108.274435,
+                15.864731
+            ],
+            [
+                108.271915,
+                15.863362
+            ],
+            [
+                108.269001,
+                15.861384
+            ],
+            [
+                108.266653,
+                15.860405
+            ],
+            [
+                108.263552,
+                15.859158
+            ],
+            [
+                108.262404,
+                15.85841
+            ],
+            [
+                108.259843,
+                15.856738
+            ],
+            [
+                108.258785,
+                15.855862
+            ],
+            [
+                108.258261,
+                15.855122
+            ],
+            [
+                108.256072,
+                15.85229
+            ],
+            [
+                108.255637,
+                15.851508
+            ],
+            [
+                108.255171,
+                15.849776
+            ],
+            [
+                108.255362,
+                15.847125
+            ],
+            [
+                108.25546,
+                15.846479
+            ],
+            [
+                108.255715,
+                15.84411
+            ],
+            [
+                108.255728,
+                15.843118
+            ],
+            [
+                108.255426,
+                15.842424
+            ],
+            [
+                108.254685,
+                15.841206
+            ],
+            [
+                108.253029,
+                15.838511
+            ],
+            [
+                108.252815,
+                15.837861
+            ],
+            [
+                108.252729,
+                15.837644
+            ],
+            [
+                108.248074,
+                15.835989
+            ],
+            [
+                108.247768,
+                15.835596
+            ],
+            [
+                108.247774,
+                15.835165
+            ],
+            [
+                108.247964,
+                15.834305
+            ],
+            [
+                108.248024,
+                15.833141
+            ],
+            [
+                108.247909,
+                15.831802
+            ],
+            [
+                108.247784,
+                15.83111
+            ],
+            [
+                108.247653,
+                15.830936
+            ],
+            [
+                108.247342,
+                15.830889
+            ],
+            [
+                108.24379,
+                15.830067
+            ],
+            [
+                108.243122,
+                15.830015
+            ],
+            [
+                108.24254,
+                15.830267
+            ],
+            [
+                108.242269,
+                15.830565
+            ],
+            [
+                108.240132,
+                15.833774
+            ],
+            [
+                108.239859,
+                15.834202
+            ],
+            [
+                108.239855,
+                15.834504
+            ],
+            [
+                108.240118,
+                15.834809
+            ],
+            [
+                108.243961,
+                15.838762
+            ],
+            [
+                108.244444,
+                15.839329
+            ],
+            [
+                108.244483,
+                15.839718
+            ],
+            [
+                108.244255,
+                15.840103
+            ],
+            [
+                108.241256,
+                15.844465
+            ],
+            [
+                108.240577,
+                15.845276
+            ],
+            [
+                108.238454,
+                15.84745
+            ],
+            [
+                108.238096,
+                15.847574
+            ],
+            [
+                108.23716,
+                15.847563
+            ],
+            [
+                108.236582,
+                15.847512
+            ],
+            [
+                108.235963,
+                15.847159
+            ],
+            [
+                108.235283,
+                15.846438
+            ],
+            [
+                108.23358,
+                15.843871
+            ],
+            [
+                108.231701,
+                15.841259
+            ],
+            [
+                108.230909,
+                15.840559
+            ],
+            [
+                108.23051,
+                15.840381
+            ],
+            [
+                108.229795,
+                15.840544
+            ],
+            [
+                108.228765,
+                15.840963
+            ],
+            [
+                108.227291,
+                15.841289
+            ],
+            [
+                108.226131,
+                15.841403
+            ],
+            [
+                108.22453,
+                15.84121
+            ],
+            [
+                108.222665,
+                15.840841
+            ],
+            [
+                108.220538,
+                15.839994
+            ],
+            [
+                108.217576,
+                15.838403
+            ],
+            [
+                108.215789,
+                15.83731
+            ],
+            [
+                108.214601,
+                15.839216
+            ],
+            [
+                108.209762,
+                15.836683
+            ],
+            [
+                108.210725,
+                15.834562
+            ],
+            [
+                108.206858,
+                15.833951
+            ],
+            [
+                108.203654,
+                15.833738
+            ],
+            [
+                108.200275,
+                15.833349
+            ],
+            [
+                108.193424,
+                15.832742
+            ],
+            [
+                108.190619,
+                15.832663
+            ],
+            [
+                108.189193,
+                15.832774
+            ],
+            [
+                108.187272,
+                15.83318
+            ],
+            [
+                108.184281,
+                15.833659
+            ],
+            [
+                108.182142,
+                15.833761
+            ],
+            [
+                108.178579,
+                15.833758
+            ],
+            [
+                108.177424,
+                15.83357
+            ],
+            [
+                108.17636,
+                15.833168
+            ],
+            [
+                108.174453,
+                15.832582
+            ],
+            [
+                108.171786,
+                15.832246
+            ],
+            [
+                108.170228,
+                15.832182
+            ],
+            [
+                108.169022,
+                15.832425
+            ],
+            [
+                108.167922,
+                15.833036
+            ],
+            [
+                108.167515,
+                15.833505
+            ],
+            [
+                108.16697,
+                15.834275
+            ],
+            [
+                108.16642,
+                15.835346
+            ],
+            [
+                108.165638,
+                15.837148
+            ],
+            [
+                108.164945,
+                15.838907
+            ],
+            [
+                108.164433,
+                15.840497
+            ],
+            [
+                108.163741,
+                15.842213
+            ],
+            [
+                108.162917,
+                15.843842
+            ],
+            [
+                108.162144,
+                15.844953
+            ],
+            [
+                108.161197,
+                15.845804
+            ],
+            [
+                108.160117,
+                15.846566
+            ],
+            [
+                108.158949,
+                15.847284
+            ],
+            [
+                108.157106,
+                15.848468
+            ],
+            [
+                108.155443,
+                15.849524
+            ],
+            [
+                108.153737,
+                15.850537
+            ],
+            [
+                108.152305,
+                15.850993
+            ],
+            [
+                108.150291,
+                15.851657
+            ],
+            [
+                108.149353,
+                15.85186
+            ],
+            [
+                108.147614,
+                15.85201
+            ],
+            [
+                108.145789,
+                15.851944
+            ],
+            [
+                108.14568,
+                15.854501
+            ],
+            [
+                108.145878,
+                15.857068
+            ],
+            [
+                108.145297,
+                15.86121
+            ],
+            [
+                108.145029,
+                15.862422
+            ],
+            [
+                108.146482,
+                15.86317
+            ],
+            [
+                108.147482,
+                15.863385
+            ],
+            [
+                108.147503,
+                15.864884
+            ],
+            [
+                108.147452,
+                15.865531
+            ],
+            [
+                108.14724,
+                15.865771
+            ],
+            [
+                108.146486,
+                15.865802
+            ],
+            [
+                108.145148,
+                15.865824
+            ],
+            [
+                108.143849,
+                15.86601
+            ],
+            [
+                108.142337,
+                15.866516
+            ],
+            [
+                108.141664,
+                15.866791
+            ],
+            [
+                108.136659,
+                15.86887
+            ],
+            [
+                108.135956,
+                15.871331
+            ],
+            [
+                108.135818,
+                15.87222
+            ],
+            [
+                108.136958,
+                15.872903
+            ],
+            [
+                108.137782,
+                15.873724
+            ],
+            [
+                108.1379,
+                15.874292
+            ],
+            [
+                108.137924,
+                15.875548
+            ],
+            [
+                108.137809,
+                15.877733
+            ],
+            [
+                108.137676,
+                15.878298
+            ],
+            [
+                108.137336,
+                15.878698
+            ],
+            [
+                108.136324,
+                15.879292
+            ],
+            [
+                108.134429,
+                15.880239
+            ],
+            [
+                108.134214,
+                15.880641
+            ],
+            [
+                108.133951,
+                15.881488
+            ],
+            [
+                108.133859,
+                15.882094
+            ],
+            [
+                108.134021,
+                15.882501
+            ],
+            [
+                108.134435,
+                15.88275
+            ],
+            [
+                108.135101,
+                15.882961
+            ],
+            [
+                108.135768,
+                15.883132
+            ],
+            [
+                108.1361,
+                15.883298
+            ],
+            [
+                108.136546,
+                15.884316
+            ],
+            [
+                108.136527,
+                15.885612
+            ],
+            [
+                108.136395,
+                15.886096
+            ],
+            [
+                108.13618,
+                15.886498
+            ],
+            [
+                108.133224,
+                15.885608
+            ],
+            [
+                108.13207,
+                15.887375
+            ],
+            [
+                108.131243,
+                15.889631
+            ],
+            [
+                108.131074,
+                15.88975
+            ],
+            [
+                108.130571,
+                15.889865
+            ],
+            [
+                108.129896,
+                15.890261
+            ],
+            [
+                108.129426,
+                15.890984
+            ],
+            [
+                108.129146,
+                15.891855
+            ],
+            [
+                108.129148,
+                15.891859
+            ],
+            [
+                108.12989,
+                15.893009
+            ],
+            [
+                108.130914,
+                15.894217
+            ],
+            [
+                108.132136,
+                15.894784
+            ],
+            [
+                108.133179,
+                15.894706
+            ],
+            [
+                108.134991,
+                15.893719
+            ],
+            [
+                108.136233,
+                15.892909
+            ],
+            [
+                108.137184,
+                15.892646
+            ],
+            [
+                108.137747,
+                15.892929
+            ],
+            [
+                108.138193,
+                15.894865
+            ],
+            [
+                108.139107,
+                15.897174
+            ],
+            [
+                108.139052,
+                15.89794
+            ],
+            [
+                108.138888,
+                15.898368
+            ],
+            [
+                108.138182,
+                15.898974
+            ],
+            [
+                108.137063,
+                15.899697
+            ],
+            [
+                108.136293,
+                15.900394
+            ],
+            [
+                108.135972,
+                15.900728
+            ],
+            [
+                108.135968,
+                15.901005
+            ],
+            [
+                108.136091,
+                15.901222
+            ],
+            [
+                108.137095,
+                15.901911
+            ],
+            [
+                108.137752,
+                15.902504
+            ],
+            [
+                108.138188,
+                15.903063
+            ],
+            [
+                108.138399,
+                15.903774
+            ],
+            [
+                108.138485,
+                15.90442
+            ],
+            [
+                108.138417,
+                15.904788
+            ],
+            [
+                108.138058,
+                15.905552
+            ],
+            [
+                108.137509,
+                15.906252
+            ],
+            [
+                108.135839,
+                15.907891
+            ],
+            [
+                108.134806,
+                15.909199
+            ],
+            [
+                108.134108,
+                15.910374
+            ],
+            [
+                108.133678,
+                15.91169
+            ],
+            [
+                108.133406,
+                15.912978
+            ],
+            [
+                108.133295,
+                15.914114
+            ],
+            [
+                108.133288,
+                15.914637
+            ],
+            [
+                108.133597,
+                15.915194
+            ],
+            [
+                108.134507,
+                15.91576
+            ],
+            [
+                108.138943,
+                15.917971
+            ],
+            [
+                108.142678,
+                15.919297
+            ],
+            [
+                108.146055,
+                15.920264
+            ],
+            [
+                108.14782,
+                15.920872
+            ],
+            [
+                108.148729,
+                15.92156
+            ],
+            [
+                108.150006,
+                15.923145
+            ],
+            [
+                108.151526,
+                15.925441
+            ],
+            [
+                108.152209,
+                15.926403
+            ],
+            [
+                108.152375,
+                15.927035
+            ],
+            [
+                108.152511,
+                15.928575
+            ],
+            [
+                108.152228,
+                15.930662
+            ],
+            [
+                108.151771,
+                15.93167
+            ],
+            [
+                108.151351,
+                15.932188
+            ],
+            [
+                108.150966,
+                15.932521
+            ],
+            [
+                108.15052,
+                15.93273
+            ],
+            [
+                108.150013,
+                15.932723
+            ],
+            [
+                108.149417,
+                15.932316
+            ],
+            [
+                108.14901,
+                15.931941
+            ],
+            [
+                108.148474,
+                15.93175
+            ],
+            [
+                108.148158,
+                15.931715
+            ],
+            [
+                108.147521,
+                15.931953
+            ],
+            [
+                108.147201,
+                15.932194
+            ],
+            [
+                108.146942,
+                15.932591
+            ],
+            [
+                108.146871,
+                15.933112
+            ],
+            [
+                108.146977,
+                15.933685
+            ],
+            [
+                108.147048,
+                15.934068
+            ],
+            [
+                108.147912,
+                15.935678
+            ],
+            [
+                108.148509,
+                15.937116
+            ],
+            [
+                108.148715,
+                15.938287
+            ],
+            [
+                108.149474,
+                15.942817
+            ],
+            [
+                108.149789,
+                15.94522
+            ],
+            [
+                108.150354,
+                15.947841
+            ],
+            [
+                108.151518,
+                15.950685
+            ],
+            [
+                108.152563,
+                15.952975
+            ],
+            [
+                108.153154,
+                15.953967
+            ],
+            [
+                108.15605,
+                15.953153
+            ],
+            [
+                108.159372,
+                15.951517
+            ],
+            [
+                108.161298,
+                15.950366
+            ],
+            [
+                108.162079,
+                15.950376
+            ],
+            [
+                108.163283,
+                15.951148
+            ],
+            [
+                108.164403,
+                15.951751
+            ],
+            [
+                108.164924,
+                15.951758
+            ],
+            [
+                108.16519,
+                15.951341
+            ],
+            [
+                108.168712,
+                15.941641
+            ],
+            [
+                108.170028,
+                15.94065
+            ],
+            [
+                108.171254,
+                15.939825
+            ],
+            [
+                108.172384,
+                15.939756
+            ],
+            [
+                108.178721,
+                15.939671
+            ],
+            [
+                108.17946,
+                15.942706
+            ],
+            [
+                108.180731,
+                15.944907
+            ],
+            [
+                108.181493,
+                15.946262
+            ],
+            [
+                108.183594,
+                15.949444
+            ],
+            [
+                108.183059,
+                15.950444
+            ],
+            [
+                108.182429,
+                15.951535
+            ],
+            [
+                108.18199,
+                15.952491
+            ],
+            [
+                108.181742,
+                15.953312
+            ],
+            [
+                108.181819,
+                15.954596
+            ],
+            [
+                108.18223,
+                15.955655
+            ],
+            [
+                108.183509,
+                15.957296
+            ],
+            [
+                108.184449,
+                15.9584
+            ],
+            [
+                108.184694,
+                15.959496
+            ],
+            [
+                108.184054,
+                15.961756
+            ],
+            [
+                108.18395,
+                15.963015
+            ],
+            [
+                108.184599,
+                15.965532
+            ],
+            [
+                108.185387,
+                15.965807
+            ],
+            [
+                108.18608,
+                15.9659
+            ],
+            [
+                108.186697,
+                15.965236
+            ],
+            [
+                108.187075,
+                15.963056
+            ],
+            [
+                108.191419,
+                15.961652
+            ],
+            [
+                108.192121,
+                15.963463
+            ],
+            [
+                108.194765,
+                15.963137
+            ],
+            [
+                108.197569,
+                15.963501
+            ],
+            [
+                108.199159,
+                15.963538
+            ],
+            [
+                108.200965,
+                15.963824
+            ],
+            [
+                108.20254,
+                15.963932
+            ],
+            [
+                108.202776,
+                15.963068
+            ],
+            [
+                108.203516,
+                15.962531
+            ],
+            [
+                108.204818,
+                15.962219
+            ],
+            [
+                108.205952,
+                15.961741
+            ],
+            [
+                108.206101,
+                15.961169
+            ],
+            [
+                108.205997,
+                15.960511
+            ],
+            [
+                108.205388,
+                15.959737
+            ],
+            [
+                108.20328,
+                15.957247
+            ],
+            [
+                108.202617,
+                15.956199
+            ],
+            [
+                108.202624,
+                15.955762
+            ],
+            [
+                108.20303,
+                15.954946
+            ],
+            [
+                108.204526,
+                15.952722
+            ],
+            [
+                108.204538,
+                15.951902
+            ],
+            [
+                108.204311,
+                15.951172
+            ],
+            [
+                108.206231,
+                15.948309
+            ],
+            [
+                108.210154,
+                15.943512
+            ],
+            [
+                108.210873,
+                15.942899
+            ],
+            [
+                108.213162,
+                15.943813
+            ],
+            [
+                108.214841,
+                15.944686
+            ],
+            [
+                108.216884,
+                15.945983
+            ],
+            [
+                108.216412,
+                15.948825
+            ],
+            [
+                108.218107,
+                15.949355
+            ],
+            [
+                108.219397,
+                15.9471
+            ],
+            [
+                108.222618,
+                15.947737
+            ],
+            [
+                108.222187,
+                15.948062
+            ],
+            [
+                108.221963,
+                15.94862
+            ],
+            [
+                108.221876,
+                15.94967
+            ],
+            [
+                108.222771,
+                15.952906
+            ],
+            [
+                108.224256,
+                15.956656
+            ],
+            [
+                108.224769,
+                15.956647
+            ],
+            [
+                108.227446,
+                15.956851
+            ],
+            [
+                108.229053,
+                15.956985
+            ],
+            [
+                108.229384,
+                15.957027
+            ],
+            [
+                108.230016,
+                15.957149
+            ],
+            [
+                108.230293,
+                15.957282
+            ],
+            [
+                108.230369,
+                15.957318
+            ],
+            [
+                108.230655,
+                15.957832
+            ],
+            [
+                108.230666,
+                15.958454
+            ],
+            [
+                108.230572,
+                15.959843
+            ],
+            [
+                108.230519,
+                15.960623
+            ],
+            [
+                108.230673,
+                15.962135
+            ],
+            [
+                108.23102,
+                15.962479
+            ],
+            [
+                108.232088,
+                15.962738
+            ],
+            [
+                108.234356,
+                15.963711
+            ],
+            [
+                108.235784,
+                15.964805
+            ],
+            [
+                108.238397,
+                15.967594
+            ],
+            [
+                108.240111,
+                15.969125
+            ],
+            [
+                108.240667,
+                15.96985
+            ],
+            [
+                108.240889,
+                15.970702
+            ],
+            [
+                108.240711,
+                15.972308
+            ],
+            [
+                108.243339,
+                15.97295
+            ],
+            [
+                108.244448,
+                15.973324
+            ],
+            [
+                108.246913,
+                15.974927
+            ],
+            [
+                108.25183,
+                15.975205
+            ],
+            [
+                108.253711,
+                15.975282
+            ],
+            [
+                108.25546,
+                15.97504
+            ],
+            [
+                108.256749,
+                15.974555
+            ],
+            [
+                108.259881,
+                15.96897
+            ],
+            [
+                108.260447,
+                15.967446
+            ],
+            [
+                108.260815,
+                15.966473
+            ],
+            [
+                108.261618,
+                15.965586
+            ],
+            [
+                108.262086,
+                15.965328
+            ]
+        ]
+    ]
+}

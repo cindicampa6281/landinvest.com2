@@ -1,0 +1,1675 @@
+{
+    "id_district": "52",
+    "id_province": 4,
+    "name_province": "Bắc Kạn",
+    "name_district": "Thành Phố Bắc Kạn",
+    "list_sukien": [
+        {
+            "bidName": "Gói thầu số 08: Thi công xây dựng huyện Ba Bể và huyện Ngân Sơn",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng công trình nông nghiệp và phát triển nông thôn tỉnh Băc Kạn",
+            "createdBy": "vn4700386792",
+            "publicDate": "2023-04-30 14:28:11",
+            "projectName": "Liên danh Hùng Kiều – Mạnh Tiến – Thành Hoàng – NT559 ",
+            "bidCloseDate": "2023-05-07 09:00:00",
+            "id_muasamcong": "01c32cb6-7e70-4e71-a1ad-faf97d351331",
+            "tongmuc_dautu": 8902504656.0,
+            "bidNamePlanNew": "PL2300006744",
+            "dotbien_hatang": "Gói thầu số 08: Thi công xây dựng huyện Ba Bể và huyện Ngân Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Xây lắp (Gồm: Thi công xây dựng - Cung cấp lắp đặt thiết bị - Dự phòng)",
+            "chudautu": "Viện kiểm sát nhân dân tỉnh Bắc Kạn",
+            "createdBy": "vn4700189767",
+            "publicDate": "2023-10-25 15:38:01",
+            "projectName": null,
+            "bidCloseDate": "2023-11-14 15:00:00",
+            "id_muasamcong": "0a2029c5-fbcb-426b-8c60-d2b8f58ff705",
+            "tongmuc_dautu": 67428839299.0,
+            "bidNamePlanNew": "PL2300192288",
+            "dotbien_hatang": "Gói thầu số 02: Xây lắp (Gồm: Thi công xây dựng - Cung cấp lắp đặt thiết bị - Dự phòng)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 09: Thi công xây dựng huyện Chợ Mới",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng công trình nông nghiệp và phát triển nông thôn tỉnh Băc Kạn",
+            "createdBy": "vn4700386792",
+            "publicDate": "2023-04-06 15:49:46",
+            "projectName": "Liên danh Hoàng Hà - Bình Minh",
+            "bidCloseDate": "2023-04-16 16:00:00",
+            "id_muasamcong": "0f24963c-e274-44f2-af27-fdb710d2c7da",
+            "tongmuc_dautu": 5279226690.0,
+            "bidNamePlanNew": "PL2300006744",
+            "dotbien_hatang": "Gói thầu số 09: Thi công xây dựng huyện Chợ Mới",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng công trình",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng tỉnh Bắc Kạn",
+            "createdBy": "vnz000016835",
+            "publicDate": "2024-06-04 19:12:42",
+            "projectName": null,
+            "bidCloseDate": "2024-06-10 20:00:00",
+            "id_muasamcong": "138ba204-a3c4-4ef6-ad20-9baa651edcac",
+            "tongmuc_dautu": 1168355333.0,
+            "bidNamePlanNew": "PL2400097145",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình Bảo trì công trình trụ sở Tỉnh ủy 2023",
+            "chudautu": "Văn phòng Tỉnh ủy Bắc Kạn",
+            "createdBy": "vn4700166209",
+            "publicDate": "2023-11-20 16:23:05",
+            "projectName": null,
+            "bidCloseDate": "2023-11-26 09:45:00",
+            "id_muasamcong": "1589951b-e248-4f29-bc90-44a4b0e86259",
+            "tongmuc_dautu": 346107000.0,
+            "bidNamePlanNew": "PL2300213593",
+            "dotbien_hatang": "Thi công xây dựng công trình Bảo trì công trình trụ sở Tỉnh ủy 2023",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 16: Thi công xây dựng hệ thống đèn tín hiệu giao thông",
+            "chudautu": "Ủy ban nhân dân thành phố Bắc Kạn",
+            "createdBy": "vn4700184247",
+            "publicDate": "2024-06-30 15:47:04",
+            "projectName": null,
+            "bidCloseDate": "2024-07-10 08:00:00",
+            "id_muasamcong": "17b15014-cba6-4756-9a5b-b231da33c966",
+            "tongmuc_dautu": 542361502.0,
+            "bidNamePlanNew": "PL2300110495",
+            "dotbien_hatang": "Gói thầu số 16: Thi công xây dựng hệ thống đèn tín hiệu giao thông",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Sở Lao động Thương binh và Xã hội tỉnh Bắc Kạn",
+            "createdBy": "vn4700190240",
+            "publicDate": "2023-09-12 17:43:57",
+            "projectName": null,
+            "bidCloseDate": "2023-09-20 08:00:00",
+            "id_muasamcong": "2a0f1be9-c0d0-46bc-9ba5-d6715c93a439",
+            "tongmuc_dautu": 4460861465.0,
+            "bidNamePlanNew": "PL2300148853",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình và cung cấp, lắp đặt thiết bị",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng tỉnh Bắc Kạn",
+            "createdBy": "vnz000016835",
+            "publicDate": "2024-04-07 15:59:10",
+            "projectName": null,
+            "bidCloseDate": "2024-04-11 07:30:00",
+            "id_muasamcong": "2fb46caa-9999-488a-ba7e-80dcf3cf3e9f",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400040847",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình và cung cấp, lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình và cung cấp, lắp đặt thiết bị",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng tỉnh Bắc Kạn",
+            "createdBy": "vnz000016835",
+            "publicDate": "2024-04-17 07:28:08",
+            "projectName": "Liên danh Hà Diệp - CTI - Long Hải",
+            "bidCloseDate": "2024-04-26 12:00:00",
+            "id_muasamcong": "328f7a7c-c5d7-45e2-8fff-cc6c00f1c55b",
+            "tongmuc_dautu": 8480134281.0,
+            "bidNamePlanNew": "PL2400040847",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình và cung cấp, lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng, cung cấp lắp đặt thiết bị  + di chuyển cơ quan làm việc (di chuyển đi trước khi thi công và di chuyển đến sau khi thi công xong)",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng tỉnh Bắc Kạn",
+            "createdBy": "vnz000016835",
+            "publicDate": "2023-12-10 16:55:56",
+            "projectName": null,
+            "bidCloseDate": "2023-12-20 17:00:00",
+            "id_muasamcong": "3375c9e6-7cc8-4a3e-a348-0cec39ad52a6",
+            "tongmuc_dautu": 13404284059.0,
+            "bidNamePlanNew": "PL2300249215",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng, cung cấp lắp đặt thiết bị  + di chuyển cơ quan làm việc (di chuyển đi trước khi thi công và di chuyển đến sau khi thi công xong)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 12: Tư vấn giám sát thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân thành phố Bắc Kạn",
+            "createdBy": "vn4700184247",
+            "publicDate": "2022-11-07 10:39:41",
+            "projectName": null,
+            "bidCloseDate": "2022-11-18 08:00:00",
+            "id_muasamcong": "39a697f0-201c-4479-87cc-b42d11554eaa",
+            "tongmuc_dautu": 1417326530.0,
+            "bidNamePlanNew": "PL2200017494",
+            "dotbien_hatang": "Gói thầu số 12: Tư vấn giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình cầu thang thoát hiểm nhà khách, Công an tỉnh Bắc Kạn",
+            "chudautu": "Công an tỉnh Bắc Kạn",
+            "createdBy": "vnz000013665-01",
+            "publicDate": "2023-11-15 14:55:42",
+            "projectName": null,
+            "bidCloseDate": "2023-11-22 09:00:00",
+            "id_muasamcong": "3d3025ff-4cfa-419c-b62b-943f05232a2a",
+            "tongmuc_dautu": 300962000.0,
+            "bidNamePlanNew": "PL2300210538",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình cầu thang thoát hiểm nhà khách, Công an tỉnh Bắc Kạn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 21: Thi công xây dựng, lắp đặt thiết bị di chuyển đường điện",
+            "chudautu": "Ủy ban nhân dân thành phố Bắc Kạn",
+            "createdBy": "vn4700184247",
+            "publicDate": "2023-07-17 09:54:31",
+            "projectName": null,
+            "bidCloseDate": "2023-07-22 10:00:00",
+            "id_muasamcong": "44894541-10dd-438f-8592-99e76648e904",
+            "tongmuc_dautu": 4553099548.0,
+            "bidNamePlanNew": "PL2300110495",
+            "dotbien_hatang": "Gói thầu số 21: Thi công xây dựng, lắp đặt thiết bị di chuyển đường điện",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 14: Thi công xây dựng công trình (khu B) Cải tạo nhà lớp học, Cải tạo nhà ký túc, Xây mới nhà để xe, Các hạng mục phụ trợ,  Hệ thống PCCC",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng tỉnh Bắc Kạn",
+            "createdBy": "vnz000016835",
+            "publicDate": "2024-12-11 18:48:00",
+            "projectName": "Liên danh Hà An APT",
+            "bidCloseDate": "2024-12-21 11:00:00",
+            "id_muasamcong": "45b8d9e1-d6cf-4d23-8eee-67b4230fb969",
+            "tongmuc_dautu": 7070365202.0,
+            "bidNamePlanNew": "PL2200032155",
+            "dotbien_hatang": "Gói thầu số 14: Thi công xây dựng công trình (khu B) Cải tạo nhà lớp học, Cải tạo nhà ký túc, Xây mới nhà để xe, Các hạng mục phụ trợ,  Hệ thống PCCC",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng công trình",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng tỉnh Bắc Kạn",
+            "createdBy": "vnz000016835",
+            "publicDate": "2024-03-30 18:15:55",
+            "projectName": null,
+            "bidCloseDate": "2024-04-06 07:30:00",
+            "id_muasamcong": "53738f16-4bda-44b3-b2a6-514491dbb60f",
+            "tongmuc_dautu": 1502000555.0,
+            "bidNamePlanNew": "PL2400043139",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng công trình",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng tỉnh Bắc Kạn",
+            "createdBy": "vnz000016835",
+            "publicDate": "2023-12-11 16:35:53",
+            "projectName": "Liên danh thi công Hoàng Phát - Anh Khôi",
+            "bidCloseDate": "2023-12-15 07:30:00",
+            "id_muasamcong": "55611f22-4f14-4029-b7df-aa6018d926c4",
+            "tongmuc_dautu": 2858109438.0,
+            "bidNamePlanNew": "PL2300246794",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu 04 - Thi công xây dựng công trình Đập Nà Phầy, xã Chu Hương, huyện Ba Bể và công trình Đập Bản Pục, xã Thượng Giáo, huyện Ba Bể",
+            "chudautu": "Sở Nông nghiệp và PTNT tỉnh Bắc Kạn",
+            "createdBy": "vn7580011998",
+            "publicDate": "2024-09-30 17:19:10",
+            "projectName": "Liên danh Hùng Kiều - Hà Phong Hoàng",
+            "bidCloseDate": "2024-10-09 16:00:00",
+            "id_muasamcong": "56d63dfa-eee4-436b-bfa5-ab644906dfe9",
+            "tongmuc_dautu": 2252168129.0,
+            "bidNamePlanNew": "PL2400157551",
+            "dotbien_hatang": "Gói thầu 04 - Thi công xây dựng công trình Đập Nà Phầy, xã Chu Hương, huyện Ba Bể và công trình Đập Bản Pục, xã Thượng Giáo, huyện Ba Bể",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng tỉnh Bắc Kạn",
+            "createdBy": "vnz000016835",
+            "publicDate": "2024-11-25 06:53:13",
+            "projectName": "Liên Danh Tùng Bách - Long Hải",
+            "bidCloseDate": "2024-11-30 07:15:00",
+            "id_muasamcong": "59489aad-1163-4269-8bf9-f8f8dbd5073c",
+            "tongmuc_dautu": 2859235643.0,
+            "bidNamePlanNew": "PL2400214632",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng, mua sắm lắp đặt thiết bị công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng công trình giao thông tỉnh Bắc Kạn",
+            "createdBy": "vnz000023664",
+            "publicDate": "2024-07-23 11:39:49",
+            "projectName": null,
+            "bidCloseDate": "2024-08-01 08:00:00",
+            "id_muasamcong": "5e86408b-0c70-44ae-acdf-ba0bf339243c",
+            "tongmuc_dautu": 11757343914.0,
+            "bidNamePlanNew": "PL2400138245",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng, mua sắm lắp đặt thiết bị công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng công trình",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng tỉnh Bắc Kạn",
+            "createdBy": "vnz000016835",
+            "publicDate": "2024-06-01 11:52:44",
+            "projectName": "Liên danh Hoàng Phát - Tùng Bách",
+            "bidCloseDate": "2024-06-10 14:00:00",
+            "id_muasamcong": "683b2968-31c9-42d7-a3f8-0a3c48fbdbbf",
+            "tongmuc_dautu": 12860877179.0,
+            "bidNamePlanNew": "PL2400096916",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng huyện Na Rì",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng công trình nông nghiệp và phát triển nông thôn tỉnh Băc Kạn",
+            "createdBy": "vn4700386792",
+            "publicDate": "2023-04-19 14:19:06",
+            "projectName": "Liên danh Thăng Long - Nghĩa Sơn",
+            "bidCloseDate": "2023-05-09 15:41:00",
+            "id_muasamcong": "6c7eb2f2-9224-4b0a-8645-b44d80f45f37",
+            "tongmuc_dautu": 19778447444.0,
+            "bidNamePlanNew": "PL2300006744",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng huyện Na Rì",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng công trình",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng tỉnh Bắc Kạn",
+            "createdBy": "vnz000016835",
+            "publicDate": "2024-04-24 07:26:39",
+            "projectName": " SỬA CHỮA Y TẾ",
+            "bidCloseDate": "2024-05-03 07:30:00",
+            "id_muasamcong": "7080a90e-8eef-416b-afcd-3da0629282ee",
+            "tongmuc_dautu": 10050144293.0,
+            "bidNamePlanNew": "PL2400042868",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng công trình",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng tỉnh Bắc Kạn",
+            "createdBy": "vnz000016835",
+            "publicDate": "2024-03-29 16:05:25",
+            "projectName": null,
+            "bidCloseDate": "2024-04-07 16:00:00",
+            "id_muasamcong": "73102fce-af53-4d33-8bff-af880944321c",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400042868",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dịch vụ công ích đô thị thành phố Bắc Kạn",
+            "createdBy": "vn4700268585",
+            "publicDate": "2024-04-12 08:33:57",
+            "projectName": null,
+            "bidCloseDate": "2024-04-22 09:30:00",
+            "id_muasamcong": "78685852-63d0-48f7-af38-d49294619038",
+            "tongmuc_dautu": 12737932393.0,
+            "bidNamePlanNew": "PL2400051190",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng công trình",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng tỉnh Bắc Kạn",
+            "createdBy": "vnz000016835",
+            "publicDate": "2023-12-06 16:46:02",
+            "projectName": "Liên danh Hà Diệp - Thiên Ân",
+            "bidCloseDate": "2023-12-14 16:45:00",
+            "id_muasamcong": "7a7dcd92-7e0a-41b4-810e-15c57cb382b7",
+            "tongmuc_dautu": 4368366116.0,
+            "bidNamePlanNew": "PL2300245104",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây lắp và lắp đặt thiết bị",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG THÀNH PHỐ BẮC KẠN",
+            "createdBy": "vn4700184247",
+            "publicDate": "2024-06-24 17:32:09",
+            "projectName": "Liên danh Bắc Kạn",
+            "bidCloseDate": "2024-07-03 08:00:00",
+            "id_muasamcong": "82fb60b7-3110-4dbc-a277-43cd1af252f3",
+            "tongmuc_dautu": 7138073958.0,
+            "bidNamePlanNew": "PL2400083857",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây lắp và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 30: Thi công xây dựng Trường THPT Chuyên Bắc Kạn, thành phố Bắc Kạn",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng tỉnh Bắc Kạn",
+            "createdBy": "vnz000016835",
+            "publicDate": "2023-02-23 11:19:34",
+            "projectName": null,
+            "bidCloseDate": "2023-03-02 11:25:00",
+            "id_muasamcong": "8a807c62-5a25-4b1e-896c-8e975f7fe5cb",
+            "tongmuc_dautu": 1518506016.0,
+            "bidNamePlanNew": "20220656237",
+            "dotbien_hatang": "Gói thầu số 30: Thi công xây dựng Trường THPT Chuyên Bắc Kạn, thành phố Bắc Kạn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06: Thi công xây lắp",
+            "chudautu": "Ủy ban nhân dân thành phố Bắc Kạn",
+            "createdBy": "vn4700184247",
+            "publicDate": "2022-10-20 17:19:05",
+            "projectName": null,
+            "bidCloseDate": "2022-10-31 08:00:00",
+            "id_muasamcong": "8d52dfa3-e3ae-451b-ab42-bbdf2bcb78c3",
+            "tongmuc_dautu": 15772533592.0,
+            "bidNamePlanNew": "PL2200017531",
+            "dotbien_hatang": "Gói thầu số 06: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng các công trình Xây mới nhà làm việc và nhà lớp học 2 tầng; Xây mới nhà để xe ô tô tập lái; sân thi lái xe máy; San nền, ké đá, hàng rào; Cải tạo, chuyển đổi Nhà ký túc xá khu A thành khu học tập; Cải tạo khối nhà lớp học 01 tầng; Các hạng mục phụ trợ: Rãnh thoát nước ngoài nhà; đường lên xuống; hệ thống chiếu sáng ngoài nhà; sân bóng mini; Hệ thống Phòng cháy chữa cháy",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng tỉnh Bắc Kạn",
+            "createdBy": "vnz000016835",
+            "publicDate": "2023-10-27 14:16:24",
+            "projectName": "Liên danh Hùng Sơn- Anh Khôi",
+            "bidCloseDate": "2023-11-16 15:00:00",
+            "id_muasamcong": "8f50035b-c4ec-4b03-bb2a-5c518a3dab5b",
+            "tongmuc_dautu": 21947984540.0,
+            "bidNamePlanNew": "PL2200032155",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng các công trình Xây mới nhà làm việc và nhà lớp học 2 tầng; Xây mới nhà để xe ô tô tập lái; sân thi lái xe máy; San nền, ké đá, hàng rào; Cải tạo, chuyển đổi Nhà ký túc xá khu A thành khu học tập; Cải tạo khối nhà lớp học 01 tầng; Các hạng mục phụ trợ: Rãnh thoát nước ngoài nhà; đường lên xuống; hệ thống chiếu sáng ngoài nhà; sân bóng mini; Hệ thống Phòng cháy chữa cháy",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dịch vụ công ích đô thị thành phố Bắc Kạn",
+            "createdBy": "vn4700268585",
+            "publicDate": "2024-08-26 08:41:49",
+            "projectName": null,
+            "bidCloseDate": "2024-09-07 09:00:00",
+            "id_muasamcong": "97cbdf88-71d6-47af-82f3-fed658b98436",
+            "tongmuc_dautu": 2698111159.0,
+            "bidNamePlanNew": "PL2400154851",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và lắp đặt thiết bị phòng cháy chữa cháy",
+            "chudautu": "CÔNG TY QUẢN LÝ TÀI SẢN VIETTEL - CHI NHÁNH TẬP ĐOÀN CÔNG NGHIỆP - VIỄN THÔNG QUÂN ĐỘI",
+            "createdBy": "vnz000018938-07",
+            "publicDate": "2024-06-17 15:30:48",
+            "projectName": null,
+            "bidCloseDate": "2024-07-03 14:30:00",
+            "id_muasamcong": "a0cf9eef-0881-431c-9125-bf2f28afe6fd",
+            "tongmuc_dautu": 953430537.0,
+            "bidNamePlanNew": "PL2400090869",
+            "dotbien_hatang": "Thi công xây dựng và lắp đặt thiết bị phòng cháy chữa cháy",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 10: Thi công xây dựng huyện Chợ Đồn",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng công trình nông nghiệp và phát triển nông thôn tỉnh Băc Kạn",
+            "createdBy": "vn4700386792",
+            "publicDate": "2023-05-31 08:22:27",
+            "projectName": "Liên danh Long Thịnh",
+            "bidCloseDate": "2023-06-12 08:30:00",
+            "id_muasamcong": "a7447d0f-397c-4ca5-a4f5-afc8805d64e1",
+            "tongmuc_dautu": 16637278860.0,
+            "bidNamePlanNew": "PL2300006744",
+            "dotbien_hatang": "Gói thầu số 10: Thi công xây dựng huyện Chợ Đồn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng công trình + mua sắm, lắp đặt thiết bị + Phí bảo vệ môi trường",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng tỉnh Bắc Kạn",
+            "createdBy": "vnz000016835",
+            "publicDate": "2024-04-19 08:06:39",
+            "projectName": "Liên danh Bắc Kạn- Thái Nguyên",
+            "bidCloseDate": "2024-04-28 07:00:00",
+            "id_muasamcong": "aad0193b-118e-4774-ab09-ef08e1a5eace",
+            "tongmuc_dautu": 12073406642.0,
+            "bidNamePlanNew": "PL2400059421",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng công trình + mua sắm, lắp đặt thiết bị + Phí bảo vệ môi trường",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08: Thi công xây dựng hạng mục Nhà kho lưu trữ",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng tỉnh Bắc Kạn",
+            "createdBy": "vnz000016835",
+            "publicDate": "2023-09-19 22:49:49",
+            "projectName": "Liên danh Sơn Khôi 2023",
+            "bidCloseDate": "2023-09-30 06:40:00",
+            "id_muasamcong": "afe9da97-2d9a-4a39-ae03-8d2acff567a7",
+            "tongmuc_dautu": 16915217222.0,
+            "bidNamePlanNew": "PL2300170284",
+            "dotbien_hatang": "Gói thầu số 08: Thi công xây dựng hạng mục Nhà kho lưu trữ",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Bảo trì, sửa chữa trụ sở làm việc Viện kiểm sát nhân dân thành phố Bắc Kạn, tỉnh Bắc Kạn",
+            "chudautu": "Viện kiểm sát nhân dân tỉnh Bắc Kạn",
+            "createdBy": "vn4700189767",
+            "publicDate": "2023-05-15 15:40:43",
+            "projectName": null,
+            "bidCloseDate": "2023-05-21 15:11:00",
+            "id_muasamcong": "b53112e8-1740-4960-af51-6772d0fc65d2",
+            "tongmuc_dautu": 568046207.0,
+            "bidNamePlanNew": "PL2300052401",
+            "dotbien_hatang": "Thi công xây dựng công trình: Bảo trì, sửa chữa trụ sở làm việc Viện kiểm sát nhân dân thành phố Bắc Kạn, tỉnh Bắc Kạn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 13: Thi công xây dựng + cung cấp lắp đặt thiết bị",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng tỉnh Bắc Kạn",
+            "createdBy": "vnz000016835",
+            "publicDate": "2024-04-19 08:10:59",
+            "projectName": "Liên danh Linh Hà – SNOVA VIỆT NAM",
+            "bidCloseDate": "2024-04-26 08:15:00",
+            "id_muasamcong": "b9969d77-58f1-4feb-841a-16ba84b21b5a",
+            "tongmuc_dautu": 2312853818.0,
+            "bidNamePlanNew": "PL2300170284",
+            "dotbien_hatang": "Gói thầu số 13: Thi công xây dựng + cung cấp lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "Công an tỉnh Bắc Kạn",
+            "createdBy": "vnz000013665-01",
+            "publicDate": "2022-11-24 14:26:54",
+            "projectName": null,
+            "bidCloseDate": "2022-12-01 15:00:00",
+            "id_muasamcong": "bd252601-7179-44a6-bb56-db2a4a39272d",
+            "tongmuc_dautu": 1625762000.0,
+            "bidNamePlanNew": "PL2200054121",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06: Thi công xây lắp",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG THÀNH PHỐ BẮC KẠN",
+            "createdBy": "vn4700184247",
+            "publicDate": "2022-10-11 10:24:36",
+            "projectName": null,
+            "bidCloseDate": "2022-10-14 14:00:00",
+            "id_muasamcong": "bf43ed9c-83e4-4f82-8508-e0c738ee0fc5",
+            "tongmuc_dautu": 7453360737.0,
+            "bidNamePlanNew": "PL2200007824",
+            "dotbien_hatang": "Gói thầu số 06: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình",
+            "chudautu": "Bộ chỉ huy Quân sự tỉnh Bắc Kạn",
+            "createdBy": "vnz000008631",
+            "publicDate": "2024-08-20 17:37:06",
+            "projectName": null,
+            "bidCloseDate": "2024-08-26 09:00:00",
+            "id_muasamcong": "c9f79c0c-4682-44b0-ada7-3dd9f3f990da",
+            "tongmuc_dautu": 2063504373.48,
+            "bidNamePlanNew": "PL2400156190",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp nhà chính và các hạng mục phụ trợ",
+            "chudautu": "Bưu điện tỉnh Bắc Kạn",
+            "createdBy": "vn4700159145",
+            "publicDate": "2023-10-07 10:39:43",
+            "projectName": null,
+            "bidCloseDate": "2023-10-12 09:00:00",
+            "id_muasamcong": "d03a8070-f403-45e2-b9dc-24944ed022f0",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300162074",
+            "dotbien_hatang": "Thi công xây lắp nhà chính và các hạng mục phụ trợ",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình + mua sắm, lắp đặt thiết bị",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng tỉnh Bắc Kạn",
+            "createdBy": "vnz000016835",
+            "publicDate": "2024-03-30 12:22:01",
+            "projectName": null,
+            "bidCloseDate": "2024-04-06 08:00:00",
+            "id_muasamcong": "d152bbc4-3d0e-425a-9a12-e26cef1f7b19",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400042866",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình + mua sắm, lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 14: Thi công xây dựng đường giao thông, hạ tầng kỹ thuật trên đoạn tuyến từ Km0-Km2+561,56",
+            "chudautu": "Ủy ban nhân dân thành phố Bắc Kạn",
+            "createdBy": "vn4700184247",
+            "publicDate": "2023-07-18 07:24:43",
+            "projectName": "Liên danh Tân Thịnh - Hồng Hà – Huy Hoàn",
+            "bidCloseDate": "2023-08-07 08:00:00",
+            "id_muasamcong": "d4288909-a185-44cd-842f-0cec5fe687eb",
+            "tongmuc_dautu": 86260330445.0,
+            "bidNamePlanNew": "PL2300110495",
+            "dotbien_hatang": "Gói thầu số 14: Thi công xây dựng đường giao thông, hạ tầng kỹ thuật trên đoạn tuyến từ Km0-Km2+561,56",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Giám sát (Gồm: Thi công Xây dựng - Cung cấp lắp đặt thiết bị)",
+            "chudautu": "Viện kiểm sát nhân dân tỉnh Bắc Kạn",
+            "createdBy": "vn4700189767",
+            "publicDate": "2023-10-31 17:37:59",
+            "projectName": "Liên danh Công ty Cổ phần dịch vụ tư vấn và Đầu tư xây dựng Đô thị Việt Nam và Công ty cổ phần kiến trúc Bắc Kạn (viết tắt là Liên Danh Đô thị Việt Nam - Kiến trúc Bắc Kạn)",
+            "bidCloseDate": "2023-11-20 15:15:00",
+            "id_muasamcong": "d94afa6a-b601-457f-96cb-c7e09fa3966b",
+            "tongmuc_dautu": 1455000000.0,
+            "bidNamePlanNew": "PL2300192288",
+            "dotbien_hatang": "Gói thầu số 03: Giám sát (Gồm: Thi công Xây dựng - Cung cấp lắp đặt thiết bị)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây lắp và lắp đặt thiết bị",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG THÀNH PHỐ BẮC KẠN",
+            "createdBy": "vn4700184247",
+            "publicDate": "2024-10-11 17:37:12",
+            "projectName": null,
+            "bidCloseDate": "2024-10-20 17:00:00",
+            "id_muasamcong": "e578b81f-5683-4a27-a197-1f8835d607f8",
+            "tongmuc_dautu": 1371452554.0,
+            "bidNamePlanNew": "PL2400222793",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây lắp và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06: Tư vấn giám sát thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng công trình nông nghiệp và phát triển nông thôn tỉnh Băc Kạn",
+            "createdBy": "vn4700386792",
+            "publicDate": "2023-03-12 15:35:00",
+            "projectName": null,
+            "bidCloseDate": "2023-03-22 16:00:00",
+            "id_muasamcong": "e9ff306a-13c5-45aa-bbd0-23da47dea383",
+            "tongmuc_dautu": 985460000.0,
+            "bidNamePlanNew": "PL2300006744",
+            "dotbien_hatang": "Gói thầu số 06: Tư vấn giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 11: Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân thành phố Bắc Kạn",
+            "createdBy": "vn4700184247",
+            "publicDate": "2022-10-19 08:33:29",
+            "projectName": "Liên danh Đông Hưng - Phú Thành",
+            "bidCloseDate": "2022-11-11 16:00:00",
+            "id_muasamcong": "ee0c8abc-9ff4-4ce8-94d7-cb7276e45f8e",
+            "tongmuc_dautu": 62813887115.0,
+            "bidNamePlanNew": "PL2200017494",
+            "dotbien_hatang": "Gói thầu số 11: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 10: Thi công xây dựng huyện Chợ Đồn",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng công trình nông nghiệp và phát triển nông thôn tỉnh Băc Kạn",
+            "createdBy": "vn4700386792",
+            "publicDate": "2023-04-20 10:16:24",
+            "projectName": null,
+            "bidCloseDate": "2023-04-30 10:20:00",
+            "id_muasamcong": "ee6897bd-dbee-43aa-9db7-7a8394e4c662",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300006744",
+            "dotbien_hatang": "Gói thầu số 10: Thi công xây dựng huyện Chợ Đồn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng công trình",
+            "chudautu": "Kho bạc Nhà nước Bắc Kạn",
+            "createdBy": "vn4700127591",
+            "publicDate": "2023-10-17 14:05:24",
+            "projectName": null,
+            "bidCloseDate": "2023-10-24 09:00:00",
+            "id_muasamcong": "f0349028-b522-4dce-be54-d03591c7d61d",
+            "tongmuc_dautu": 390431100.0,
+            "bidNamePlanNew": "PL2300185095",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng tỉnh Bắc Kạn",
+            "createdBy": "vnz000016835",
+            "publicDate": "2024-09-29 21:44:53",
+            "projectName": null,
+            "bidCloseDate": "2024-10-05 07:30:00",
+            "id_muasamcong": "f1133a7c-2783-4eae-9e1e-ec2e54cbd62c",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400214632",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 26: Thi công xây dựng, mua sắm lắp đặt thiết bị khán đài sân vận động (không bao gồm hạng mục sân, đường nội bộ, rãnh thoát nước) và đường dây hạ thế",
+            "chudautu": "Ủy ban nhân dân thành phố Bắc Kạn",
+            "createdBy": "vn4700184247",
+            "publicDate": "2024-10-13 13:11:53",
+            "projectName": "Liên danh Bắc Thái",
+            "bidCloseDate": "2024-10-31 16:00:00",
+            "id_muasamcong": "f7412ced-815f-44ea-8cc6-9736780b67e7",
+            "tongmuc_dautu": 86007181149.0,
+            "bidNamePlanNew": "PL2400226110",
+            "dotbien_hatang": "Gói thầu số 26: Thi công xây dựng, mua sắm lắp đặt thiết bị khán đài sân vận động (không bao gồm hạng mục sân, đường nội bộ, rãnh thoát nước) và đường dây hạ thế",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng công trình + mua sắm, lắp đặt thiết bị",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng tỉnh Bắc Kạn",
+            "createdBy": "vnz000016835",
+            "publicDate": "2024-04-19 22:04:57",
+            "projectName": null,
+            "bidCloseDate": "2024-04-26 12:00:00",
+            "id_muasamcong": "f863a34f-4e43-40bf-9d4d-d0ef321a426b",
+            "tongmuc_dautu": 4112132238.0,
+            "bidNamePlanNew": "PL2400042866",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng công trình + mua sắm, lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 55: Thi công xây dựng trường Tiểu học - THCS Dương Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng tỉnh Bắc Kạn",
+            "createdBy": "vnz000016835",
+            "publicDate": "2024-09-25 23:17:11",
+            "projectName": "Liên danh Bắc Thái 55",
+            "bidCloseDate": "2024-10-05 07:00:00",
+            "id_muasamcong": "f8be5dd7-81e6-4f48-ada7-80d30b606c13",
+            "tongmuc_dautu": 8530652663.0,
+            "bidNamePlanNew": "20220656237",
+            "dotbien_hatang": "Gói thầu số 55: Thi công xây dựng trường Tiểu học - THCS Dương Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Tư vấn giám sát thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng chuyên ngành thuộc Tổng cục Thuế",
+            "createdBy": "vn0108555039",
+            "publicDate": "2024-04-04 15:11:16",
+            "projectName": null,
+            "bidCloseDate": "2024-04-19 09:00:00",
+            "id_muasamcong": "ff118b4b-5906-48ef-98b0-6dffca8849f5",
+            "tongmuc_dautu": 376320000.0,
+            "bidNamePlanNew": "PL2400009650",
+            "dotbien_hatang": "Tư vấn giám sát thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        }
+    ],
+    "so_dot_bien": 53,
+    "thu_tu_sap_xep": 341,
+    "polygon": [
+        [
+            [
+                105.923853,
+                22.122794
+            ],
+            [
+                105.923835,
+                22.12268
+            ],
+            [
+                105.923829,
+                22.121714
+            ],
+            [
+                105.92415,
+                22.118063
+            ],
+            [
+                105.924823,
+                22.115591
+            ],
+            [
+                105.925269,
+                22.11355
+            ],
+            [
+                105.924456,
+                22.112267
+            ],
+            [
+                105.9233,
+                22.111093
+            ],
+            [
+                105.922315,
+                22.109757
+            ],
+            [
+                105.921724,
+                22.107077
+            ],
+            [
+                105.921702,
+                22.103751
+            ],
+            [
+                105.921799,
+                22.10096
+            ],
+            [
+                105.922359,
+                22.098811
+            ],
+            [
+                105.92361,
+                22.096979
+            ],
+            [
+                105.925781,
+                22.09525
+            ],
+            [
+                105.928178,
+                22.09309
+            ],
+            [
+                105.93,
+                22.090612
+            ],
+            [
+                105.930336,
+                22.089429
+            ],
+            [
+                105.930331,
+                22.088571
+            ],
+            [
+                105.930209,
+                22.087498
+            ],
+            [
+                105.928354,
+                22.084826
+            ],
+            [
+                105.926729,
+                22.082153
+            ],
+            [
+                105.925918,
+                22.080977
+            ],
+            [
+                105.925112,
+                22.080767
+            ],
+            [
+                105.924309,
+                22.080771
+            ],
+            [
+                105.923048,
+                22.0811
+            ],
+            [
+                105.922249,
+                22.081963
+            ],
+            [
+                105.921453,
+                22.083041
+            ],
+            [
+                105.919625,
+                22.084554
+            ],
+            [
+                105.917677,
+                22.085208
+            ],
+            [
+                105.91607,
+                22.085217
+            ],
+            [
+                105.914806,
+                22.085117
+            ],
+            [
+                105.913883,
+                22.084478
+            ],
+            [
+                105.911805,
+                22.082666
+            ],
+            [
+                105.910306,
+                22.081708
+            ],
+            [
+                105.909101,
+                22.081876
+            ],
+            [
+                105.906583,
+                22.083178
+            ],
+            [
+                105.903607,
+                22.084696
+            ],
+            [
+                105.902803,
+                22.084701
+            ],
+            [
+                105.901299,
+                22.082885
+            ],
+            [
+                105.899441,
+                22.079676
+            ],
+            [
+                105.897691,
+                22.075178
+            ],
+            [
+                105.895129,
+                22.069505
+            ],
+            [
+                105.894431,
+                22.068113
+            ],
+            [
+                105.89112,
+                22.071136
+            ],
+            [
+                105.889064,
+                22.072864
+            ],
+            [
+                105.885974,
+                22.074491
+            ],
+            [
+                105.882877,
+                22.075044
+            ],
+            [
+                105.88104,
+                22.074947
+            ],
+            [
+                105.879079,
+                22.073562
+            ],
+            [
+                105.875268,
+                22.070041
+            ],
+            [
+                105.870761,
+                22.065343
+            ],
+            [
+                105.869023,
+                22.06267
+            ],
+            [
+                105.869011,
+                22.060738
+            ],
+            [
+                105.869571,
+                22.058482
+            ],
+            [
+                105.86979,
+                22.056656
+            ],
+            [
+                105.869439,
+                22.055692
+            ],
+            [
+                105.868402,
+                22.054946
+            ],
+            [
+                105.866106,
+                22.054959
+            ],
+            [
+                105.864272,
+                22.055505
+            ],
+            [
+                105.862674,
+                22.057016
+            ],
+            [
+                105.860855,
+                22.06003
+            ],
+            [
+                105.858935,
+                22.065299
+            ],
+            [
+                105.85803,
+                22.06745
+            ],
+            [
+                105.856953,
+                22.069763
+            ],
+            [
+                105.856619,
+                22.071481
+            ],
+            [
+                105.857087,
+                22.072981
+            ],
+            [
+                105.858022,
+                22.075659
+            ],
+            [
+                105.858606,
+                22.077373
+            ],
+            [
+                105.858613,
+                22.078446
+            ],
+            [
+                105.858505,
+                22.079627
+            ],
+            [
+                105.857367,
+                22.08135
+            ],
+            [
+                105.85532,
+                22.084688
+            ],
+            [
+                105.854305,
+                22.087698
+            ],
+            [
+                105.853395,
+                22.089205
+            ],
+            [
+                105.85191,
+                22.090393
+            ],
+            [
+                105.846866,
+                22.091922
+            ],
+            [
+                105.84228,
+                22.093234
+            ],
+            [
+                105.840099,
+                22.093352
+            ],
+            [
+                105.838949,
+                22.093036
+            ],
+            [
+                105.837104,
+                22.091758
+            ],
+            [
+                105.83422,
+                22.089626
+            ],
+            [
+                105.830649,
+                22.087713
+            ],
+            [
+                105.828806,
+                22.086756
+            ],
+            [
+                105.825355,
+                22.085808
+            ],
+            [
+                105.823058,
+                22.085605
+            ],
+            [
+                105.821798,
+                22.086148
+            ],
+            [
+                105.820541,
+                22.087334
+            ],
+            [
+                105.817975,
+                22.090406
+            ],
+            [
+                105.815921,
+                22.09267
+            ],
+            [
+                105.81409,
+                22.093752
+            ],
+            [
+                105.811908,
+                22.093763
+            ],
+            [
+                105.80858,
+                22.094209
+            ],
+            [
+                105.804684,
+                22.09573
+            ],
+            [
+                105.801248,
+                22.097357
+            ],
+            [
+                105.798505,
+                22.099731
+            ],
+            [
+                105.797131,
+                22.100489
+            ],
+            [
+                105.796296,
+                22.102968
+            ],
+            [
+                105.79619,
+                22.105189
+            ],
+            [
+                105.796323,
+                22.107741
+            ],
+            [
+                105.797644,
+                22.110288
+            ],
+            [
+                105.799324,
+                22.113276
+            ],
+            [
+                105.799571,
+                22.115051
+            ],
+            [
+                105.799579,
+                22.116383
+            ],
+            [
+                105.798996,
+                22.118384
+            ],
+            [
+                105.798767,
+                22.119828
+            ],
+            [
+                105.798782,
+                22.122492
+            ],
+            [
+                105.79915,
+                22.124599
+            ],
+            [
+                105.799517,
+                22.126484
+            ],
+            [
+                105.801075,
+                22.128808
+            ],
+            [
+                105.803352,
+                22.132237
+            ],
+            [
+                105.804194,
+                22.13412
+            ],
+            [
+                105.804205,
+                22.136007
+            ],
+            [
+                105.803968,
+                22.13623
+            ],
+            [
+                105.803612,
+                22.136232
+            ],
+            [
+                105.802066,
+                22.136018
+            ],
+            [
+                105.800399,
+                22.13536
+            ],
+            [
+                105.799686,
+                22.135363
+            ],
+            [
+                105.799213,
+                22.135699
+            ],
+            [
+                105.798505,
+                22.13659
+            ],
+            [
+                105.797797,
+                22.137593
+            ],
+            [
+                105.796497,
+                22.13882
+            ],
+            [
+                105.795432,
+                22.139602
+            ],
+            [
+                105.795079,
+                22.140159
+            ],
+            [
+                105.794848,
+                22.141381
+            ],
+            [
+                105.794263,
+                22.143049
+            ],
+            [
+                105.793439,
+                22.144385
+            ],
+            [
+                105.792021,
+                22.145835
+            ],
+            [
+                105.788349,
+                22.14785
+            ],
+            [
+                105.785627,
+                22.149862
+            ],
+            [
+                105.78285,
+                22.152594
+            ],
+            [
+                105.781549,
+                22.153711
+            ],
+            [
+                105.780838,
+                22.154047
+            ],
+            [
+                105.776916,
+                22.154066
+            ],
+            [
+                105.776324,
+                22.154402
+            ],
+            [
+                105.775735,
+                22.155403
+            ],
+            [
+                105.775159,
+                22.158625
+            ],
+            [
+                105.775177,
+                22.162066
+            ],
+            [
+                105.775309,
+                22.164285
+            ],
+            [
+                105.776041,
+                22.167834
+            ],
+            [
+                105.776529,
+                22.170162
+            ],
+            [
+                105.77761,
+                22.172155
+            ],
+            [
+                105.779997,
+                22.174031
+            ],
+            [
+                105.781191,
+                22.175024
+            ],
+            [
+                105.782028,
+                22.175908
+            ],
+            [
+                105.782037,
+                22.177462
+            ],
+            [
+                105.78057,
+                22.180855
+            ],
+            [
+                105.7794,
+                22.184301
+            ],
+            [
+                105.779407,
+                22.185522
+            ],
+            [
+                105.779768,
+                22.186408
+            ],
+            [
+                105.78227,
+                22.187395
+            ],
+            [
+                105.788108,
+                22.189809
+            ],
+            [
+                105.791923,
+                22.192011
+            ],
+            [
+                105.794542,
+                22.192664
+            ],
+            [
+                105.797872,
+                22.19287
+            ],
+            [
+                105.801677,
+                22.193184
+            ],
+            [
+                105.805842,
+                22.194051
+            ],
+            [
+                105.80846,
+                22.194482
+            ],
+            [
+                105.809889,
+                22.19503
+            ],
+            [
+                105.810489,
+                22.195915
+            ],
+            [
+                105.810505,
+                22.198801
+            ],
+            [
+                105.810286,
+                22.20191
+            ],
+            [
+                105.810066,
+                22.20513
+            ],
+            [
+                105.809191,
+                22.207965
+            ],
+            [
+                105.807546,
+                22.211414
+            ],
+            [
+                105.80755,
+                22.21208
+            ],
+            [
+                105.808028,
+                22.212411
+            ],
+            [
+                105.811474,
+                22.212282
+            ],
+            [
+                105.815039,
+                22.211932
+            ],
+            [
+                105.817887,
+                22.211029
+            ],
+            [
+                105.821677,
+                22.208679
+            ],
+            [
+                105.827718,
+                22.204875
+            ],
+            [
+                105.83198,
+                22.201856
+            ],
+            [
+                105.834352,
+                22.200956
+            ],
+            [
+                105.835777,
+                22.200838
+            ],
+            [
+                105.839344,
+                22.200819
+            ],
+            [
+                105.84065,
+                22.200702
+            ],
+            [
+                105.841358,
+                22.19981
+            ],
+            [
+                105.84206,
+                22.197919
+            ],
+            [
+                105.843005,
+                22.196916
+            ],
+            [
+                105.846324,
+                22.195344
+            ],
+            [
+                105.848343,
+                22.195001
+            ],
+            [
+                105.850007,
+                22.194992
+            ],
+            [
+                105.85131,
+                22.194208
+            ],
+            [
+                105.852135,
+                22.193094
+            ],
+            [
+                105.852949,
+                22.190093
+            ],
+            [
+                105.853999,
+                22.186758
+            ],
+            [
+                105.854589,
+                22.186088
+            ],
+            [
+                105.855657,
+                22.185861
+            ],
+            [
+                105.85952,
+                22.185896
+            ],
+            [
+                105.865938,
+                22.185862
+            ],
+            [
+                105.866651,
+                22.185747
+            ],
+            [
+                105.867122,
+                22.185079
+            ],
+            [
+                105.866999,
+                22.184413
+            ],
+            [
+                105.865559,
+                22.18209
+            ],
+            [
+                105.86544,
+                22.182091
+            ],
+            [
+                105.865189,
+                22.179872
+            ],
+            [
+                105.865166,
+                22.176209
+            ],
+            [
+                105.865745,
+                22.173653
+            ],
+            [
+                105.867041,
+                22.17176
+            ],
+            [
+                105.869171,
+                22.170305
+            ],
+            [
+                105.87166,
+                22.169293
+            ],
+            [
+                105.872846,
+                22.168843
+            ],
+            [
+                105.873791,
+                22.16795
+            ],
+            [
+                105.874377,
+                22.166504
+            ],
+            [
+                105.874366,
+                22.164839
+            ],
+            [
+                105.875069,
+                22.16317
+            ],
+            [
+                105.877434,
+                22.16127
+            ],
+            [
+                105.881817,
+                22.159027
+            ],
+            [
+                105.883116,
+                22.157688
+            ],
+            [
+                105.884117,
+                22.156184
+            ],
+            [
+                105.885413,
+                22.154512
+            ],
+            [
+                105.888141,
+                22.153609
+            ],
+            [
+                105.889089,
+                22.153271
+            ],
+            [
+                105.88956,
+                22.152491
+            ],
+            [
+                105.889437,
+                22.151937
+            ],
+            [
+                105.88884,
+                22.151385
+            ],
+            [
+                105.887887,
+                22.151057
+            ],
+            [
+                105.886455,
+                22.150066
+            ],
+            [
+                105.885496,
+                22.14874
+            ],
+            [
+                105.884893,
+                22.1473
+            ],
+            [
+                105.884407,
+                22.145638
+            ],
+            [
+                105.883919,
+                22.143531
+            ],
+            [
+                105.883905,
+                22.141422
+            ],
+            [
+                105.884355,
+                22.137313
+            ],
+            [
+                105.884309,
+                22.129876
+            ],
+            [
+                105.884234,
+                22.12749
+            ],
+            [
+                105.884344,
+                22.126047
+            ],
+            [
+                105.885643,
+                22.124819
+            ],
+            [
+                105.888485,
+                22.123249
+            ],
+            [
+                105.890504,
+                22.123127
+            ],
+            [
+                105.891693,
+                22.123232
+            ],
+            [
+                105.893484,
+                22.124776
+            ],
+            [
+                105.895752,
+                22.126429
+            ],
+            [
+                105.897538,
+                22.127085
+            ],
+            [
+                105.898965,
+                22.127299
+            ],
+            [
+                105.901223,
+                22.127287
+            ],
+            [
+                105.905022,
+                22.126933
+            ],
+            [
+                105.909879,
+                22.124686
+            ],
+            [
+                105.914384,
+                22.123217
+            ],
+            [
+                105.918896,
+                22.122748
+            ],
+            [
+                105.921391,
+                22.122734
+            ],
+            [
+                105.923853,
+                22.122794
+            ]
+        ]
+    ]
+}

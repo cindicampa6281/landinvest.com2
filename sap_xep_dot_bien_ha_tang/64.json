@@ -1,0 +1,5951 @@
+{
+    "id_district": "64",
+    "id_province": 60,
+    "name_province": "Tuyên Quang",
+    "name_district": "Huyện Hàm Yên",
+    "list_sukien": [
+        {
+            "bidName": "Thi công xây lắp công trình:Nâng cấp tuyến đường thôn Trò, thôn Bản Ban xã Phù Lưu, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-07-23 14:00:33",
+            "projectName": null,
+            "bidCloseDate": "2023-08-02 10:00:00",
+            "id_muasamcong": "0710084f-efcb-42e6-909f-d03c0ac99dc3",
+            "tongmuc_dautu": 1982663000.0,
+            "bidNamePlanNew": "PL2300124709",
+            "dotbien_hatang": "Thi công xây lắp công trình:Nâng cấp tuyến đường thôn Trò, thôn Bản Ban xã Phù Lưu, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Nâng cấp tuyến đường sang Nặm Húc, thôn Cao Đường, xã Yên Thuận, huyện Hàm Yên đi xã Vô Điếm, huyện Bắc Quang, tỉnh Hà Giang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-05-15 08:20:48",
+            "projectName": null,
+            "bidCloseDate": "2023-05-25 08:30:00",
+            "id_muasamcong": "0c1bb418-c488-457f-87f0-3780380e9f59",
+            "tongmuc_dautu": 4999516000.0,
+            "bidNamePlanNew": "PL2300050516",
+            "dotbien_hatang": "Thi công xây lắp công trình: Nâng cấp tuyến đường sang Nặm Húc, thôn Cao Đường, xã Yên Thuận, huyện Hàm Yên đi xã Vô Điếm, huyện Bắc Quang, tỉnh Hà Giang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 13: Thi công xây dựng công trình khu tái định cư xã Thành Long thực hiện Tiểu dự án 3: Giải phóng mặt bằng địa phận huyện Hàm Yên, thuộc dự án Cao tốc Tuyên Quang - Hà Giang (giai đoạn 1), đoạn qua tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-12-19 15:34:04",
+            "projectName": "Liên danh Công ty Linh Giang - Quang Minh",
+            "bidCloseDate": "2023-12-29 09:00:00",
+            "id_muasamcong": "0e856b2b-4bbd-4c04-9055-c48c24fb5833",
+            "tongmuc_dautu": 19355347000.0,
+            "bidNamePlanNew": "PL2300258857",
+            "dotbien_hatang": "Gói thầu số 13: Thi công xây dựng công trình khu tái định cư xã Thành Long thực hiện Tiểu dự án 3: Giải phóng mặt bằng địa phận huyện Hàm Yên, thuộc dự án Cao tốc Tuyên Quang - Hà Giang (giai đoạn 1), đoạn qua tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Trường Tiểu học Đức Ninh, xã Đức Ninh, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2024-06-14 10:43:10",
+            "projectName": "Liên danh Thành Huy và Tiên Phong",
+            "bidCloseDate": "2024-06-24 08:00:00",
+            "id_muasamcong": "0f0cb32e-f2f7-458e-a7b8-ee26e674fdb1",
+            "tongmuc_dautu": 3932610000.0,
+            "bidNamePlanNew": "PL2400108130",
+            "dotbien_hatang": "Thi công xây lắp công trình:Trường Tiểu học Đức Ninh, xã Đức Ninh, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Nâng cấp tuyến đường từ thôn Cây Thông đi thôn Cây Quéo, thôn Thắng Bình xã Hùng Đức huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-03-06 09:48:01",
+            "projectName": null,
+            "bidCloseDate": "2023-03-16 10:00:00",
+            "id_muasamcong": "0f9b4e87-94ae-4a0e-9f38-c1dff89826ae",
+            "tongmuc_dautu": 1829888000.0,
+            "bidNamePlanNew": "PL2300024351",
+            "dotbien_hatang": "Thi công xây lắp công trình: Nâng cấp tuyến đường từ thôn Cây Thông đi thôn Cây Quéo, thôn Thắng Bình xã Hùng Đức huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Cải tạo, nâng cấp đường giao thông, hệ thống rãnh thoát nước khu dân cư thôn 8 Minh Tiến, xã Minh Hương, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2024-09-09 16:14:49",
+            "projectName": null,
+            "bidCloseDate": "2024-09-19 09:00:00",
+            "id_muasamcong": "0fe44c36-68c0-4cbd-a00e-0304c4b758f8",
+            "tongmuc_dautu": 1125306000.0,
+            "bidNamePlanNew": "PL2400192982",
+            "dotbien_hatang": "Thi công xây dựng công trình: Cải tạo, nâng cấp đường giao thông, hệ thống rãnh thoát nước khu dân cư thôn 8 Minh Tiến, xã Minh Hương, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Quy hoạch và xây dựng điểm dân cư tổ dân phố Ba Trãng, thị trấn Tân Yên, huyện Hàm Yên, tỉnh Tuyên Quang (đoạn Km 172+700 - QL2 giai đoạn 2).",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-09-22 08:41:46",
+            "projectName": null,
+            "bidCloseDate": "2023-10-02 09:00:00",
+            "id_muasamcong": "14a2577f-26bc-4881-aa07-b841414e970c",
+            "tongmuc_dautu": 1898053000.0,
+            "bidNamePlanNew": "PL2300171744",
+            "dotbien_hatang": "Thi công xây lắp công trình:Quy hoạch và xây dựng điểm dân cư tổ dân phố Ba Trãng, thị trấn Tân Yên, huyện Hàm Yên, tỉnh Tuyên Quang (đoạn Km 172+700 - QL2 giai đoạn 2).",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Xây dựng bể bơi huyện, thị trấn Tân Yên, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2024-05-10 16:41:45",
+            "projectName": null,
+            "bidCloseDate": "2024-05-20 10:00:00",
+            "id_muasamcong": "171dd01d-8efe-481b-8e64-4a8e8fba9409",
+            "tongmuc_dautu": 11208665000.0,
+            "bidNamePlanNew": "PL2400071443",
+            "dotbien_hatang": "Thi công xây lắp công trình: Xây dựng bể bơi huyện, thị trấn Tân Yên, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Sửa chữa nhà lớp học và làm việc Trung tâm Giáo dục nghề nghiệp - Giáo dục thường xuyên, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-05-31 15:10:45",
+            "projectName": null,
+            "bidCloseDate": "2023-06-10 09:00:00",
+            "id_muasamcong": "177ac79c-b9d9-46e4-9b87-07f59d494f56",
+            "tongmuc_dautu": 2193748000.0,
+            "bidNamePlanNew": "PL2300082030",
+            "dotbien_hatang": "Thi công xây lắp công trình:Sửa chữa nhà lớp học và làm việc Trung tâm Giáo dục nghề nghiệp - Giáo dục thường xuyên, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng công trình",
+            "chudautu": "Sở Giáo dục và Đào tạo Tuyên Quang",
+            "createdBy": "vn5000251732",
+            "publicDate": "2024-07-29 17:50:48",
+            "projectName": null,
+            "bidCloseDate": "2024-08-09 09:30:00",
+            "id_muasamcong": "188ee2d8-f4e3-41ca-9329-4439fc29e78b",
+            "tongmuc_dautu": 3657901006.0,
+            "bidNamePlanNew": "PL2400117494",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Xây dựng công trình cấp nước xã Bằng Cốc, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-09-22 08:03:51",
+            "projectName": null,
+            "bidCloseDate": "2023-10-02 08:30:00",
+            "id_muasamcong": "1a9fa7f0-2a76-4417-949a-c25e2ad1e28f",
+            "tongmuc_dautu": 1368274000.0,
+            "bidNamePlanNew": "PL2300168794",
+            "dotbien_hatang": "Thi công xây lắp công trình:Xây dựng công trình cấp nước xã Bằng Cốc, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Trường PTDTBT THCS Yên Thuận, xã Yên Thuận, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2024-09-10 12:08:11",
+            "projectName": "Liên danh công ty TNHH tư vấn xây dựng Thái Trình và Công ty TNHH xây dựng thương mại và PCCC Ánh Dương",
+            "bidCloseDate": "2024-09-20 08:30:00",
+            "id_muasamcong": "1b933140-0b51-4e2e-be0d-ee70b2f34756",
+            "tongmuc_dautu": 6274981000.0,
+            "bidNamePlanNew": "PL2400192089",
+            "dotbien_hatang": "Thi công xây lắp công trình: Trường PTDTBT THCS Yên Thuận, xã Yên Thuận, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Xây dựng trường Tiểu học Minh Khương đạt chuẩn nông thôn mới, xã Minh Khương, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-03-30 14:05:25",
+            "projectName": "Liên danh Công ty TNHH XD và TK Tín Thành và Công ty TNHH MTV tư vấn xây dựng Hoàng Hà",
+            "bidCloseDate": "2023-04-10 09:00:00",
+            "id_muasamcong": "1f8bff16-eaae-4aff-b953-27571feca94b",
+            "tongmuc_dautu": 5615248000.0,
+            "bidNamePlanNew": "PL2200047002",
+            "dotbien_hatang": "Thi công xây lắp công trình: Xây dựng trường Tiểu học Minh Khương đạt chuẩn nông thôn mới, xã Minh Khương, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Nâng cấp tuyến đường từ nhà ông Chất đến nhà ông Sáng, thôn Hợp Hòa, đường vào Bản cũ, thôn Đồng Quảng, xã Bằng Cốc, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-04-10 12:25:52",
+            "projectName": "Liên danh An Phát – Tân Thịnh",
+            "bidCloseDate": "2023-04-20 09:00:00",
+            "id_muasamcong": "2025802e-4c1a-4525-937c-ab9eba035125",
+            "tongmuc_dautu": 1607452000.0,
+            "bidNamePlanNew": "PL2300047492",
+            "dotbien_hatang": "Thi công xây lắp công trình: Nâng cấp tuyến đường từ nhà ông Chất đến nhà ông Sáng, thôn Hợp Hòa, đường vào Bản cũ, thôn Đồng Quảng, xã Bằng Cốc, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Ủy ban nhân dân xã Thái Hòa",
+            "createdBy": "vn5000229769",
+            "publicDate": "2023-05-09 17:09:37",
+            "projectName": null,
+            "bidCloseDate": "2023-05-19 16:30:00",
+            "id_muasamcong": "230813f7-abe3-46e5-a28c-d6e16d097436",
+            "tongmuc_dautu": 1292859886.0,
+            "bidNamePlanNew": "PL2300049662",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 12: Thi công xây dựng công trình và thiết bị khu tái định cư xã Đức Ninh và xã Hùng Đức thực hiện Tiểu dự án 3: Giải phóng mặt bằng địa phận huyện Hàm Yên, thuộc dự án Cao tốc Tuyên Quang - Hà Giang (giai đoạn 1), đoạn qua tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-12-19 15:09:50",
+            "projectName": "Liên danh Công ty TNHH Vinh Ánh, Công ty TNHH 27-7 và Công ty TNHH MTV xây dựng Lâm Minh Sơn",
+            "bidCloseDate": "2023-12-29 10:00:00",
+            "id_muasamcong": "23fe8174-69df-4ffc-aa62-f02131ce1db9",
+            "tongmuc_dautu": 17691980000.0,
+            "bidNamePlanNew": "PL2300258857",
+            "dotbien_hatang": "Gói thầu số 12: Thi công xây dựng công trình và thiết bị khu tái định cư xã Đức Ninh và xã Hùng Đức thực hiện Tiểu dự án 3: Giải phóng mặt bằng địa phận huyện Hàm Yên, thuộc dự án Cao tốc Tuyên Quang - Hà Giang (giai đoạn 1), đoạn qua tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Xây dựng công trình cấp nước xã Minh Hương, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-09-20 09:22:35",
+            "projectName": null,
+            "bidCloseDate": "2023-10-03 15:00:00",
+            "id_muasamcong": "27ccec2f-cc0e-43d9-a85a-1f494e26e867",
+            "tongmuc_dautu": 1355209000.0,
+            "bidNamePlanNew": "PL2300168749",
+            "dotbien_hatang": "Thi công xây lắp công trình:Xây dựng công trình cấp nước xã Minh Hương, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Trường THCS Thành Long, xã Thành Long, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2024-01-25 21:19:13",
+            "projectName": "Liên danh Công ty TNHH tư vấn xây dựng Thái Trình và Công ty TNHH xây dựng và PCCC Tiên Phong",
+            "bidCloseDate": "2024-02-04 08:30:00",
+            "id_muasamcong": "2a814c44-cf0c-46a6-9ebf-3f0dc48a2ab2",
+            "tongmuc_dautu": 6461133000.0,
+            "bidNamePlanNew": "PL2400012786",
+            "dotbien_hatang": "Thi công xây lắp công trình: Trường THCS Thành Long, xã Thành Long, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Xây dựng bếp ăn Trường PTDT bán trú Tiểu học Minh Tiến, xã Minh Hương, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2024-08-16 15:55:43",
+            "projectName": "Liên danh Tiến Đạt - Đông Phương",
+            "bidCloseDate": "2024-08-26 08:30:00",
+            "id_muasamcong": "2d9cf93e-60b7-4c08-9d7a-bb299097977d",
+            "tongmuc_dautu": 1634352000.0,
+            "bidNamePlanNew": "PL2400168055",
+            "dotbien_hatang": "Thi công xây lắp công trình:Xây dựng bếp ăn Trường PTDT bán trú Tiểu học Minh Tiến, xã Minh Hương, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Sửa chữa hạng mục cổng, tường rào Trung tâm Giáo dục nghề nghiệp - Giáo dục thường xuyên xã Tân Thành, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-06-16 11:33:19",
+            "projectName": null,
+            "bidCloseDate": "2023-06-26 08:15:00",
+            "id_muasamcong": "2e0c75ba-64ff-4b83-a3c7-f925164c5803",
+            "tongmuc_dautu": 1575182000.0,
+            "bidNamePlanNew": "PL2300096478",
+            "dotbien_hatang": "Thi công xây lắp công trình:Sửa chữa hạng mục cổng, tường rào Trung tâm Giáo dục nghề nghiệp - Giáo dục thường xuyên xã Tân Thành, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Nâng cấp tuyến đường ĐH.21 từ Km 157 QL2 - thôn Đồng Danh, xã Đức Ninh, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-04-28 08:55:10",
+            "projectName": null,
+            "bidCloseDate": "2023-05-08 08:00:00",
+            "id_muasamcong": "318c583e-ceb0-45e5-bb4f-fb64f1a2d4f2",
+            "tongmuc_dautu": 1130561000.0,
+            "bidNamePlanNew": "PL2300055761",
+            "dotbien_hatang": "Thi công xây dựng công trình: Nâng cấp tuyến đường ĐH.21 từ Km 157 QL2 - thôn Đồng Danh, xã Đức Ninh, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Xây dựng công trình cấp nước sinh hoạt tập trung khu trung tâm xã Bạch Xa, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-09-20 11:29:25",
+            "projectName": null,
+            "bidCloseDate": "2023-09-30 09:00:00",
+            "id_muasamcong": "328ea5cb-cee1-4c68-90fb-8231b017ef1b",
+            "tongmuc_dautu": 2890841000.0,
+            "bidNamePlanNew": "PL2300168817",
+            "dotbien_hatang": "Thi công xây lắp công trình:Xây dựng công trình cấp nước sinh hoạt tập trung khu trung tâm xã Bạch Xa, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp và vật liệu phụ",
+            "chudautu": "Viễn thông Tuyên Quang",
+            "createdBy": "vn5000136433",
+            "publicDate": "2023-03-14 09:54:00",
+            "projectName": null,
+            "bidCloseDate": "2023-03-24 08:00:00",
+            "id_muasamcong": "34abdea5-ec85-416f-8e81-49c9683881b8",
+            "tongmuc_dautu": 1465200000.0,
+            "bidNamePlanNew": "PL2300021258",
+            "dotbien_hatang": "Thi công xây lắp và vật liệu phụ",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Nâng cấp đường thôn Đồng Quảng, thôn Phúc Long; tuyến đường thôn Đồng Nhật, thôn Cọ Sẻ, xã Bằng Cốc, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2024-05-29 16:08:47",
+            "projectName": null,
+            "bidCloseDate": "2024-06-08 08:00:00",
+            "id_muasamcong": "357d31d7-0ad6-4569-bb0b-4a309187adeb",
+            "tongmuc_dautu": 3443668000.0,
+            "bidNamePlanNew": "PL2400093761",
+            "dotbien_hatang": "Thi công xây lắp công trình: Nâng cấp đường thôn Đồng Quảng, thôn Phúc Long; tuyến đường thôn Đồng Nhật, thôn Cọ Sẻ, xã Bằng Cốc, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Trường Tiểu học Thành Long, xã Thành Long, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2024-01-25 21:53:08",
+            "projectName": "Liên danh Anh Phát – Đức Anh – Phương Nam",
+            "bidCloseDate": "2024-02-04 09:00:00",
+            "id_muasamcong": "377d2d91-974a-406c-8211-cdb9b27153af",
+            "tongmuc_dautu": 6396998000.0,
+            "bidNamePlanNew": "PL2400012789",
+            "dotbien_hatang": "Thi công xây lắp công trình:Trường Tiểu học Thành Long, xã Thành Long, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Nâng cấp đường thôn Phù Hương, thôn Làng Ẻn, xã Bạch Xa, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-08-05 13:00:43",
+            "projectName": "Liên danh Trung Mạnh – Đức Anh",
+            "bidCloseDate": "2023-08-15 14:30:00",
+            "id_muasamcong": "381070c9-233a-4a33-85cb-2c60a4eddcd4",
+            "tongmuc_dautu": 4007563000.0,
+            "bidNamePlanNew": "PL2300132908",
+            "dotbien_hatang": "Thi công xây lắp công trình:Nâng cấp đường thôn Phù Hương, thôn Làng Ẻn, xã Bạch Xa, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng sửa chữa",
+            "chudautu": "Cục Thuế tỉnh Tuyên Quang",
+            "createdBy": "vn5000160820",
+            "publicDate": "2023-04-28 17:34:49",
+            "projectName": null,
+            "bidCloseDate": "2023-05-08 10:30:00",
+            "id_muasamcong": "3ba7c3b4-6449-45ca-aec7-702ebe3a9457",
+            "tongmuc_dautu": 2181345000.0,
+            "bidNamePlanNew": "PL2300041807",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng sửa chữa",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Nâng cấp tuyến đường thôn 2 Yên Lập, đường nội thôn 9 Minh Phú, xã Yên Phú, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-08-10 14:59:09",
+            "projectName": null,
+            "bidCloseDate": "2023-08-21 08:30:00",
+            "id_muasamcong": "3cfebe7c-04e3-45b4-9a04-6945301b73a2",
+            "tongmuc_dautu": 1266892000.0,
+            "bidNamePlanNew": "PL2300138278",
+            "dotbien_hatang": "Thi công xây lắp công trình:Nâng cấp tuyến đường thôn 2 Yên Lập, đường nội thôn 9 Minh Phú, xã Yên Phú, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Xây dựng, nâng cấp hệ thống điện chiếu sáng tại các trục đường chính, thị trấn Tân Yên, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-08-31 18:05:06",
+            "projectName": null,
+            "bidCloseDate": "2023-09-11 08:30:00",
+            "id_muasamcong": "3da28175-02e4-40b7-a82f-6e71abe76f5c",
+            "tongmuc_dautu": 10931073000.0,
+            "bidNamePlanNew": "PL2300140824",
+            "dotbien_hatang": "Thi công xây lắp công trình:Xây dựng, nâng cấp hệ thống điện chiếu sáng tại các trục đường chính, thị trấn Tân Yên, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Nâng cấp tuyến đường thôn 4 Trung Thành, xã Thành Long đi xã Thái Hòa, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-08-04 12:06:15",
+            "projectName": "Liên danh Trung Mạnh – Đức Anh",
+            "bidCloseDate": "2023-08-14 14:00:00",
+            "id_muasamcong": "3fb575b0-065d-4a0b-846c-e52547f5501f",
+            "tongmuc_dautu": 5062048000.0,
+            "bidNamePlanNew": "PL2300132783",
+            "dotbien_hatang": "Thi công xây lắp công trình:Nâng cấp tuyến đường thôn 4 Trung Thành, xã Thành Long đi xã Thái Hòa, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Nâng cấp đường thôn Ngòi Lộc, xã Minh Khương đi thôn Cầu Cao, xã Bạch Xa, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-08-03 11:43:10",
+            "projectName": null,
+            "bidCloseDate": "2023-08-14 09:00:00",
+            "id_muasamcong": "421bc5e9-23ab-40a1-8ee5-6b18c6786091",
+            "tongmuc_dautu": 1785896000.0,
+            "bidNamePlanNew": "PL2300132913",
+            "dotbien_hatang": "Thi công xây lắp công trình:Nâng cấp đường thôn Ngòi Lộc, xã Minh Khương đi thôn Cầu Cao, xã Bạch Xa, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Nâng cấp mở rộng đường nội thôn Ngòi Lộc, xã Minh Khương, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-08-02 14:56:17",
+            "projectName": null,
+            "bidCloseDate": "2023-08-12 09:30:00",
+            "id_muasamcong": "42499fbc-29ea-4adc-8751-efca95c7966b",
+            "tongmuc_dautu": 1550531000.0,
+            "bidNamePlanNew": "PL2300130926",
+            "dotbien_hatang": "Thi công xây lắp công trình:Nâng cấp mở rộng đường nội thôn Ngòi Lộc, xã Minh Khương, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Nhà bán trú và các công trình phụ trợ trường PTDTBT THCS Yên Lâm, xã Yên Lâm, huyện Hàm Yên",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-05-18 11:01:30",
+            "projectName": null,
+            "bidCloseDate": "2023-05-28 08:30:00",
+            "id_muasamcong": "42e56e68-1905-40ae-b303-94f165a33b41",
+            "tongmuc_dautu": 3357045000.0,
+            "bidNamePlanNew": "PL2300072896",
+            "dotbien_hatang": "Thi công xây lắp công trình:Nhà bán trú và các công trình phụ trợ trường PTDTBT THCS Yên Lâm, xã Yên Lâm, huyện Hàm Yên",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 10: Tư vấn giám sát thi công xây dựng công trình (giai đoạn 2)",
+            "chudautu": "Sở Giao thông vận tải tỉnh Tuyên Quang",
+            "createdBy": "vn5000227401",
+            "publicDate": "2022-12-26 16:12:42",
+            "projectName": null,
+            "bidCloseDate": "2023-01-16 08:00:00",
+            "id_muasamcong": "43641532-d105-4979-9062-e024bd799b7c",
+            "tongmuc_dautu": 619715400.0,
+            "bidNamePlanNew": "PL2200039377",
+            "dotbien_hatang": "Gói thầu số 10: Tư vấn giám sát thi công xây dựng công trình (giai đoạn 2)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Bê tông hóa đường giao thông nội thôn Làng Chả, xã Phù Lưu, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-04-20 07:46:34",
+            "projectName": null,
+            "bidCloseDate": "2023-05-04 10:00:00",
+            "id_muasamcong": "48d095a8-7405-4e8c-9c45-cf3119293afe",
+            "tongmuc_dautu": 1416958000.0,
+            "bidNamePlanNew": "PL2300053859",
+            "dotbien_hatang": "Thi công xây lắp công trình:Bê tông hóa đường giao thông nội thôn Làng Chả, xã Phù Lưu, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Trường Mầm non Thành Long, xã Thành Long, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2024-03-01 15:13:53",
+            "projectName": null,
+            "bidCloseDate": "2024-03-11 09:00:00",
+            "id_muasamcong": "4da4c3d5-17ef-4838-9b88-515044ba70bd",
+            "tongmuc_dautu": 5247132000.0,
+            "bidNamePlanNew": "PL2400024139",
+            "dotbien_hatang": "Thi công xây lắp công trình:Trường Mầm non Thành Long, xã Thành Long, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Bê tông hóa đường giao thông nội  thôn 1 Yên Lập, thôn 3 Yên Lập, xã Yên Phú, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-08-03 09:53:38",
+            "projectName": null,
+            "bidCloseDate": "2023-08-14 08:30:00",
+            "id_muasamcong": "4f8fccef-d754-42ef-b82e-cd97b6a5290c",
+            "tongmuc_dautu": 1359561000.0,
+            "bidNamePlanNew": "PL2300132761",
+            "dotbien_hatang": "Thi công xây lắp công trình:Bê tông hóa đường giao thông nội  thôn 1 Yên Lập, thôn 3 Yên Lập, xã Yên Phú, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Cải tạo, sửa chữa Trụ sở làm việc UBND thị trấn Tân Yên và xây dựng mới Nhà văn hóa thị trấn Tân Yên, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2024-06-13 11:45:15",
+            "projectName": "Công ty TNHH Vinh Ánh và Công ty TNHH đầu tư xây dựng Hùng Phú",
+            "bidCloseDate": "2024-06-22 09:00:00",
+            "id_muasamcong": "52e443bb-4f33-4ece-929a-c7e7874fd4a7",
+            "tongmuc_dautu": 8850562000.0,
+            "bidNamePlanNew": "PL2400104317",
+            "dotbien_hatang": "Thi công xây lắp công trình: Cải tạo, sửa chữa Trụ sở làm việc UBND thị trấn Tân Yên và xây dựng mới Nhà văn hóa thị trấn Tân Yên, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 22: Thi công xây dựng đoạn tuyến từ Km55+00 - Km65+00",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng các công trình giao thông tỉnh Tuyên Quang",
+            "createdBy": "vn5000833836",
+            "publicDate": "2023-09-21 08:32:04",
+            "projectName": null,
+            "bidCloseDate": "2023-10-01 09:00:00",
+            "id_muasamcong": "543273f3-6a34-4afd-9f60-3a98b5fd600d",
+            "tongmuc_dautu": 588682601000.0,
+            "bidNamePlanNew": "PL2300005914",
+            "dotbien_hatang": "Gói thầu số 22: Thi công xây dựng đoạn tuyến từ Km55+00 - Km65+00",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Hỗ trợ Trung tâm GDNN-GDTX huyện về cơ sở vật chất (Nâng cấp cải tạo nhà bếp ăn, nhà bán trú; Hạng mục phụ trợ: sân bê tông, hệ thống thoát nước, hàng rào bảo vệ), xã Tân Thành, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-06-16 15:07:33",
+            "projectName": null,
+            "bidCloseDate": "2023-06-26 08:45:00",
+            "id_muasamcong": "585bc6a3-a888-4418-8b2d-ba9718969587",
+            "tongmuc_dautu": 1426888000.0,
+            "bidNamePlanNew": "PL2300096518",
+            "dotbien_hatang": "Thi công xây lắp công trình:Hỗ trợ Trung tâm GDNN-GDTX huyện về cơ sở vật chất (Nâng cấp cải tạo nhà bếp ăn, nhà bán trú; Hạng mục phụ trợ: sân bê tông, hệ thống thoát nước, hàng rào bảo vệ), xã Tân Thành, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2024-06-22 09:25:19",
+            "projectName": null,
+            "bidCloseDate": "2024-07-02 09:00:00",
+            "id_muasamcong": "5912a777-1585-4259-9b50-a8293118c8fa",
+            "tongmuc_dautu": 1307455000.0,
+            "bidNamePlanNew": "PL2400116716",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Cải tạo, nâng cấp công trình cấp nước tập trung thôn Xít Xa, xã Minh Khương, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-09-22 16:03:57",
+            "projectName": "Liên danh Công ty TNHH tư vấn xây dựng Thái Trình và Công TNHH Tư vấn xây dựng Duy Hưng",
+            "bidCloseDate": "2023-10-07 09:00:00",
+            "id_muasamcong": "596b31ee-eef7-46c1-b5d9-4266b0379cf9",
+            "tongmuc_dautu": 1630983000.0,
+            "bidNamePlanNew": "PL2300168909",
+            "dotbien_hatang": "Thi công xây lắp công trình:Cải tạo, nâng cấp công trình cấp nước tập trung thôn Xít Xa, xã Minh Khương, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng sửa chữa",
+            "chudautu": "Cục Thuế tỉnh Tuyên Quang",
+            "createdBy": "vn5000160820",
+            "publicDate": "2023-04-28 15:46:51",
+            "projectName": null,
+            "bidCloseDate": "2023-06-08 10:30:00",
+            "id_muasamcong": "59d45f9e-c1aa-4181-9806-cfc077b321af",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300041807",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng sửa chữa",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Xây dựng trường THCS Bạch Xa đạt chuẩn nông thôn mới, xã Bạch Xa, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-06-17 11:05:45",
+            "projectName": null,
+            "bidCloseDate": "2023-06-24 09:00:00",
+            "id_muasamcong": "5a205b1b-8862-4c27-b224-c12673f78f14",
+            "tongmuc_dautu": 4425338000.0,
+            "bidNamePlanNew": "PL2300097436",
+            "dotbien_hatang": "Thi công xây lắp công trình:Xây dựng trường THCS Bạch Xa đạt chuẩn nông thôn mới, xã Bạch Xa, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 21: Thi công xây dựng đoạn tuyến từ Km43+00 - Km55+00",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng các công trình giao thông tỉnh Tuyên Quang",
+            "createdBy": "vn5000833836",
+            "publicDate": "2023-09-20 22:31:36",
+            "projectName": "Liên danh Công ty Cổ phần Xây dựng Dịch vụ và Thương mại 68 - Công ty TNHH Phúc Thành An - Công ty TNHH Hiệp Phú",
+            "bidCloseDate": "2023-10-01 16:30:00",
+            "id_muasamcong": "5a90da8a-1c1e-4d7a-8882-45ef8a18ca15",
+            "tongmuc_dautu": 764118761000.0,
+            "bidNamePlanNew": "PL2300005914",
+            "dotbien_hatang": "Gói thầu số 21: Thi công xây dựng đoạn tuyến từ Km43+00 - Km55+00",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 21: Thi công xây dựng hạng mục di chuyển đường dây 35kV và 0,4kV (giai đoạn 1)",
+            "chudautu": "Sở Giao thông vận tải tỉnh Tuyên Quang",
+            "createdBy": "vn5000833836",
+            "publicDate": "2023-08-24 09:36:31",
+            "projectName": null,
+            "bidCloseDate": "2023-09-04 09:00:00",
+            "id_muasamcong": "5cc90773-7ec3-4189-bace-be1273500c1c",
+            "tongmuc_dautu": 1375591000.0,
+            "bidNamePlanNew": "PL2300135720",
+            "dotbien_hatang": "Gói thầu số 21: Thi công xây dựng hạng mục di chuyển đường dây 35kV và 0,4kV (giai đoạn 1)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Khu dân cư thôn Quảng Tân, xã Yên Lâm, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2024-05-08 11:52:04",
+            "projectName": null,
+            "bidCloseDate": "2024-05-17 09:00:00",
+            "id_muasamcong": "5d7cb1c7-461d-445c-b9a6-402a0247f554",
+            "tongmuc_dautu": 7876402000.0,
+            "bidNamePlanNew": "PL2400071382",
+            "dotbien_hatang": "Thi công xây lắp công trình: Khu dân cư thôn Quảng Tân, xã Yên Lâm, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Nâng cấp Trung tâm Văn hóa - Thể thao huyện đạt chuẩn, huyện Hàm Yên, tỉnh Tuyên Quang (đợt 1).",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-07-10 10:31:49",
+            "projectName": null,
+            "bidCloseDate": "2023-07-22 10:00:00",
+            "id_muasamcong": "66c78c05-2c38-44bf-8d1f-deeaac82d299",
+            "tongmuc_dautu": 4387074000.0,
+            "bidNamePlanNew": "PL2300112871",
+            "dotbien_hatang": "Thi công xây dựng công trình: Nâng cấp Trung tâm Văn hóa - Thể thao huyện đạt chuẩn, huyện Hàm Yên, tỉnh Tuyên Quang (đợt 1).",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Nâng cấp tuyến đường từ thôn 6 Minh Phú đi thôn 8 Minh Phú, đường nội thôn 9 Minh Phú, xã Yên Phú, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-04-19 22:45:10",
+            "projectName": null,
+            "bidCloseDate": "2023-05-04 09:00:00",
+            "id_muasamcong": "676de1f6-0ab5-41fb-b1bf-5901a3c2f263",
+            "tongmuc_dautu": 2150660000.0,
+            "bidNamePlanNew": "PL2300053818",
+            "dotbien_hatang": "Thi công xây lắp công trình:Nâng cấp tuyến đường từ thôn 6 Minh Phú đi thôn 8 Minh Phú, đường nội thôn 9 Minh Phú, xã Yên Phú, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Nâng cấp tuyến đường nội thôn Cuổm lên Lũng Trang thôn Cuổm, xã Yên Thuận, huyện Hàm Yên, tỉnh Tuyên Quang;",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2024-05-17 16:03:48",
+            "projectName": null,
+            "bidCloseDate": "2024-05-26 09:00:00",
+            "id_muasamcong": "68f55e9d-0c2f-4326-adfe-cf83c891ef85",
+            "tongmuc_dautu": 3951516000.0,
+            "bidNamePlanNew": "PL2400082350",
+            "dotbien_hatang": "Thi công xây lắp công trình: Nâng cấp tuyến đường nội thôn Cuổm lên Lũng Trang thôn Cuổm, xã Yên Thuận, huyện Hàm Yên, tỉnh Tuyên Quang;",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08: Thi công xây dựng công trình và thiết bị khu tái định cư thị trấn Tân Yên, xã Thái Sơn, xã Thành Long, xã Thái Hòa thực hiện Tiểu dự án 3: Giải phóng mặt bằng địa phận huyện Hàm Yên, thuộc dự án Cao tốc Tuyên Quang - Hà Giang (giai đoạn 1), đoạn qua tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-12-25 17:49:42",
+            "projectName": "Liên danh Công ty TNHH 27-7 – Công ty Cổ phần Linh Giang –– Công ty TNHH Duy Phượng ",
+            "bidCloseDate": "2024-01-15 09:00:00",
+            "id_muasamcong": "69dfc447-6f8f-4d2a-8b62-9a8bdab4e877",
+            "tongmuc_dautu": 45412690000.0,
+            "bidNamePlanNew": "PL2300258857",
+            "dotbien_hatang": "Gói thầu số 08: Thi công xây dựng công trình và thiết bị khu tái định cư thị trấn Tân Yên, xã Thái Sơn, xã Thành Long, xã Thái Hòa thực hiện Tiểu dự án 3: Giải phóng mặt bằng địa phận huyện Hàm Yên, thuộc dự án Cao tốc Tuyên Quang - Hà Giang (giai đoạn 1), đoạn qua tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 14: Thi công xây dựng công trình và thiết bị khu tái định cư xã Phù Lưu thực hiện Tiểu dự án 3: Giải phóng mặt bằng địa phận huyện Hàm Yên, thuộc dự án Cao tốc Tuyên Quang - Hà Giang (giai đoạn 1), đoạn qua tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-12-19 16:09:24",
+            "projectName": "Liên danh Hoàng Ngọc – Lâm Minh Sơn",
+            "bidCloseDate": "2023-12-29 10:30:00",
+            "id_muasamcong": "6d3f2716-0ad8-4bbd-ab24-86e0771ad832",
+            "tongmuc_dautu": 18735051000.0,
+            "bidNamePlanNew": "PL2300258857",
+            "dotbien_hatang": "Gói thầu số 14: Thi công xây dựng công trình và thiết bị khu tái định cư xã Phù Lưu thực hiện Tiểu dự án 3: Giải phóng mặt bằng địa phận huyện Hàm Yên, thuộc dự án Cao tốc Tuyên Quang - Hà Giang (giai đoạn 1), đoạn qua tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Nâng cấp, cải tạo cơ sở vật chất trường PTDTBT TH Minh Tiến, xã Minh Hương, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-12-20 10:18:51",
+            "projectName": "Liên danh Tiến Đạt - Sogi",
+            "bidCloseDate": "2023-12-28 09:00:00",
+            "id_muasamcong": "71dd6ad7-d286-42c6-adf0-97e4b0dda63d",
+            "tongmuc_dautu": 8507903000.0,
+            "bidNamePlanNew": "PL2300257175",
+            "dotbien_hatang": "Thi công xây lắp công trình: Nâng cấp, cải tạo cơ sở vật chất trường PTDTBT TH Minh Tiến, xã Minh Hương, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Nâng cấp đường giao thông nội thôn 2 Làng Bát và thôn 4 Làng Bát, xã Tân Thành, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-07-22 08:49:42",
+            "projectName": null,
+            "bidCloseDate": "2023-07-29 09:00:00",
+            "id_muasamcong": "747234ba-f407-4e3c-8475-fe89aba88fc6",
+            "tongmuc_dautu": 1769294000.0,
+            "bidNamePlanNew": "PL2300124208",
+            "dotbien_hatang": "Thi công xây lắp công trình:Nâng cấp đường giao thông nội thôn 2 Làng Bát và thôn 4 Làng Bát, xã Tân Thành, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Mở mới tuyến đường từ nhà văn hóa thôn Bơi sang trung tâm thôn Nà Khà cũ, xã Yên Thuận, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-04-20 08:10:30",
+            "projectName": null,
+            "bidCloseDate": "2023-05-04 10:30:00",
+            "id_muasamcong": "773e58a2-bfcf-4387-bf1a-ba5b0f24a5c6",
+            "tongmuc_dautu": 3516658000.0,
+            "bidNamePlanNew": "PL2300053841",
+            "dotbien_hatang": "Thi công xây lắp công trình:Mở mới tuyến đường từ nhà văn hóa thôn Bơi sang trung tâm thôn Nà Khà cũ, xã Yên Thuận, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Nâng cấp tuyến đường nội thôn 1 Minh Tiến, thôn 7 Minh Tiến, thôn 8 Minh Tiến, xã Minh Hương, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-08-03 09:19:56",
+            "projectName": null,
+            "bidCloseDate": "2023-08-14 08:00:00",
+            "id_muasamcong": "778a7ede-9bdc-4f6b-b73e-e1a71497df51",
+            "tongmuc_dautu": 2263628000.0,
+            "bidNamePlanNew": "PL2300132879",
+            "dotbien_hatang": "Thi công xây lắp công trình:Nâng cấp tuyến đường nội thôn 1 Minh Tiến, thôn 7 Minh Tiến, thôn 8 Minh Tiến, xã Minh Hương, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Cải tạo,nâng cấp tuyến đường ĐH.03 đoạn từ UBND xã Thái Hòa đi Hồng Thái, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2024-05-15 08:06:08",
+            "projectName": null,
+            "bidCloseDate": "2024-05-24 08:30:00",
+            "id_muasamcong": "78249d6e-a32b-4d0c-b256-84115663e0d9",
+            "tongmuc_dautu": 8777204000.0,
+            "bidNamePlanNew": "PL2400076196",
+            "dotbien_hatang": "Thi công xây lắp công trình: Cải tạo,nâng cấp tuyến đường ĐH.03 đoạn từ UBND xã Thái Hòa đi Hồng Thái, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Đường giao thông thôn Cây Thông đi Cây Quéo, xã Hùng Đức, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-05-18 10:33:48",
+            "projectName": null,
+            "bidCloseDate": "2023-05-28 08:00:00",
+            "id_muasamcong": "785b31f9-3ab9-4158-b51c-87ffd3e09b80",
+            "tongmuc_dautu": 7813792000.0,
+            "bidNamePlanNew": "PL2300072892",
+            "dotbien_hatang": "Thi công xây lắp công trình:Đường giao thông thôn Cây Thông đi Cây Quéo, xã Hùng Đức, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Nâng cấp, cải tạo cơ sở vật chất trường PTDTBT THCS Yên Thuận, xã Yên Thuận, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-09-26 09:01:52",
+            "projectName": "Liên danh Thái Trình – Đức Huy",
+            "bidCloseDate": "2023-10-06 08:30:00",
+            "id_muasamcong": "79228467-f9de-4099-ba9e-bee360a819f5",
+            "tongmuc_dautu": 7391810000.0,
+            "bidNamePlanNew": "PL2300173617",
+            "dotbien_hatang": "Thi công xây lắp công trình:Nâng cấp, cải tạo cơ sở vật chất trường PTDTBT THCS Yên Thuận, xã Yên Thuận, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Tư vấn giám sát thi công xây dựng và lắp đặt thiết bị thực hiện Tiểu dự án 3: Giải phóng mặt bằng địa phận huyện Hàm Yên, thuộc dự án Cao tốc Tuyên Quang - Hà Giang (giai đoạn 1), đoạn qua tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-12-22 07:27:14",
+            "projectName": "Liên danh Công ty cổ phần tư vấn đầu tư giao thông Đường Lâm và Công ty TNHH xây dựng Trung Mạnh",
+            "bidCloseDate": "2023-12-29 18:00:00",
+            "id_muasamcong": "7db2a52c-ec0e-4d3a-93d0-b90b79df7528",
+            "tongmuc_dautu": 1966351000.0,
+            "bidNamePlanNew": "PL2300258857",
+            "dotbien_hatang": "Gói thầu số 04: Tư vấn giám sát thi công xây dựng và lắp đặt thiết bị thực hiện Tiểu dự án 3: Giải phóng mặt bằng địa phận huyện Hàm Yên, thuộc dự án Cao tốc Tuyên Quang - Hà Giang (giai đoạn 1), đoạn qua tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 10: Thi công xây dựng công trình và thiết bị khu tái định cư xã Minh Khương và xã Minh Dân thực hiện Tiểu dự án 3: Giải phóng mặt bằng địa phận huyện Hàm Yên, thuộc dự án Cao tốc Tuyên Quang - Hà Giang (giai đoạn 1), đoạn qua tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-12-19 14:08:49",
+            "projectName": "Liên danh Hoàng Ngọc -Vinh Ánh - Lâm Minh Sơn",
+            "bidCloseDate": "2023-12-29 08:00:00",
+            "id_muasamcong": "827b163d-cad1-4861-9ee8-8bb8ebe1eacc",
+            "tongmuc_dautu": 16550068000.0,
+            "bidNamePlanNew": "PL2300258857",
+            "dotbien_hatang": "Gói thầu số 10: Thi công xây dựng công trình và thiết bị khu tái định cư xã Minh Khương và xã Minh Dân thực hiện Tiểu dự án 3: Giải phóng mặt bằng địa phận huyện Hàm Yên, thuộc dự án Cao tốc Tuyên Quang - Hà Giang (giai đoạn 1), đoạn qua tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Nâng cấp mở rộng đường thôn Loa, thôn Phúc Long 1, thôn Phúc Long 3, xã Thành Long, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-03-26 14:00:26",
+            "projectName": null,
+            "bidCloseDate": "2023-04-05 09:00:00",
+            "id_muasamcong": "83164749-83c9-438e-93a4-bea7c4163adf",
+            "tongmuc_dautu": 2690991000.0,
+            "bidNamePlanNew": "PL2300036901",
+            "dotbien_hatang": "Thi công xây lắp công trình: Nâng cấp mở rộng đường thôn Loa, thôn Phúc Long 1, thôn Phúc Long 3, xã Thành Long, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Cải tạo, nâng cấp tuyến đường ĐH.01 đoạn Km39, QL2 đi xã Nhân Mục, thị trấn Tân Yên, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2024-07-29 08:50:44",
+            "projectName": null,
+            "bidCloseDate": "2024-08-08 08:00:00",
+            "id_muasamcong": "85bba84c-b12a-4ff3-b66e-deacea3b21ea",
+            "tongmuc_dautu": 4478990000.0,
+            "bidNamePlanNew": "PL2400147774",
+            "dotbien_hatang": "Thi công xây dựng công trình: Cải tạo, nâng cấp tuyến đường ĐH.01 đoạn Km39, QL2 đi xã Nhân Mục, thị trấn Tân Yên, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Đường trục xã Hùng Đức, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2024-01-18 16:49:17",
+            "projectName": null,
+            "bidCloseDate": "2024-01-29 08:00:00",
+            "id_muasamcong": "86edf8a3-3989-4341-80c9-395cd52840b9",
+            "tongmuc_dautu": 6242676000.0,
+            "bidNamePlanNew": "PL2400008270",
+            "dotbien_hatang": "Thi công xây lắp công trình: Đường trục xã Hùng Đức, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Xây dựng tuyến đường Trung tâm xã Minh Hương theo hướng đô thị, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-03-07 14:20:16",
+            "projectName": "Liên danh Công ty cổ phần Hoàng Hưng và Công ty TNHH Phú Hưng",
+            "bidCloseDate": "2023-03-17 15:00:00",
+            "id_muasamcong": "8c8dc7c9-98d5-485d-84af-24932fa9aeb8",
+            "tongmuc_dautu": 5363430000.0,
+            "bidNamePlanNew": "PL2300024370",
+            "dotbien_hatang": "Thi công xây lắp công trình: Xây dựng tuyến đường Trung tâm xã Minh Hương theo hướng đô thị, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06: Thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "Hạt Kiểm lâm rừng đặc dụng Cham Chu",
+            "createdBy": "vnz000020337",
+            "publicDate": "2024-10-16 17:35:05",
+            "projectName": null,
+            "bidCloseDate": "2024-11-02 09:00:00",
+            "id_muasamcong": "8f193cf5-885d-40c6-8c71-cac3831d6d80",
+            "tongmuc_dautu": 1235091000.0,
+            "bidNamePlanNew": "PL2400229501",
+            "dotbien_hatang": "Gói thầu số 06: Thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Khu Quản lý đường bộ I",
+            "createdBy": "vn0100104605",
+            "publicDate": "2023-03-20 15:08:06",
+            "projectName": null,
+            "bidCloseDate": "2023-03-31 10:00:00",
+            "id_muasamcong": "95388cfd-b92b-48c2-93b0-6ff7b513ddfc",
+            "tongmuc_dautu": 5843261000.0,
+            "bidNamePlanNew": "PL2300007859",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Nâng cấp đường Trung Thành 1, thôn Trung Thành 4, xã Thành Long, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-08-03 16:15:32",
+            "projectName": null,
+            "bidCloseDate": "2023-08-14 16:15:00",
+            "id_muasamcong": "973fc200-49a3-4a57-a819-ad894bb059ee",
+            "tongmuc_dautu": 2965898000.0,
+            "bidNamePlanNew": "PL2300132830",
+            "dotbien_hatang": "Thi công xây lắp công trình:Nâng cấp đường Trung Thành 1, thôn Trung Thành 4, xã Thành Long, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01:Thi công xây lắp công trình:Cải tạo, nâng cấp tuyến đường từ Km64 QL2 đi trung tâm xã Yên Lâm, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2024-07-30 13:58:37",
+            "projectName": null,
+            "bidCloseDate": "2024-08-08 08:00:00",
+            "id_muasamcong": "98267fb7-0304-4e27-83d9-9d4c69e66800",
+            "tongmuc_dautu": 13032562000.0,
+            "bidNamePlanNew": "PL2400151859",
+            "dotbien_hatang": "Gói thầu số 01:Thi công xây lắp công trình:Cải tạo, nâng cấp tuyến đường từ Km64 QL2 đi trung tâm xã Yên Lâm, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Phòng học bộ môn, phòng học phục vụ học tập trường PTDTNT THCS-THPT Hàm Yên, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-07-10 11:36:25",
+            "projectName": null,
+            "bidCloseDate": "2023-07-20 09:00:00",
+            "id_muasamcong": "9874be8f-e238-4e9b-84f9-a18f687987c9",
+            "tongmuc_dautu": 5757925000.0,
+            "bidNamePlanNew": "PL2300113411",
+            "dotbien_hatang": "Thi công xây lắp công trình:Phòng học bộ môn, phòng học phục vụ học tập trường PTDTNT THCS-THPT Hàm Yên, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-03-07 13:44:47",
+            "projectName": null,
+            "bidCloseDate": "2023-03-18 08:00:00",
+            "id_muasamcong": "9c8db84f-a984-401c-819a-8faeb9901a72",
+            "tongmuc_dautu": 2500222000.0,
+            "bidNamePlanNew": "PL2300023805",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 11: Tư vấn giám sát thi công xây dựng và lắp đặt thiết bị công trình hạng mục: Nhà hành chính; Nhà khoa phẫu thuật gây mê, hồi sức cấp cứu; Nhà khoa truyền nhiễm; Nhà đại thể và các hạng mục phụ trợ",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng các công trình dân dụng và công nghiệp tỉnh Tuyên Quang",
+            "createdBy": "vn5000834766",
+            "publicDate": "2023-12-04 17:04:43",
+            "projectName": "Liên danh Công ty cổ phần Tư vấn xây dựng Tuyên Quang - Công ty Cổ phần tư vấn xây dựng Đông Phương",
+            "bidCloseDate": "2023-12-24 10:00:00",
+            "id_muasamcong": "a3c39b61-5816-4e6f-83e5-24814d0e5e8a",
+            "tongmuc_dautu": 775575000.0,
+            "bidNamePlanNew": "PL2300070277",
+            "dotbien_hatang": "Gói thầu số 11: Tư vấn giám sát thi công xây dựng và lắp đặt thiết bị công trình hạng mục: Nhà hành chính; Nhà khoa phẫu thuật gây mê, hồi sức cấp cứu; Nhà khoa truyền nhiễm; Nhà đại thể và các hạng mục phụ trợ",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Cải tạo, nâng cấp tuyến đường ĐĐT.06 (đoạn từ nhà văn hoá Tân Phú đến nghĩa trang Đồng Bàng) và tuyến đường vào nhà văn hoá tổ dân phố Tân An, thị trấn Tân Yên, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-06-16 11:09:42",
+            "projectName": "Liên danh Công ty TNHH MTV Thương mại và xây dựng Đức Tín - Công ty TNHH MTV Xây dựng và Bảo trì Đường bộ 232",
+            "bidCloseDate": "2023-06-26 08:00:00",
+            "id_muasamcong": "a5206717-0a43-4736-849a-2129b9497ea8",
+            "tongmuc_dautu": 6275359000.0,
+            "bidNamePlanNew": "PL2300096446",
+            "dotbien_hatang": "Thi công xây lắp công trình:Cải tạo, nâng cấp tuyến đường ĐĐT.06 (đoạn từ nhà văn hoá Tân Phú đến nghĩa trang Đồng Bàng) và tuyến đường vào nhà văn hoá tổ dân phố Tân An, thị trấn Tân Yên, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp + thiết bị công trình:Nhà nội trú và các công trình phụ trợ trường PTDTNT THCS-THPT Hàm Yên, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-05-24 09:25:48",
+            "projectName": null,
+            "bidCloseDate": "2023-06-03 09:00:00",
+            "id_muasamcong": "a98b188d-1ba1-48bf-9af8-3ac6b5ec13c3",
+            "tongmuc_dautu": 11386232000.0,
+            "bidNamePlanNew": "PL2300077860",
+            "dotbien_hatang": "Thi công xây lắp + thiết bị công trình:Nhà nội trú và các công trình phụ trợ trường PTDTNT THCS-THPT Hàm Yên, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Nâng cấp tuyến đường giao thông từ thôn 700, xã Hùng Đức, huyện Hàm Yên đi xã Lăng Quán, huyện Yên Sơn, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-05-15 09:23:58",
+            "projectName": null,
+            "bidCloseDate": "2023-05-25 09:00:00",
+            "id_muasamcong": "aa664778-dffd-4811-b987-f01a44bab0ca",
+            "tongmuc_dautu": 5260348000.0,
+            "bidNamePlanNew": "PL2300070401",
+            "dotbien_hatang": "Thi công xây lắp công trình:Nâng cấp tuyến đường giao thông từ thôn 700, xã Hùng Đức, huyện Hàm Yên đi xã Lăng Quán, huyện Yên Sơn, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Nâng cấp, cải tạo cơ sở vật chất trường PTDTBT TH Yên Thuận, xã Yên Thuận, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-07-10 11:13:32",
+            "projectName": null,
+            "bidCloseDate": "2023-07-20 08:30:00",
+            "id_muasamcong": "ae6d9979-65da-4838-bae1-d39156c25649",
+            "tongmuc_dautu": 7578866000.0,
+            "bidNamePlanNew": "PL2300113402",
+            "dotbien_hatang": "Thi công xây lắp công trình:Nâng cấp, cải tạo cơ sở vật chất trường PTDTBT TH Yên Thuận, xã Yên Thuận, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Nâng cấp tuyến đường Minh Hà đi Thác Cái, xã Minh Khương, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-04-19 22:26:34",
+            "projectName": null,
+            "bidCloseDate": "2023-05-04 08:00:00",
+            "id_muasamcong": "ae9aa2eb-a61f-4f34-aad9-c8b4346ad35c",
+            "tongmuc_dautu": 1704292300.0,
+            "bidNamePlanNew": "PL2300053788",
+            "dotbien_hatang": "Thi công xây lắp công trình: Nâng cấp tuyến đường Minh Hà đi Thác Cái, xã Minh Khương, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình:Xây dựng khối phòng hành chính quản trị, các phòng học và phòng hỗ trợ học tập điểm chính, trường Tiểu học Thành Long, xã Thành Long, huyện Hàm Yên",
+            "chudautu": "UBND xã Thành Long, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vn5000229751",
+            "publicDate": "2023-05-11 12:26:12",
+            "projectName": null,
+            "bidCloseDate": "2023-05-21 09:00:00",
+            "id_muasamcong": "af65d962-0ab1-49cc-9a96-da6812972fee",
+            "tongmuc_dautu": 1619904000.0,
+            "bidNamePlanNew": "PL2300057574",
+            "dotbien_hatang": "Thi công xây dựng công trình:Xây dựng khối phòng hành chính quản trị, các phòng học và phòng hỗ trợ học tập điểm chính, trường Tiểu học Thành Long, xã Thành Long, huyện Hàm Yên",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Nâng cấp đường giao thông tuyến Khuổi Bò, thôn Cầu Cao, xã Bạch Xa, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-03-24 12:06:20",
+            "projectName": null,
+            "bidCloseDate": "2023-04-03 10:00:00",
+            "id_muasamcong": "afb99c31-fd9c-4f06-ae1a-30d4dc902a63",
+            "tongmuc_dautu": 1708690000.0,
+            "bidNamePlanNew": "PL2300035743",
+            "dotbien_hatang": "Thi công xây lắp công trình: Nâng cấp đường giao thông tuyến Khuổi Bò, thôn Cầu Cao, xã Bạch Xa, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Nâng cấp Trạm y tế xã Yên Lâm, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-10-09 08:53:31",
+            "projectName": null,
+            "bidCloseDate": "2023-10-19 08:00:00",
+            "id_muasamcong": "b10f0d53-d885-47c6-96db-27e30247c844",
+            "tongmuc_dautu": 1909236000.0,
+            "bidNamePlanNew": "PL2300185125",
+            "dotbien_hatang": "Thi công xây dựng công trình: Nâng cấp Trạm y tế xã Yên Lâm, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Nâng cấp đường trục thôn Đồng Lệnh, đường thôn 2 Việt Thành, xã Tân Thành, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-04-20 07:16:51",
+            "projectName": null,
+            "bidCloseDate": "2023-05-04 09:30:00",
+            "id_muasamcong": "b135fa3e-5867-4c69-a5f5-635806a8e716",
+            "tongmuc_dautu": 1850198000.0,
+            "bidNamePlanNew": "PL2300053826",
+            "dotbien_hatang": "Thi công xây lắp công trình:Nâng cấp đường trục thôn Đồng Lệnh, đường thôn 2 Việt Thành, xã Tân Thành, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 09: Thi công xây dựng công trình và thiết bị khu tái định cư xã Bạch Xa thực hiện Tiểu dự án 3: Giải phóng mặt bằng địa phận huyện Hàm Yên, thuộc dự án Cao tốc Tuyên Quang - Hà Giang (giai đoạn 1), đoạn qua tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-12-19 14:29:30",
+            "projectName": "Liên danh Công ty TNHH Xây dựng và Thương mại Quang Sáng - Công ty TNHH Hiệp Phú – Công ty TNHH MTV Trường Thịnh Tuyên Quang (viết tắt là: Liên danh Quang Sáng - Hiệp Phú- Trường Thịnh Tuyên Quang).",
+            "bidCloseDate": "2023-12-29 08:30:00",
+            "id_muasamcong": "b3ee7cf1-76da-408b-ac06-e9f788e017fb",
+            "tongmuc_dautu": 15772565000.0,
+            "bidNamePlanNew": "PL2300258857",
+            "dotbien_hatang": "Gói thầu số 09: Thi công xây dựng công trình và thiết bị khu tái định cư xã Bạch Xa thực hiện Tiểu dự án 3: Giải phóng mặt bằng địa phận huyện Hàm Yên, thuộc dự án Cao tốc Tuyên Quang - Hà Giang (giai đoạn 1), đoạn qua tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Nâng cấp tuyến đường từ đường ĐT 189 đi ông Thi, thôn CầuTreo, xã Yên Thuận, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-03-06 12:57:36",
+            "projectName": null,
+            "bidCloseDate": "2023-03-16 14:00:00",
+            "id_muasamcong": "b4db19e2-873c-4c15-866a-ab75233147e1",
+            "tongmuc_dautu": 1615020000.0,
+            "bidNamePlanNew": "PL2300024333",
+            "dotbien_hatang": "Thi công xây lắp công trình: Nâng cấp tuyến đường từ đường ĐT 189 đi ông Thi, thôn CầuTreo, xã Yên Thuận, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Xây dựng cầu Bản Thiết, xã Nhân Mục, huyện Hàm Yên, tỉnh Tuyên Quang;",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2024-05-29 17:48:50",
+            "projectName": null,
+            "bidCloseDate": "2024-06-08 08:15:00",
+            "id_muasamcong": "b57ea1b1-0d93-44b1-9cac-07073e63f5d4",
+            "tongmuc_dautu": 1250539000.0,
+            "bidNamePlanNew": "PL2400088375",
+            "dotbien_hatang": "Thi công xây lắp công trình: Xây dựng cầu Bản Thiết, xã Nhân Mục, huyện Hàm Yên, tỉnh Tuyên Quang;",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Xây dựng Bãi chôn lấp rác thải hợp vệ sinh tại xã Minh Dân để xử lý rác thải của 8 xã phía bắc của huyện, huyện Hàm Yên, tỉnh Tuyên Quang (Giai đoạn 02).",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-10-25 10:13:53",
+            "projectName": "Liên danh Công ty cổ phần Thổ Sơn Tuyên Quang và Công ty TNHH MTV Trường Thịnh Tuyên Quang",
+            "bidCloseDate": "2023-10-30 09:00:00",
+            "id_muasamcong": "b6386a47-0f28-4578-934b-e2d8daedd383",
+            "tongmuc_dautu": 7256168000.0,
+            "bidNamePlanNew": "PL2300193685",
+            "dotbien_hatang": "Thi công xây lắp công trình:Xây dựng Bãi chôn lấp rác thải hợp vệ sinh tại xã Minh Dân để xử lý rác thải của 8 xã phía bắc của huyện, huyện Hàm Yên, tỉnh Tuyên Quang (Giai đoạn 02).",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 11: Thi công xây dựng công trình và thiết bị khu tái định cư xã Minh Dân và xã Tân Thành thực hiện Tiểu dự án 3: Giải phóng mặt bằng địa phận huyện Hàm Yên, thuộc dự án Cao tốc Tuyên Quang - Hà Giang (giai đoạn 1), đoạn qua tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-12-19 14:49:12",
+            "projectName": "Liên danh Vinh Ánh - Hoàng Ngọc – Lâm Minh Sơn",
+            "bidCloseDate": "2023-12-29 09:30:00",
+            "id_muasamcong": "bb865f19-c5cb-4b43-aef6-da183347b6b7",
+            "tongmuc_dautu": 14921923000.0,
+            "bidNamePlanNew": "PL2300258857",
+            "dotbien_hatang": "Gói thầu số 11: Thi công xây dựng công trình và thiết bị khu tái định cư xã Minh Dân và xã Tân Thành thực hiện Tiểu dự án 3: Giải phóng mặt bằng địa phận huyện Hàm Yên, thuộc dự án Cao tốc Tuyên Quang - Hà Giang (giai đoạn 1), đoạn qua tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Phòng học bộ môn, phòng học phục vụ học tập trường PTDTBT THCS Yên Lâm, xã Yên Lâm, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-06-17 15:08:46",
+            "projectName": null,
+            "bidCloseDate": "2023-06-27 08:30:00",
+            "id_muasamcong": "befcf118-fad9-4db5-b43d-2c5309021c42",
+            "tongmuc_dautu": 2324009000.0,
+            "bidNamePlanNew": "PL2300097499",
+            "dotbien_hatang": "Thi công xây lắp công trình:Phòng học bộ môn, phòng học phục vụ học tập trường PTDTBT THCS Yên Lâm, xã Yên Lâm, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Xây dựng sân vận động trung tâm xã Yên Lâm, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2024-06-14 07:59:27",
+            "projectName": null,
+            "bidCloseDate": "2024-06-24 08:00:00",
+            "id_muasamcong": "c0188908-72c1-4e9a-8e71-265e2368883f",
+            "tongmuc_dautu": 3767605000.0,
+            "bidNamePlanNew": "PL2400106770",
+            "dotbien_hatang": "Thi công xây lắp công trình: Xây dựng sân vận động trung tâm xã Yên Lâm, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Nâng cấp, cải tạo cơ sở vật chất trường PTDTBT THCS Minh Khương, xã Minh Khương, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-08-07 08:34:13",
+            "projectName": null,
+            "bidCloseDate": "2023-08-15 08:30:00",
+            "id_muasamcong": "c0dfce00-7028-464f-a67f-e37f723dd1af",
+            "tongmuc_dautu": 6235966000.0,
+            "bidNamePlanNew": "PL2300133524",
+            "dotbien_hatang": "Thi công xây lắp công trình:Nâng cấp, cải tạo cơ sở vật chất trường PTDTBT THCS Minh Khương, xã Minh Khương, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "ỦY BAN NHÂN DÂN XÃ YÊN THUẬN",
+            "createdBy": "vn5000229656",
+            "publicDate": "2023-05-08 17:18:31",
+            "projectName": null,
+            "bidCloseDate": "2023-05-18 08:38:00",
+            "id_muasamcong": "c703192e-de03-4af5-bf2b-30898890ef02",
+            "tongmuc_dautu": 1223268000.0,
+            "bidNamePlanNew": "PL2300062375",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình (Sửa chữa, nâng cấp công trình thủy lợi Ninh Kiệm, xã Minh Hương, huyện Hàm Yên)",
+            "chudautu": "Ban quản lý khai thác công trình thủy lợi Tuyên Quang",
+            "createdBy": "vnz000005380",
+            "publicDate": "2023-09-15 07:59:51",
+            "projectName": null,
+            "bidCloseDate": "2023-09-25 14:00:00",
+            "id_muasamcong": "c789f84e-ebaf-416f-96ab-7f802c7a7c75",
+            "tongmuc_dautu": 2806420000.0,
+            "bidNamePlanNew": "PL2300130683",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình (Sửa chữa, nâng cấp công trình thủy lợi Ninh Kiệm, xã Minh Hương, huyện Hàm Yên)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Nâng cấp đường thôn Làng Chang, thôn Phòng Trao, xã Bạch Xa, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-07-23 13:10:54",
+            "projectName": null,
+            "bidCloseDate": "2023-08-02 09:00:00",
+            "id_muasamcong": "c79db546-498e-4972-a43f-c390ea0dc45c",
+            "tongmuc_dautu": 1939999000.0,
+            "bidNamePlanNew": "PL2300124376",
+            "dotbien_hatang": "Thi công xây lắp công trình:Nâng cấp đường thôn Làng Chang, thôn Phòng Trao, xã Bạch Xa, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 10: Thi công xây dựng và cung cấp, lắp đặt thiết bị công trình hạng mục: Nhà hành chính; Nhà khoa phẫu thuật gây mê, hồi sức cấp cứu; Nhà khoa truyền nhiễm; Nhà đại thể và các hạng mục phụ trợ",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng các công trình dân dụng và công nghiệp tỉnh Tuyên Quang",
+            "createdBy": "vn5000834766",
+            "publicDate": "2023-12-06 17:35:45",
+            "projectName": "Liên danh PTA - PCCC Vĩnh Phúc",
+            "bidCloseDate": "2023-12-24 13:30:00",
+            "id_muasamcong": "cd5a8500-e341-4f56-ae18-6fd34076a976",
+            "tongmuc_dautu": 35280196000.0,
+            "bidNamePlanNew": "PL2300070277",
+            "dotbien_hatang": "Gói thầu số 10: Thi công xây dựng và cung cấp, lắp đặt thiết bị công trình hạng mục: Nhà hành chính; Nhà khoa phẫu thuật gây mê, hồi sức cấp cứu; Nhà khoa truyền nhiễm; Nhà đại thể và các hạng mục phụ trợ",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Nâng cấp tuyến đường khu dân cư Quảng Tân 2, thôn Quảng Tân, xã Yên Lâm, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-04-10 13:20:55",
+            "projectName": null,
+            "bidCloseDate": "2023-04-20 10:00:00",
+            "id_muasamcong": "d25e9a36-02f1-4b52-92c6-07336ea3f4bf",
+            "tongmuc_dautu": 1076654000.0,
+            "bidNamePlanNew": "PL2300047475",
+            "dotbien_hatang": "Thi công xây lắp công trình: Nâng cấp tuyến đường khu dân cư Quảng Tân 2, thôn Quảng Tân, xã Yên Lâm, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Quy hoạch, xây dựng bến xe và cơ sở dịch vụ huyện đạt chuẩn, thị trấn Tân Yên, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2024-11-11 16:09:45",
+            "projectName": null,
+            "bidCloseDate": "2024-11-21 08:00:00",
+            "id_muasamcong": "d5c5eb48-5fbc-48ab-a2f6-c6c51242231d",
+            "tongmuc_dautu": 5771651651.0,
+            "bidNamePlanNew": "PL2400265675",
+            "dotbien_hatang": "Thi công xây dựng công trình: Quy hoạch, xây dựng bến xe và cơ sở dịch vụ huyện đạt chuẩn, thị trấn Tân Yên, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Trường THCS Minh Quang, xã Minh Hương, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2024-02-23 17:43:52",
+            "projectName": null,
+            "bidCloseDate": "2024-03-04 08:30:00",
+            "id_muasamcong": "d672dc06-d1ef-420f-bc61-16a19f5fcb90",
+            "tongmuc_dautu": 4147311000.0,
+            "bidNamePlanNew": "PL2400020639",
+            "dotbien_hatang": "Thi công xây lắp công trình:Trường THCS Minh Quang, xã Minh Hương, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 23: Thi công xây dựng đoạn tuyến từ Km65+00 - Km77+00",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng các công trình giao thông tỉnh Tuyên Quang",
+            "createdBy": "vn5000833836",
+            "publicDate": "2023-09-22 14:14:19",
+            "projectName": "Liên danh 122 Vĩnh Thịnh - 568",
+            "bidCloseDate": "2023-10-02 08:30:00",
+            "id_muasamcong": "dacc70d5-83d5-4838-91e7-085f27ab3615",
+            "tongmuc_dautu": 669021320000.0,
+            "bidNamePlanNew": "PL2300005914",
+            "dotbien_hatang": "Gói thầu số 23: Thi công xây dựng đoạn tuyến từ Km65+00 - Km77+00",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Cải tạo, nâng cấp các tuyến đường đô thị, thị trấn Tân Yên, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-11-28 15:01:42",
+            "projectName": "Liên danh Công ty TNHH Hùng Long Tuyên Quang và Công ty TNHH Trung Thoan",
+            "bidCloseDate": "2023-12-09 08:00:00",
+            "id_muasamcong": "db7ed3c5-0d21-45ab-8b20-ce952e3713b7",
+            "tongmuc_dautu": 4463352000.0,
+            "bidNamePlanNew": "PL2300228920",
+            "dotbien_hatang": "Thi công xây dựng công trình: Cải tạo, nâng cấp các tuyến đường đô thị, thị trấn Tân Yên, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Xây dựng đường giao thông thôn 9 Minh Phú, xã Yên Phú đi bến đò Thác Vàng, xã Minh Dân, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-08-02 09:59:31",
+            "projectName": "Liên danh An Phát – Tân Thịnh",
+            "bidCloseDate": "2023-08-12 09:00:00",
+            "id_muasamcong": "de1d5708-997e-4c22-8b8b-300e95a50aa3",
+            "tongmuc_dautu": 3537250000.0,
+            "bidNamePlanNew": "PL2300130929",
+            "dotbien_hatang": "Thi công xây lắp công trình:Xây dựng đường giao thông thôn 9 Minh Phú, xã Yên Phú đi bến đò Thác Vàng, xã Minh Dân, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Xây dựng công trình xử lý nước thải sinh hoạt tập trung tại thị trấn Tân Yên, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2024-05-16 10:53:11",
+            "projectName": "Liên danh nhà thầu TBN-165-Âu Việt",
+            "bidCloseDate": "2024-05-25 09:00:00",
+            "id_muasamcong": "de5eb7d5-9a87-49ff-adb8-ce180ba77d14",
+            "tongmuc_dautu": 10126347000.0,
+            "bidNamePlanNew": "PL2400079837",
+            "dotbien_hatang": "Thi công xây lắp công trình: Xây dựng công trình xử lý nước thải sinh hoạt tập trung tại thị trấn Tân Yên, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Xây dựng cơ sở hạ tầng ổn định dân cư thôn 6 Minh Tiến, xã Minh Hương, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-10-19 15:49:31",
+            "projectName": "Liên danh Thái Trình – Vinh Ánh",
+            "bidCloseDate": "2023-10-30 09:30:00",
+            "id_muasamcong": "e43b1e82-a637-4e2e-9678-121958e8be8f",
+            "tongmuc_dautu": 8901731000.0,
+            "bidNamePlanNew": "PL2300193805",
+            "dotbien_hatang": "Thi công xây lắp công trình:Xây dựng cơ sở hạ tầng ổn định dân cư thôn 6 Minh Tiến, xã Minh Hương, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Xây dựng cầu bản thôn 2 Thuốc Thượng, xã Tân Thành, huyện Hàm Yên, tỉnh Tuyên Quang;",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2024-05-17 17:31:44",
+            "projectName": null,
+            "bidCloseDate": "2024-05-26 10:30:00",
+            "id_muasamcong": "e74b8ddb-c87c-4a0e-8540-df8dc9311fb2",
+            "tongmuc_dautu": 1179019000.0,
+            "bidNamePlanNew": "PL2400082378",
+            "dotbien_hatang": "Thi công xây lắp công trình: Xây dựng cầu bản thôn 2 Thuốc Thượng, xã Tân Thành, huyện Hàm Yên, tỉnh Tuyên Quang;",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Nâng cấp tuyến đường từ thôn Ngõa, xã Yên Lâm đi Thác Lăn, xã Yên Phú, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-07-23 12:56:16",
+            "projectName": null,
+            "bidCloseDate": "2023-08-02 08:30:00",
+            "id_muasamcong": "e794d101-8174-4875-ac6b-1b8c40ca7df5",
+            "tongmuc_dautu": 3156523000.0,
+            "bidNamePlanNew": "PL2300124225",
+            "dotbien_hatang": "Thi công xây lắp công trình:Nâng cấp tuyến đường từ thôn Ngõa, xã Yên Lâm đi Thác Lăn, xã Yên Phú, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "01/TVGS: Tư vấn giám sát thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "CÔNG TY ĐIỆN LỰC TUYÊN QUANG - CHI NHÁNH TỔNG CÔNG TY ĐIỆN LỰC MIỀN BẮC",
+            "createdBy": "vnz000023679",
+            "publicDate": "2024-08-16 14:58:08",
+            "projectName": null,
+            "bidCloseDate": "2024-09-04 09:00:00",
+            "id_muasamcong": "ec9e89b9-db71-4c4d-9f94-32b1c96db62d",
+            "tongmuc_dautu": 750492000.0,
+            "bidNamePlanNew": "PL2400167731",
+            "dotbien_hatang": "01/TVGS: Tư vấn giám sát thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Nâng cấp tuyến đường từ thôn Thài Khao đi xóm Gốc Chanh, xã Yên Lâm, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-04-02 14:07:12",
+            "projectName": null,
+            "bidCloseDate": "2023-04-12 10:00:00",
+            "id_muasamcong": "ee60449a-8c6f-4379-b221-298d7cace6ad",
+            "tongmuc_dautu": 4337556000.0,
+            "bidNamePlanNew": "PL2300041251",
+            "dotbien_hatang": "Thi công xây lắp công trình: Nâng cấp tuyến đường từ thôn Thài Khao đi xóm Gốc Chanh, xã Yên Lâm, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Xây dựng trường Tiểu học Bạch Xa đạt chuẩn nông thôn mới, xã Bạch Xa, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-09-21 14:04:12",
+            "projectName": null,
+            "bidCloseDate": "2023-09-28 08:00:00",
+            "id_muasamcong": "eeb0ad14-9ec5-4b4a-9c9a-8f1526ec6623",
+            "tongmuc_dautu": 4041354000.0,
+            "bidNamePlanNew": "PL2300171709",
+            "dotbien_hatang": "Thi công xây lắp công trình:Xây dựng trường Tiểu học Bạch Xa đạt chuẩn nông thôn mới, xã Bạch Xa, huyện Hàm Yên, tỉnh Tuyên Quang.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình: Cải tạo, nâng cấp tuyến đường ĐT 189 đoạn đầu tuyến xã Bình Xa, huyện Hàm Yên, tỉnh Tuyên Quang;",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2024-05-29 17:01:02",
+            "projectName": "Liên danh Bình An – Gia Phú",
+            "bidCloseDate": "2024-06-08 09:00:00",
+            "id_muasamcong": "ef47752d-44ff-4156-8a1b-b59281c11eb2",
+            "tongmuc_dautu": 3122604000.0,
+            "bidNamePlanNew": "PL2400088537",
+            "dotbien_hatang": "Thi công xây lắp công trình: Cải tạo, nâng cấp tuyến đường ĐT 189 đoạn đầu tuyến xã Bình Xa, huyện Hàm Yên, tỉnh Tuyên Quang;",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp và vật liệu phụ",
+            "chudautu": "Viễn thông Tuyên Quang",
+            "createdBy": "vn5000136433",
+            "publicDate": "2023-02-28 16:42:00",
+            "projectName": null,
+            "bidCloseDate": "2023-03-10 08:00:00",
+            "id_muasamcong": "f047f860-51b2-448d-b2b5-2afd10e9449e",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300021258",
+            "dotbien_hatang": "Thi công xây lắp và vật liệu phụ",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Nâng cấp tuyến thôn Khánh Hùng, xã Hùng Đức đi xã Tứ Quận, huyện Yên Sơn, tỉnh Tuyên Quang.",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-08-05 09:22:31",
+            "projectName": null,
+            "bidCloseDate": "2023-08-15 09:00:00",
+            "id_muasamcong": "f2d851de-3b97-4d8b-b79b-1fb6de284d1f",
+            "tongmuc_dautu": 2846668000.0,
+            "bidNamePlanNew": "PL2300133518",
+            "dotbien_hatang": "Thi công xây lắp công trình:Nâng cấp tuyến thôn Khánh Hùng, xã Hùng Đức đi xã Tứ Quận, huyện Yên Sơn, tỉnh Tuyên Quang.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp và cung cấp vật tư phụ kiện lắp đặt",
+            "chudautu": "Viễn thông Tuyên Quang",
+            "createdBy": "vn5000136433",
+            "publicDate": "2023-12-26 11:26:59",
+            "projectName": null,
+            "bidCloseDate": "2024-01-05 14:30:00",
+            "id_muasamcong": "f32e1f78-6c6b-4dd6-8cd8-b4c6e03dbdc7",
+            "tongmuc_dautu": 1401411674.0,
+            "bidNamePlanNew": "PL2300262740",
+            "dotbien_hatang": "Thi công xây lắp và cung cấp vật tư phụ kiện lắp đặt",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Xây dựng công trình cấp nước xã Yên Lâm, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-09-20 12:48:57",
+            "projectName": null,
+            "bidCloseDate": "2023-09-30 09:15:00",
+            "id_muasamcong": "f39088b1-1493-4ba5-9184-5ba00bf9e058",
+            "tongmuc_dautu": 1354217000.0,
+            "bidNamePlanNew": "PL2300168703",
+            "dotbien_hatang": "Thi công xây lắp công trình:Xây dựng công trình cấp nước xã Yên Lâm, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Xây dựng nhà văn hóa xã Hùng Đức, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-10-05 09:30:24",
+            "projectName": null,
+            "bidCloseDate": "2023-10-16 08:00:00",
+            "id_muasamcong": "f4965611-5f3f-4d1c-a5c8-4e15e992cff4",
+            "tongmuc_dautu": 2644521000.0,
+            "bidNamePlanNew": "PL2300179998",
+            "dotbien_hatang": "Thi công xây dựng công trình: Xây dựng nhà văn hóa xã Hùng Đức, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình:Xây dựng phòng học, phòng bộ môn và khối phục vụ học tập, khối hành chính - quản trị; phòng chức năng, nhà đa năng và hạng mục phụ trợ trường THPT Hàm Yên, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng khu vực huyện Hàm Yên, tỉnh Tuyên Quang",
+            "createdBy": "vnz000006527",
+            "publicDate": "2023-06-17 16:06:18",
+            "projectName": null,
+            "bidCloseDate": "2023-06-27 08:00:00",
+            "id_muasamcong": "fa1a899b-f5de-45c0-8798-d6d97ca8f18a",
+            "tongmuc_dautu": 6371944000.0,
+            "bidNamePlanNew": "PL2300097433",
+            "dotbien_hatang": "Thi công xây lắp công trình:Xây dựng phòng học, phòng bộ môn và khối phục vụ học tập, khối hành chính - quản trị; phòng chức năng, nhà đa năng và hạng mục phụ trợ trường THPT Hàm Yên, huyện Hàm Yên, tỉnh Tuyên Quang",
+            "link_muasamcong": ""
+        }
+    ],
+    "so_dot_bien": 113,
+    "thu_tu_sap_xep": 159,
+    "polygon": [
+        [
+            [
+                104.919543,
+                22.330023
+            ],
+            [
+                104.92064,
+                22.329826
+            ],
+            [
+                104.92149,
+                22.329826
+            ],
+            [
+                104.923402,
+                22.330058
+            ],
+            [
+                104.92503,
+                22.330388
+            ],
+            [
+                104.9268,
+                22.330752
+            ],
+            [
+                104.931101,
+                22.331793
+            ],
+            [
+                104.932517,
+                22.332222
+            ],
+            [
+                104.93372,
+                22.332322
+            ],
+            [
+                104.93503,
+                22.332289
+            ],
+            [
+                104.935774,
+                22.332422
+            ],
+            [
+                104.936588,
+                22.332818
+            ],
+            [
+                104.937844,
+                22.333066
+            ],
+            [
+                104.938376,
+                22.333
+            ],
+            [
+                104.938765,
+                22.332802
+            ],
+            [
+                104.939048,
+                22.33234
+            ],
+            [
+                104.93919,
+                22.331747
+            ],
+            [
+                104.939439,
+                22.330757
+            ],
+            [
+                104.93997,
+                22.329999
+            ],
+            [
+                104.941883,
+                22.327658
+            ],
+            [
+                104.944574,
+                22.325152
+            ],
+            [
+                104.94725,
+                22.322283
+            ],
+            [
+                104.948277,
+                22.321261
+            ],
+            [
+                104.948808,
+                22.3208
+            ],
+            [
+                104.949764,
+                22.320305
+            ],
+            [
+                104.950897,
+                22.319844
+            ],
+            [
+                104.952561,
+                22.319515
+            ],
+            [
+                104.954437,
+                22.319218
+            ],
+            [
+                104.956455,
+                22.318922
+            ],
+            [
+                104.960557,
+                22.318431
+            ],
+            [
+                104.96298,
+                22.318234
+            ],
+            [
+                104.965376,
+                22.318103
+            ],
+            [
+                104.968148,
+                22.318357
+            ],
+            [
+                104.970302,
+                22.318796
+            ],
+            [
+                104.971985,
+                22.319465
+            ],
+            [
+                104.974976,
+                22.321451
+            ],
+            [
+                104.978691,
+                22.323893
+            ],
+            [
+                104.980226,
+                22.324424
+            ],
+            [
+                104.98129,
+                22.324424
+            ],
+            [
+                104.982676,
+                22.323801
+            ],
+            [
+                104.984075,
+                22.322769
+            ],
+            [
+                104.985102,
+                22.321634
+            ],
+            [
+                104.985498,
+                22.319789
+            ],
+            [
+                104.986513,
+                22.318706
+            ],
+            [
+                104.987469,
+                22.31809
+            ],
+            [
+                104.989856,
+                22.316426
+            ],
+            [
+                104.992466,
+                22.314485
+            ],
+            [
+                104.993063,
+                22.313584
+            ],
+            [
+                104.993436,
+                22.312544
+            ],
+            [
+                104.99366,
+                22.311227
+            ],
+            [
+                104.993511,
+                22.309771
+            ],
+            [
+                104.99337,
+                22.307776
+            ],
+            [
+                104.993996,
+                22.306409
+            ],
+            [
+                104.994783,
+                22.305005
+            ],
+            [
+                104.995156,
+                22.304034
+            ],
+            [
+                104.995483,
+                22.302756
+            ],
+            [
+                104.995925,
+                22.301804
+            ],
+            [
+                104.99675,
+                22.301089
+            ],
+            [
+                104.997203,
+                22.300863
+            ],
+            [
+                104.998694,
+                22.300239
+            ],
+            [
+                105.001155,
+                22.299615
+            ],
+            [
+                105.001901,
+                22.29935
+            ],
+            [
+                105.00369,
+                22.298714
+            ],
+            [
+                105.005555,
+                22.297674
+            ],
+            [
+                105.007195,
+                22.295802
+            ],
+            [
+                105.007698,
+                22.29507
+            ],
+            [
+                105.007822,
+                22.294612
+            ],
+            [
+                105.007822,
+                22.294057
+            ],
+            [
+                105.00768,
+                22.293479
+            ],
+            [
+                105.00671,
+                22.292439
+            ],
+            [
+                105.006114,
+                22.291677
+            ],
+            [
+                105.005741,
+                22.290775
+            ],
+            [
+                105.005666,
+                22.289666
+            ],
+            [
+                105.005592,
+                22.288141
+            ],
+            [
+                105.005434,
+                22.287
+            ],
+            [
+                105.005022,
+                22.286083
+            ],
+            [
+                105.003978,
+                22.284003
+            ],
+            [
+                105.003615,
+                22.283392
+            ],
+            [
+                105.003655,
+                22.282876
+            ],
+            [
+                105.004037,
+                22.282219
+            ],
+            [
+                105.005137,
+                22.281327
+            ],
+            [
+                105.006176,
+                22.280727
+            ],
+            [
+                105.007269,
+                22.279371
+            ],
+            [
+                105.007418,
+                22.278331
+            ],
+            [
+                105.007418,
+                22.277361
+            ],
+            [
+                105.007274,
+                22.275969
+            ],
+            [
+                105.007125,
+                22.274375
+            ],
+            [
+                105.007045,
+                22.272438
+            ],
+            [
+                105.007306,
+                22.271364
+            ],
+            [
+                105.008275,
+                22.269214
+            ],
+            [
+                105.008798,
+                22.268414
+            ],
+            [
+                105.009484,
+                22.267865
+            ],
+            [
+                105.010229,
+                22.267796
+            ],
+            [
+                105.009763,
+                22.266352
+            ],
+            [
+                105.009762,
+                22.263582
+            ],
+            [
+                105.009367,
+                22.262381
+            ],
+            [
+                105.008377,
+                22.261458
+            ],
+            [
+                105.006992,
+                22.261088
+            ],
+            [
+                105.004914,
+                22.260904
+            ],
+            [
+                105.001901,
+                22.260811
+            ],
+            [
+                105.000866,
+                22.26044
+            ],
+            [
+                105.000236,
+                22.259886
+            ],
+            [
+                104.999142,
+                22.257787
+            ],
+            [
+                104.997447,
+                22.254375
+            ],
+            [
+                104.996318,
+                22.252473
+            ],
+            [
+                104.995542,
+                22.251423
+            ],
+            [
+                104.995118,
+                22.250701
+            ],
+            [
+                104.994906,
+                22.250176
+            ],
+            [
+                104.994906,
+                22.249651
+            ],
+            [
+                104.995259,
+                22.248405
+            ],
+            [
+                104.995965,
+                22.246437
+            ],
+            [
+                104.996389,
+                22.245059
+            ],
+            [
+                104.99653,
+                22.243353
+            ],
+            [
+                104.996389,
+                22.241844
+            ],
+            [
+                104.996107,
+                22.240663
+            ],
+            [
+                104.996248,
+                22.239745
+            ],
+            [
+                104.996565,
+                22.239198
+            ],
+            [
+                104.997271,
+                22.237885
+            ],
+            [
+                104.998401,
+                22.236244
+            ],
+            [
+                104.999953,
+                22.234734
+            ],
+            [
+                105.001345,
+                22.233832
+            ],
+            [
+                105.0019,
+                22.233578
+            ],
+            [
+                105.004141,
+                22.231953
+            ],
+            [
+                105.005301,
+                22.230961
+            ],
+            [
+                105.005687,
+                22.230149
+            ],
+            [
+                105.005687,
+                22.229336
+            ],
+            [
+                105.005397,
+                22.228434
+            ],
+            [
+                105.005301,
+                22.22681
+            ],
+            [
+                105.005687,
+                22.224554
+            ],
+            [
+                105.00675,
+                22.222569
+            ],
+            [
+                105.007427,
+                22.222027
+            ],
+            [
+                105.008393,
+                22.222027
+            ],
+            [
+                105.009843,
+                22.222749
+            ],
+            [
+                105.010907,
+                22.22311
+            ],
+            [
+                105.011776,
+                22.22311
+            ],
+            [
+                105.01284,
+                22.222568
+            ],
+            [
+                105.013999,
+                22.221576
+            ],
+            [
+                105.015256,
+                22.220944
+            ],
+            [
+                105.015836,
+                22.220944
+            ],
+            [
+                105.016609,
+                22.221124
+            ],
+            [
+                105.017672,
+                22.222207
+            ],
+            [
+                105.018736,
+                22.223109
+            ],
+            [
+                105.019412,
+                22.22347
+            ],
+            [
+                105.020669,
+                22.223741
+            ],
+            [
+                105.021539,
+                22.223921
+            ],
+            [
+                105.022312,
+                22.224462
+            ],
+            [
+                105.022409,
+                22.225545
+            ],
+            [
+                105.021733,
+                22.228613
+            ],
+            [
+                105.021733,
+                22.23105
+            ],
+            [
+                105.022314,
+                22.233486
+            ],
+            [
+                105.022991,
+                22.236013
+            ],
+            [
+                105.023571,
+                22.237276
+            ],
+            [
+                105.024441,
+                22.237817
+            ],
+            [
+                105.025794,
+                22.238088
+            ],
+            [
+                105.028018,
+                22.23917
+            ],
+            [
+                105.029951,
+                22.240433
+            ],
+            [
+                105.031401,
+                22.240433
+            ],
+            [
+                105.032658,
+                22.239801
+            ],
+            [
+                105.035074,
+                22.238808
+            ],
+            [
+                105.037684,
+                22.237634
+            ],
+            [
+                105.039617,
+                22.237273
+            ],
+            [
+                105.040487,
+                22.237272
+            ],
+            [
+                105.041647,
+                22.237543
+            ],
+            [
+                105.043967,
+                22.237903
+            ],
+            [
+                105.045901,
+                22.237812
+            ],
+            [
+                105.048027,
+                22.237
+            ],
+            [
+                105.050174,
+                22.235505
+            ],
+            [
+                105.051546,
+                22.234681
+            ],
+            [
+                105.053114,
+                22.234406
+            ],
+            [
+                105.054584,
+                22.234406
+            ],
+            [
+                105.057525,
+                22.23532
+            ],
+            [
+                105.058407,
+                22.235411
+            ],
+            [
+                105.059387,
+                22.235228
+            ],
+            [
+                105.061347,
+                22.233946
+            ],
+            [
+                105.065757,
+                22.23129
+            ],
+            [
+                105.069676,
+                22.229459
+            ],
+            [
+                105.072224,
+                22.229092
+            ],
+            [
+                105.074087,
+                22.228908
+            ],
+            [
+                105.07438,
+                22.22845
+            ],
+            [
+                105.07438,
+                22.227901
+            ],
+            [
+                105.073988,
+                22.227261
+            ],
+            [
+                105.073791,
+                22.226346
+            ],
+            [
+                105.073889,
+                22.225614
+            ],
+            [
+                105.074574,
+                22.22479
+            ],
+            [
+                105.076534,
+                22.223142
+            ],
+            [
+                105.079473,
+                22.221494
+            ],
+            [
+                105.081825,
+                22.220577
+            ],
+            [
+                105.082804,
+                22.219845
+            ],
+            [
+                105.083,
+                22.219204
+            ],
+            [
+                105.082999,
+                22.217557
+            ],
+            [
+                105.083292,
+                22.215361
+            ],
+            [
+                105.08525,
+                22.211608
+            ],
+            [
+                105.086719,
+                22.209869
+            ],
+            [
+                105.088972,
+                22.20877
+            ],
+            [
+                105.091323,
+                22.208037
+            ],
+            [
+                105.092842,
+                22.207166
+            ],
+            [
+                105.094311,
+                22.205793
+            ],
+            [
+                105.095584,
+                22.203688
+            ],
+            [
+                105.098325,
+                22.200209
+            ],
+            [
+                105.101752,
+                22.196364
+            ],
+            [
+                105.103514,
+                22.193435
+            ],
+            [
+                105.105568,
+                22.188858
+            ],
+            [
+                105.105763,
+                22.187028
+            ],
+            [
+                105.106252,
+                22.186204
+            ],
+            [
+                105.106839,
+                22.185563
+            ],
+            [
+                105.108603,
+                22.185105
+            ],
+            [
+                105.112669,
+                22.184873
+            ],
+            [
+                105.115706,
+                22.184596
+            ],
+            [
+                105.117077,
+                22.184138
+            ],
+            [
+                105.117763,
+                22.18368
+            ],
+            [
+                105.118252,
+                22.182307
+            ],
+            [
+                105.119132,
+                22.180385
+            ],
+            [
+                105.119915,
+                22.179561
+            ],
+            [
+                105.122266,
+                22.178369
+            ],
+            [
+                105.12393,
+                22.177087
+            ],
+            [
+                105.124517,
+                22.175989
+            ],
+            [
+                105.124712,
+                22.175256
+            ],
+            [
+                105.124711,
+                22.173518
+            ],
+            [
+                105.124318,
+                22.172329
+            ],
+            [
+                105.122846,
+                22.170134
+            ],
+            [
+                105.122438,
+                22.169448
+            ],
+            [
+                105.122356,
+                22.169311
+            ],
+            [
+                105.122061,
+                22.168213
+            ],
+            [
+                105.122059,
+                22.166566
+            ],
+            [
+                105.122352,
+                22.165559
+            ],
+            [
+                105.124114,
+                22.163636
+            ],
+            [
+                105.125092,
+                22.161805
+            ],
+            [
+                105.125434,
+                22.160204
+            ],
+            [
+                105.125433,
+                22.158831
+            ],
+            [
+                105.124942,
+                22.157734
+            ],
+            [
+                105.123177,
+                22.156362
+            ],
+            [
+                105.121413,
+                22.155266
+            ],
+            [
+                105.121021,
+                22.154808
+            ],
+            [
+                105.120824,
+                22.154351
+            ],
+            [
+                105.120824,
+                22.15371
+            ],
+            [
+                105.121411,
+                22.152795
+            ],
+            [
+                105.123956,
+                22.150963
+            ],
+            [
+                105.126403,
+                22.148765
+            ],
+            [
+                105.127284,
+                22.147666
+            ],
+            [
+                105.127577,
+                22.146843
+            ],
+            [
+                105.127576,
+                22.145653
+            ],
+            [
+                105.127085,
+                22.144555
+            ],
+            [
+                105.125516,
+                22.143001
+            ],
+            [
+                105.122674,
+                22.141448
+            ],
+            [
+                105.120812,
+                22.139894
+            ],
+            [
+                105.120224,
+                22.139162
+            ],
+            [
+                105.11939,
+                22.137561
+            ],
+            [
+                105.119389,
+                22.136372
+            ],
+            [
+                105.119681,
+                22.13509
+            ],
+            [
+                105.121541,
+                22.133534
+            ],
+            [
+                105.125849,
+                22.131334
+            ],
+            [
+                105.129472,
+                22.130142
+            ],
+            [
+                105.131332,
+                22.129042
+            ],
+            [
+                105.132995,
+                22.127028
+            ],
+            [
+                105.134952,
+                22.125379
+            ],
+            [
+                105.137791,
+                22.123547
+            ],
+            [
+                105.140433,
+                22.12144
+            ],
+            [
+                105.141704,
+                22.119609
+            ],
+            [
+                105.142485,
+                22.116497
+            ],
+            [
+                105.143167,
+                22.11366
+            ],
+            [
+                105.1439,
+                22.111509
+            ],
+            [
+                105.144584,
+                22.11041
+            ],
+            [
+                105.146053,
+                22.110043
+            ],
+            [
+                105.149383,
+                22.110131
+            ],
+            [
+                105.151929,
+                22.110129
+            ],
+            [
+                105.153495,
+                22.109579
+            ],
+            [
+                105.155843,
+                22.107746
+            ],
+            [
+                105.156821,
+                22.106556
+            ],
+            [
+                105.157016,
+                22.105458
+            ],
+            [
+                105.157015,
+                22.104176
+            ],
+            [
+                105.156814,
+                22.100334
+            ],
+            [
+                105.156909,
+                22.097131
+            ],
+            [
+                105.156908,
+                22.096033
+            ],
+            [
+                105.157494,
+                22.09466
+            ],
+            [
+                105.158569,
+                22.092737
+            ],
+            [
+                105.159057,
+                22.091455
+            ],
+            [
+                105.159056,
+                22.090815
+            ],
+            [
+                105.158418,
+                22.089672
+            ],
+            [
+                105.155577,
+                22.087936
+            ],
+            [
+                105.153324,
+                22.087298
+            ],
+            [
+                105.15254,
+                22.087024
+            ],
+            [
+                105.15205,
+                22.086567
+            ],
+            [
+                105.151658,
+                22.085927
+            ],
+            [
+                105.150088,
+                22.082725
+            ],
+            [
+                105.1495,
+                22.082177
+            ],
+            [
+                105.14803,
+                22.080989
+            ],
+            [
+                105.147736,
+                22.08044
+            ],
+            [
+                105.147538,
+                22.078885
+            ],
+            [
+                105.147537,
+                22.07742
+            ],
+            [
+                105.147633,
+                22.07559
+            ],
+            [
+                105.14949,
+                22.072844
+            ],
+            [
+                105.151836,
+                22.069456
+            ],
+            [
+                105.155161,
+                22.065884
+            ],
+            [
+                105.157362,
+                22.063823
+            ],
+            [
+                105.157948,
+                22.062724
+            ],
+            [
+                105.157944,
+                22.059705
+            ],
+            [
+                105.158922,
+                22.058789
+            ],
+            [
+                105.159607,
+                22.058605
+            ],
+            [
+                105.160978,
+                22.058421
+            ],
+            [
+                105.161662,
+                22.057963
+            ],
+            [
+                105.162053,
+                22.057047
+            ],
+            [
+                105.162051,
+                22.055217
+            ],
+            [
+                105.161658,
+                22.054302
+            ],
+            [
+                105.16107,
+                22.053662
+            ],
+            [
+                105.16009,
+                22.05284
+            ],
+            [
+                105.157348,
+                22.051745
+            ],
+            [
+                105.156369,
+                22.051379
+            ],
+            [
+                105.155585,
+                22.050282
+            ],
+            [
+                105.155192,
+                22.04955
+            ],
+            [
+                105.154408,
+                22.048636
+            ],
+            [
+                105.153331,
+                22.047997
+            ],
+            [
+                105.151764,
+                22.047266
+            ],
+            [
+                105.147553,
+                22.04608
+            ],
+            [
+                105.143831,
+                22.043796
+            ],
+            [
+                105.141481,
+                22.042792
+            ],
+            [
+                105.140355,
+                22.042198
+            ],
+            [
+                105.139374,
+                22.040735
+            ],
+            [
+                105.138785,
+                22.038264
+            ],
+            [
+                105.138388,
+                22.033049
+            ],
+            [
+                105.137992,
+                22.028474
+            ],
+            [
+                105.13799,
+                22.025742
+            ],
+            [
+                105.138946,
+                22.025335
+            ],
+            [
+                105.14096,
+                22.024579
+            ],
+            [
+                105.142732,
+                22.023749
+            ],
+            [
+                105.14394,
+                22.022693
+            ],
+            [
+                105.144584,
+                22.021864
+            ],
+            [
+                105.144663,
+                22.020884
+            ],
+            [
+                105.144501,
+                22.019905
+            ],
+            [
+                105.144097,
+                22.019227
+            ],
+            [
+                105.143291,
+                22.018474
+            ],
+            [
+                105.141436,
+                22.017496
+            ],
+            [
+                105.139179,
+                22.016443
+            ],
+            [
+                105.137486,
+                22.015767
+            ],
+            [
+                105.135833,
+                22.014751
+            ],
+            [
+                105.134381,
+                22.013546
+            ],
+            [
+                105.133574,
+                22.012492
+            ],
+            [
+                105.132767,
+                22.010986
+            ],
+            [
+                105.132524,
+                22.009856
+            ],
+            [
+                105.132765,
+                22.008726
+            ],
+            [
+                105.133569,
+                22.007067
+            ],
+            [
+                105.135018,
+                22.005559
+            ],
+            [
+                105.137354,
+                22.00405
+            ],
+            [
+                105.139125,
+                22.002918
+            ],
+            [
+                105.140252,
+                22.001712
+            ],
+            [
+                105.141057,
+                22.00028
+            ],
+            [
+                105.141845,
+                21.999026
+            ],
+            [
+                105.142711,
+                21.996106
+            ],
+            [
+                105.14281,
+                21.994691
+            ],
+            [
+                105.142606,
+                21.992181
+            ],
+            [
+                105.142603,
+                21.988985
+            ],
+            [
+                105.142551,
+                21.987524
+            ],
+            [
+                105.142525,
+                21.986543
+            ],
+            [
+                105.142373,
+                21.985995
+            ],
+            [
+                105.141868,
+                21.985174
+            ],
+            [
+                105.140857,
+                21.983714
+            ],
+            [
+                105.139897,
+                21.982071
+            ],
+            [
+                105.139594,
+                21.981158
+            ],
+            [
+                105.139441,
+                21.980063
+            ],
+            [
+                105.139668,
+                21.979492
+            ],
+            [
+                105.13997,
+                21.979127
+            ],
+            [
+                105.140373,
+                21.978898
+            ],
+            [
+                105.140979,
+                21.978852
+            ],
+            [
+                105.143854,
+                21.978849
+            ],
+            [
+                105.146275,
+                21.978801
+            ],
+            [
+                105.148746,
+                21.978845
+            ],
+            [
+                105.149856,
+                21.978707
+            ],
+            [
+                105.150511,
+                21.978478
+            ],
+            [
+                105.151065,
+                21.978112
+            ],
+            [
+                105.151746,
+                21.97745
+            ],
+            [
+                105.152551,
+                21.976171
+            ],
+            [
+                105.153004,
+                21.974755
+            ],
+            [
+                105.153406,
+                21.973568
+            ],
+            [
+                105.153455,
+                21.972563
+            ],
+            [
+                105.153454,
+                21.971605
+            ],
+            [
+                105.153302,
+                21.970646
+            ],
+            [
+                105.152821,
+                21.969026
+            ],
+            [
+                105.152114,
+                21.967977
+            ],
+            [
+                105.150245,
+                21.965285
+            ],
+            [
+                105.148427,
+                21.962867
+            ],
+            [
+                105.14724,
+                21.960882
+            ],
+            [
+                105.146481,
+                21.959194
+            ],
+            [
+                105.14638,
+                21.958464
+            ],
+            [
+                105.146379,
+                21.957779
+            ],
+            [
+                105.14658,
+                21.957094
+            ],
+            [
+                105.147134,
+                21.956363
+            ],
+            [
+                105.148495,
+                21.955357
+            ],
+            [
+                105.15104,
+                21.953871
+            ],
+            [
+                105.15361,
+                21.952545
+            ],
+            [
+                105.154971,
+                21.951448
+            ],
+            [
+                105.156028,
+                21.95026
+            ],
+            [
+                105.156884,
+                21.949027
+            ],
+            [
+                105.157438,
+                21.947976
+            ],
+            [
+                105.157915,
+                21.946081
+            ],
+            [
+                105.157762,
+                21.944666
+            ],
+            [
+                105.157357,
+                21.943023
+            ],
+            [
+                105.156497,
+                21.941107
+            ],
+            [
+                105.155159,
+                21.939168
+            ],
+            [
+                105.154805,
+                21.937753
+            ],
+            [
+                105.154854,
+                21.93684
+            ],
+            [
+                105.154954,
+                21.935972
+            ],
+            [
+                105.155356,
+                21.934876
+            ],
+            [
+                105.155708,
+                21.934054
+            ],
+            [
+                105.157343,
+                21.930697
+            ],
+            [
+                105.158198,
+                21.92887
+            ],
+            [
+                105.158198,
+                21.92846
+            ],
+            [
+                105.157491,
+                21.927502
+            ],
+            [
+                105.157087,
+                21.927091
+            ],
+            [
+                105.156759,
+                21.926703
+            ],
+            [
+                105.156255,
+                21.926567
+            ],
+            [
+                105.155146,
+                21.926751
+            ],
+            [
+                105.150004,
+                21.928307
+            ],
+            [
+                105.148643,
+                21.928583
+            ],
+            [
+                105.148038,
+                21.928629
+            ],
+            [
+                105.147181,
+                21.928584
+            ],
+            [
+                105.146626,
+                21.928311
+            ],
+            [
+                105.145617,
+                21.927672
+            ],
+            [
+                105.143826,
+                21.926327
+            ],
+            [
+                105.142918,
+                21.925689
+            ],
+            [
+                105.14201,
+                21.92537
+            ],
+            [
+                105.140346,
+                21.924869
+            ],
+            [
+                105.138732,
+                21.924369
+            ],
+            [
+                105.137773,
+                21.923867
+            ],
+            [
+                105.135253,
+                21.921649
+            ],
+            [
+                105.134028,
+                21.921459
+            ],
+            [
+                105.132134,
+                21.92236
+            ],
+            [
+                105.130939,
+                21.923371
+            ],
+            [
+                105.12973,
+                21.922253
+            ],
+            [
+                105.129327,
+                21.922116
+            ],
+            [
+                105.129024,
+                21.922208
+            ],
+            [
+                105.128722,
+                21.922802
+            ],
+            [
+                105.127766,
+                21.925313
+            ],
+            [
+                105.126961,
+                21.927186
+            ],
+            [
+                105.126458,
+                21.927825
+            ],
+            [
+                105.125954,
+                21.928054
+            ],
+            [
+                105.124593,
+                21.928329
+            ],
+            [
+                105.122828,
+                21.928741
+            ],
+            [
+                105.120426,
+                21.928116
+            ],
+            [
+                105.118439,
+                21.925914
+            ],
+            [
+                105.117454,
+                21.922879
+            ],
+            [
+                105.117201,
+                21.921601
+            ],
+            [
+                105.117351,
+                21.920687
+            ],
+            [
+                105.118006,
+                21.919546
+            ],
+            [
+                105.119013,
+                21.918312
+            ],
+            [
+                105.12065,
+                21.916827
+            ],
+            [
+                105.121053,
+                21.916325
+            ],
+            [
+                105.121254,
+                21.91596
+            ],
+            [
+                105.121254,
+                21.915594
+            ],
+            [
+                105.121052,
+                21.915184
+            ],
+            [
+                105.120396,
+                21.914636
+            ],
+            [
+                105.119034,
+                21.913313
+            ],
+            [
+                105.118126,
+                21.912355
+            ],
+            [
+                105.117268,
+                21.911626
+            ],
+            [
+                105.115679,
+                21.909823
+            ],
+            [
+                105.11366,
+                21.907725
+            ],
+            [
+                105.112197,
+                21.906219
+            ],
+            [
+                105.110785,
+                21.904805
+            ],
+            [
+                105.10859,
+                21.902319
+            ],
+            [
+                105.107026,
+                21.900448
+            ],
+            [
+                105.105512,
+                21.898166
+            ],
+            [
+                105.1043,
+                21.896021
+            ],
+            [
+                105.103921,
+                21.89504
+            ],
+            [
+                105.10382,
+                21.893625
+            ],
+            [
+                105.103718,
+                21.892986
+            ],
+            [
+                105.103516,
+                21.892621
+            ],
+            [
+                105.103214,
+                21.892393
+            ],
+            [
+                105.102659,
+                21.89221
+            ],
+            [
+                105.101399,
+                21.892074
+            ],
+            [
+                105.099988,
+                21.892029
+            ],
+            [
+                105.09908,
+                21.892121
+            ],
+            [
+                105.098072,
+                21.892487
+            ],
+            [
+                105.096611,
+                21.89331
+            ],
+            [
+                105.095956,
+                21.893538
+            ],
+            [
+                105.09525,
+                21.893584
+            ],
+            [
+                105.094494,
+                21.893494
+            ],
+            [
+                105.093788,
+                21.893266
+            ],
+            [
+                105.093133,
+                21.892901
+            ],
+            [
+                105.092679,
+                21.892536
+            ],
+            [
+                105.092477,
+                21.892125
+            ],
+            [
+                105.092325,
+                21.891532
+            ],
+            [
+                105.092551,
+                21.890048
+            ],
+            [
+                105.092853,
+                21.888633
+            ],
+            [
+                105.093356,
+                21.887308
+            ],
+            [
+                105.093557,
+                21.886076
+            ],
+            [
+                105.093657,
+                21.885117
+            ],
+            [
+                105.093505,
+                21.884113
+            ],
+            [
+                105.093303,
+                21.883017
+            ],
+            [
+                105.093428,
+                21.882173
+            ],
+            [
+                105.09378,
+                21.881122
+            ],
+            [
+                105.094636,
+                21.879341
+            ],
+            [
+                105.094988,
+                21.878519
+            ],
+            [
+                105.095089,
+                21.877835
+            ],
+            [
+                105.094836,
+                21.876693
+            ],
+            [
+                105.094684,
+                21.875415
+            ],
+            [
+                105.094759,
+                21.874708
+            ],
+            [
+                105.095011,
+                21.87416
+            ],
+            [
+                105.095715,
+                21.873064
+            ],
+            [
+                105.09642,
+                21.872013
+            ],
+            [
+                105.096571,
+                21.871465
+            ],
+            [
+                105.096571,
+                21.871146
+            ],
+            [
+                105.09647,
+                21.870918
+            ],
+            [
+                105.095299,
+                21.870084
+            ],
+            [
+                105.094156,
+                21.869204
+            ],
+            [
+                105.092764,
+                21.867929
+            ],
+            [
+                105.090646,
+                21.866196
+            ],
+            [
+                105.08999,
+                21.86542
+            ],
+            [
+                105.088729,
+                21.863093
+            ],
+            [
+                105.088224,
+                21.862043
+            ],
+            [
+                105.087417,
+                21.861313
+            ],
+            [
+                105.08646,
+                21.860902
+            ],
+            [
+                105.085603,
+                21.86072
+            ],
+            [
+                105.084393,
+                21.860721
+            ],
+            [
+                105.082982,
+                21.86095
+            ],
+            [
+                105.082378,
+                21.860996
+            ],
+            [
+                105.081873,
+                21.860859
+            ],
+            [
+                105.081294,
+                21.860608
+            ],
+            [
+                105.080538,
+                21.860061
+            ],
+            [
+                105.079176,
+                21.85892
+            ],
+            [
+                105.078571,
+                21.858281
+            ],
+            [
+                105.078067,
+                21.85746
+            ],
+            [
+                105.077966,
+                21.856912
+            ],
+            [
+                105.078016,
+                21.856364
+            ],
+            [
+                105.078469,
+                21.855497
+            ],
+            [
+                105.078922,
+                21.854675
+            ],
+            [
+                105.079148,
+                21.853647
+            ],
+            [
+                105.079148,
+                21.853008
+            ],
+            [
+                105.078946,
+                21.851958
+            ],
+            [
+                105.078643,
+                21.850817
+            ],
+            [
+                105.078592,
+                21.849904
+            ],
+            [
+                105.078591,
+                21.849082
+            ],
+            [
+                105.078792,
+                21.848078
+            ],
+            [
+                105.078943,
+                21.847256
+            ],
+            [
+                105.078766,
+                21.846731
+            ],
+            [
+                105.078312,
+                21.846138
+            ],
+            [
+                105.077254,
+                21.845226
+            ],
+            [
+                105.075036,
+                21.843309
+            ],
+            [
+                105.071255,
+                21.840115
+            ],
+            [
+                105.070599,
+                21.839796
+            ],
+            [
+                105.070045,
+                21.839796
+            ],
+            [
+                105.068307,
+                21.840231
+            ],
+            [
+                105.06448,
+                21.845391
+            ],
+            [
+                105.06234,
+                21.848656
+            ],
+            [
+                105.061383,
+                21.850345
+            ],
+            [
+                105.060276,
+                21.853587
+            ],
+            [
+                105.059395,
+                21.856486
+            ],
+            [
+                105.058891,
+                21.857719
+            ],
+            [
+                105.058539,
+                21.858221
+            ],
+            [
+                105.057934,
+                21.858541
+            ],
+            [
+                105.056725,
+                21.858678
+            ],
+            [
+                105.055112,
+                21.858725
+            ],
+            [
+                105.053348,
+                21.858771
+            ],
+            [
+                105.052693,
+                21.858908
+            ],
+            [
+                105.051433,
+                21.859548
+            ],
+            [
+                105.04962,
+                21.860918
+            ],
+            [
+                105.046017,
+                21.863498
+            ],
+            [
+                105.044758,
+                21.864548
+            ],
+            [
+                105.044355,
+                21.865188
+            ],
+            [
+                105.043952,
+                21.866009
+            ],
+            [
+                105.043599,
+                21.867151
+            ],
+            [
+                105.043146,
+                21.869068
+            ],
+            [
+                105.042315,
+                21.871739
+            ],
+            [
+                105.041409,
+                21.873246
+            ],
+            [
+                105.041258,
+                21.87384
+            ],
+            [
+                105.041308,
+                21.874387
+            ],
+            [
+                105.041863,
+                21.875665
+            ],
+            [
+                105.042166,
+                21.877081
+            ],
+            [
+                105.042141,
+                21.878153
+            ],
+            [
+                105.041688,
+                21.879888
+            ],
+            [
+                105.041587,
+                21.881075
+            ],
+            [
+                105.04189,
+                21.882399
+            ],
+            [
+                105.042042,
+                21.883495
+            ],
+            [
+                105.041891,
+                21.884271
+            ],
+            [
+                105.041714,
+                21.884842
+            ],
+            [
+                105.04116,
+                21.885526
+            ],
+            [
+                105.03985,
+                21.886212
+            ],
+            [
+                105.03864,
+                21.886851
+            ],
+            [
+                105.037985,
+                21.887353
+            ],
+            [
+                105.037632,
+                21.887856
+            ],
+            [
+                105.037532,
+                21.888312
+            ],
+            [
+                105.03733,
+                21.889682
+            ],
+            [
+                105.037179,
+                21.890458
+            ],
+            [
+                105.036928,
+                21.891051
+            ],
+            [
+                105.036146,
+                21.891668
+            ],
+            [
+                105.03534,
+                21.891988
+            ],
+            [
+                105.033878,
+                21.892262
+            ],
+            [
+                105.032215,
+                21.892353
+            ],
+            [
+                105.030299,
+                21.892354
+            ],
+            [
+                105.028737,
+                21.891989
+            ],
+            [
+                105.027123,
+                21.891761
+            ],
+            [
+                105.026166,
+                21.891807
+            ],
+            [
+                105.02546,
+                21.892081
+            ],
+            [
+                105.024679,
+                21.892651
+            ],
+            [
+                105.023923,
+                21.893473
+            ],
+            [
+                105.023268,
+                21.894021
+            ],
+            [
+                105.022663,
+                21.89425
+            ],
+            [
+                105.021806,
+                21.894341
+            ],
+            [
+                105.020949,
+                21.894295
+            ],
+            [
+                105.019689,
+                21.893976
+            ],
+            [
+                105.018983,
+                21.89393
+            ],
+            [
+                105.018681,
+                21.894159
+            ],
+            [
+                105.018126,
+                21.894752
+            ],
+            [
+                105.017169,
+                21.896031
+            ],
+            [
+                105.016312,
+                21.896853
+            ],
+            [
+                105.0149,
+                21.897674
+            ],
+            [
+                105.014144,
+                21.898359
+            ],
+            [
+                105.013691,
+                21.89909
+            ],
+            [
+                105.013464,
+                21.899752
+            ],
+            [
+                105.013565,
+                21.900482
+            ],
+            [
+                105.013918,
+                21.901167
+            ],
+            [
+                105.014623,
+                21.901806
+            ],
+            [
+                105.014976,
+                21.902308
+            ],
+            [
+                105.015128,
+                21.902856
+            ],
+            [
+                105.015229,
+                21.903632
+            ],
+            [
+                105.015178,
+                21.904408
+            ],
+            [
+                105.014977,
+                21.905047
+            ],
+            [
+                105.014674,
+                21.905869
+            ],
+            [
+                105.014498,
+                21.906987
+            ],
+            [
+                105.014599,
+                21.907398
+            ],
+            [
+                105.015103,
+                21.907946
+            ],
+            [
+                105.016666,
+                21.909224
+            ],
+            [
+                105.017826,
+                21.910365
+            ],
+            [
+                105.018582,
+                21.911415
+            ],
+            [
+                105.019843,
+                21.913378
+            ],
+            [
+                105.021078,
+                21.915683
+            ],
+            [
+                105.021532,
+                21.916779
+            ],
+            [
+                105.021683,
+                21.917692
+            ],
+            [
+                105.021684,
+                21.918696
+            ],
+            [
+                105.021482,
+                21.919838
+            ],
+            [
+                105.021533,
+                21.921116
+            ],
+            [
+                105.02176,
+                21.922097
+            ],
+            [
+                105.022617,
+                21.923878
+            ],
+            [
+                105.022617,
+                21.924289
+            ],
+            [
+                105.022516,
+                21.924654
+            ],
+            [
+                105.021962,
+                21.925065
+            ],
+            [
+                105.02121,
+                21.925191
+            ],
+            [
+                105.020689,
+                21.925404
+            ],
+            [
+                105.020038,
+                21.9258
+            ],
+            [
+                105.019441,
+                21.926298
+            ],
+            [
+                105.018937,
+                21.926937
+            ],
+            [
+                105.018584,
+                21.92753
+            ],
+            [
+                105.018433,
+                21.928215
+            ],
+            [
+                105.018509,
+                21.929151
+            ],
+            [
+                105.019064,
+                21.931023
+            ],
+            [
+                105.019316,
+                21.932712
+            ],
+            [
+                105.019316,
+                21.933899
+            ],
+            [
+                105.019266,
+                21.934583
+            ],
+            [
+                105.019064,
+                21.93504
+            ],
+            [
+                105.018787,
+                21.935382
+            ],
+            [
+                105.018232,
+                21.935611
+            ],
+            [
+                105.017476,
+                21.935611
+            ],
+            [
+                105.015862,
+                21.93552
+            ],
+            [
+                105.014803,
+                21.935611
+            ],
+            [
+                105.013795,
+                21.935976
+            ],
+            [
+                105.012887,
+                21.936342
+            ],
+            [
+                105.011627,
+                21.936798
+            ],
+            [
+                105.010921,
+                21.936935
+            ],
+            [
+                105.010366,
+                21.936935
+            ],
+            [
+                105.00966,
+                21.936798
+            ],
+            [
+                105.008047,
+                21.936205
+            ],
+            [
+                105.005626,
+                21.935155
+            ],
+            [
+                105.004089,
+                21.93463
+            ],
+            [
+                105.003433,
+                21.934174
+            ],
+            [
+                105.002626,
+                21.933306
+            ],
+            [
+                105.001896,
+                21.932622
+            ],
+            [
+                105.000161,
+                21.930005
+            ],
+            [
+                104.998807,
+                21.928966
+            ],
+            [
+                104.998178,
+                21.92865
+            ],
+            [
+                104.997355,
+                21.928695
+            ],
+            [
+                104.99421,
+                21.929418
+            ],
+            [
+                104.991549,
+                21.930321
+            ],
+            [
+                104.989856,
+                21.931044
+            ],
+            [
+                104.98942,
+                21.931405
+            ],
+            [
+                104.989227,
+                21.931947
+            ],
+            [
+                104.989082,
+                21.933211
+            ],
+            [
+                104.988598,
+                21.93434
+            ],
+            [
+                104.988017,
+                21.935198
+            ],
+            [
+                104.987122,
+                21.935989
+            ],
+            [
+                104.98688,
+                21.938789
+            ],
+            [
+                104.987073,
+                21.941047
+            ],
+            [
+                104.987557,
+                21.94317
+            ],
+            [
+                104.988863,
+                21.944434
+            ],
+            [
+                104.989274,
+                21.946038
+            ],
+            [
+                104.989855,
+                21.94816
+            ],
+            [
+                104.990484,
+                21.949425
+            ],
+            [
+                104.992322,
+                21.951367
+            ],
+            [
+                104.993096,
+                21.951819
+            ],
+            [
+                104.993895,
+                21.956087
+            ],
+            [
+                104.995153,
+                21.961009
+            ],
+            [
+                104.995443,
+                21.963674
+            ],
+            [
+                104.995007,
+                21.966022
+            ],
+            [
+                104.994257,
+                21.968393
+            ],
+            [
+                104.992418,
+                21.971374
+            ],
+            [
+                104.992321,
+                21.971871
+            ],
+            [
+                104.993821,
+                21.975303
+            ],
+            [
+                104.995442,
+                21.978126
+            ],
+            [
+                104.998588,
+                21.984088
+            ],
+            [
+                104.999798,
+                21.987565
+            ],
+            [
+                104.999798,
+                21.988468
+            ],
+            [
+                104.99958,
+                21.989259
+            ],
+            [
+                104.996967,
+                21.992465
+            ],
+            [
+                104.996289,
+                21.993052
+            ],
+            [
+                104.994208,
+                21.993685
+            ],
+            [
+                104.991158,
+                21.99373
+            ],
+            [
+                104.991062,
+                21.993775
+            ],
+            [
+                104.9914,
+                21.994678
+            ],
+            [
+                104.992659,
+                21.996349
+            ],
+            [
+                104.992901,
+                21.996981
+            ],
+            [
+                104.992513,
+                21.997659
+            ],
+            [
+                104.991951,
+                21.99903
+            ],
+            [
+                104.991197,
+                21.999666
+            ],
+            [
+                104.990603,
+                22.000305
+            ],
+            [
+                104.990169,
+                22.00103
+            ],
+            [
+                104.989895,
+                22.001691
+            ],
+            [
+                104.989872,
+                22.002181
+            ],
+            [
+                104.989964,
+                22.003055
+            ],
+            [
+                104.991094,
+                22.005836
+            ],
+            [
+                104.993378,
+                22.010482
+            ],
+            [
+                104.995205,
+                22.012826
+            ],
+            [
+                104.99621,
+                22.014445
+            ],
+            [
+                104.996301,
+                22.015042
+            ],
+            [
+                104.996301,
+                22.015468
+            ],
+            [
+                104.996073,
+                22.015895
+            ],
+            [
+                104.995525,
+                22.016449
+            ],
+            [
+                104.994383,
+                22.017216
+            ],
+            [
+                104.992989,
+                22.018516
+            ],
+            [
+                104.992806,
+                22.019453
+            ],
+            [
+                104.992806,
+                22.020306
+            ],
+            [
+                104.993263,
+                22.021584
+            ],
+            [
+                104.994451,
+                22.024227
+            ],
+            [
+                104.994908,
+                22.027125
+            ],
+            [
+                104.994633,
+                22.030706
+            ],
+            [
+                104.994907,
+                22.033092
+            ],
+            [
+                104.9971,
+                22.040253
+            ],
+            [
+                104.997831,
+                22.042554
+            ],
+            [
+                104.997466,
+                22.043918
+            ],
+            [
+                104.996643,
+                22.04443
+            ],
+            [
+                104.994633,
+                22.044771
+            ],
+            [
+                104.990703,
+                22.044941
+            ],
+            [
+                104.988419,
+                22.04477
+            ],
+            [
+                104.985037,
+                22.043662
+            ],
+            [
+                104.980834,
+                22.04298
+            ],
+            [
+                104.973797,
+                22.041615
+            ],
+            [
+                104.971605,
+                22.039995
+            ],
+            [
+                104.970508,
+                22.038034
+            ],
+            [
+                104.968773,
+                22.034283
+            ],
+            [
+                104.967494,
+                22.031384
+            ],
+            [
+                104.965393,
+                22.030105
+            ],
+            [
+                104.963383,
+                22.029593
+            ],
+            [
+                104.962195,
+                22.029764
+            ],
+            [
+                104.961098,
+                22.030531
+            ],
+            [
+                104.95927,
+                22.033087
+            ],
+            [
+                104.957625,
+                22.03428
+            ],
+            [
+                104.954974,
+                22.035388
+            ],
+            [
+                104.953147,
+                22.035302
+            ],
+            [
+                104.95068,
+                22.034705
+            ],
+            [
+                104.948761,
+                22.034534
+            ],
+            [
+                104.94611,
+                22.036152
+            ],
+            [
+                104.943916,
+                22.038624
+            ],
+            [
+                104.941721,
+                22.042544
+            ],
+            [
+                104.940898,
+                22.044334
+            ],
+            [
+                104.94108,
+                22.046635
+            ],
+            [
+                104.941443,
+                22.051154
+            ],
+            [
+                104.940894,
+                22.052943
+            ],
+            [
+                104.939157,
+                22.054903
+            ],
+            [
+                104.936049,
+                22.05763
+            ],
+            [
+                104.930563,
+                22.060526
+            ],
+            [
+                104.927913,
+                22.061036
+            ],
+            [
+                104.925811,
+                22.060694
+            ],
+            [
+                104.921973,
+                22.059499
+            ],
+            [
+                104.918957,
+                22.058986
+            ],
+            [
+                104.918043,
+                22.059071
+            ],
+            [
+                104.916488,
+                22.060605
+            ],
+            [
+                104.914294,
+                22.062564
+            ],
+            [
+                104.912191,
+                22.063415
+            ],
+            [
+                104.91082,
+                22.0635
+            ],
+            [
+                104.908718,
+                22.063413
+            ],
+            [
+                104.905885,
+                22.063412
+            ],
+            [
+                104.902411,
+                22.064603
+            ],
+            [
+                104.900032,
+                22.0675
+            ],
+            [
+                104.897197,
+                22.070397
+            ],
+            [
+                104.894545,
+                22.072185
+            ],
+            [
+                104.891619,
+                22.072524
+            ],
+            [
+                104.889518,
+                22.072011
+            ],
+            [
+                104.886136,
+                22.070986
+            ],
+            [
+                104.883211,
+                22.071666
+            ],
+            [
+                104.882124,
+                22.0724
+            ],
+            [
+                104.879553,
+                22.074135
+            ],
+            [
+                104.875436,
+                22.078139
+            ],
+            [
+                104.873972,
+                22.080098
+            ],
+            [
+                104.873879,
+                22.081718
+            ],
+            [
+                104.873511,
+                22.084871
+            ],
+            [
+                104.87296,
+                22.087599
+            ],
+            [
+                104.871951,
+                22.090752
+            ],
+            [
+                104.870944,
+                22.092712
+            ],
+            [
+                104.868748,
+                22.094159
+            ],
+            [
+                104.865822,
+                22.095861
+            ],
+            [
+                104.864632,
+                22.097139
+            ],
+            [
+                104.864812,
+                22.099611
+            ],
+            [
+                104.865539,
+                22.104556
+            ],
+            [
+                104.865719,
+                22.107966
+            ],
+            [
+                104.865442,
+                22.110693
+            ],
+            [
+                104.864524,
+                22.113846
+            ],
+            [
+                104.861591,
+                22.121601
+            ],
+            [
+                104.860308,
+                22.125095
+            ],
+            [
+                104.860214,
+                22.127737
+            ],
+            [
+                104.860487,
+                22.129101
+            ],
+            [
+                104.861399,
+                22.130807
+            ],
+            [
+                104.861946,
+                22.132257
+            ],
+            [
+                104.861671,
+                22.133364
+            ],
+            [
+                104.860618,
+                22.13477
+            ],
+            [
+                104.860389,
+                22.135622
+            ],
+            [
+                104.860754,
+                22.136432
+            ],
+            [
+                104.86153,
+                22.137584
+            ],
+            [
+                104.863401,
+                22.14091
+            ],
+            [
+                104.863674,
+                22.142061
+            ],
+            [
+                104.86317,
+                22.14368
+            ],
+            [
+                104.862298,
+                22.146407
+            ],
+            [
+                104.86184,
+                22.147259
+            ],
+            [
+                104.860788,
+                22.147983
+            ],
+            [
+                104.859507,
+                22.148877
+            ],
+            [
+                104.859232,
+                22.149473
+            ],
+            [
+                104.859277,
+                22.150326
+            ],
+            [
+                104.859229,
+                22.152073
+            ],
+            [
+                104.858725,
+                22.153138
+            ],
+            [
+                104.857947,
+                22.154118
+            ],
+            [
+                104.856391,
+                22.155608
+            ],
+            [
+                104.855109,
+                22.157184
+            ],
+            [
+                104.854742,
+                22.158292
+            ],
+            [
+                104.85474,
+                22.159826
+            ],
+            [
+                104.854829,
+                22.162255
+            ],
+            [
+                104.855055,
+                22.164898
+            ],
+            [
+                104.855601,
+                22.167456
+            ],
+            [
+                104.855919,
+                22.169246
+            ],
+            [
+                104.85569,
+                22.169971
+            ],
+            [
+                104.855141,
+                22.170482
+            ],
+            [
+                104.854088,
+                22.171035
+            ],
+            [
+                104.852853,
+                22.171673
+            ],
+            [
+                104.85212,
+                22.172652
+            ],
+            [
+                104.851203,
+                22.17457
+            ],
+            [
+                104.850881,
+                22.176402
+            ],
+            [
+                104.850742,
+                22.177851
+            ],
+            [
+                104.850375,
+                22.179087
+            ],
+            [
+                104.849757,
+                22.180216
+            ],
+            [
+                104.84916,
+                22.181643
+            ],
+            [
+                104.848862,
+                22.183049
+            ],
+            [
+                104.848895,
+                22.184652
+            ],
+            [
+                104.849197,
+                22.184685
+            ],
+            [
+                104.850787,
+                22.186467
+            ],
+            [
+                104.851917,
+                22.187721
+            ],
+            [
+                104.853401,
+                22.188877
+            ],
+            [
+                104.854302,
+                22.189669
+            ],
+            [
+                104.854761,
+                22.190692
+            ],
+            [
+                104.855077,
+                22.192473
+            ],
+            [
+                104.855464,
+                22.194188
+            ],
+            [
+                104.85564,
+                22.195243
+            ],
+            [
+                104.856205,
+                22.196431
+            ],
+            [
+                104.856964,
+                22.197322
+            ],
+            [
+                104.85753,
+                22.197587
+            ],
+            [
+                104.858343,
+                22.19762
+            ],
+            [
+                104.859581,
+                22.197621
+            ],
+            [
+                104.860501,
+                22.197655
+            ],
+            [
+                104.861031,
+                22.197985
+            ],
+            [
+                104.861773,
+                22.198711
+            ],
+            [
+                104.862232,
+                22.199239
+            ],
+            [
+                104.862868,
+                22.200295
+            ],
+            [
+                104.863327,
+                22.200856
+            ],
+            [
+                104.86368,
+                22.201186
+            ],
+            [
+                104.864423,
+                22.201451
+            ],
+            [
+                104.865661,
+                22.201419
+            ],
+            [
+                104.867394,
+                22.201222
+            ],
+            [
+                104.869286,
+                22.201059
+            ],
+            [
+                104.870842,
+                22.200994
+            ],
+            [
+                104.872009,
+                22.201028
+            ],
+            [
+                104.87307,
+                22.201194
+            ],
+            [
+                104.873671,
+                22.201194
+            ],
+            [
+                104.874308,
+                22.20103
+            ],
+            [
+                104.874804,
+                22.200635
+            ],
+            [
+                104.875335,
+                22.19991
+            ],
+            [
+                104.875583,
+                22.199283
+            ],
+            [
+                104.875513,
+                22.198459
+            ],
+            [
+                104.874913,
+                22.197436
+            ],
+            [
+                104.874383,
+                22.196743
+            ],
+            [
+                104.874312,
+                22.196347
+            ],
+            [
+                104.874419,
+                22.195688
+            ],
+            [
+                104.874596,
+                22.195094
+            ],
+            [
+                104.875217,
+                22.193232
+            ],
+            [
+                104.875996,
+                22.192045
+            ],
+            [
+                104.876882,
+                22.190331
+            ],
+            [
+                104.877838,
+                22.188881
+            ],
+            [
+                104.878581,
+                22.187661
+            ],
+            [
+                104.880299,
+                22.185337
+            ],
+            [
+                104.881219,
+                22.18448
+            ],
+            [
+                104.881572,
+                22.184381
+            ],
+            [
+                104.882032,
+                22.184382
+            ],
+            [
+                104.882492,
+                22.184712
+            ],
+            [
+                104.882986,
+                22.185141
+            ],
+            [
+                104.883516,
+                22.185504
+            ],
+            [
+                104.884082,
+                22.185637
+            ],
+            [
+                104.884648,
+                22.185604
+            ],
+            [
+                104.885356,
+                22.185209
+            ],
+            [
+                104.88578,
+                22.185077
+            ],
+            [
+                104.886346,
+                22.185077
+            ],
+            [
+                104.886876,
+                22.185441
+            ],
+            [
+                104.887442,
+                22.185672
+            ],
+            [
+                104.887972,
+                22.185705
+            ],
+            [
+                104.888538,
+                22.185607
+            ],
+            [
+                104.889705,
+                22.184948
+            ],
+            [
+                104.891138,
+                22.184042
+            ],
+            [
+                104.891952,
+                22.183515
+            ],
+            [
+                104.892376,
+                22.183416
+            ],
+            [
+                104.892871,
+                22.18368
+            ],
+            [
+                104.89379,
+                22.184143
+            ],
+            [
+                104.894674,
+                22.184605
+            ],
+            [
+                104.895487,
+                22.185166
+            ],
+            [
+                104.895946,
+                22.185694
+            ],
+            [
+                104.896017,
+                22.186288
+            ],
+            [
+                104.89591,
+                22.186914
+            ],
+            [
+                104.894954,
+                22.188926
+            ],
+            [
+                104.894882,
+                22.19008
+            ],
+            [
+                104.894952,
+                22.191069
+            ],
+            [
+                104.895234,
+                22.192158
+            ],
+            [
+                104.896523,
+                22.195506
+            ],
+            [
+                104.897229,
+                22.197255
+            ],
+            [
+                104.898217,
+                22.199432
+            ],
+            [
+                104.898695,
+                22.200752
+            ],
+            [
+                104.899472,
+                22.202764
+            ],
+            [
+                104.900073,
+                22.203622
+            ],
+            [
+                104.900674,
+                22.204117
+            ],
+            [
+                104.90131,
+                22.204381
+            ],
+            [
+                104.901947,
+                22.204513
+            ],
+            [
+                104.902548,
+                22.204613
+            ],
+            [
+                104.902902,
+                22.20491
+            ],
+            [
+                104.903149,
+                22.205504
+            ],
+            [
+                104.90336,
+                22.206955
+            ],
+            [
+                104.903483,
+                22.207779
+            ],
+            [
+                104.903306,
+                22.208637
+            ],
+            [
+                104.902952,
+                22.209362
+            ],
+            [
+                104.902916,
+                22.209824
+            ],
+            [
+                104.902986,
+                22.210582
+            ],
+            [
+                104.903551,
+                22.211539
+            ],
+            [
+                104.904718,
+                22.213057
+            ],
+            [
+                104.905036,
+                22.213255
+            ],
+            [
+                104.90539,
+                22.213321
+            ],
+            [
+                104.905743,
+                22.21319
+            ],
+            [
+                104.907194,
+                22.212333
+            ],
+            [
+                104.908114,
+                22.211806
+            ],
+            [
+                104.90868,
+                22.211608
+            ],
+            [
+                104.909494,
+                22.211378
+            ],
+            [
+                104.910025,
+                22.211411
+            ],
+            [
+                104.910449,
+                22.211708
+            ],
+            [
+                104.911226,
+                22.212632
+            ],
+            [
+                104.91211,
+                22.213985
+            ],
+            [
+                104.913117,
+                22.215997
+            ],
+            [
+                104.913364,
+                22.216789
+            ],
+            [
+                104.913363,
+                22.217646
+            ],
+            [
+                104.913292,
+                22.218339
+            ],
+            [
+                104.912797,
+                22.219064
+            ],
+            [
+                104.912442,
+                22.219756
+            ],
+            [
+                104.912195,
+                22.220218
+            ],
+            [
+                104.912124,
+                22.220614
+            ],
+            [
+                104.912159,
+                22.221142
+            ],
+            [
+                104.912883,
+                22.223121
+            ],
+            [
+                104.913129,
+                22.224539
+            ],
+            [
+                104.913058,
+                22.225298
+            ],
+            [
+                104.912881,
+                22.225858
+            ],
+            [
+                104.912385,
+                22.226089
+            ],
+            [
+                104.911572,
+                22.226418
+            ],
+            [
+                104.911253,
+                22.226814
+            ],
+            [
+                104.911217,
+                22.227407
+            ],
+            [
+                104.911712,
+                22.228628
+            ],
+            [
+                104.912118,
+                22.229404
+            ],
+            [
+                104.912259,
+                22.230526
+            ],
+            [
+                104.912152,
+                22.231614
+            ],
+            [
+                104.912151,
+                22.233461
+            ],
+            [
+                104.912221,
+                22.234319
+            ],
+            [
+                104.91268,
+                22.235737
+            ],
+            [
+                104.91298,
+                22.236776
+            ],
+            [
+                104.913511,
+                22.237271
+            ],
+            [
+                104.91443,
+                22.237767
+            ],
+            [
+                104.915597,
+                22.238097
+            ],
+            [
+                104.916836,
+                22.238329
+            ],
+            [
+                104.918498,
+                22.238593
+            ],
+            [
+                104.919391,
+                22.238916
+            ],
+            [
+                104.918483,
+                22.239827
+            ],
+            [
+                104.918063,
+                22.241129
+            ],
+            [
+                104.917712,
+                22.243341
+            ],
+            [
+                104.917291,
+                22.245749
+            ],
+            [
+                104.916662,
+                22.247115
+            ],
+            [
+                104.915753,
+                22.248221
+            ],
+            [
+                104.91446,
+                22.248644
+            ],
+            [
+                104.912992,
+                22.249098
+            ],
+            [
+                104.911105,
+                22.249228
+            ],
+            [
+                104.910057,
+                22.249683
+            ],
+            [
+                104.909078,
+                22.250528
+            ],
+            [
+                104.908448,
+                22.251634
+            ],
+            [
+                104.908168,
+                22.253326
+            ],
+            [
+                104.907466,
+                22.257491
+            ],
+            [
+                104.906836,
+                22.259117
+            ],
+            [
+                104.905787,
+                22.260353
+            ],
+            [
+                104.90348,
+                22.262239
+            ],
+            [
+                104.897921,
+                22.266824
+            ],
+            [
+                104.896033,
+                22.26819
+            ],
+            [
+                104.894076,
+                22.26936
+            ],
+            [
+                104.892817,
+                22.2704
+            ],
+            [
+                104.892257,
+                22.271116
+            ],
+            [
+                104.891907,
+                22.272157
+            ],
+            [
+                104.892116,
+                22.273133
+            ],
+            [
+                104.892605,
+                22.273785
+            ],
+            [
+                104.894386,
+                22.27525
+            ],
+            [
+                104.895783,
+                22.276162
+            ],
+            [
+                104.896831,
+                22.276358
+            ],
+            [
+                104.898159,
+                22.276359
+            ],
+            [
+                104.900186,
+                22.275709
+            ],
+            [
+                104.902563,
+                22.274995
+            ],
+            [
+                104.90445,
+                22.274736
+            ],
+            [
+                104.905358,
+                22.274801
+            ],
+            [
+                104.906266,
+                22.275453
+            ],
+            [
+                104.906825,
+                22.276689
+            ],
+            [
+                104.907941,
+                22.280009
+            ],
+            [
+                104.908569,
+                22.280595
+            ],
+            [
+                104.910386,
+                22.281768
+            ],
+            [
+                104.910945,
+                22.282419
+            ],
+            [
+                104.911154,
+                22.28307
+            ],
+            [
+                104.911152,
+                22.286259
+            ],
+            [
+                104.911605,
+                22.287593
+            ],
+            [
+                104.912513,
+                22.28896
+            ],
+            [
+                104.913421,
+                22.290002
+            ],
+            [
+                104.914329,
+                22.290523
+            ],
+            [
+                104.915238,
+                22.290654
+            ],
+            [
+                104.916426,
+                22.290655
+            ],
+            [
+                104.917964,
+                22.2902
+            ],
+            [
+                104.919852,
+                22.289355
+            ],
+            [
+                104.92069,
+                22.289355
+            ],
+            [
+                104.921459,
+                22.289811
+            ],
+            [
+                104.921808,
+                22.290397
+            ],
+            [
+                104.921808,
+                22.291178
+            ],
+            [
+                104.921458,
+                22.292284
+            ],
+            [
+                104.920758,
+                22.29313
+            ],
+            [
+                104.91915,
+                22.294235
+            ],
+            [
+                104.916773,
+                22.295471
+            ],
+            [
+                104.915934,
+                22.296121
+            ],
+            [
+                104.915374,
+                22.296967
+            ],
+            [
+                104.915373,
+                22.297748
+            ],
+            [
+                104.915652,
+                22.298724
+            ],
+            [
+                104.917259,
+                22.300808
+            ],
+            [
+                104.917887,
+                22.30224
+            ],
+            [
+                104.918201,
+                22.303509
+            ],
+            [
+                104.918061,
+                22.30429
+            ],
+            [
+                104.917501,
+                22.305331
+            ],
+            [
+                104.916592,
+                22.306176
+            ],
+            [
+                104.915053,
+                22.307282
+            ],
+            [
+                104.913864,
+                22.308258
+            ],
+            [
+                104.913234,
+                22.309364
+            ],
+            [
+                104.911905,
+                22.311771
+            ],
+            [
+                104.911205,
+                22.312617
+            ],
+            [
+                104.910436,
+                22.313202
+            ],
+            [
+                104.909457,
+                22.313332
+            ],
+            [
+                104.9068,
+                22.31333
+            ],
+            [
+                104.905542,
+                22.313394
+            ],
+            [
+                104.904773,
+                22.313784
+            ],
+            [
+                104.902919,
+                22.315183
+            ],
+            [
+                104.90194,
+                22.315768
+            ],
+            [
+                104.901031,
+                22.315962
+            ],
+            [
+                104.898934,
+                22.315701
+            ],
+            [
+                104.897676,
+                22.3157
+            ],
+            [
+                104.897047,
+                22.315895
+            ],
+            [
+                104.896627,
+                22.31661
+            ],
+            [
+                104.896206,
+                22.318107
+            ],
+            [
+                104.895716,
+                22.319538
+            ],
+            [
+                104.895016,
+                22.320579
+            ],
+            [
+                104.893407,
+                22.32175
+            ],
+            [
+                104.892148,
+                22.322595
+            ],
+            [
+                104.891658,
+                22.32331
+            ],
+            [
+                104.891657,
+                22.323961
+            ],
+            [
+                104.891936,
+                22.324808
+            ],
+            [
+                104.892915,
+                22.325719
+            ],
+            [
+                104.895221,
+                22.327283
+            ],
+            [
+                104.896618,
+                22.32852
+            ],
+            [
+                104.897246,
+                22.329432
+            ],
+            [
+                104.897455,
+                22.330473
+            ],
+            [
+                104.897455,
+                22.33158
+            ],
+            [
+                104.896648,
+                22.335321
+            ],
+            [
+                104.896507,
+                22.336883
+            ],
+            [
+                104.896575,
+                22.33864
+            ],
+            [
+                104.896924,
+                22.339486
+            ],
+            [
+                104.898182,
+                22.340659
+            ],
+            [
+                104.89951,
+                22.342156
+            ],
+            [
+                104.900068,
+                22.343328
+            ],
+            [
+                104.900591,
+                22.344728
+            ],
+            [
+                104.90073,
+                22.346355
+            ],
+            [
+                104.900519,
+                22.348763
+            ],
+            [
+                104.900512,
+                22.348792
+            ],
+            [
+                104.903599,
+                22.348914
+            ],
+            [
+                104.905652,
+                22.348915
+            ],
+            [
+                104.906963,
+                22.348718
+            ],
+            [
+                104.907777,
+                22.348355
+            ],
+            [
+                104.908627,
+                22.347696
+            ],
+            [
+                104.909478,
+                22.346443
+            ],
+            [
+                104.909974,
+                22.345223
+            ],
+            [
+                104.910559,
+                22.343987
+            ],
+            [
+                104.910737,
+                22.34303
+            ],
+            [
+                104.910809,
+                22.341876
+            ],
+            [
+                104.911057,
+                22.340919
+            ],
+            [
+                104.911482,
+                22.340326
+            ],
+            [
+                104.91258,
+                22.339436
+            ],
+            [
+                104.913466,
+                22.338744
+            ],
+            [
+                104.913909,
+                22.338134
+            ],
+            [
+                104.913945,
+                22.337507
+            ],
+            [
+                104.913945,
+                22.336122
+            ],
+            [
+                104.914194,
+                22.334308
+            ],
+            [
+                104.914372,
+                22.332758
+            ],
+            [
+                104.914585,
+                22.332263
+            ],
+            [
+                104.915152,
+                22.331637
+            ],
+            [
+                104.916002,
+                22.331242
+            ],
+            [
+                104.917064,
+                22.330945
+            ],
+            [
+                104.918056,
+                22.33055
+            ],
+            [
+                104.918976,
+                22.330188
+            ],
+            [
+                104.919543,
+                22.330023
+            ]
+        ]
+    ]
+}

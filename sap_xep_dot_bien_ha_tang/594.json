@@ -1,0 +1,2351 @@
+{
+    "id_district": "594",
+    "id_province": 58,
+    "name_province": "Tiền Giang",
+    "name_district": "Huyện Chợ Gạo",
+    "list_sukien": [
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2024-04-25 15:44:07",
+            "projectName": "Liên danh Gia Phương Bảo",
+            "bidCloseDate": "2024-05-04 11:00:00",
+            "id_muasamcong": "0fc5e454-6e7b-49d9-ba42-ace04cb1a970",
+            "tongmuc_dautu": 8152491000.0,
+            "bidNamePlanNew": "PL2400065210",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2024-11-15 14:50:25",
+            "projectName": null,
+            "bidCloseDate": "2024-11-22 09:00:00",
+            "id_muasamcong": "11a2bd59-5e7f-484d-942a-72dc0bfc27cd",
+            "tongmuc_dautu": 229635000.0,
+            "bidNamePlanNew": "PL2400274145",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2024-07-29 15:28:41",
+            "projectName": "Liên danh Chiếu sáng đường huyện 26C",
+            "bidCloseDate": "2024-08-07 09:00:00",
+            "id_muasamcong": "12391969-29d4-41a0-973e-005f9c32ab40",
+            "tongmuc_dautu": 2749918000.0,
+            "bidNamePlanNew": "PL2400136854",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2024-07-29 15:32:00",
+            "projectName": null,
+            "bidCloseDate": "2024-08-07 09:00:00",
+            "id_muasamcong": "125c37fe-98da-40cc-8842-21fce2ff138b",
+            "tongmuc_dautu": 1115608000.0,
+            "bidNamePlanNew": "PL2400136873",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2024-06-27 16:45:39",
+            "projectName": null,
+            "bidCloseDate": "2024-07-06 10:00:00",
+            "id_muasamcong": "132d67be-12a3-42e3-9231-0a5002d37e3a",
+            "tongmuc_dautu": 4075483000.0,
+            "bidNamePlanNew": "PL2400116458",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2024-11-01 15:36:47",
+            "projectName": null,
+            "bidCloseDate": "2024-11-11 09:00:00",
+            "id_muasamcong": "1811b348-291a-4555-826a-af480b176bdd",
+            "tongmuc_dautu": 1618000000.0,
+            "bidNamePlanNew": "PL2400249626",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Phòng Kinh tế và Hạ tầng huyện Chợ Gạo.",
+            "createdBy": "vn1201634061",
+            "publicDate": "2024-07-10 08:16:52",
+            "projectName": null,
+            "bidCloseDate": "2024-07-18 08:00:00",
+            "id_muasamcong": "1acd28b9-cd0c-4d5e-adba-58f7585d0a0c",
+            "tongmuc_dautu": 496836000.0,
+            "bidNamePlanNew": "PL2400132462",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 3: Thi công xây dựng",
+            "chudautu": "Phòng Kinh tế và Hạ tầng huyện Chợ Gạo.",
+            "createdBy": "vn1201634061",
+            "publicDate": "2023-06-01 07:21:19",
+            "projectName": null,
+            "bidCloseDate": "2023-06-12 07:00:00",
+            "id_muasamcong": "1e21a47b-6de6-4cd3-b63a-e353d82d5760",
+            "tongmuc_dautu": 1532039000.0,
+            "bidNamePlanNew": "PL2300078747",
+            "dotbien_hatang": "Gói thầu số 3: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2023-11-01 16:45:21",
+            "projectName": null,
+            "bidCloseDate": "2023-11-11 14:30:00",
+            "id_muasamcong": "2470f088-f5d7-48f8-b590-ff0493e45155",
+            "tongmuc_dautu": 1297982000.0,
+            "bidNamePlanNew": "PL2300207889",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Tư vấn giám sát thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân huyện Chợ Gạo",
+            "createdBy": "vnz000013055",
+            "publicDate": "2024-12-27 16:43:33",
+            "projectName": null,
+            "bidCloseDate": "2025-01-14 09:00:00",
+            "id_muasamcong": "280fa8aa-61ea-42e0-8b88-5c13db0a7f52",
+            "tongmuc_dautu": 631979000.0,
+            "bidNamePlanNew": "PL2400318354",
+            "dotbien_hatang": "Tư vấn giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Giám sát thi công xây dựng và lắp đặt thiết bị Dự án Chống quá tải lưới điện phân phối khu vực huyện Chợ Gạo (đợt 2).",
+            "chudautu": "Công ty Điện lực Tiền Giang",
+            "createdBy": "vnz000012993-03",
+            "publicDate": "2024-10-22 16:58:48",
+            "projectName": null,
+            "bidCloseDate": "2024-11-02 10:00:00",
+            "id_muasamcong": "2c15e478-5396-46b5-9524-92194a85e782",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400228749",
+            "dotbien_hatang": "Giám sát thi công xây dựng và lắp đặt thiết bị Dự án Chống quá tải lưới điện phân phối khu vực huyện Chợ Gạo (đợt 2).",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2023-05-05 17:07:21",
+            "projectName": null,
+            "bidCloseDate": "2023-05-15 10:00:00",
+            "id_muasamcong": "2f634037-fe7a-42f1-93d9-87752785d7b1",
+            "tongmuc_dautu": 4010226000.0,
+            "bidNamePlanNew": "PL2300063073",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2023-11-14 10:04:34",
+            "projectName": null,
+            "bidCloseDate": "2023-11-24 09:00:00",
+            "id_muasamcong": "340b8365-21a0-426a-91ee-9ea46bfc8bde",
+            "tongmuc_dautu": 5901891000.0,
+            "bidNamePlanNew": "PL2300219591",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2024-05-29 10:38:36",
+            "projectName": null,
+            "bidCloseDate": "2024-06-05 09:00:00",
+            "id_muasamcong": "36894af6-4127-4f10-b0d4-d2482689ca41",
+            "tongmuc_dautu": 116379000.0,
+            "bidNamePlanNew": "PL2400085254",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "TRƯỜNG THCS XUÂN ĐÔNG",
+            "createdBy": "vn1201634061",
+            "publicDate": "2024-07-06 11:40:02",
+            "projectName": null,
+            "bidCloseDate": "2024-07-15 16:00:00",
+            "id_muasamcong": "372ac3dd-d5ae-48d0-9d3b-ad5f04006b6a",
+            "tongmuc_dautu": 174744000.0,
+            "bidNamePlanNew": "PL2400099644",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2024-05-29 10:37:06",
+            "projectName": null,
+            "bidCloseDate": "2024-06-07 09:00:00",
+            "id_muasamcong": "39f7affc-ba63-4f6c-b49c-7482b0598b84",
+            "tongmuc_dautu": 1550852000.0,
+            "bidNamePlanNew": "PL2400090299",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Sở Giao thông vận tải tỉnh Tiền Giang",
+            "createdBy": "vn0306019199",
+            "publicDate": "2022-12-14 18:56:38",
+            "projectName": null,
+            "bidCloseDate": "2022-12-26 09:00:00",
+            "id_muasamcong": "3b6f84de-5bd9-416d-a04b-a399ee0493e4",
+            "tongmuc_dautu": 6653104000.0,
+            "bidNamePlanNew": "PL2200070312",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055",
+            "publicDate": "2025-03-25 09:52:46",
+            "projectName": null,
+            "bidCloseDate": "2025-04-01 09:00:00",
+            "id_muasamcong": "3b92f97e-b434-4825-93e6-572dd2af1997",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500054985",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2024-04-19 16:23:57",
+            "projectName": null,
+            "bidCloseDate": "2024-04-29 08:00:00",
+            "id_muasamcong": "3d0603ba-59af-44a6-9375-d85995b9a71d",
+            "tongmuc_dautu": 5975998000.0,
+            "bidNamePlanNew": "PL2400059430",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân huyện Chợ Gạo",
+            "createdBy": "vnz000013055",
+            "publicDate": "2025-03-05 16:49:51",
+            "projectName": null,
+            "bidCloseDate": "2025-03-14 09:00:00",
+            "id_muasamcong": "481ebde3-240e-49aa-800d-86bff44fbcf5",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500036389",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2024-07-03 10:00:12",
+            "projectName": null,
+            "bidCloseDate": "2024-07-10 09:00:00",
+            "id_muasamcong": "4aa7fd16-3cc0-43a9-ba6e-f2c9123731e2",
+            "tongmuc_dautu": 1515588000.0,
+            "bidNamePlanNew": "PL2400121718",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và lắp đặt thiết bị  công trình Xây dựng lộ ra trạm 110kV Thanh Bình",
+            "chudautu": "Công ty Điện lực Tiền Giang",
+            "createdBy": "vnz000012993-03",
+            "publicDate": "2023-04-19 14:25:59",
+            "projectName": null,
+            "bidCloseDate": "2023-04-26 15:00:00",
+            "id_muasamcong": "4ff37fc8-b3bc-4832-ae3a-52af7c6af793",
+            "tongmuc_dautu": 7633779396.0,
+            "bidNamePlanNew": "PL2300008393",
+            "dotbien_hatang": "Thi công xây dựng và lắp đặt thiết bị  công trình Xây dựng lộ ra trạm 110kV Thanh Bình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2023-05-24 16:27:12",
+            "projectName": null,
+            "bidCloseDate": "2023-06-03 09:00:00",
+            "id_muasamcong": "5f8df6ff-ded9-4cda-9f86-95b84fd18cf6",
+            "tongmuc_dautu": 2738151000.0,
+            "bidNamePlanNew": "PL2300078119",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2023-05-05 17:06:58",
+            "projectName": null,
+            "bidCloseDate": "2023-05-15 10:00:00",
+            "id_muasamcong": "6086172b-ca58-4a64-9e10-e15238a25b25",
+            "tongmuc_dautu": 6556374000.0,
+            "bidNamePlanNew": "PL2300063075",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2023-05-05 17:14:13",
+            "projectName": null,
+            "bidCloseDate": "2023-05-15 10:00:00",
+            "id_muasamcong": "62ece822-4bf5-4f4e-a73f-8e3a7a94450c",
+            "tongmuc_dautu": 4000000000.0,
+            "bidNamePlanNew": "PL2300063072",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2024-06-07 11:49:10",
+            "projectName": null,
+            "bidCloseDate": "2024-06-17 09:00:00",
+            "id_muasamcong": "635daada-74fa-45d1-b945-0f364805bf36",
+            "tongmuc_dautu": 3636536000.0,
+            "bidNamePlanNew": "PL2400097232",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "ỦY BAN NHÂN DÂN XÃ MỸ TỊNH AN",
+            "createdBy": "vn1201634061",
+            "publicDate": "2024-07-09 21:16:54",
+            "projectName": null,
+            "bidCloseDate": "2024-07-17 08:00:00",
+            "id_muasamcong": "6648cbd8-a9c8-4dfc-a9a8-b7ce261b8412",
+            "tongmuc_dautu": 345265000.0,
+            "bidNamePlanNew": "PL2400128670",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "TRƯỜNG THCS THANH BÌNH",
+            "createdBy": "vn1201634061",
+            "publicDate": "2024-08-25 18:33:54",
+            "projectName": null,
+            "bidCloseDate": "2024-09-02 08:00:00",
+            "id_muasamcong": "6ab02ac5-aaf5-486c-bd96-dfe6e3187c22",
+            "tongmuc_dautu": 245242000.0,
+            "bidNamePlanNew": "PL2400156261",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Phòng Kinh tế và Hạ tầng huyện Chợ Gạo.",
+            "createdBy": "vn1201634061",
+            "publicDate": "2023-04-25 16:55:14",
+            "projectName": null,
+            "bidCloseDate": "2023-05-05 17:00:00",
+            "id_muasamcong": "6b6f9f19-c4c1-4f9f-9c60-f33bc15d097f",
+            "tongmuc_dautu": 1295367000.0,
+            "bidNamePlanNew": "PL2300057875",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055",
+            "publicDate": "2025-01-10 16:22:44",
+            "projectName": null,
+            "bidCloseDate": "2025-01-17 09:00:00",
+            "id_muasamcong": "6c375212-31e0-4c73-acb4-e53d6ea7154c",
+            "tongmuc_dautu": 1939863882.0,
+            "bidNamePlanNew": "PL2500004986",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2024-09-27 14:33:04",
+            "projectName": null,
+            "bidCloseDate": "2024-10-07 09:00:00",
+            "id_muasamcong": "6c58d20a-338c-4c90-9e28-1bd8e6086403",
+            "tongmuc_dautu": 1215368806.0,
+            "bidNamePlanNew": "PL2400213099",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2024-06-27 16:44:26",
+            "projectName": null,
+            "bidCloseDate": "2024-07-06 10:00:00",
+            "id_muasamcong": "6c919eb2-8b08-4dbe-ad9a-1ebfb96bf009",
+            "tongmuc_dautu": 1563373000.0,
+            "bidNamePlanNew": "PL2400120375",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2024-10-04 14:58:32",
+            "projectName": null,
+            "bidCloseDate": "2024-10-14 09:00:00",
+            "id_muasamcong": "74d4a3fd-d257-4151-903f-7ae22f310cd2",
+            "tongmuc_dautu": 1179857000.0,
+            "bidNamePlanNew": "PL2400220720",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân huyện Chợ Gạo",
+            "createdBy": "vnz000013055",
+            "publicDate": "2025-01-21 11:02:23",
+            "projectName": null,
+            "bidCloseDate": "2025-02-17 09:00:00",
+            "id_muasamcong": "764dec80-55f3-48ed-bb50-9d5915e370d3",
+            "tongmuc_dautu": 75655984301.0,
+            "bidNamePlanNew": "PL2500011986",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Tư vấn Giám sát thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "NGÂN HÀNG NÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN VIỆT NAM - CHI NHÁNH TỈNH TIỀN GIANG",
+            "createdBy": "vn0108217791",
+            "publicDate": "2025-03-19 17:11:48",
+            "projectName": null,
+            "bidCloseDate": "2025-03-31 10:00:00",
+            "id_muasamcong": "7a679ecd-22b3-416d-a7e5-3735f93b5e23",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400287119",
+            "dotbien_hatang": "Tư vấn Giám sát thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2024-08-04 10:08:52",
+            "projectName": null,
+            "bidCloseDate": "2024-08-13 09:00:00",
+            "id_muasamcong": "7fae9b5d-6a9f-4b9e-aab2-4382466d9624",
+            "tongmuc_dautu": 1419046000.0,
+            "bidNamePlanNew": "PL2400136868",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2024-09-27 14:31:26",
+            "projectName": null,
+            "bidCloseDate": "2024-10-07 09:00:00",
+            "id_muasamcong": "83a1aa07-849c-4a9c-b69f-c1838f042e44",
+            "tongmuc_dautu": 1366789000.0,
+            "bidNamePlanNew": "PL2400209824",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2024-07-18 11:00:21",
+            "projectName": null,
+            "bidCloseDate": "2024-07-27 09:30:00",
+            "id_muasamcong": "852c197e-82b1-4444-8acd-50e03aaa9f17",
+            "tongmuc_dautu": 1232332000.0,
+            "bidNamePlanNew": "PL2400135354",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055",
+            "publicDate": "2025-01-10 15:48:52",
+            "projectName": null,
+            "bidCloseDate": "2025-01-17 09:00:00",
+            "id_muasamcong": "8f481a35-18dc-415f-ba23-f2a97ea559c3",
+            "tongmuc_dautu": 3246159694.0,
+            "bidNamePlanNew": "PL2500003877",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân huyện Chợ Gạo",
+            "createdBy": "vnz000013055",
+            "publicDate": "2024-12-27 16:42:55",
+            "projectName": null,
+            "bidCloseDate": "2025-01-14 09:00:00",
+            "id_muasamcong": "9235f6bf-1066-4475-8be7-3b5ce101589d",
+            "tongmuc_dautu": 23297292595.0,
+            "bidNamePlanNew": "PL2400318354",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2024-10-01 14:28:01",
+            "projectName": null,
+            "bidCloseDate": "2024-10-10 09:00:00",
+            "id_muasamcong": "954fab90-760e-457d-8f29-c170c91bcf9b",
+            "tongmuc_dautu": 4978430000.0,
+            "bidNamePlanNew": "PL2400210020",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2024-10-08 15:14:31",
+            "projectName": null,
+            "bidCloseDate": "2024-10-17 09:00:00",
+            "id_muasamcong": "9b599ae9-43ef-4af9-915b-aa4c9877c156",
+            "tongmuc_dautu": 2038276000.0,
+            "bidNamePlanNew": "PL2400223673",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2024-10-04 15:00:52",
+            "projectName": null,
+            "bidCloseDate": "2024-10-14 09:00:00",
+            "id_muasamcong": "a1483b76-5ceb-46bf-81b5-1a7d8dfc48a9",
+            "tongmuc_dautu": 1062180742.0,
+            "bidNamePlanNew": "PL2400218734",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "TRƯỜNG THCS ĐĂNG HƯNG PHƯỚC",
+            "createdBy": "vn1201634061",
+            "publicDate": "2024-08-25 19:17:56",
+            "projectName": null,
+            "bidCloseDate": "2024-09-02 08:00:00",
+            "id_muasamcong": "a958efaf-5b14-4c32-982d-ad87ed118240",
+            "tongmuc_dautu": 351322000.0,
+            "bidNamePlanNew": "PL2400157759",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu Thi công xây dựng và lắp đặt thiết bị công trình Cải tạo và phát triển lưới điện khu vực Điện lực Chợ Gạo năm 2022",
+            "chudautu": "Công ty Điện lực Tiền Giang",
+            "createdBy": "vnz000012993-03",
+            "publicDate": "2023-08-10 17:47:35",
+            "projectName": null,
+            "bidCloseDate": "2023-08-22 15:00:00",
+            "id_muasamcong": "b0bd4358-7094-44c0-8b6d-aba6b89981ed",
+            "tongmuc_dautu": 5519862040.0,
+            "bidNamePlanNew": "PL2300127031",
+            "dotbien_hatang": "Gói thầu Thi công xây dựng và lắp đặt thiết bị công trình Cải tạo và phát triển lưới điện khu vực Điện lực Chợ Gạo năm 2022",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2024-09-27 14:32:22",
+            "projectName": null,
+            "bidCloseDate": "2024-10-07 09:00:00",
+            "id_muasamcong": "b461ffae-30e4-4ae8-83e8-ad4d1b4ddc94",
+            "tongmuc_dautu": 1155059000.0,
+            "bidNamePlanNew": "PL2400209964",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2023-09-06 15:02:21",
+            "projectName": null,
+            "bidCloseDate": "2023-09-16 09:00:00",
+            "id_muasamcong": "b534574e-3e5a-4e69-beb8-0cee4d120bca",
+            "tongmuc_dautu": 1316471000.0,
+            "bidNamePlanNew": "PL2300158802",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 4: Thi công xây dựng công trình",
+            "chudautu": "Trường Trung học phổ thông Trần Văn Hoài",
+            "createdBy": "vn1201026401",
+            "publicDate": "2024-10-15 14:06:34",
+            "projectName": null,
+            "bidCloseDate": "2024-10-22 14:00:00",
+            "id_muasamcong": "b5370036-27c8-4e79-b7ca-656518b02fb9",
+            "tongmuc_dautu": 341887000.0,
+            "bidNamePlanNew": "PL2400232059",
+            "dotbien_hatang": "Gói thầu số 4: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2024-04-19 15:18:40",
+            "projectName": null,
+            "bidCloseDate": "2024-04-29 08:00:00",
+            "id_muasamcong": "c1483405-723f-4d59-b8e0-9baaae88c128",
+            "tongmuc_dautu": 1576747000.0,
+            "bidNamePlanNew": "PL2400056833",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2024-06-06 11:41:11",
+            "projectName": null,
+            "bidCloseDate": "2024-06-15 09:00:00",
+            "id_muasamcong": "c1ad5153-e383-4fb8-b561-139b913f2300",
+            "tongmuc_dautu": 1286286000.0,
+            "bidNamePlanNew": "PL2400098732",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2024-06-25 09:54:44",
+            "projectName": null,
+            "bidCloseDate": "2024-07-04 09:00:00",
+            "id_muasamcong": "c5ec66e5-11ea-435a-8a92-625530f86319",
+            "tongmuc_dautu": 412524000.0,
+            "bidNamePlanNew": "PL2400110665",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Phòng Kinh tế và Hạ tầng huyện Chợ Gạo.",
+            "createdBy": "vn1201634061",
+            "publicDate": "2023-04-24 14:59:04",
+            "projectName": null,
+            "bidCloseDate": "2023-05-01 10:10:00",
+            "id_muasamcong": "c626eefb-a609-4e6e-9056-08a85e9eff86",
+            "tongmuc_dautu": 1454500000.0,
+            "bidNamePlanNew": "PL2300050752",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2024-07-29 15:30:20",
+            "projectName": null,
+            "bidCloseDate": "2024-08-07 09:00:00",
+            "id_muasamcong": "c9a19885-8ecb-4fa0-8ddf-560a4460b656",
+            "tongmuc_dautu": 1429133000.0,
+            "bidNamePlanNew": "PL2400136864",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân huyện Chợ Gạo",
+            "createdBy": "vnz000013055",
+            "publicDate": "2025-03-05 16:49:24",
+            "projectName": null,
+            "bidCloseDate": "2025-03-14 09:00:00",
+            "id_muasamcong": "ca84ba9d-9e78-49c2-8fcb-6bc309d02191",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500036337",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2023-12-20 11:09:13",
+            "projectName": null,
+            "bidCloseDate": "2023-12-30 09:00:00",
+            "id_muasamcong": "cc2191f8-5b7f-4322-8b56-4f497991130f",
+            "tongmuc_dautu": 10000000000.0,
+            "bidNamePlanNew": "PL2300251279",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2024-08-04 10:08:15",
+            "projectName": null,
+            "bidCloseDate": "2024-08-13 09:00:00",
+            "id_muasamcong": "d1fcca6e-8856-4fb7-916d-89ad55dc14eb",
+            "tongmuc_dautu": 3100279000.0,
+            "bidNamePlanNew": "PL2400135570",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2024-10-01 14:28:45",
+            "projectName": null,
+            "bidCloseDate": "2024-10-10 09:00:00",
+            "id_muasamcong": "d8338692-b540-4ff0-9485-6f7334cc1de1",
+            "tongmuc_dautu": 3726213000.0,
+            "bidNamePlanNew": "PL2400210090",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và lắp đặt thiết bị công trìnhChống quá tải lưới điện phân phối khu vực huyện Chợ Gạo (đợt 2)",
+            "chudautu": "Công ty Điện lực Tiền Giang",
+            "createdBy": "vnz000012993-03",
+            "publicDate": "2024-10-03 08:16:02",
+            "projectName": null,
+            "bidCloseDate": "2024-10-14 14:00:00",
+            "id_muasamcong": "da593660-1003-4663-88db-74c23fd6737d",
+            "tongmuc_dautu": 3147415121.0,
+            "bidNamePlanNew": "PL2400212726",
+            "dotbien_hatang": "Thi công xây dựng và lắp đặt thiết bị công trìnhChống quá tải lưới điện phân phối khu vực huyện Chợ Gạo (đợt 2)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân huyện Chợ Gạo",
+            "createdBy": "vnz000013055",
+            "publicDate": "2025-03-05 16:48:51",
+            "projectName": null,
+            "bidCloseDate": "2025-03-14 09:00:00",
+            "id_muasamcong": "ded512db-f4d2-442a-8970-a0be0e3d0056",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500036252",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2024-05-30 17:55:55",
+            "projectName": null,
+            "bidCloseDate": "2024-06-08 08:00:00",
+            "id_muasamcong": "dff766ea-4963-4dc5-856d-48b6f8ec5cab",
+            "tongmuc_dautu": 1137971000.0,
+            "bidNamePlanNew": "PL2400093517",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2023-03-17 16:33:16",
+            "projectName": "Liên danh Thừa Bảo",
+            "bidCloseDate": "2023-03-27 16:45:00",
+            "id_muasamcong": "e24ee1ee-226c-4205-a611-4b6aee847055",
+            "tongmuc_dautu": 3887756000.0,
+            "bidNamePlanNew": "PL2300030513",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2023-06-14 14:36:24",
+            "projectName": null,
+            "bidCloseDate": "2023-06-24 09:00:00",
+            "id_muasamcong": "e2aafcfc-39d8-4212-a578-6f198a279b34",
+            "tongmuc_dautu": 1061749000.0,
+            "bidNamePlanNew": "PL2300094536",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2023-10-12 10:49:34",
+            "projectName": null,
+            "bidCloseDate": "2023-11-01 08:00:00",
+            "id_muasamcong": "e3a22f7a-a391-4077-b1d9-cd640c21147b",
+            "tongmuc_dautu": 29750761000.0,
+            "bidNamePlanNew": "PL2300186885",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2024-07-17 15:33:19",
+            "projectName": null,
+            "bidCloseDate": "2024-07-27 09:30:00",
+            "id_muasamcong": "e3b9991a-b398-46ac-94df-e1f741ef3eab",
+            "tongmuc_dautu": 973798000.0,
+            "bidNamePlanNew": "PL2400135398",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 2: Thi công xây dựng",
+            "chudautu": "Sở Văn hóa, Thể thao và Du lịch tỉnh Tiền Giang",
+            "createdBy": "vn1201545245",
+            "publicDate": "2022-10-11 15:24:20",
+            "projectName": null,
+            "bidCloseDate": "2022-10-19 09:00:00",
+            "id_muasamcong": "e55b171e-53b3-4c7e-a691-1d82eeb566e1",
+            "tongmuc_dautu": 8807034267.0,
+            "bidNamePlanNew": "PL2200005281",
+            "dotbien_hatang": "Gói thầu số 2: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Phòng Kinh tế và Hạ tầng huyện Chợ Gạo.",
+            "createdBy": "vn1201634061",
+            "publicDate": "2024-05-12 13:31:00",
+            "projectName": null,
+            "bidCloseDate": "2024-05-20 11:00:00",
+            "id_muasamcong": "e7f673dd-cd85-4f8a-85c1-286d44e67cdb",
+            "tongmuc_dautu": 1162332000.0,
+            "bidNamePlanNew": "PL2400077360",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055",
+            "publicDate": "2025-03-25 09:52:21",
+            "projectName": null,
+            "bidCloseDate": "2025-04-01 09:00:00",
+            "id_muasamcong": "ea781e94-e606-41b1-90e2-f5700e82c8c0",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500055023",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2023-05-24 16:26:10",
+            "projectName": null,
+            "bidCloseDate": "2023-06-03 09:00:00",
+            "id_muasamcong": "eb610862-7de8-43fe-8653-99b5dfbc7e72",
+            "tongmuc_dautu": 2366456000.0,
+            "bidNamePlanNew": "PL2300078098",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2024-08-22 16:10:04",
+            "projectName": null,
+            "bidCloseDate": "2024-08-31 09:00:00",
+            "id_muasamcong": "f4f298b4-d46d-49e4-96f3-1f423a000818",
+            "tongmuc_dautu": 5001404000.0,
+            "bidNamePlanNew": "PL2400173280",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Kế hoạch lựa chọn nhà thầu: Gói thầu Cung cấp vật tư và thi công xây dựng công trình: Sửa chữa đường dây trung hạ thế khu vực Điện lực Chợ Gạo năm 2023",
+            "chudautu": "Công ty Điện lực Tiền Giang",
+            "createdBy": "vnz000012993-06",
+            "publicDate": "2023-04-07 14:52:04",
+            "projectName": null,
+            "bidCloseDate": "2023-04-19 10:30:00",
+            "id_muasamcong": "f6e758ff-cdb1-4357-86f7-e35247ddc31f",
+            "tongmuc_dautu": 1513095543.0,
+            "bidNamePlanNew": "PL2300034990",
+            "dotbien_hatang": "Kế hoạch lựa chọn nhà thầu: Gói thầu Cung cấp vật tư và thi công xây dựng công trình: Sửa chữa đường dây trung hạ thế khu vực Điện lực Chợ Gạo năm 2023",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2024-07-19 16:38:35",
+            "projectName": null,
+            "bidCloseDate": "2024-07-29 08:00:00",
+            "id_muasamcong": "f82adc61-049d-4e79-9b9d-64817aba7a73",
+            "tongmuc_dautu": 2699000000.0,
+            "bidNamePlanNew": "PL2400139799",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2024-07-18 11:02:57",
+            "projectName": null,
+            "bidCloseDate": "2024-07-27 09:30:00",
+            "id_muasamcong": "f88c6ec5-5b23-4107-b2f8-b888b65905b6",
+            "tongmuc_dautu": 2704078000.0,
+            "bidNamePlanNew": "PL2400135520",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án và phát triển quỹ đất huyện Chợ Gạo",
+            "createdBy": "vnz000013055-01",
+            "publicDate": "2024-04-19 15:19:43",
+            "projectName": null,
+            "bidCloseDate": "2024-04-29 09:00:00",
+            "id_muasamcong": "fd6807a9-aae3-4e82-b2db-3a054bffd86d",
+            "tongmuc_dautu": 570277000.0,
+            "bidNamePlanNew": "PL2400056832",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        }
+    ],
+    "so_dot_bien": 73,
+    "thu_tu_sap_xep": 256,
+    "polygon": [
+        [
+            [
+                106.417368,
+                10.48744
+            ],
+            [
+                106.417549,
+                10.482399
+            ],
+            [
+                106.41836,
+                10.481656
+            ],
+            [
+                106.420456,
+                10.479967
+            ],
+            [
+                106.423223,
+                10.479793
+            ],
+            [
+                106.424393,
+                10.478725
+            ],
+            [
+                106.427396,
+                10.47603
+            ],
+            [
+                106.432234,
+                10.472719
+            ],
+            [
+                106.436433,
+                10.469083
+            ],
+            [
+                106.438162,
+                10.467456
+            ],
+            [
+                106.439562,
+                10.466362
+            ],
+            [
+                106.440578,
+                10.465042
+            ],
+            [
+                106.441085,
+                10.46423
+            ],
+            [
+                106.441538,
+                10.462659
+            ],
+            [
+                106.441476,
+                10.460332
+            ],
+            [
+                106.440959,
+                10.459019
+            ],
+            [
+                106.441109,
+                10.45831
+            ],
+            [
+                106.442281,
+                10.457596
+            ],
+            [
+                106.447378,
+                10.455094
+            ],
+            [
+                106.450665,
+                10.453384
+            ],
+            [
+                106.452857,
+                10.45216
+            ],
+            [
+                106.453568,
+                10.451296
+            ],
+            [
+                106.45382,
+                10.450536
+            ],
+            [
+                106.453412,
+                10.450046
+            ],
+            [
+                106.452468,
+                10.45005
+            ],
+            [
+                106.449027,
+                10.450726
+            ],
+            [
+                106.447444,
+                10.450706
+            ],
+            [
+                106.4432,
+                10.445994
+            ],
+            [
+                106.442253,
+                10.445283
+            ],
+            [
+                106.440253,
+                10.445402
+            ],
+            [
+                106.439585,
+                10.44502
+            ],
+            [
+                106.437344,
+                10.440904
+            ],
+            [
+                106.434753,
+                10.439127
+            ],
+            [
+                106.430577,
+                10.436945
+            ],
+            [
+                106.42952,
+                10.436565
+            ],
+            [
+                106.428145,
+                10.432988
+            ],
+            [
+                106.420475,
+                10.434196
+            ],
+            [
+                106.415741,
+                10.43475
+            ],
+            [
+                106.415149,
+                10.434126
+            ],
+            [
+                106.414081,
+                10.43116
+            ],
+            [
+                106.414298,
+                10.430113
+            ],
+            [
+                106.41857,
+                10.428939
+            ],
+            [
+                106.421063,
+                10.427498
+            ],
+            [
+                106.420649,
+                10.421998
+            ],
+            [
+                106.422633,
+                10.418578
+            ],
+            [
+                106.424401,
+                10.416535
+            ],
+            [
+                106.426528,
+                10.413857
+            ],
+            [
+                106.425851,
+                10.411494
+            ],
+            [
+                106.428624,
+                10.410712
+            ],
+            [
+                106.431032,
+                10.414882
+            ],
+            [
+                106.439518,
+                10.412258
+            ],
+            [
+                106.439963,
+                10.412477
+            ],
+            [
+                106.440862,
+                10.414783
+            ],
+            [
+                106.443527,
+                10.414551
+            ],
+            [
+                106.445523,
+                10.413717
+            ],
+            [
+                106.44829,
+                10.411449
+            ],
+            [
+                106.449067,
+                10.41139
+            ],
+            [
+                106.452379,
+                10.413011
+            ],
+            [
+                106.452951,
+                10.41223
+            ],
+            [
+                106.453862,
+                10.411215
+            ],
+            [
+                106.455633,
+                10.409393
+            ],
+            [
+                106.457507,
+                10.407207
+            ],
+            [
+                106.45855,
+                10.406321
+            ],
+            [
+                106.459647,
+                10.405849
+            ],
+            [
+                106.460378,
+                10.405483
+            ],
+            [
+                106.460847,
+                10.405014
+            ],
+            [
+                106.455077,
+                10.401845
+            ],
+            [
+                106.448534,
+                10.404241
+            ],
+            [
+                106.44781,
+                10.403749
+            ],
+            [
+                106.447246,
+                10.401991
+            ],
+            [
+                106.447956,
+                10.399347
+            ],
+            [
+                106.449063,
+                10.398407
+            ],
+            [
+                106.454341,
+                10.398768
+            ],
+            [
+                106.454835,
+                10.397445
+            ],
+            [
+                106.455772,
+                10.396066
+            ],
+            [
+                106.456992,
+                10.39562
+            ],
+            [
+                106.459209,
+                10.396183
+            ],
+            [
+                106.461261,
+                10.398455
+            ],
+            [
+                106.461947,
+                10.399644
+            ],
+            [
+                106.466718,
+                10.396896
+            ],
+            [
+                106.468271,
+                10.396614
+            ],
+            [
+                106.47312,
+                10.398805
+            ],
+            [
+                106.475591,
+                10.398263
+            ],
+            [
+                106.477057,
+                10.397938
+            ],
+            [
+                106.478094,
+                10.39765
+            ],
+            [
+                106.479166,
+                10.397255
+            ],
+            [
+                106.479666,
+                10.397112
+            ],
+            [
+                106.480203,
+                10.397144
+            ],
+            [
+                106.480311,
+                10.397215
+            ],
+            [
+                106.48051,
+                10.39765
+            ],
+            [
+                106.48099,
+                10.400867
+            ],
+            [
+                106.481506,
+                10.403907
+            ],
+            [
+                106.48158,
+                10.404544
+            ],
+            [
+                106.481725,
+                10.404861
+            ],
+            [
+                106.481905,
+                10.405002
+            ],
+            [
+                106.482073,
+                10.405002
+            ],
+            [
+                106.482503,
+                10.40471
+            ],
+            [
+                106.482853,
+                10.404468
+            ],
+            [
+                106.483875,
+                10.403796
+            ],
+            [
+                106.484575,
+                10.403446
+            ],
+            [
+                106.485411,
+                10.403362
+            ],
+            [
+                106.485654,
+                10.403361
+            ],
+            [
+                106.485897,
+                10.403413
+            ],
+            [
+                106.486141,
+                10.403599
+            ],
+            [
+                106.486304,
+                10.403838
+            ],
+            [
+                106.486331,
+                10.403998
+            ],
+            [
+                106.486214,
+                10.406404
+            ],
+            [
+                106.486171,
+                10.407082
+            ],
+            [
+                106.486144,
+                10.407269
+            ],
+            [
+                106.486119,
+                10.407563
+            ],
+            [
+                106.486175,
+                10.407989
+            ],
+            [
+                106.486284,
+                10.408176
+            ],
+            [
+                106.486474,
+                10.408388
+            ],
+            [
+                106.488748,
+                10.410086
+            ],
+            [
+                106.492609,
+                10.413384
+            ],
+            [
+                106.492745,
+                10.413544
+            ],
+            [
+                106.493179,
+                10.413915
+            ],
+            [
+                106.496606,
+                10.416457
+            ],
+            [
+                106.501029,
+                10.4191
+            ],
+            [
+                106.505856,
+                10.421462
+            ],
+            [
+                106.507522,
+                10.422688
+            ],
+            [
+                106.508275,
+                10.423836
+            ],
+            [
+                106.509286,
+                10.426956
+            ],
+            [
+                106.510165,
+                10.428268
+            ],
+            [
+                106.510499,
+                10.42876
+            ],
+            [
+                106.511081,
+                10.428921
+            ],
+            [
+                106.512161,
+                10.428998
+            ],
+            [
+                106.512989,
+                10.428501
+            ],
+            [
+                106.514145,
+                10.427262
+            ],
+            [
+                106.514804,
+                10.426108
+            ],
+            [
+                106.516211,
+                10.425279
+            ],
+            [
+                106.518118,
+                10.424694
+            ],
+            [
+                106.518782,
+                10.424609
+            ],
+            [
+                106.519309,
+                10.425169
+            ],
+            [
+                106.51902,
+                10.420609
+            ],
+            [
+                106.521466,
+                10.420675
+            ],
+            [
+                106.527751,
+                10.415332
+            ],
+            [
+                106.523396,
+                10.411993
+            ],
+            [
+                106.522914,
+                10.410276
+            ],
+            [
+                106.523698,
+                10.409335
+            ],
+            [
+                106.526141,
+                10.408698
+            ],
+            [
+                106.530645,
+                10.410239
+            ],
+            [
+                106.533799,
+                10.409911
+            ],
+            [
+                106.536317,
+                10.408727
+            ],
+            [
+                106.53893,
+                10.41059
+            ],
+            [
+                106.541071,
+                10.412846
+            ],
+            [
+                106.545879,
+                10.412119
+            ],
+            [
+                106.548224,
+                10.407576
+            ],
+            [
+                106.548684,
+                10.404917
+            ],
+            [
+                106.550307,
+                10.398472
+            ],
+            [
+                106.545371,
+                10.395857
+            ],
+            [
+                106.541888,
+                10.393475
+            ],
+            [
+                106.53902,
+                10.381432
+            ],
+            [
+                106.538089,
+                10.375993
+            ],
+            [
+                106.534055,
+                10.376082
+            ],
+            [
+                106.533011,
+                10.37588
+            ],
+            [
+                106.532781,
+                10.371471
+            ],
+            [
+                106.528257,
+                10.370804
+            ],
+            [
+                106.527617,
+                10.367913
+            ],
+            [
+                106.519116,
+                10.364853
+            ],
+            [
+                106.51521,
+                10.362459
+            ],
+            [
+                106.516214,
+                10.354393
+            ],
+            [
+                106.521293,
+                10.354782
+            ],
+            [
+                106.521897,
+                10.350163
+            ],
+            [
+                106.525722,
+                10.350076
+            ],
+            [
+                106.526187,
+                10.345595
+            ],
+            [
+                106.522908,
+                10.343406
+            ],
+            [
+                106.520876,
+                10.340384
+            ],
+            [
+                106.521558,
+                10.337556
+            ],
+            [
+                106.524605,
+                10.334854
+            ],
+            [
+                106.525395,
+                10.32768
+            ],
+            [
+                106.531209,
+                10.329326
+            ],
+            [
+                106.536819,
+                10.332332
+            ],
+            [
+                106.54069,
+                10.336079
+            ],
+            [
+                106.541176,
+                10.336492
+            ],
+            [
+                106.542959,
+                10.333595
+            ],
+            [
+                106.543785,
+                10.331731
+            ],
+            [
+                106.551172,
+                10.331368
+            ],
+            [
+                106.552446,
+                10.328778
+            ],
+            [
+                106.547523,
+                10.324599
+            ],
+            [
+                106.546155,
+                10.322125
+            ],
+            [
+                106.548445,
+                10.321287
+            ],
+            [
+                106.553137,
+                10.320748
+            ],
+            [
+                106.551006,
+                10.316071
+            ],
+            [
+                106.549763,
+                10.313235
+            ],
+            [
+                106.548851,
+                10.311129
+            ],
+            [
+                106.548682,
+                10.310155
+            ],
+            [
+                106.549489,
+                10.307553
+            ],
+            [
+                106.549484,
+                10.306579
+            ],
+            [
+                106.549153,
+                10.305931
+            ],
+            [
+                106.547593,
+                10.305126
+            ],
+            [
+                106.547095,
+                10.303992
+            ],
+            [
+                106.546675,
+                10.30172
+            ],
+            [
+                106.546425,
+                10.300909
+            ],
+            [
+                106.545478,
+                10.29994
+            ],
+            [
+                106.543614,
+                10.297856
+            ],
+            [
+                106.543544,
+                10.297891
+            ],
+            [
+                106.534994,
+                10.301784
+            ],
+            [
+                106.523247,
+                10.305018
+            ],
+            [
+                106.510304,
+                10.306492
+            ],
+            [
+                106.499378,
+                10.307484
+            ],
+            [
+                106.490352,
+                10.30835
+            ],
+            [
+                106.483459,
+                10.308029
+            ],
+            [
+                106.479774,
+                10.307575
+            ],
+            [
+                106.475631,
+                10.306088
+            ],
+            [
+                106.474174,
+                10.306776
+            ],
+            [
+                106.471266,
+                10.307221
+            ],
+            [
+                106.462243,
+                10.307118
+            ],
+            [
+                106.453219,
+                10.306726
+            ],
+            [
+                106.448999,
+                10.306745
+            ],
+            [
+                106.446527,
+                10.307189
+            ],
+            [
+                106.426863,
+                10.319172
+            ],
+            [
+                106.406545,
+                10.33195
+            ],
+            [
+                106.399576,
+                10.335729
+            ],
+            [
+                106.398311,
+                10.336117
+            ],
+            [
+                106.401892,
+                10.339832
+            ],
+            [
+                106.407648,
+                10.342404
+            ],
+            [
+                106.410423,
+                10.343518
+            ],
+            [
+                106.412076,
+                10.343818
+            ],
+            [
+                106.415327,
+                10.343906
+            ],
+            [
+                106.416871,
+                10.343797
+            ],
+            [
+                106.418893,
+                10.343225
+            ],
+            [
+                106.421448,
+                10.34265
+            ],
+            [
+                106.424003,
+                10.342281
+            ],
+            [
+                106.427411,
+                10.341907
+            ],
+            [
+                106.430824,
+                10.341993
+            ],
+            [
+                106.430553,
+                10.345192
+            ],
+            [
+                106.426671,
+                10.345673
+            ],
+            [
+                106.42652,
+                10.346753
+            ],
+            [
+                106.422016,
+                10.346928
+            ],
+            [
+                106.422391,
+                10.360957
+            ],
+            [
+                106.426944,
+                10.361548
+            ],
+            [
+                106.431717,
+                10.362226
+            ],
+            [
+                106.431737,
+                10.36648
+            ],
+            [
+                106.432369,
+                10.368946
+            ],
+            [
+                106.432842,
+                10.370332
+            ],
+            [
+                106.432537,
+                10.371568
+            ],
+            [
+                106.428972,
+                10.37359
+            ],
+            [
+                106.426811,
+                10.376531
+            ],
+            [
+                106.422336,
+                10.385829
+            ],
+            [
+                106.422782,
+                10.386066
+            ],
+            [
+                106.42313,
+                10.386117
+            ],
+            [
+                106.425949,
+                10.386732
+            ],
+            [
+                106.428446,
+                10.387077
+            ],
+            [
+                106.427648,
+                10.389796
+            ],
+            [
+                106.425092,
+                10.392303
+            ],
+            [
+                106.421393,
+                10.393494
+            ],
+            [
+                106.420601,
+                10.392793
+            ],
+            [
+                106.420043,
+                10.391308
+            ],
+            [
+                106.41941,
+                10.390763
+            ],
+            [
+                106.418548,
+                10.392097
+            ],
+            [
+                106.417054,
+                10.392808
+            ],
+            [
+                106.414924,
+                10.392505
+            ],
+            [
+                106.413264,
+                10.391494
+            ],
+            [
+                106.413105,
+                10.39126
+            ],
+            [
+                106.41326,
+                10.390633
+            ],
+            [
+                106.41523,
+                10.39039
+            ],
+            [
+                106.416725,
+                10.389757
+            ],
+            [
+                106.417037,
+                10.389129
+            ],
+            [
+                106.416325,
+                10.388428
+            ],
+            [
+                106.414272,
+                10.387811
+            ],
+            [
+                106.412618,
+                10.387974
+            ],
+            [
+                106.411437,
+                10.388371
+            ],
+            [
+                106.409721,
+                10.386927
+            ],
+            [
+                106.405211,
+                10.389048
+            ],
+            [
+                106.404542,
+                10.391747
+            ],
+            [
+                106.40196,
+                10.401195
+            ],
+            [
+                106.401184,
+                10.40168
+            ],
+            [
+                106.398152,
+                10.397553
+            ],
+            [
+                106.395329,
+                10.396699
+            ],
+            [
+                106.39076,
+                10.396622
+            ],
+            [
+                106.388045,
+                10.398175
+            ],
+            [
+                106.384665,
+                10.403389
+            ],
+            [
+                106.385186,
+                10.406256
+            ],
+            [
+                106.385302,
+                10.407494
+            ],
+            [
+                106.380159,
+                10.405967
+            ],
+            [
+                106.379792,
+                10.408324
+            ],
+            [
+                106.363381,
+                10.403293
+            ],
+            [
+                106.364397,
+                10.401388
+            ],
+            [
+                106.362848,
+                10.400913
+            ],
+            [
+                106.3596,
+                10.400253
+            ],
+            [
+                106.358394,
+                10.399792
+            ],
+            [
+                106.357239,
+                10.398915
+            ],
+            [
+                106.355087,
+                10.397473
+            ],
+            [
+                106.353776,
+                10.396908
+            ],
+            [
+                106.353344,
+                10.396935
+            ],
+            [
+                106.352887,
+                10.396964
+            ],
+            [
+                106.351896,
+                10.397745
+            ],
+            [
+                106.351482,
+                10.398888
+            ],
+            [
+                106.350337,
+                10.4005
+            ],
+            [
+                106.348852,
+                10.401932
+            ],
+            [
+                106.346395,
+                10.40272
+            ],
+            [
+                106.345453,
+                10.402724
+            ],
+            [
+                106.346127,
+                10.408725
+            ],
+            [
+                106.346544,
+                10.410444
+            ],
+            [
+                106.34859,
+                10.413365
+            ],
+            [
+                106.348805,
+                10.413672
+            ],
+            [
+                106.350449,
+                10.415841
+            ],
+            [
+                106.351778,
+                10.418688
+            ],
+            [
+                106.352099,
+                10.419376
+            ],
+            [
+                106.349798,
+                10.420359
+            ],
+            [
+                106.350068,
+                10.421606
+            ],
+            [
+                106.351933,
+                10.42311
+            ],
+            [
+                106.352868,
+                10.424486
+            ],
+            [
+                106.352479,
+                10.426591
+            ],
+            [
+                106.350169,
+                10.429559
+            ],
+            [
+                106.34785,
+                10.430423
+            ],
+            [
+                106.346145,
+                10.435228
+            ],
+            [
+                106.345932,
+                10.436997
+            ],
+            [
+                106.346571,
+                10.437526
+            ],
+            [
+                106.347752,
+                10.439039
+            ],
+            [
+                106.348086,
+                10.439698
+            ],
+            [
+                106.347117,
+                10.441914
+            ],
+            [
+                106.346003,
+                10.44259
+            ],
+            [
+                106.346038,
+                10.443026
+            ],
+            [
+                106.346277,
+                10.443494
+            ],
+            [
+                106.347744,
+                10.449743
+            ],
+            [
+                106.346665,
+                10.450955
+            ],
+            [
+                106.346739,
+                10.452364
+            ],
+            [
+                106.347554,
+                10.452897
+            ],
+            [
+                106.349853,
+                10.452015
+            ],
+            [
+                106.356157,
+                10.452995
+            ],
+            [
+                106.357857,
+                10.454664
+            ],
+            [
+                106.360635,
+                10.45472
+            ],
+            [
+                106.364298,
+                10.455979
+            ],
+            [
+                106.36804,
+                10.459786
+            ],
+            [
+                106.370461,
+                10.471314
+            ],
+            [
+                106.371895,
+                10.473856
+            ],
+            [
+                106.383411,
+                10.473941
+            ],
+            [
+                106.387268,
+                10.472985
+            ],
+            [
+                106.389442,
+                10.473788
+            ],
+            [
+                106.389555,
+                10.47586
+            ],
+            [
+                106.389637,
+                10.477355
+            ],
+            [
+                106.389771,
+                10.477756
+            ],
+            [
+                106.392357,
+                10.477852
+            ],
+            [
+                106.392359,
+                10.477857
+            ],
+            [
+                106.393129,
+                10.477887
+            ],
+            [
+                106.39629,
+                10.485954
+            ],
+            [
+                106.397104,
+                10.48595
+            ],
+            [
+                106.40014,
+                10.48496
+            ],
+            [
+                106.403518,
+                10.493516
+            ],
+            [
+                106.409785,
+                10.491304
+            ],
+            [
+                106.414083,
+                10.489679
+            ],
+            [
+                106.415002,
+                10.489332
+            ],
+            [
+                106.416627,
+                10.488519
+            ],
+            [
+                106.417167,
+                10.488046
+            ],
+            [
+                106.417368,
+                10.48744
+            ]
+        ]
+    ]
+}

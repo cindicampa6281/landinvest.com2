@@ -1,0 +1,4315 @@
+{
+    "id_district": "117",
+    "id_province": 28,
+    "name_province": "Hòa Bình",
+    "name_district": "Huyện Lương Sơn",
+    "list_sukien": [
+        {
+            "bidName": "Gói 1: Thi công xây dựng công trình",
+            "chudautu": "UBND xã Lâm sơn",
+            "createdBy": "vn5400189905",
+            "publicDate": "2024-08-09 15:19:17",
+            "projectName": null,
+            "bidCloseDate": "2024-08-18 15:30:00",
+            "id_muasamcong": "023a0aff-5ff1-4ab7-9ec2-53a22f3d1276",
+            "tongmuc_dautu": 2984085000.0,
+            "bidNamePlanNew": "PL2400162785",
+            "dotbien_hatang": "Gói 1: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Tư vấn giám sát thi công xây dựng",
+            "chudautu": "Công ty Điện lực Hòa Bình - Chi nhánh Tổng công ty Điện lực miền Bắc",
+            "createdBy": "vnz000012015-05",
+            "publicDate": "2022-10-22 09:32:41",
+            "projectName": null,
+            "bidCloseDate": "2022-11-12 04:00:00",
+            "id_muasamcong": "038afc16-1170-46d2-aaa3-9b8b7bb2ecc3",
+            "tongmuc_dautu": 128205000.0,
+            "bidNamePlanNew": "PL2200021518",
+            "dotbien_hatang": "Tư vấn giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 1: Thi công xây dựng công trình",
+            "chudautu": "Ủy ban nhân dân Thị trấn Lương Sơn",
+            "createdBy": "vnz000031153",
+            "publicDate": "2025-03-21 02:47:39",
+            "projectName": null,
+            "bidCloseDate": "2025-03-28 18:30:00",
+            "id_muasamcong": "04488d4d-e1d4-4992-b3d7-3ea60cc3d645",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500047382",
+            "dotbien_hatang": "Gói 1: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 1: Thi công xây dựng công trình",
+            "chudautu": "Ủy ban nhân dân xã Cư Yên",
+            "createdBy": "vn5400189775",
+            "publicDate": "2024-10-31 09:55:14",
+            "projectName": null,
+            "bidCloseDate": "2024-11-07 15:00:00",
+            "id_muasamcong": "0462383b-935e-4a7d-bd19-b276c453e28d",
+            "tongmuc_dautu": 1450946000.0,
+            "bidNamePlanNew": "PL2400229606",
+            "dotbien_hatang": "Gói 1: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lương Sơn",
+            "createdBy": "vn5400462488",
+            "publicDate": "2022-11-27 10:55:39",
+            "projectName": "Liên danh Công ty TNHH Anh Tú và Công ty TNHH Đại Doanh",
+            "bidCloseDate": "2022-12-07 15:30:00",
+            "id_muasamcong": "07897091-1696-4a36-8379-75d08afac986",
+            "tongmuc_dautu": 10880187000.0,
+            "bidNamePlanNew": "PL2200051178",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng hạng mục SCL: ĐZ 471 và 473 T/C Vôi, thay thế FCO vận hành lâu năm không đảm bảo an toàn; thay thế tủ hạ thế cũ nát, rỉ mọt - Huyện Lương Sơn (năm 2024BS)",
+            "chudautu": "Công ty Điện lực Hòa Bình - Chi nhánh Tổng công ty Điện lực miền Bắc",
+            "createdBy": "vnz000012015-03",
+            "publicDate": "2024-09-18 14:39:57",
+            "projectName": null,
+            "bidCloseDate": "2024-09-27 15:00:00",
+            "id_muasamcong": "091c0e5f-bc0e-4b8c-81cb-28944acfb8af",
+            "tongmuc_dautu": 3620354234.0,
+            "bidNamePlanNew": "PL2400172666",
+            "dotbien_hatang": "Thi công xây dựng hạng mục SCL: ĐZ 471 và 473 T/C Vôi, thay thế FCO vận hành lâu năm không đảm bảo an toàn; thay thế tủ hạ thế cũ nát, rỉ mọt - Huyện Lương Sơn (năm 2024BS)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và lắp đặt thiết bị hạng mục công trình",
+            "chudautu": "Trung tâm Phát triển Quỹ đất huyện Lương Sơn, tỉnh Hòa Bình",
+            "createdBy": "vn5400428991",
+            "publicDate": "2023-06-02 14:12:41",
+            "projectName": null,
+            "bidCloseDate": "2023-06-07 11:00:00",
+            "id_muasamcong": "0b23b8f5-9496-405c-a1ce-646f9ae550bf",
+            "tongmuc_dautu": 1151916000.0,
+            "bidNamePlanNew": "PL2300051148",
+            "dotbien_hatang": "Thi công xây dựng và lắp đặt thiết bị hạng mục công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Tư vấn giám sát thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lương Sơn",
+            "createdBy": "vn5400462488",
+            "publicDate": "2024-10-07 17:53:33",
+            "projectName": null,
+            "bidCloseDate": "2024-10-25 16:00:00",
+            "id_muasamcong": "0d898092-3d3a-482f-8d2a-ce6d5848c169",
+            "tongmuc_dautu": 661441000.0,
+            "bidNamePlanNew": "PL2400133559",
+            "dotbien_hatang": "Tư vấn giám sát thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Phòng Giáo dục và Đào tạo Lương Sơn",
+            "createdBy": "vn5400320606",
+            "publicDate": "2023-10-04 10:41:36",
+            "projectName": "Liên danh Công ty An Trung và Công ty TNHH MTV thương mại và xây dựng Thịnh Cường",
+            "bidCloseDate": "2023-10-12 15:15:00",
+            "id_muasamcong": "0da647bf-c771-41d5-b7c4-438038fec8e4",
+            "tongmuc_dautu": 4202208000.0,
+            "bidNamePlanNew": "PL2300125809",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 1: Thi công xây dựng công trìnhXây dựng nhà lớp học Trường mầm non Cao Thắng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lương Sơn",
+            "createdBy": "vn5400462488",
+            "publicDate": "2023-10-22 07:25:24",
+            "projectName": "Liên danh Công ty TNHH Tuấn Dũng và Công ty TNHH Phòng cháy chữa cháy và cứu nạn cứu hộ toàn cầu",
+            "bidCloseDate": "2023-11-01 10:00:00",
+            "id_muasamcong": "0f9bdba4-4c43-4e75-a0d1-f090c0c2eb3a",
+            "tongmuc_dautu": 32040926000.0,
+            "bidNamePlanNew": "PL2300178705",
+            "dotbien_hatang": "Gói 1: Thi công xây dựng công trìnhXây dựng nhà lớp học Trường mầm non Cao Thắng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 1: Thi công xây dựng công trình và đảm bảo an toàn giao thông",
+            "chudautu": "Phòng Quản lý đô thị huyện Lương Sơn",
+            "createdBy": "vn5400528876",
+            "publicDate": "2024-08-16 17:50:48",
+            "projectName": "Liên danh Công ty TNHH thương mại xây dựng Ngọc Truyền và Công ty cổ phần Bình Nam",
+            "bidCloseDate": "2024-08-26 09:00:00",
+            "id_muasamcong": "110104a8-531c-485c-abbe-76b3e6015acc",
+            "tongmuc_dautu": 8032881000.0,
+            "bidNamePlanNew": "PL2400139163",
+            "dotbien_hatang": "Gói 1: Thi công xây dựng công trình và đảm bảo an toàn giao thông",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Sửa chữa, nâng cấp nhà bia liệt sỹ xã Thanh Cao, huyện Lương Sơn.",
+            "chudautu": "Phòng Lao động Thương binh và Xã hội huyện Lương Sơn",
+            "createdBy": "vn5400320589",
+            "publicDate": "2023-02-27 17:05:32",
+            "projectName": "\nLiên danh Công ty TNHH xây dựng và thương mại HBC Long Sơn và Công ty TNHH xây dựng Trường Sơn CP",
+            "bidCloseDate": "2023-03-10 17:15:00",
+            "id_muasamcong": "111a84c8-fce4-4b13-9276-2edcc12e9bec",
+            "tongmuc_dautu": 1609035000.0,
+            "bidNamePlanNew": "PL2300021693",
+            "dotbien_hatang": "Thi công xây dựng công trình: Sửa chữa, nâng cấp nhà bia liệt sỹ xã Thanh Cao, huyện Lương Sơn.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lương Sơn",
+            "createdBy": "vn5400462488",
+            "publicDate": "2024-07-24 16:08:40",
+            "projectName": null,
+            "bidCloseDate": "2024-08-02 08:30:00",
+            "id_muasamcong": "1359e9b4-7b1a-4705-9b66-7703b45c3906",
+            "tongmuc_dautu": 4718876000.0,
+            "bidNamePlanNew": "PL2400128399",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 1: Thi công xây dựng và lắp đặt thiết bị công trình",
+            "chudautu": "Phòng Quản lý đô thị huyện Lương Sơn",
+            "createdBy": "vn5400528876",
+            "publicDate": "2024-06-19 16:46:06",
+            "projectName": null,
+            "bidCloseDate": "2024-07-05 16:30:00",
+            "id_muasamcong": "177ff8be-3c7b-4e41-b086-bcc46ae254fc",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400057351",
+            "dotbien_hatang": "Gói 1: Thi công xây dựng và lắp đặt thiết bị công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 2: Tư vấn giám sát thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lương Sơn",
+            "createdBy": "vn5400462488",
+            "publicDate": "2024-03-05 16:01:38",
+            "projectName": null,
+            "bidCloseDate": "2024-03-23 16:00:00",
+            "id_muasamcong": "18c4277d-2ed7-4a5d-9b12-d5ccecc40bfc",
+            "tongmuc_dautu": 1550760000.0,
+            "bidNamePlanNew": "PL2400021564",
+            "dotbien_hatang": "Gói 2: Tư vấn giám sát thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "UBND xã Lâm sơn",
+            "createdBy": "vn5400189905",
+            "publicDate": "2024-11-11 07:59:26",
+            "projectName": null,
+            "bidCloseDate": "2024-11-16 09:00:00",
+            "id_muasamcong": "1954fcf6-1cf9-439a-8d16-72a68b4aa550",
+            "tongmuc_dautu": 2581094000.0,
+            "bidNamePlanNew": "PL2400245399",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình",
+            "chudautu": "Văn phòng đăng ký đất đai Sở Tài nguyên và Môi trường tỉnh Hòa Bình",
+            "createdBy": "vn5400300896",
+            "publicDate": "2024-10-02 09:21:42",
+            "projectName": null,
+            "bidCloseDate": "2024-10-10 16:30:00",
+            "id_muasamcong": "19c721cf-758f-49c7-ac50-e78288def7d6",
+            "tongmuc_dautu": 381162000.0,
+            "bidNamePlanNew": "PL2400182765",
+            "dotbien_hatang": "Thi công xây lắp công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng hạng mục SCL ĐZ 0,4kV sau các TBA Đồng Phú, Đồng Đăng, Đồng Chúi, Đồng Chúi 2, Làng Văn Hóa Việt Mường, Nước Vải, Tiểu khu Liên Sơn, Long Phú 2, Năm Lu 1, Trung Tâm thương mại nhà ở, Huyện Ủy, Tiểu khu 7, Long Phú 1, Long Phú 4, Làng Hang cũ nát, không đảm bảo an toàn vận hành - Huyện Lương Sơn (năm 2025)",
+            "chudautu": "Công ty Điện lực Hòa Bình - Chi nhánh Tổng công ty Điện lực miền Bắc",
+            "createdBy": "vnz000012015-03",
+            "publicDate": "2024-11-20 14:26:48",
+            "projectName": null,
+            "bidCloseDate": "2024-12-12 09:00:00",
+            "id_muasamcong": "1b40ee73-a792-4e76-a417-836cb92ad644",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400256110",
+            "dotbien_hatang": "Thi công xây dựng hạng mục SCL ĐZ 0,4kV sau các TBA Đồng Phú, Đồng Đăng, Đồng Chúi, Đồng Chúi 2, Làng Văn Hóa Việt Mường, Nước Vải, Tiểu khu Liên Sơn, Long Phú 2, Năm Lu 1, Trung Tâm thương mại nhà ở, Huyện Ủy, Tiểu khu 7, Long Phú 1, Long Phú 4, Làng Hang cũ nát, không đảm bảo an toàn vận hành - Huyện Lương Sơn (năm 2025)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 1: Thi công xây dựng công trình và đảm bảo giao thông",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lương Sơn",
+            "createdBy": "vn5400462488",
+            "publicDate": "2024-10-09 15:12:54",
+            "projectName": null,
+            "bidCloseDate": "2024-10-18 16:00:00",
+            "id_muasamcong": "1dc8690a-2af2-4a1f-8577-fdfa2b93684e",
+            "tongmuc_dautu": 11305570000.0,
+            "bidNamePlanNew": "PL2400194479",
+            "dotbien_hatang": "Gói 1: Thi công xây dựng công trình và đảm bảo giao thông",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Tư vấn giám sát thi công xây lắp",
+            "chudautu": "Sở Giáo dục và Đào tạo tỉnh Hòa Bình",
+            "createdBy": "vn5400495885",
+            "publicDate": "2025-01-09 10:38:48",
+            "projectName": null,
+            "bidCloseDate": "2025-02-05 16:00:00",
+            "id_muasamcong": "1dea0607-cba3-4577-a226-ef77552ee321",
+            "tongmuc_dautu": 339608000.0,
+            "bidNamePlanNew": "PL2500001008",
+            "dotbien_hatang": "Tư vấn giám sát thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 1: Thi công xây dựng công trình",
+            "chudautu": "UBND xã Lâm sơn",
+            "createdBy": "vn5400189905",
+            "publicDate": "2024-11-20 14:21:57",
+            "projectName": null,
+            "bidCloseDate": "2024-11-27 09:00:00",
+            "id_muasamcong": "1ea64972-1a4a-4b91-b632-392fc66d07c6",
+            "tongmuc_dautu": 4139380000.0,
+            "bidNamePlanNew": "PL2400277038",
+            "dotbien_hatang": "Gói 1: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lương Sơn",
+            "createdBy": "vn5400462488",
+            "publicDate": "2024-05-31 15:33:05",
+            "projectName": null,
+            "bidCloseDate": "2024-06-20 15:00:00",
+            "id_muasamcong": "21b8f7e7-343c-4580-a9ac-8530b5c09290",
+            "tongmuc_dautu": 12667905000.0,
+            "bidNamePlanNew": "PL2400075214",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình:Công trình phụ trợ nghĩa trang liệt sỹ xã Trung Sơn",
+            "chudautu": "Phòng Lao động Thương binh và Xã hội huyện Lương Sơn",
+            "createdBy": "vn5400320589",
+            "publicDate": "2023-02-27 17:09:19",
+            "projectName": "Liên danh Công ty TNHH xây dựng và thương mại HBC Long Sơn và Công ty TNHH xây dựng Trường Sơn CP",
+            "bidCloseDate": "2023-03-07 21:15:00",
+            "id_muasamcong": "21dc19c9-9c25-4125-ae61-19594bb81a42",
+            "tongmuc_dautu": 3513688000.0,
+            "bidNamePlanNew": "PL2300021670",
+            "dotbien_hatang": "Thi công xây dựng công trình:Công trình phụ trợ nghĩa trang liệt sỹ xã Trung Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng hạng mục SCL ĐZ 22kV 471 T/C Hợp Châu – Huyện Lương Sơn (năm 2025)",
+            "chudautu": "Công ty Điện lực Hòa Bình - Chi nhánh Tổng công ty Điện lực miền Bắc",
+            "createdBy": "vnz000012015-03",
+            "publicDate": "2024-11-08 16:31:08",
+            "projectName": null,
+            "bidCloseDate": "2024-11-18 15:00:00",
+            "id_muasamcong": "22939dc3-6610-4ac0-90fa-8768fba00131",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400256141",
+            "dotbien_hatang": "Thi công xây dựng hạng mục SCL ĐZ 22kV 471 T/C Hợp Châu – Huyện Lương Sơn (năm 2025)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu 01: Thi công xây dựng công trình",
+            "chudautu": "Phòng Nông nghiệp và PTNT huyện Lương Sơn",
+            "createdBy": "vnz000006986",
+            "publicDate": "2024-12-20 10:16:46",
+            "projectName": null,
+            "bidCloseDate": "2024-12-27 11:00:00",
+            "id_muasamcong": "245198ad-b563-4a21-9ce8-1bac532015ca",
+            "tongmuc_dautu": 178426000.0,
+            "bidNamePlanNew": "PL2400319264",
+            "dotbien_hatang": "Gói thầu 01: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình và đảm bảo an toàn giao thông",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lương Sơn",
+            "createdBy": "vn5400462488",
+            "publicDate": "2025-03-12 13:59:43",
+            "projectName": null,
+            "bidCloseDate": "2025-03-19 15:00:00",
+            "id_muasamcong": "27b99dfa-9c6e-4e06-b3dc-d472ac9412a6",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500031902",
+            "dotbien_hatang": "Thi công xây dựng công trình và đảm bảo an toàn giao thông",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lương Sơn",
+            "createdBy": "vn5400462488",
+            "publicDate": "2024-08-13 15:26:08",
+            "projectName": "Liên danh Công ty Cổ phần xây dựng kinh doanh tổng hợp Hòa Bình và Công ty Cổ phần xây dựng Hưng Phát Hòa Bình",
+            "bidCloseDate": "2024-08-24 09:00:00",
+            "id_muasamcong": "2b717957-c722-490c-8a69-8571a12c6c80",
+            "tongmuc_dautu": 8226930000.0,
+            "bidNamePlanNew": "PL2400133206",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Uỷ ban nhân dân xã Tân Vinh",
+            "createdBy": "vn5400189856",
+            "publicDate": "2023-08-15 15:50:42",
+            "projectName": "Liên danh Công ty TNHH 89 HB và Hợp tác xã Quyết Tiến",
+            "bidCloseDate": "2023-08-23 09:30:00",
+            "id_muasamcong": "2ce73a68-78c2-4f08-9986-6697339c4bbe",
+            "tongmuc_dautu": 2497146000.0,
+            "bidNamePlanNew": "PL2300142767",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình và lắp đặt thiết bị",
+            "chudautu": "PHÒNG KINH TẾ HUYỆN LƯƠNG SƠN",
+            "createdBy": "vn5400320638",
+            "publicDate": "2023-02-22 22:58:08",
+            "projectName": null,
+            "bidCloseDate": "2023-03-04 10:00:00",
+            "id_muasamcong": "2f36465c-eab1-498c-9412-27079e301001",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300009896",
+            "dotbien_hatang": "Thi công xây dựng công trình và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Ủy ban nhân dân xã Liên Sơn",
+            "createdBy": "vn5400189782",
+            "publicDate": "2023-09-18 17:27:27",
+            "projectName": null,
+            "bidCloseDate": "2023-09-29 09:00:00",
+            "id_muasamcong": "318ee169-5080-4882-8e2b-51359ec85081",
+            "tongmuc_dautu": 1505091000.0,
+            "bidNamePlanNew": "PL2300103401",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình và đảm bảo an toàn giao thông công trình: Đường liên thôn xóm Hui đi khu Tân Khay xóm Quê Sụ, xã Cao Sơn",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lương Sơn",
+            "createdBy": "vn5400462488",
+            "publicDate": "2023-12-28 21:19:44",
+            "projectName": null,
+            "bidCloseDate": "2024-01-03 16:00:00",
+            "id_muasamcong": "31adf545-10c5-4061-897c-69365af43da1",
+            "tongmuc_dautu": 6870062000.0,
+            "bidNamePlanNew": "PL2300245618",
+            "dotbien_hatang": "Thi công xây dựng công trình và đảm bảo an toàn giao thông công trình: Đường liên thôn xóm Hui đi khu Tân Khay xóm Quê Sụ, xã Cao Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình:Nhà làm việc số 2 các cơ quan thuộc ủy ban nhân dân huyện",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lương Sơn",
+            "createdBy": "vn5400462488",
+            "publicDate": "2023-08-29 08:52:46",
+            "projectName": null,
+            "bidCloseDate": "2023-09-08 09:00:00",
+            "id_muasamcong": "39f0f47a-8dab-4857-9aa3-d05457165ce3",
+            "tongmuc_dautu": 8471367000.0,
+            "bidNamePlanNew": "PL2300141313",
+            "dotbien_hatang": "Thi công xây dựng công trình:Nhà làm việc số 2 các cơ quan thuộc ủy ban nhân dân huyện",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 1: Thi công xây dựng công trình Sân vận động huyện Lương Sơn",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lương Sơn",
+            "createdBy": "vn5400462488",
+            "publicDate": "2023-03-28 14:28:15",
+            "projectName": "Liên danh Chiến Na - Hưng Thịnh - Anh Khoa - VINA CID",
+            "bidCloseDate": "2023-04-17 15:30:00",
+            "id_muasamcong": "3a23d752-23a0-47ab-8f08-27aa2eb83c71",
+            "tongmuc_dautu": 52301627000.0,
+            "bidNamePlanNew": "PL2300031793",
+            "dotbien_hatang": "Gói 1: Thi công xây dựng công trình Sân vận động huyện Lương Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 1: Thi công xây dựng công trình và đảm bảo giao thông",
+            "chudautu": "UBND xã Lâm sơn",
+            "createdBy": "vn5400189905",
+            "publicDate": "2024-08-13 11:49:19",
+            "projectName": "Liên danh Công ty TNHH An Trung và Công ty cổ phần đầu tư và phát triển Vĩnh An",
+            "bidCloseDate": "2024-08-20 09:00:00",
+            "id_muasamcong": "3b498abe-edfc-4218-a931-9f8fef81c53a",
+            "tongmuc_dautu": 3851759000.0,
+            "bidNamePlanNew": "PL2400162835",
+            "dotbien_hatang": "Gói 1: Thi công xây dựng công trình và đảm bảo giao thông",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 1: Thi công xây dựng công trình",
+            "chudautu": "UBND xã Lâm sơn",
+            "createdBy": "vn5400189905",
+            "publicDate": "2024-08-09 18:00:09",
+            "projectName": null,
+            "bidCloseDate": "2024-08-18 16:35:00",
+            "id_muasamcong": "3d92d9ab-384b-4268-8f2f-cecace4af5a9",
+            "tongmuc_dautu": 2161868000.0,
+            "bidNamePlanNew": "PL2400162798",
+            "dotbien_hatang": "Gói 1: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình và lắp đặt thiết bị xử lý nước thải",
+            "chudautu": "Trung tâm Y tế huyện Lương Sơn",
+            "createdBy": "vn5400189729",
+            "publicDate": "2024-10-28 15:53:11",
+            "projectName": "Liên danh HOÀNG THẮNG- NGỌC ĐỨC",
+            "bidCloseDate": "2024-11-07 16:30:00",
+            "id_muasamcong": "3ff0e55a-1a20-4df0-8b87-941231e8877d",
+            "tongmuc_dautu": 4091486000.0,
+            "bidNamePlanNew": "PL2400247483",
+            "dotbien_hatang": "Thi công xây lắp công trình và lắp đặt thiết bị xử lý nước thải",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "TV giám sát thi công xây lắp",
+            "chudautu": "Trung tâm Y tế huyện Lương Sơn",
+            "createdBy": "vn5400189729",
+            "publicDate": "2024-10-28 16:47:01",
+            "projectName": null,
+            "bidCloseDate": "2024-11-15 16:00:00",
+            "id_muasamcong": "40ceeb01-1a69-44cb-9fc1-526325ec3181",
+            "tongmuc_dautu": 99000000.0,
+            "bidNamePlanNew": "PL2400247483",
+            "dotbien_hatang": "TV giám sát thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình Nhà hiệu bộ, phòng học và các hạng mục phụ trợ trường mầm non Lâm Sơn, huyện Lương Sơn",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lương Sơn",
+            "createdBy": "vn5400462488",
+            "publicDate": "2022-12-15 07:54:11",
+            "projectName": "Liên danh Công ty TNHH An Trung và Công ty TNHH một thành viên thương mại và xây dựng Thịnh Cường",
+            "bidCloseDate": "2022-12-25 08:30:00",
+            "id_muasamcong": "43222d79-adfd-4a01-9845-5165607ddc5a",
+            "tongmuc_dautu": 9585205000.0,
+            "bidNamePlanNew": "PL2200073542",
+            "dotbien_hatang": "Thi công xây dựng công trình Nhà hiệu bộ, phòng học và các hạng mục phụ trợ trường mầm non Lâm Sơn, huyện Lương Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Phòng Giáo dục và Đào tạo Lương Sơn",
+            "createdBy": "vn5400320606",
+            "publicDate": "2023-08-11 15:26:39",
+            "projectName": null,
+            "bidCloseDate": "2023-08-18 17:05:00",
+            "id_muasamcong": "460956ac-c6ef-40c7-a2f9-82205dac4832",
+            "tongmuc_dautu": 1545344000.0,
+            "bidNamePlanNew": "PL2300126062",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Bảo hiểm thi công xây dựng",
+            "chudautu": "Công ty Điện lực Hòa Bình - Chi nhánh Tổng công ty Điện lực miền Bắc",
+            "createdBy": "vnz000012015-05",
+            "publicDate": "2022-10-25 09:58:52",
+            "projectName": null,
+            "bidCloseDate": "2022-10-31 09:00:00",
+            "id_muasamcong": "47140f2c-a2a7-4a72-aa9f-47503103527d",
+            "tongmuc_dautu": 6793177.0,
+            "bidNamePlanNew": "PL2200021518",
+            "dotbien_hatang": "Bảo hiểm thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình và đảm bảo an toàn giao thông",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lương Sơn",
+            "createdBy": "vn5400462488",
+            "publicDate": "2024-09-19 16:23:52",
+            "projectName": "Công ty TNHH xây dựng và thương mại Minh Hải & Công ty TNHH Thu Hằng - INVEST",
+            "bidCloseDate": "2024-10-09 08:00:00",
+            "id_muasamcong": "48bc48bb-dd41-4f2a-a250-330de41d5c1d",
+            "tongmuc_dautu": 24707098000.0,
+            "bidNamePlanNew": "PL2400186009",
+            "dotbien_hatang": "Thi công xây dựng công trình và đảm bảo an toàn giao thông",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Cung cấp và thi công xây dựng công trình Nâng cao chất lượng lưới điện hạ áp năm 2024-2025 cho các trạm biến áp công cộng khu vực huyện Lương Sơn, tỉnh Hoà Bình",
+            "chudautu": "Công ty Điện lực Hòa Bình - Chi nhánh Tổng công ty Điện lực miền Bắc",
+            "createdBy": "vnz000012015-04",
+            "publicDate": "2024-11-20 09:26:47",
+            "projectName": "Liên danh công ty cổ phần thương mại thiết bị và xây lắp điện Hà Nội và Công ty TNHH dây và cáp điện Vạn Xuân",
+            "bidCloseDate": "2024-11-29 09:00:00",
+            "id_muasamcong": "48d0d97e-330a-4bb7-a39c-c9560c15c528",
+            "tongmuc_dautu": 12163116418.0,
+            "bidNamePlanNew": "PL2400279148",
+            "dotbien_hatang": "Cung cấp và thi công xây dựng công trình Nâng cao chất lượng lưới điện hạ áp năm 2024-2025 cho các trạm biến áp công cộng khu vực huyện Lương Sơn, tỉnh Hoà Bình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói số 1: Thi công xây dựng công trình",
+            "chudautu": "Phòng Nông nghiệp và PTNT huyện Lương Sơn",
+            "createdBy": "vnz000006986",
+            "publicDate": "2025-03-18 15:06:41",
+            "projectName": null,
+            "bidCloseDate": "2025-03-27 08:00:00",
+            "id_muasamcong": "494586a6-21dd-4305-b12a-cd9df240ba2f",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500037876",
+            "dotbien_hatang": "Gói số 1: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "UBND xã Lâm sơn",
+            "createdBy": "vn5400189905",
+            "publicDate": "2024-09-26 09:27:18",
+            "projectName": null,
+            "bidCloseDate": "2024-10-03 17:00:00",
+            "id_muasamcong": "49c00a6a-384f-4c6c-afdf-9b170418cded",
+            "tongmuc_dautu": 2963808000.0,
+            "bidNamePlanNew": "PL2400202606",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng hạng mục SCL ĐZ 22kV 471 T/C Hợp Châu – Huyện Lương Sơn (năm 2025)",
+            "chudautu": "Công ty Điện lực Hòa Bình - Chi nhánh Tổng công ty Điện lực miền Bắc",
+            "createdBy": "vnz000012015-03",
+            "publicDate": "2024-11-29 10:24:38",
+            "projectName": null,
+            "bidCloseDate": "2024-12-09 09:00:00",
+            "id_muasamcong": "4a0fa609-616f-4140-b0a6-22ecda271a28",
+            "tongmuc_dautu": 1890578277.0,
+            "bidNamePlanNew": "PL2400256141",
+            "dotbien_hatang": "Thi công xây dựng hạng mục SCL ĐZ 22kV 471 T/C Hợp Châu – Huyện Lương Sơn (năm 2025)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 13: Tư vấn giám sát thi công xây lắp và lắp đặt thiết bị các hạng mục công trình",
+            "chudautu": "Cục Hải quan thành phố Hà Nội",
+            "createdBy": "vn0100849534",
+            "publicDate": "2023-10-03 09:36:39",
+            "projectName": null,
+            "bidCloseDate": "2023-10-23 15:31:00",
+            "id_muasamcong": "4f46ae8e-1d7f-4c20-bf83-9546cd52a015",
+            "tongmuc_dautu": 426420000.0,
+            "bidNamePlanNew": "PL2300172157",
+            "dotbien_hatang": "Gói thầu số 13: Tư vấn giám sát thi công xây lắp và lắp đặt thiết bị các hạng mục công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 1: Thi công xây dựng công trình và đảm bảo an toàn giao thông",
+            "chudautu": "Phòng Quản lý đô thị huyện Lương Sơn",
+            "createdBy": "vn5400528876",
+            "publicDate": "2024-06-22 06:31:51",
+            "projectName": null,
+            "bidCloseDate": "2024-07-02 15:15:00",
+            "id_muasamcong": "50851a94-643e-4d63-b635-fca1c42d4ed7",
+            "tongmuc_dautu": 12300004000.0,
+            "bidNamePlanNew": "PL2400077261",
+            "dotbien_hatang": "Gói 1: Thi công xây dựng công trình và đảm bảo an toàn giao thông",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình và đảm bảo an toàn giao thông",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lương Sơn",
+            "createdBy": "vn5400462488",
+            "publicDate": "2024-10-01 15:23:34",
+            "projectName": null,
+            "bidCloseDate": "2024-10-19 09:00:00",
+            "id_muasamcong": "52196be1-23ed-4b00-aa24-18f45273cf00",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400133559",
+            "dotbien_hatang": "Thi công xây dựng công trình và đảm bảo an toàn giao thông",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình và đảm bảo an toàn giao thông",
+            "chudautu": "UBND xã Lâm sơn",
+            "createdBy": "vn5400189905",
+            "publicDate": "2024-12-11 15:59:29",
+            "projectName": "Liên danh nhà thầu thi công đường Lâm Sơn",
+            "bidCloseDate": "2024-12-20 09:00:00",
+            "id_muasamcong": "52e26d76-01ee-4764-9c4e-22220858c844",
+            "tongmuc_dautu": 13508868000.0,
+            "bidNamePlanNew": "PL2400304594",
+            "dotbien_hatang": "Thi công xây dựng công trình và đảm bảo an toàn giao thông",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 1: Thi công xây dựng công trình và đảm bảo an toàn giao thông",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lương Sơn",
+            "createdBy": "vn5400462488",
+            "publicDate": "2024-03-01 11:08:25",
+            "projectName": null,
+            "bidCloseDate": "2024-03-12 16:00:00",
+            "id_muasamcong": "58891501-89b3-4cc4-8988-b70806a525ee",
+            "tongmuc_dautu": 72472039000.0,
+            "bidNamePlanNew": "PL2400021564",
+            "dotbien_hatang": "Gói 1: Thi công xây dựng công trình và đảm bảo an toàn giao thông",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Phòng Dân tộc huyện Lương Sơn, tỉnh Hoà Bình",
+            "createdBy": "vnz000025779",
+            "publicDate": "2023-08-23 16:56:48",
+            "projectName": null,
+            "bidCloseDate": "2023-08-31 18:00:00",
+            "id_muasamcong": "5c4b4b1b-ddae-493b-a159-0d3fe8f6dc7b",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300133613",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình và hoàn trả hạ tầng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lương Sơn",
+            "createdBy": "vn5400462488",
+            "publicDate": "2024-05-11 16:10:20",
+            "projectName": null,
+            "bidCloseDate": "2024-05-20 08:30:00",
+            "id_muasamcong": "5daa5b28-79ea-45b3-8fde-b6f2cea86147",
+            "tongmuc_dautu": 11823039000.0,
+            "bidNamePlanNew": "PL2400071768",
+            "dotbien_hatang": "Thi công xây dựng công trình và hoàn trả hạ tầng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng",
+            "chudautu": "Ủy Ban Nhân Dân Xã Nhuận Trạch",
+            "createdBy": "vn5400189743",
+            "publicDate": "2025-03-05 14:40:02",
+            "projectName": null,
+            "bidCloseDate": "2025-03-11 14:00:00",
+            "id_muasamcong": "60bf2e61-2f8c-41db-929f-8bfc953c755d",
+            "tongmuc_dautu": 3367754000.0,
+            "bidNamePlanNew": "PL2500023128",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình Xây dựng nhà đa năng và cải tạo nâng cấp các nhà lớp học trường TH&THCS Cửu Long",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lương Sơn",
+            "createdBy": "vn5400462488",
+            "publicDate": "2022-12-15 08:06:44",
+            "projectName": "Liên danh công ty cổ phần xây dựng Hưng Phát Hòa Bình và công ty trách nhiệm hữu hạn Văn Trung",
+            "bidCloseDate": "2022-12-25 08:30:00",
+            "id_muasamcong": "6343bea1-d0de-4083-8d9f-984e68372ff0",
+            "tongmuc_dautu": 11238653000.0,
+            "bidNamePlanNew": "PL2200073697",
+            "dotbien_hatang": "Thi công xây dựng công trình Xây dựng nhà đa năng và cải tạo nâng cấp các nhà lớp học trường TH&THCS Cửu Long",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 12: Thi công xây dựng hạ tầng kỹ thuật, phụ trợ; đường vào doanh trại và lắp đặt bãi tập thể lực; trạm biến áp 560kVA; trạm xử lý nước thải; thiết bị hồ huấn luyện bơi",
+            "chudautu": "Trường Sĩ quan Chính trị/ Bộ Quốc phòng",
+            "createdBy": "vnz000015615",
+            "publicDate": "2024-07-09 14:22:50",
+            "projectName": "LIÊN DANH TUẤN HÙNG – HÙNG VƯƠNG PHÚ THỌ - THÀNH PHÁT – MINH DŨNG – TOÀN PHÁT – HOÀNG GIA – VIỆT XANH",
+            "bidCloseDate": "2024-07-27 15:00:00",
+            "id_muasamcong": "65a6587e-b76a-4e65-9012-570912c7f53d",
+            "tongmuc_dautu": 64478905432.0,
+            "bidNamePlanNew": "PL2400003180",
+            "dotbien_hatang": "Gói thầu số 12: Thi công xây dựng hạ tầng kỹ thuật, phụ trợ; đường vào doanh trại và lắp đặt bãi tập thể lực; trạm biến áp 560kVA; trạm xử lý nước thải; thiết bị hồ huấn luyện bơi",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 1: Thi công xây dựng và lắp đặt thiết bị công trình",
+            "chudautu": "Phòng Quản lý đô thị huyện Lương Sơn",
+            "createdBy": "vn5400528876",
+            "publicDate": "2024-06-27 16:38:57",
+            "projectName": null,
+            "bidCloseDate": "2024-07-03 09:00:00",
+            "id_muasamcong": "68a6720c-468c-4d50-9043-d01d2a043f75",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400058717",
+            "dotbien_hatang": "Gói 1: Thi công xây dựng và lắp đặt thiết bị công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 1: Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lương Sơn",
+            "createdBy": "vn5400462488",
+            "publicDate": "2024-08-08 22:54:36",
+            "projectName": "Liên danh Công ty TNHH Đầu tư và Xây dựng Thương mại Mỹ Phong - Công ty Cổ phần Xây dựng và Thương mại Sông Đà",
+            "bidCloseDate": "2024-08-26 09:00:00",
+            "id_muasamcong": "6bc624e5-9f61-403c-9919-39d6b5d3dc1d",
+            "tongmuc_dautu": 87877601000.0,
+            "bidNamePlanNew": "PL2400160560",
+            "dotbien_hatang": "Gói 1: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình và đảm bảo giao thông",
+            "chudautu": "Phòng Nông nghiệp và PTNT huyện Lương Sơn",
+            "createdBy": "vnz000006986",
+            "publicDate": "2023-12-13 15:09:35",
+            "projectName": null,
+            "bidCloseDate": "2023-12-23 17:00:00",
+            "id_muasamcong": "6c861d6a-ee99-4105-8af9-e0c9f7eabd99",
+            "tongmuc_dautu": 8534686000.0,
+            "bidNamePlanNew": "PL2300252300",
+            "dotbien_hatang": "Thi công xây dựng công trình và đảm bảo giao thông",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Phòng Dân tộc huyện Lương Sơn, tỉnh Hoà Bình",
+            "createdBy": "vnz000025779",
+            "publicDate": "2023-06-11 18:25:52",
+            "projectName": null,
+            "bidCloseDate": "2023-06-22 18:00:00",
+            "id_muasamcong": "6d58a041-ef47-4efd-ac48-25fcafb3297c",
+            "tongmuc_dautu": 1072848000.0,
+            "bidNamePlanNew": "PL2300074429",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói số 1: Thi công xây dựng công trình",
+            "chudautu": "Phòng Nông nghiệp và PTNT huyện Lương Sơn",
+            "createdBy": "vnz000006986",
+            "publicDate": "2025-03-18 15:05:35",
+            "projectName": null,
+            "bidCloseDate": "2025-03-25 08:00:00",
+            "id_muasamcong": "6d75a294-46b2-4b2d-9365-2aed5bfcd5bc",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500038738",
+            "dotbien_hatang": "Gói số 1: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 1: Thi công xây dựng công trình Cải tạo, nâng cấp đường giao thông xóm Rổng Vòng, xã Lâm Sơn, huyện Lương Sơn",
+            "chudautu": "UBND xã Lâm sơn",
+            "createdBy": "vn5400189905",
+            "publicDate": "2024-08-27 17:27:09",
+            "projectName": "Liên danh Công ty TNHH thương mại xây dựng Ngọc Truyền và Công ty TNHH Bình Anh",
+            "bidCloseDate": "2024-09-06 08:00:00",
+            "id_muasamcong": "6ede181f-062d-4bff-8c24-cebc1ee352c2",
+            "tongmuc_dautu": 5125822000.0,
+            "bidNamePlanNew": "PL2400173621",
+            "dotbien_hatang": "Gói 1: Thi công xây dựng công trình Cải tạo, nâng cấp đường giao thông xóm Rổng Vòng, xã Lâm Sơn, huyện Lương Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Phòng Nông nghiệp và PTNT huyện Lương Sơn",
+            "createdBy": "vn5400260516",
+            "publicDate": "2022-10-12 16:58:14",
+            "projectName": "Liên danh Công ty Minh Giang HB - Á Châu HB",
+            "bidCloseDate": "2022-10-20 09:00:00",
+            "id_muasamcong": "6f384e85-8955-45a0-bb1b-4e0e878c8689",
+            "tongmuc_dautu": 2540773000.0,
+            "bidNamePlanNew": "PL2200015646",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 1: Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lương Sơn",
+            "createdBy": "vn5400462488",
+            "publicDate": "2025-01-15 23:02:36",
+            "projectName": null,
+            "bidCloseDate": "2025-01-24 16:00:00",
+            "id_muasamcong": "722d5c09-f55e-44bc-85cf-e31186523fb2",
+            "tongmuc_dautu": 6047769000.0,
+            "bidNamePlanNew": "PL2500009133",
+            "dotbien_hatang": "Gói 1: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08: Thi công xây dựng, cung cấp lắp đặt thiết bị",
+            "chudautu": "Phòng giao dịch Ngân hàng Chính sách Xã hội huyện Lương Sơn",
+            "createdBy": "vnz000025979",
+            "publicDate": "2023-04-03 16:42:49",
+            "projectName": null,
+            "bidCloseDate": "2023-04-13 17:00:00",
+            "id_muasamcong": "735362ff-9254-41fc-9097-151eea1119ec",
+            "tongmuc_dautu": 7692361585.0,
+            "bidNamePlanNew": "PL2300023753",
+            "dotbien_hatang": "Gói thầu số 08: Thi công xây dựng, cung cấp lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 1: Thi công xây dựng công trình và đảm bảo giao thông",
+            "chudautu": "UBND xã Lâm sơn",
+            "createdBy": "vn5400189905",
+            "publicDate": "2024-08-09 09:17:03",
+            "projectName": null,
+            "bidCloseDate": "2024-08-18 09:00:00",
+            "id_muasamcong": "74638c70-6033-44a1-a719-1750f912264f",
+            "tongmuc_dautu": 8653809000.0,
+            "bidNamePlanNew": "PL2400162833",
+            "dotbien_hatang": "Gói 1: Thi công xây dựng công trình và đảm bảo giao thông",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói số 1: Thi công xây lắp (vốn nhà nước)",
+            "chudautu": "UBND XÃ CAO SƠN",
+            "createdBy": "vn5400515450",
+            "publicDate": "2024-11-23 16:58:56",
+            "projectName": null,
+            "bidCloseDate": "2024-11-30 09:43:00",
+            "id_muasamcong": "75675f3d-fb77-404d-b77c-99946b283bda",
+            "tongmuc_dautu": 1353189000.0,
+            "bidNamePlanNew": "PL2400283352",
+            "dotbien_hatang": "Gói số 1: Thi công xây lắp (vốn nhà nước)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Tư vấn giám sát thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lương Sơn",
+            "createdBy": "vn5400462488",
+            "publicDate": "2024-09-27 15:10:52",
+            "projectName": null,
+            "bidCloseDate": "2024-10-15 09:00:00",
+            "id_muasamcong": "759d66f2-c269-4db2-8122-0641ee7fec9b",
+            "tongmuc_dautu": 528960000.0,
+            "bidNamePlanNew": "PL2400186009",
+            "dotbien_hatang": "Tư vấn giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "UBND xã Lâm sơn",
+            "createdBy": "vn5400189905",
+            "publicDate": "2024-09-17 17:30:48",
+            "projectName": "Liên danh Công ty TNHH xây dựng và du lịch Quỳnh Anh và Công ty TNHH MTV Hòa Bình Xanh",
+            "bidCloseDate": "2024-09-24 08:00:00",
+            "id_muasamcong": "75b89b30-8121-445d-90b0-14b83ee40b76",
+            "tongmuc_dautu": 2883004000.0,
+            "bidNamePlanNew": "PL2400177089",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 8: Thi công xây dựng, cải tạo bổ sung doanh trại Lữ đoàn bộ/Lữ đoàn 134",
+            "chudautu": "Lữ đoàn 134 - Binh chủng thông tin liên lạc",
+            "createdBy": "vnz000013089",
+            "publicDate": "2024-01-08 22:34:36",
+            "projectName": null,
+            "bidCloseDate": "2024-01-19 09:00:00",
+            "id_muasamcong": "76b5e353-5993-47b4-adb7-f20a418dd6a4",
+            "tongmuc_dautu": 15254239131.0,
+            "bidNamePlanNew": "PL2300227417",
+            "dotbien_hatang": "Gói thầu số 8: Thi công xây dựng, cải tạo bổ sung doanh trại Lữ đoàn bộ/Lữ đoàn 134",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 11: Thi công xây lắp, cung cấp và lắp đặt thiết bị các hạng mục công trình",
+            "chudautu": "Cục Hải quan thành phố Hà Nội",
+            "createdBy": "vn0100849534",
+            "publicDate": "2023-10-03 09:35:40",
+            "projectName": "Liên danh Công ty Cổ phần Xây dựng Dân dụng và Hạ tầng HTC - Công ty Cổ phần Cơ điện Thái Bình–TBC - Công ty TNHH xây lắp điện và thương mại Quang Anh",
+            "bidCloseDate": "2023-10-23 15:31:00",
+            "id_muasamcong": "778eeb21-8f32-4fed-97f9-fd2c731f2507",
+            "tongmuc_dautu": 25814854000.0,
+            "bidNamePlanNew": "PL2300172157",
+            "dotbien_hatang": "Gói thầu số 11: Thi công xây lắp, cung cấp và lắp đặt thiết bị các hạng mục công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Ủy Ban Nhân Dân Xã Nhuận Trạch",
+            "createdBy": "vn5400189743",
+            "publicDate": "2022-11-21 11:12:41",
+            "projectName": null,
+            "bidCloseDate": "2022-11-25 11:30:00",
+            "id_muasamcong": "79c8e2f0-fda6-4c65-a656-8cdcfbbd9c23",
+            "tongmuc_dautu": 8741459000.0,
+            "bidNamePlanNew": "PL2200040764",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 1: Thi công xây dựng công trình và đảm bảo an toàn giao thông",
+            "chudautu": "Phòng Quản lý đô thị huyện Lương Sơn",
+            "createdBy": "vn5400528876",
+            "publicDate": "2024-08-30 20:07:01",
+            "projectName": "Liên danh Công ty cổ phần HQ - Công ty cổ phần Lạc Thịnh",
+            "bidCloseDate": "2024-09-09 09:00:00",
+            "id_muasamcong": "7aa26cb0-ecf7-4977-bc63-ee51689ccd9c",
+            "tongmuc_dautu": 9602696000.0,
+            "bidNamePlanNew": "PL2400077266",
+            "dotbien_hatang": "Gói 1: Thi công xây dựng công trình và đảm bảo an toàn giao thông",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Phòng Giáo dục và Đào tạo Lương Sơn",
+            "createdBy": "vn5400320606",
+            "publicDate": "2023-08-11 15:25:47",
+            "projectName": null,
+            "bidCloseDate": "2023-08-22 15:15:00",
+            "id_muasamcong": "7ff10e0c-f862-481f-8283-d48432571521",
+            "tongmuc_dautu": 7362837000.0,
+            "bidNamePlanNew": "PL2300125915",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu thi công xây dựng hạng mục: SCL Lộ 372 E 19.2; lộ 471, 473 E 19.2; ĐD 473 TC Long Sơn; ĐD 471 TC Tân Thành; ĐD 471 TG Cao Dương - Huyện Lương Sơn",
+            "chudautu": "Công ty Điện lực Hòa Bình - Chi nhánh Tổng công ty Điện lực miền Bắc",
+            "createdBy": "vnz000012015-03",
+            "publicDate": "2023-09-28 16:06:54",
+            "projectName": null,
+            "bidCloseDate": "2023-10-08 09:00:00",
+            "id_muasamcong": "8169eb06-999c-4735-a72d-7c818192e769",
+            "tongmuc_dautu": 2597961285.0,
+            "bidNamePlanNew": "PL2300168695",
+            "dotbien_hatang": "Gói thầu thi công xây dựng hạng mục: SCL Lộ 372 E 19.2; lộ 471, 473 E 19.2; ĐD 473 TC Long Sơn; ĐD 471 TC Tân Thành; ĐD 471 TG Cao Dương - Huyện Lương Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng SCL Nhánh Tiểu khu Liên Sơn; nhánh TK Liên Sơn 2; nhánh vào TBA Bãi Lạng; nhánh Bơm Hùng Sơn; nhánh\nLong Phú 2 thuộc ĐZ 371 E19.2; ĐD 473 TC Xuân Dương - Huyện Lương Sơn",
+            "chudautu": "Công ty Điện lực Hòa Bình - Chi nhánh Tổng công ty Điện lực miền Bắc",
+            "createdBy": "vnz000012015-03",
+            "publicDate": "2023-10-06 10:04:31",
+            "projectName": null,
+            "bidCloseDate": "2023-10-16 09:00:00",
+            "id_muasamcong": "82b8143c-37cb-44f2-9f3d-0b5373366f55",
+            "tongmuc_dautu": 493155303.0,
+            "bidNamePlanNew": "PL2300180954",
+            "dotbien_hatang": "Thi công xây dựng SCL Nhánh Tiểu khu Liên Sơn; nhánh TK Liên Sơn 2; nhánh vào TBA Bãi Lạng; nhánh Bơm Hùng Sơn; nhánh\nLong Phú 2 thuộc ĐZ 371 E19.2; ĐD 473 TC Xuân Dương - Huyện Lương Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng hạng mục SCL: ĐZ 471 và 473 T/C Vôi, thay thế FCO vận hành lâu năm không đảm bảo an toàn; thay thế tủ hạ thế cũ nát, rỉ mọt - Huyện Lương Sơn (năm 2024BS)",
+            "chudautu": "Công ty Điện lực Hòa Bình - Chi nhánh Tổng công ty Điện lực miền Bắc",
+            "createdBy": "vnz000012015-03",
+            "publicDate": "2024-08-29 17:35:17",
+            "projectName": null,
+            "bidCloseDate": "2024-09-09 09:00:00",
+            "id_muasamcong": "85296faf-1835-449e-a200-ed6f18544a8e",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400172666",
+            "dotbien_hatang": "Thi công xây dựng hạng mục SCL: ĐZ 471 và 473 T/C Vôi, thay thế FCO vận hành lâu năm không đảm bảo an toàn; thay thế tủ hạ thế cũ nát, rỉ mọt - Huyện Lương Sơn (năm 2024BS)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 1: Thi công xây dựng công trình",
+            "chudautu": "Ủy ban nhân dân Thị trấn Lương Sơn",
+            "createdBy": "vnz000031153",
+            "publicDate": "2025-03-16 19:22:31",
+            "projectName": null,
+            "bidCloseDate": "2025-03-24 15:00:00",
+            "id_muasamcong": "8549f05b-22f6-4a2f-9a0c-b7cfa5f4b355",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500046301",
+            "dotbien_hatang": "Gói 1: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Phòng Giáo dục và Đào tạo Lương Sơn",
+            "createdBy": "vn5400320606",
+            "publicDate": "2022-10-06 16:34:27",
+            "projectName": null,
+            "bidCloseDate": "2022-10-14 09:36:00",
+            "id_muasamcong": "8679d28e-ad46-4c48-88a1-1fe30d2dc78d",
+            "tongmuc_dautu": 2151137682.0,
+            "bidNamePlanNew": "PL2200009411",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây lắp công trình",
+            "chudautu": "Ủy ban nhân dân xã Liên Sơn",
+            "createdBy": "vn5400189782",
+            "publicDate": "2024-12-14 17:26:15",
+            "projectName": null,
+            "bidCloseDate": "2024-12-21 16:00:00",
+            "id_muasamcong": "87c9b108-c8a9-4921-838d-fe1fb5a74c8f",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400316344",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây lắp công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 4: Thi công xây dựng",
+            "chudautu": "Ủy Ban Nhân Dân Xã Nhuận Trạch",
+            "createdBy": "vn5400189743",
+            "publicDate": "2024-11-12 10:16:53",
+            "projectName": null,
+            "bidCloseDate": "2024-11-21 14:15:00",
+            "id_muasamcong": "898c81e4-9242-4a41-958b-67a6c2cb8c1a",
+            "tongmuc_dautu": 1727338000.0,
+            "bidNamePlanNew": "PL2400260091",
+            "dotbien_hatang": "Gói thầu số 4: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Ủy ban nhân dân xã Cư Yên",
+            "createdBy": "vn5400514873",
+            "publicDate": "2023-02-08 15:35:25",
+            "projectName": null,
+            "bidCloseDate": "2023-02-15 15:00:00",
+            "id_muasamcong": "8da4dfac-3a63-4f34-afe0-ba29f1866ef9",
+            "tongmuc_dautu": 1111223000.0,
+            "bidNamePlanNew": "PL2300008834",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "UBND xã Lâm sơn",
+            "createdBy": "vn5400189905",
+            "publicDate": "2024-10-11 14:10:15",
+            "projectName": null,
+            "bidCloseDate": "2024-10-18 09:00:00",
+            "id_muasamcong": "8e02bc2e-e4fc-4479-9747-6c50b70982b0",
+            "tongmuc_dautu": 3450413000.0,
+            "bidNamePlanNew": "PL2400206021",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói số 1: Thi công xây lắp (vốn nhà nước)",
+            "chudautu": "Ủy ban nhân dân xã Thanh Cao",
+            "createdBy": "vnz000010232",
+            "publicDate": "2024-11-21 08:23:58",
+            "projectName": null,
+            "bidCloseDate": "2024-11-28 15:00:00",
+            "id_muasamcong": "8ec5548a-6524-48a3-829a-0da2a5a4a3b9",
+            "tongmuc_dautu": 1326499000.0,
+            "bidNamePlanNew": "PL2400279391",
+            "dotbien_hatang": "Gói số 1: Thi công xây lắp (vốn nhà nước)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 1: Thi công xây dựng công trình",
+            "chudautu": "Phòng Quản lý đô thị huyện Lương Sơn",
+            "createdBy": "vn5400528876",
+            "publicDate": "2024-09-13 18:49:38",
+            "projectName": null,
+            "bidCloseDate": "2024-09-23 09:00:00",
+            "id_muasamcong": "8edbfe47-6270-4eda-9a77-7c120dfaa528",
+            "tongmuc_dautu": 8618000000.0,
+            "bidNamePlanNew": "PL2400158623",
+            "dotbien_hatang": "Gói 1: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 1: Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lương Sơn",
+            "createdBy": "vn5400462488",
+            "publicDate": "2024-06-25 15:23:58",
+            "projectName": "Liên danh Công ty TNHH xây dựng và thương mại Minh Hải – Công ty TNHH Cường Thịnh An",
+            "bidCloseDate": "2024-06-29 10:00:00",
+            "id_muasamcong": "93092391-1abc-49eb-934a-0e1d689c2ee5",
+            "tongmuc_dautu": 11102505000.0,
+            "bidNamePlanNew": "PL2400056132",
+            "dotbien_hatang": "Gói 1: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "XL-TMKH-01: Thi công xây dựng + lắp đặt thiết bị",
+            "chudautu": "Trường Sĩ quan Chính trị/ Bộ Quốc phòng",
+            "createdBy": "vnz000015615",
+            "publicDate": "2024-05-22 17:01:46",
+            "projectName": null,
+            "bidCloseDate": "2024-05-31 17:00:00",
+            "id_muasamcong": "970880e1-7b99-4ce6-ae6a-5871c26e006c",
+            "tongmuc_dautu": 1386713000.0,
+            "bidNamePlanNew": "PL2300266911",
+            "dotbien_hatang": "XL-TMKH-01: Thi công xây dựng + lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình Đường từ nhà ông Hoàn xóm Liên Hợp đi đến nhà ông Hiền xóm Đá Bạc",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lương Sơn",
+            "createdBy": "vn5400462488",
+            "publicDate": "2022-12-16 08:50:22",
+            "projectName": null,
+            "bidCloseDate": "2022-12-26 08:30:00",
+            "id_muasamcong": "99344c4c-3950-4a81-99f6-6e7e69a80974",
+            "tongmuc_dautu": 3579282000.0,
+            "bidNamePlanNew": "PL2200076052",
+            "dotbien_hatang": "Thi công xây dựng công trình Đường từ nhà ông Hoàn xóm Liên Hợp đi đến nhà ông Hiền xóm Đá Bạc",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Phòng Giáo dục và Đào tạo Lương Sơn",
+            "createdBy": "vn5400320606",
+            "publicDate": "2022-10-17 16:50:05",
+            "projectName": null,
+            "bidCloseDate": "2022-10-25 16:30:00",
+            "id_muasamcong": "9a9c8d3a-60e9-426a-813a-75908a8d1476",
+            "tongmuc_dautu": 3821743000.0,
+            "bidNamePlanNew": "PL2200021932",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lương Sơn",
+            "createdBy": "vn5400462488",
+            "publicDate": "2022-10-31 10:35:28",
+            "projectName": null,
+            "bidCloseDate": "2022-11-10 16:00:00",
+            "id_muasamcong": "9b6ba306-1dc1-48cb-9217-9e6796eae27a",
+            "tongmuc_dautu": 10510106000.0,
+            "bidNamePlanNew": "PL2200029906",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây lắp công trình",
+            "chudautu": "Trung tâm Y tế huyện Lương Sơn",
+            "createdBy": "vn5400189729",
+            "publicDate": "2023-08-31 09:35:01",
+            "projectName": "Liên danh Công ty cổ phần xây dựng và tư vấn Vạn Hoa và Công ty TNHH một thành viên Thương mại và xây dựng Thịnh Cường",
+            "bidCloseDate": "2023-09-07 17:00:00",
+            "id_muasamcong": "a36cd476-9ee7-4191-9b74-ab621bfe97de",
+            "tongmuc_dautu": 5267848000.0,
+            "bidNamePlanNew": "PL2300149292",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây lắp công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp(Gói thầu số 06)",
+            "chudautu": "Uỷ ban nhân dân xã Tân Vinh",
+            "createdBy": "vn5400189856",
+            "publicDate": "2022-10-28 10:24:53",
+            "projectName": null,
+            "bidCloseDate": "2022-11-04 16:38:00",
+            "id_muasamcong": "a4bd6192-08ce-4ab4-ae0d-227de0f53e82",
+            "tongmuc_dautu": 1864053000.0,
+            "bidNamePlanNew": "PL2200030866",
+            "dotbien_hatang": "Thi công xây lắp(Gói thầu số 06)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 1: Thi công xây dựng công trình",
+            "chudautu": "Phòng Nông nghiệp và PTNT huyện Lương Sơn",
+            "createdBy": "vnz000006986",
+            "publicDate": "2024-09-04 04:07:43",
+            "projectName": "TỔNG HỢP HOÀ BÌNH - TIẾN AN",
+            "bidCloseDate": "2024-09-13 18:30:00",
+            "id_muasamcong": "aa50ddb0-3506-4639-856b-87f5da3172cb",
+            "tongmuc_dautu": 9504977258.91,
+            "bidNamePlanNew": "PL2400159236",
+            "dotbien_hatang": "Gói 1: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói số 1: Thi công xây dựng công trình",
+            "chudautu": "Phòng Giáo dục và Đào tạo Lương Sơn",
+            "createdBy": "vn5400320606",
+            "publicDate": "2025-03-14 15:52:39",
+            "projectName": null,
+            "bidCloseDate": "2025-03-21 16:30:00",
+            "id_muasamcong": "aab39c5f-2e07-4f90-9348-488262871da0",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500042128",
+            "dotbien_hatang": "Gói số 1: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "UBND xã Lâm sơn",
+            "createdBy": "vn5400189905",
+            "publicDate": "2024-09-06 16:21:55",
+            "projectName": null,
+            "bidCloseDate": "2024-09-13 16:00:00",
+            "id_muasamcong": "acac2c2e-2673-401a-bf25-2439dfbb091f",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400177089",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình và đảm bảo an toàn giao thông",
+            "chudautu": "UBND xã Lâm sơn",
+            "createdBy": "vn5400189905",
+            "publicDate": "2024-08-27 15:43:20",
+            "projectName": "Liên danh Công ty TNHH Trọng Cường 68 và Công ty TNHH Sơn Hà",
+            "bidCloseDate": "2024-09-12 08:30:00",
+            "id_muasamcong": "acb78e48-2712-49bd-98c6-2f1941a2cc9f",
+            "tongmuc_dautu": 4952906000.0,
+            "bidNamePlanNew": "PL2400177000",
+            "dotbien_hatang": "Thi công xây dựng công trình và đảm bảo an toàn giao thông",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 1: Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lương Sơn",
+            "createdBy": "vn5400462488",
+            "publicDate": "2024-06-08 15:14:16",
+            "projectName": "Liên danh Công ty cổ phần tư vấn và xây dựng Bình Minh HB – Công ty TNHH MTV thương mại và xây dựng Thịnh Cường – Công ty TNHH công nghệ và thương mại Việt An ",
+            "bidCloseDate": "2024-06-13 10:00:00",
+            "id_muasamcong": "aec5977b-8cca-4b2c-b0e4-314d26bd500c",
+            "tongmuc_dautu": 12953909000.0,
+            "bidNamePlanNew": "PL2400056510",
+            "dotbien_hatang": "Gói 1: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng công trình",
+            "chudautu": "Ủy ban nhân dân xã Hòa Sơn",
+            "createdBy": "vn0102986617",
+            "publicDate": "2022-12-13 10:23:25",
+            "projectName": null,
+            "bidCloseDate": "2022-12-23 15:30:00",
+            "id_muasamcong": "b1114f80-03d0-4271-a64a-71736bccc854",
+            "tongmuc_dautu": 6006092000.0,
+            "bidNamePlanNew": "PL2200067691",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình Khu tái định cư cho các hộ liền kề nhà máy xi măng Trung Sơn (giai đoạn I), huyện Lương Sơn",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lương Sơn",
+            "createdBy": "vn5400462488",
+            "publicDate": "2022-12-15 17:14:02",
+            "projectName": null,
+            "bidCloseDate": "2022-12-25 17:30:00",
+            "id_muasamcong": "b57f453d-9626-45fa-816b-9c1cb585eb24",
+            "tongmuc_dautu": 17502868000.0,
+            "bidNamePlanNew": "PL2200075751",
+            "dotbien_hatang": "Thi công xây dựng công trình Khu tái định cư cho các hộ liền kề nhà máy xi măng Trung Sơn (giai đoạn I), huyện Lương Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói số 1: Thi công xây lắp (vốn nhà nước)",
+            "chudautu": "Ủy ban nhân dân xã Liên Sơn",
+            "createdBy": "vn5400495885",
+            "publicDate": "2025-03-16 19:36:42",
+            "projectName": null,
+            "bidCloseDate": "2025-03-24 16:00:00",
+            "id_muasamcong": "b71766cc-9fdd-4e39-b57b-00174e67fe13",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500046850",
+            "dotbien_hatang": "Gói số 1: Thi công xây lắp (vốn nhà nước)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình Cải tạo, nâng cấp đường giao thông xã Hòa Sơn, huyện Lương Sơn",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lương Sơn",
+            "createdBy": "vn5400462488",
+            "publicDate": "2024-05-20 07:54:54",
+            "projectName": "Liên danh công ty TNHH Nguyễn Hà và công ty TNHH Thu Hằng - INVEST",
+            "bidCloseDate": "2024-05-29 15:00:00",
+            "id_muasamcong": "b82cc438-8442-4f9f-a099-5e62187aa4dd",
+            "tongmuc_dautu": 13828482000.0,
+            "bidNamePlanNew": "PL2400058864",
+            "dotbien_hatang": "Thi công xây dựng công trình Cải tạo, nâng cấp đường giao thông xã Hòa Sơn, huyện Lương Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 1: Thi công xây dựng công trình",
+            "chudautu": "UBND xã Lâm sơn",
+            "createdBy": "vn5400189905",
+            "publicDate": "2024-08-09 18:03:12",
+            "projectName": null,
+            "bidCloseDate": "2024-08-18 16:30:00",
+            "id_muasamcong": "bac2b772-c4a7-4d9d-a865-1f53e9a26492",
+            "tongmuc_dautu": 2260635000.0,
+            "bidNamePlanNew": "PL2400162805",
+            "dotbien_hatang": "Gói 1: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Tư vấn giám sát thi công xây dựng",
+            "chudautu": "Sở Giao thông vận tải tỉnh Hòa Bình",
+            "createdBy": "vnz000007347",
+            "publicDate": "2024-06-27 15:01:33",
+            "projectName": null,
+            "bidCloseDate": "2024-07-13 09:20:00",
+            "id_muasamcong": "bb92ec11-98c8-468e-9184-d462113fb129",
+            "tongmuc_dautu": 136460000.0,
+            "bidNamePlanNew": "PL2400018821",
+            "dotbien_hatang": "Tư vấn giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Tư vấn giám sát thi công xây dựng + lắp đặt thiết bị",
+            "chudautu": "Trường Sĩ quan Chính trị/ Bộ Quốc phòng",
+            "createdBy": "vnz000015615",
+            "publicDate": "2024-07-12 15:05:40",
+            "projectName": "LIÊN DANH HẠ TẦNG HÀ NỘI-ĐÔNG ĐÔ",
+            "bidCloseDate": "2024-07-28 11:00:00",
+            "id_muasamcong": "bc06dfe9-1a91-4db0-9d37-5d58b675c24c",
+            "tongmuc_dautu": 3139074854.0,
+            "bidNamePlanNew": "PL2400003180",
+            "dotbien_hatang": "Gói thầu số 04: Tư vấn giám sát thi công xây dựng + lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "UBND xã Lâm sơn",
+            "createdBy": "vn5400189905",
+            "publicDate": "2024-12-13 16:18:05",
+            "projectName": null,
+            "bidCloseDate": "2024-12-20 16:35:00",
+            "id_muasamcong": "bd82f640-a4fb-44f2-961b-a1144b362b37",
+            "tongmuc_dautu": 1738928000.0,
+            "bidNamePlanNew": "PL2400279537",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 6: \nThi công xây dựng bổ sung, cải tạo nâng cấp các hạng mục; lắp đặt thiết bị điều hoà",
+            "chudautu": "Lữ đoàn 139, Binh chủng thông tin liên lạc",
+            "createdBy": "vnz000014603",
+            "publicDate": "2024-01-10 10:41:25",
+            "projectName": null,
+            "bidCloseDate": "2024-01-19 14:00:00",
+            "id_muasamcong": "c10f9977-b05f-4671-8346-9dd313ef3029",
+            "tongmuc_dautu": 13520916000.0,
+            "bidNamePlanNew": "PL2300224421",
+            "dotbien_hatang": "Gói thầu số 6: \nThi công xây dựng bổ sung, cải tạo nâng cấp các hạng mục; lắp đặt thiết bị điều hoà",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng hạng mục SCL: ĐZ 171 & 172 Thanh Nông-Kim Bôi và nhánh rẽ Trung Sơn",
+            "chudautu": "Công ty Điện lực Hòa Bình - Chi nhánh Tổng công ty Điện lực miền Bắc",
+            "createdBy": "vnz000012015-03",
+            "publicDate": "2024-09-18 09:15:44",
+            "projectName": null,
+            "bidCloseDate": "2024-09-27 10:00:00",
+            "id_muasamcong": "c1a50f20-4ee7-46f5-b8d6-6e01698b9ae6",
+            "tongmuc_dautu": 2425982400.0,
+            "bidNamePlanNew": "PL2400180460",
+            "dotbien_hatang": "Thi công xây dựng hạng mục SCL: ĐZ 171 & 172 Thanh Nông-Kim Bôi và nhánh rẽ Trung Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 1:Thi công xây dựng công trình",
+            "chudautu": "Ủy ban nhân dân Thị trấn Lương Sơn",
+            "createdBy": "vnz000031153",
+            "publicDate": "2025-03-14 10:49:44",
+            "projectName": null,
+            "bidCloseDate": "2025-03-21 15:00:00",
+            "id_muasamcong": "c2425f98-1562-4ce4-a2e7-211d55e71888",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500036329",
+            "dotbien_hatang": "Gói 1:Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình và lắp đặt thiết bị",
+            "chudautu": "PHÒNG KINH TẾ HUYỆN LƯƠNG SƠN",
+            "createdBy": "vn5400320638",
+            "publicDate": "2023-03-12 10:13:36",
+            "projectName": null,
+            "bidCloseDate": "2023-03-22 10:00:00",
+            "id_muasamcong": "c2f1677d-e819-4cd3-93d0-ab406a350d35",
+            "tongmuc_dautu": 10086680000.0,
+            "bidNamePlanNew": "PL2300009896",
+            "dotbien_hatang": "Thi công xây dựng công trình và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Ủy ban nhân dân xã Thanh Cao",
+            "createdBy": "vn0102986617",
+            "publicDate": "2022-12-12 17:27:09",
+            "projectName": null,
+            "bidCloseDate": "2022-12-17 15:30:00",
+            "id_muasamcong": "c6f6e605-5e4e-49dc-8dcf-752bf3845247",
+            "tongmuc_dautu": 4270583000.0,
+            "bidNamePlanNew": "PL2200065686",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 11: Thi công xây dựng các hạng mục công trình; hệ thống PCCC trong, ngoài nhà và lắp đặt HT lọc nước RO; HT thông tin liên lạc",
+            "chudautu": "Trường Sĩ quan Chính trị/ Bộ Quốc phòng",
+            "createdBy": "vnz000015615",
+            "publicDate": "2024-07-10 14:40:01",
+            "projectName": "Liên danh Pris - Vina",
+            "bidCloseDate": "2024-07-28 15:00:00",
+            "id_muasamcong": "c767b377-0de8-4e3f-b677-4040c4bba6ae",
+            "tongmuc_dautu": 79696579846.0,
+            "bidNamePlanNew": "PL2400003180",
+            "dotbien_hatang": "Gói thầu số 11: Thi công xây dựng các hạng mục công trình; hệ thống PCCC trong, ngoài nhà và lắp đặt HT lọc nước RO; HT thông tin liên lạc",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 1: Thi công xây dựng công trình và đảm bảo an toàn giao thông",
+            "chudautu": "Phòng Quản lý đô thị huyện Lương Sơn",
+            "createdBy": "vn5400528876",
+            "publicDate": "2024-08-16 17:25:35",
+            "projectName": "Liên danh Công ty trách nhiệm hữu hạn Nam Thắng HB - Công ty Cổ phần Lạc Thịnh",
+            "bidCloseDate": "2024-08-26 09:30:00",
+            "id_muasamcong": "c803bd17-4f40-4df9-b2e8-30036853d5b6",
+            "tongmuc_dautu": 3831088151.0,
+            "bidNamePlanNew": "PL2400139299",
+            "dotbien_hatang": "Gói 1: Thi công xây dựng công trình và đảm bảo an toàn giao thông",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Phòng Giáo dục và Đào tạo Lương Sơn",
+            "createdBy": "vn5400320606",
+            "publicDate": "2023-08-30 15:03:42",
+            "projectName": null,
+            "bidCloseDate": "2023-09-09 15:30:00",
+            "id_muasamcong": "c942b223-b9a9-4f56-94cc-3d40e6c020c9",
+            "tongmuc_dautu": 4671008000.0,
+            "bidNamePlanNew": "PL2300126074",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Phòng Nông nghiệp và PTNT huyện Lương Sơn",
+            "createdBy": "vnz000006986",
+            "publicDate": "2024-09-03 00:00:48",
+            "projectName": "Liên danh Công ty TNHH MTV Minh Giang HB và Công ty TNHH Á châu HB",
+            "bidCloseDate": "2024-09-11 18:00:00",
+            "id_muasamcong": "c9560f9f-f618-4486-8543-d4b2064b910e",
+            "tongmuc_dautu": 4320982000.0,
+            "bidNamePlanNew": "PL2400150578",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Văn Phòng HĐND và UBND huyện Lương Sơn",
+            "createdBy": "vn5400320645",
+            "publicDate": "2024-11-07 17:18:23",
+            "projectName": null,
+            "bidCloseDate": "2024-11-22 15:10:00",
+            "id_muasamcong": "c989be96-1f71-4fd3-a464-aa79a9769049",
+            "tongmuc_dautu": 1966810000.0,
+            "bidNamePlanNew": "PL2400248834",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 2: Giám sát thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lương Sơn",
+            "createdBy": "vn5400462488",
+            "publicDate": "2023-10-17 10:02:37",
+            "projectName": "FIRA - BACHHOP",
+            "bidCloseDate": "2023-11-06 10:30:00",
+            "id_muasamcong": "c9fe8249-9787-4af8-aec5-3f575c19b805",
+            "tongmuc_dautu": 847830000.0,
+            "bidNamePlanNew": "PL2300178705",
+            "dotbien_hatang": "Gói 2: Giám sát thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng hạng mục SCL: ĐZ 171 & 172 Thanh Nông-Kim Bôi và nhánh rẽ Trung Sơn",
+            "chudautu": "Công ty Điện lực Hòa Bình - Chi nhánh Tổng công ty Điện lực miền Bắc",
+            "createdBy": "vnz000012015-03",
+            "publicDate": "2024-08-31 10:02:43",
+            "projectName": null,
+            "bidCloseDate": "2024-09-11 09:00:00",
+            "id_muasamcong": "cdbcb5c2-b739-4ef5-acbe-33d29a674498",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400180460",
+            "dotbien_hatang": "Thi công xây dựng hạng mục SCL: ĐZ 171 & 172 Thanh Nông-Kim Bôi và nhánh rẽ Trung Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 9: Thi công xây dựng, cải tạo bổ sung các đơn vị thuộc Lữ đoàn 134",
+            "chudautu": "Lữ đoàn 134 - Binh chủng thông tin liên lạc",
+            "createdBy": "vnz000013089",
+            "publicDate": "2024-03-28 21:32:00",
+            "projectName": "Liên danh Công ty TNHH Tư vấn xây dựng và Thương mại ATT Việt Nam – Công ty TNHH Xây dựng và Thương mại ABB",
+            "bidCloseDate": "2024-04-16 09:00:00",
+            "id_muasamcong": "cf3f62ba-9f50-437c-807d-9600c46a89bf",
+            "tongmuc_dautu": 24589505000.0,
+            "bidNamePlanNew": "PL2300227520",
+            "dotbien_hatang": "Gói thầu số 9: Thi công xây dựng, cải tạo bổ sung các đơn vị thuộc Lữ đoàn 134",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình Khu tái định cư đường tránh Xuân Mai",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lương Sơn",
+            "createdBy": "vn5400462488",
+            "publicDate": "2023-12-20 11:00:50",
+            "projectName": null,
+            "bidCloseDate": "2023-12-31 08:00:00",
+            "id_muasamcong": "cf9df958-de84-480e-bd7d-02ee74bec0f8",
+            "tongmuc_dautu": 10506786000.0,
+            "bidNamePlanNew": "PL2300239891",
+            "dotbien_hatang": "Thi công xây dựng công trình Khu tái định cư đường tránh Xuân Mai",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và đảm bảo an toàn giao thông",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lương Sơn",
+            "createdBy": "vn5400462488",
+            "publicDate": "2023-03-29 16:38:22",
+            "projectName": null,
+            "bidCloseDate": "2023-04-08 10:30:00",
+            "id_muasamcong": "cfdd281d-4956-4bee-be29-9c60415e69c0",
+            "tongmuc_dautu": 16548454000.0,
+            "bidNamePlanNew": "PL2300027487",
+            "dotbien_hatang": "Thi công xây dựng và đảm bảo an toàn giao thông",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Phòng Nông nghiệp và PTNT huyện Lương Sơn",
+            "createdBy": "vn5400374295",
+            "publicDate": "2023-06-06 13:36:50",
+            "projectName": null,
+            "bidCloseDate": "2023-06-13 09:30:00",
+            "id_muasamcong": "d1b12852-0e0c-4186-868d-5c3b7dbef840",
+            "tongmuc_dautu": 1080000000.0,
+            "bidNamePlanNew": "PL2300087539",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Ủy Ban Nhân Dân Xã Nhuận Trạch",
+            "createdBy": "vn5400189743",
+            "publicDate": "2023-06-06 14:45:15",
+            "projectName": null,
+            "bidCloseDate": "2023-06-13 15:30:00",
+            "id_muasamcong": "d2659016-54af-4ef7-afc2-0863caab9747",
+            "tongmuc_dautu": 1162487000.0,
+            "bidNamePlanNew": "PL2300084589",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Phòng Giáo dục và Đào tạo Lương Sơn",
+            "createdBy": "vn5400320606",
+            "publicDate": "2023-08-11 15:26:19",
+            "projectName": null,
+            "bidCloseDate": "2023-08-18 17:25:00",
+            "id_muasamcong": "d61245b8-7df6-4ed7-be9e-f43a74093ff0",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300126074",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 1: Thi công xây dựng công trình và đảm bảo an toàn giao thông",
+            "chudautu": "Phòng Quản lý đô thị huyện Lương Sơn",
+            "createdBy": "vn5400528876",
+            "publicDate": "2024-11-01 17:40:42",
+            "projectName": null,
+            "bidCloseDate": "2024-11-11 09:00:00",
+            "id_muasamcong": "db8eee6c-38ef-4092-a9cc-0cfc466f128b",
+            "tongmuc_dautu": 8812708000.0,
+            "bidNamePlanNew": "PL2400077252",
+            "dotbien_hatang": "Gói 1: Thi công xây dựng công trình và đảm bảo an toàn giao thông",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 1: Thi công xây dựng công trình",
+            "chudautu": "Ban chỉ huy quân sự huyện Lương Sơn tỉnh Hòa Bình",
+            "createdBy": "vnz000037270",
+            "publicDate": "2024-11-22 15:46:06",
+            "projectName": null,
+            "bidCloseDate": "2024-12-02 17:00:00",
+            "id_muasamcong": "de78ad44-7b46-4c99-992b-e60a43ff66b1",
+            "tongmuc_dautu": 4154262103.0,
+            "bidNamePlanNew": "PL2400268747",
+            "dotbien_hatang": "Gói 1: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Công ty Điện lực Hòa Bình - Chi nhánh Tổng công ty Điện lực miền Bắc",
+            "createdBy": "vnz000012015-06",
+            "publicDate": "2022-11-13 16:53:33",
+            "projectName": null,
+            "bidCloseDate": "2022-11-24 09:00:00",
+            "id_muasamcong": "e20c2db6-7f05-4adf-91df-5f4a9cadbc88",
+            "tongmuc_dautu": 7311129998.0,
+            "bidNamePlanNew": "PL2200021518",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình và đảm bảo ATGT",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lương Sơn",
+            "createdBy": "vn5400462488",
+            "publicDate": "2022-11-26 15:20:48",
+            "projectName": null,
+            "bidCloseDate": "2022-12-06 16:00:00",
+            "id_muasamcong": "e5ffbb3c-902f-466d-8442-f169a420b79f",
+            "tongmuc_dautu": 4818686000.0,
+            "bidNamePlanNew": "PL2200051029",
+            "dotbien_hatang": "Thi công xây dựng công trình và đảm bảo ATGT",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp (Gói thầu số 07)",
+            "chudautu": "Uỷ ban nhân dân xã Tân Vinh",
+            "createdBy": "vn5400189856",
+            "publicDate": "2022-10-17 11:21:17",
+            "projectName": "Liên danh Công ty TNHH một thành viên xây dựng Tiến Bình và Công ty TNHH một thành viên thương mại và xây dựng Thịnh Cường",
+            "bidCloseDate": "2022-10-25 09:15:00",
+            "id_muasamcong": "ea07f7e0-d5e3-4b6b-a22c-92930de925d0",
+            "tongmuc_dautu": 1999512000.0,
+            "bidNamePlanNew": "PL2200021478",
+            "dotbien_hatang": "Thi công xây lắp (Gói thầu số 07)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 1: Thi công xây dựng và lắp đặt thiết bị công trình",
+            "chudautu": "Phòng Quản lý đô thị huyện Lương Sơn",
+            "createdBy": "vn5400528876",
+            "publicDate": "2024-09-20 22:25:35",
+            "projectName": null,
+            "bidCloseDate": "2024-10-07 17:28:00",
+            "id_muasamcong": "ea4ed339-9a62-4eef-9cba-a11ce480c672",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400057351",
+            "dotbien_hatang": "Gói 1: Thi công xây dựng và lắp đặt thiết bị công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 1: Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lương Sơn",
+            "createdBy": "vn5400462488",
+            "publicDate": "2025-03-07 13:57:15",
+            "projectName": null,
+            "bidCloseDate": "2025-03-19 15:00:00",
+            "id_muasamcong": "edab9c38-608c-4918-92b1-b91bb2464272",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500027479",
+            "dotbien_hatang": "Gói 1: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu XLTB-01: Thi công xây dựng và cung cấp thiết bị công trình",
+            "chudautu": "Lữ đoàn 139, Binh chủng thông tin liên lạc",
+            "createdBy": "vnz000014603",
+            "publicDate": "2024-09-20 16:34:16",
+            "projectName": null,
+            "bidCloseDate": "2024-09-27 16:00:00",
+            "id_muasamcong": "f2a42e28-ce4d-4c87-bb41-66e56ade1bc5",
+            "tongmuc_dautu": 3651138000.0,
+            "bidNamePlanNew": "PL2400205959",
+            "dotbien_hatang": "Gói thầu XLTB-01: Thi công xây dựng và cung cấp thiết bị công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Phòng Giáo dục và Đào tạo Lương Sơn",
+            "createdBy": "vn5400320606",
+            "publicDate": "2023-02-06 16:24:03",
+            "projectName": null,
+            "bidCloseDate": "2023-02-13 16:00:00",
+            "id_muasamcong": "f6fe7bd8-4e85-4ca7-98c7-4c206d358eba",
+            "tongmuc_dautu": 1345002000.0,
+            "bidNamePlanNew": "PL2300010339",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 1: Thi công xây dựng công trình Cải tạo, nâng cấp hệ thống đường giao thông xóm Đoàn Kết, xã Lâm Sơn, huyện Lương Sơn",
+            "chudautu": "UBND xã Lâm sơn",
+            "createdBy": "vn5400189905",
+            "publicDate": "2024-08-30 16:12:29",
+            "projectName": null,
+            "bidCloseDate": "2024-09-09 08:00:00",
+            "id_muasamcong": "f86dea3b-3f2b-415f-b5de-3f1e19471e45",
+            "tongmuc_dautu": 7345112000.0,
+            "bidNamePlanNew": "PL2400173617",
+            "dotbien_hatang": "Gói 1: Thi công xây dựng công trình Cải tạo, nâng cấp hệ thống đường giao thông xóm Đoàn Kết, xã Lâm Sơn, huyện Lương Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Phòng Giáo dục và Đào tạo Lương Sơn",
+            "createdBy": "vn5400320606",
+            "publicDate": "2023-08-16 14:24:18",
+            "projectName": null,
+            "bidCloseDate": "2023-08-24 15:15:00",
+            "id_muasamcong": "f8fad052-9671-43dd-bfb8-1d81d29d1d9e",
+            "tongmuc_dautu": 1293568000.0,
+            "bidNamePlanNew": "PL2300126087",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 1: Thi công xây dựng công trình",
+            "chudautu": "Ủy ban nhân dân xã Hòa Sơn",
+            "createdBy": "vnz000007303",
+            "publicDate": "2024-11-06 14:26:54",
+            "projectName": null,
+            "bidCloseDate": "2024-11-14 10:15:00",
+            "id_muasamcong": "f92c5a8e-57b0-49c3-a89f-0bff0c62b5a8",
+            "tongmuc_dautu": 3001141000.0,
+            "bidNamePlanNew": "PL2400244017",
+            "dotbien_hatang": "Gói 1: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng củng cố sửa chữa tường rào Lữ đoàn 139",
+            "chudautu": "Lữ đoàn 139, Binh chủng thông tin liên lạc",
+            "createdBy": "vnz000014603",
+            "publicDate": "2022-11-09 21:25:51",
+            "projectName": null,
+            "bidCloseDate": "2022-11-17 08:00:00",
+            "id_muasamcong": "fab78a9d-7554-4166-ade7-2fa52e70d583",
+            "tongmuc_dautu": 290000000.0,
+            "bidNamePlanNew": "PL2200041276",
+            "dotbien_hatang": "Thi công xây dựng củng cố sửa chữa tường rào Lữ đoàn 139",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Sửa chữa, nâng cấp nhà bia liệt sỹ xã Tân Vinh, huyện Lương Sơn",
+            "chudautu": "Phòng Lao động Thương binh và Xã hội huyện Lương Sơn",
+            "createdBy": "vn5400320589",
+            "publicDate": "2023-02-27 17:07:56",
+            "projectName": null,
+            "bidCloseDate": "2023-03-07 17:20:00",
+            "id_muasamcong": "fc1d8984-6711-487e-b4ae-6467408c127c",
+            "tongmuc_dautu": 1825550000.0,
+            "bidNamePlanNew": "PL2300021683",
+            "dotbien_hatang": "Thi công xây dựng công trình: Sửa chữa, nâng cấp nhà bia liệt sỹ xã Tân Vinh, huyện Lương Sơn",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình và đảm bảo an toàn giao thông",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Lương Sơn",
+            "createdBy": "vn5400462488",
+            "publicDate": "2024-12-16 17:06:15",
+            "projectName": "Liên danh Công ty TNHH xây dựng và du lịch Quỳnh Anh - và Công ty cổ phần phát triển Thương mại - xây dựng Thuận Phát",
+            "bidCloseDate": "2024-12-25 14:00:00",
+            "id_muasamcong": "febaae61-daa4-4584-8c51-05553a195ed8",
+            "tongmuc_dautu": 16830569000.0,
+            "bidNamePlanNew": "PL2400300427",
+            "dotbien_hatang": "Thi công xây dựng công trình và đảm bảo an toàn giao thông",
+            "link_muasamcong": ""
+        }
+    ],
+    "so_dot_bien": 137,
+    "thu_tu_sap_xep": 111,
+    "polygon": [
+        [
+            [
+                105.483757,
+                20.947396
+            ],
+            [
+                105.484121,
+                20.947131
+            ],
+            [
+                105.486217,
+                20.94505
+            ],
+            [
+                105.488107,
+                20.942459
+            ],
+            [
+                105.493791,
+                20.935045
+            ],
+            [
+                105.495547,
+                20.933411
+            ],
+            [
+                105.498794,
+                20.931566
+            ],
+            [
+                105.501786,
+                20.930352
+            ],
+            [
+                105.503256,
+                20.929496
+            ],
+            [
+                105.503256,
+                20.929496
+            ],
+            [
+                105.505953,
+                20.926707
+            ],
+            [
+                105.510447,
+                20.923604
+            ],
+            [
+                105.512878,
+                20.922337
+            ],
+            [
+                105.515813,
+                20.921892
+            ],
+            [
+                105.516529,
+                20.921868
+            ],
+            [
+                105.516834,
+                20.921889
+            ],
+            [
+                105.518117,
+                20.923466
+            ],
+            [
+                105.521543,
+                20.928263
+            ],
+            [
+                105.522032,
+                20.928834
+            ],
+            [
+                105.522276,
+                20.929062
+            ],
+            [
+                105.522781,
+                20.929117
+            ],
+            [
+                105.522902,
+                20.929117
+            ],
+            [
+                105.524466,
+                20.928483
+            ],
+            [
+                105.526655,
+                20.927675
+            ],
+            [
+                105.528237,
+                20.927556
+            ],
+            [
+                105.530188,
+                20.928351
+            ],
+            [
+                105.532384,
+                20.929603
+            ],
+            [
+                105.535648,
+                20.930527
+            ],
+            [
+                105.537725,
+                20.928473
+            ],
+            [
+                105.54037,
+                20.926149
+            ],
+            [
+                105.544044,
+                20.923403
+            ],
+            [
+                105.546039,
+                20.922034
+            ],
+            [
+                105.546607,
+                20.922032
+            ],
+            [
+                105.547841,
+                20.922652
+            ],
+            [
+                105.551263,
+                20.925847
+            ],
+            [
+                105.552782,
+                20.926821
+            ],
+            [
+                105.553825,
+                20.926907
+            ],
+            [
+                105.554488,
+                20.926905
+            ],
+            [
+                105.556002,
+                20.926455
+            ],
+            [
+                105.559785,
+                20.924839
+            ],
+            [
+                105.560372,
+                20.924629
+            ],
+            [
+                105.561279,
+                20.924519
+            ],
+            [
+                105.564146,
+                20.925716
+            ],
+            [
+                105.566661,
+                20.927081
+            ],
+            [
+                105.570387,
+                20.926606
+            ],
+            [
+                105.571513,
+                20.926602
+            ],
+            [
+                105.57285,
+                20.926796
+            ],
+            [
+                105.574048,
+                20.927255
+            ],
+            [
+                105.576093,
+                20.92857
+            ],
+            [
+                105.577431,
+                20.929161
+            ],
+            [
+                105.578557,
+                20.929223
+            ],
+            [
+                105.57926,
+                20.929022
+            ],
+            [
+                105.57989,
+                20.928359
+            ],
+            [
+                105.580237,
+                20.927035
+            ],
+            [
+                105.580514,
+                20.926043
+            ],
+            [
+                105.581002,
+                20.924851
+            ],
+            [
+                105.581632,
+                20.924055
+            ],
+            [
+                105.582685,
+                20.923456
+            ],
+            [
+                105.584018,
+                20.922658
+            ],
+            [
+                105.584789,
+                20.921928
+            ],
+            [
+                105.583024,
+                20.920083
+            ],
+            [
+                105.582531,
+                20.920018
+            ],
+            [
+                105.581829,
+                20.920483
+            ],
+            [
+                105.580931,
+                20.921104
+            ],
+            [
+                105.580521,
+                20.92117
+            ],
+            [
+                105.579805,
+                20.921076
+            ],
+            [
+                105.579085,
+                20.920724
+            ],
+            [
+                105.579821,
+                20.92012
+            ],
+            [
+                105.580163,
+                20.919665
+            ],
+            [
+                105.580711,
+                20.918757
+            ],
+            [
+                105.580776,
+                20.917785
+            ],
+            [
+                105.580568,
+                20.917398
+            ],
+            [
+                105.579876,
+                20.916623
+            ],
+            [
+                105.579737,
+                20.9163
+            ],
+            [
+                105.5792,
+                20.915887
+            ],
+            [
+                105.577868,
+                20.915294
+            ],
+            [
+                105.576848,
+                20.914553
+            ],
+            [
+                105.575715,
+                20.913813
+            ],
+            [
+                105.573677,
+                20.913182
+            ],
+            [
+                105.567837,
+                20.911352
+            ],
+            [
+                105.561871,
+                20.910273
+            ],
+            [
+                105.560817,
+                20.909726
+            ],
+            [
+                105.558707,
+                20.908414
+            ],
+            [
+                105.556713,
+                20.906443
+            ],
+            [
+                105.555774,
+                20.905456
+            ],
+            [
+                105.556036,
+                20.904623
+            ],
+            [
+                105.556213,
+                20.904063
+            ],
+            [
+                105.557204,
+                20.903084
+            ],
+            [
+                105.558677,
+                20.902345
+            ],
+            [
+                105.562342,
+                20.900317
+            ],
+            [
+                105.562893,
+                20.900011
+            ],
+            [
+                105.563506,
+                20.899429
+            ],
+            [
+                105.563994,
+                20.898268
+            ],
+            [
+                105.563992,
+                20.897688
+            ],
+            [
+                105.563991,
+                20.897263
+            ],
+            [
+                105.563907,
+                20.896993
+            ],
+            [
+                105.563251,
+                20.896995
+            ],
+            [
+                105.56194,
+                20.897386
+            ],
+            [
+                105.561498,
+                20.897206
+            ],
+            [
+                105.56088,
+                20.895328
+            ],
+            [
+                105.56032,
+                20.892999
+            ],
+            [
+                105.560313,
+                20.892968
+            ],
+            [
+                105.55993,
+                20.891374
+            ],
+            [
+                105.559109,
+                20.890608
+            ],
+            [
+                105.55822,
+                20.88955
+            ],
+            [
+                105.556407,
+                20.887314
+            ],
+            [
+                105.556242,
+                20.886966
+            ],
+            [
+                105.556363,
+                20.886541
+            ],
+            [
+                105.557218,
+                20.884876
+            ],
+            [
+                105.557217,
+                20.884373
+            ],
+            [
+                105.556806,
+                20.88422
+            ],
+            [
+                105.55451,
+                20.884305
+            ],
+            [
+                105.553894,
+                20.884191
+            ],
+            [
+                105.552991,
+                20.883884
+            ],
+            [
+                105.552785,
+                20.883692
+            ],
+            [
+                105.553436,
+                20.882746
+            ],
+            [
+                105.553671,
+                20.882746
+            ],
+            [
+                105.553984,
+                20.882449
+            ],
+            [
+                105.554138,
+                20.881563
+            ],
+            [
+                105.554136,
+                20.880973
+            ],
+            [
+                105.554212,
+                20.880456
+            ],
+            [
+                105.55429,
+                20.88016
+            ],
+            [
+                105.554916,
+                20.879789
+            ],
+            [
+                105.556015,
+                20.879712
+            ],
+            [
+                105.55996,
+                20.880551
+            ],
+            [
+                105.559606,
+                20.879748
+            ],
+            [
+                105.55943,
+                20.878932
+            ],
+            [
+                105.559427,
+                20.878197
+            ],
+            [
+                105.559599,
+                20.877788
+            ],
+            [
+                105.560292,
+                20.877215
+            ],
+            [
+                105.561484,
+                20.876753
+            ],
+            [
+                105.562633,
+                20.876309
+            ],
+            [
+                105.564366,
+                20.875405
+            ],
+            [
+                105.566876,
+                20.873192
+            ],
+            [
+                105.568863,
+                20.870736
+            ],
+            [
+                105.569511,
+                20.870084
+            ],
+            [
+                105.571352,
+                20.870089
+            ],
+            [
+                105.572229,
+                20.869936
+            ],
+            [
+                105.573264,
+                20.869332
+            ],
+            [
+                105.573819,
+                20.86858
+            ],
+            [
+                105.574371,
+                20.866928
+            ],
+            [
+                105.575632,
+                20.862873
+            ],
+            [
+                105.576079,
+                20.862043
+            ],
+            [
+                105.579769,
+                20.8592
+            ],
+            [
+                105.58046,
+                20.858937
+            ],
+            [
+                105.581082,
+                20.858935
+            ],
+            [
+                105.582259,
+                20.859127
+            ],
+            [
+                105.582748,
+                20.859069
+            ],
+            [
+                105.584974,
+                20.857985
+            ],
+            [
+                105.584739,
+                20.85632
+            ],
+            [
+                105.584937,
+                20.854043
+            ],
+            [
+                105.585417,
+                20.851617
+            ],
+            [
+                105.585516,
+                20.849199
+            ],
+            [
+                105.585137,
+                20.84491
+            ],
+            [
+                105.585274,
+                20.84273
+            ],
+            [
+                105.585483,
+                20.842048
+            ],
+            [
+                105.586075,
+                20.841181
+            ],
+            [
+                105.586127,
+                20.840723
+            ],
+            [
+                105.585693,
+                20.840215
+            ],
+            [
+                105.584011,
+                20.839102
+            ],
+            [
+                105.580702,
+                20.836518
+            ],
+            [
+                105.580321,
+                20.835858
+            ],
+            [
+                105.579959,
+                20.833188
+            ],
+            [
+                105.579614,
+                20.827999
+            ],
+            [
+                105.579286,
+                20.826932
+            ],
+            [
+                105.578416,
+                20.825713
+            ],
+            [
+                105.577004,
+                20.824243
+            ],
+            [
+                105.575322,
+                20.822824
+            ],
+            [
+                105.574509,
+                20.822419
+            ],
+            [
+                105.573585,
+                20.823586
+            ],
+            [
+                105.572628,
+                20.82455
+            ],
+            [
+                105.570723,
+                20.825887
+            ],
+            [
+                105.570088,
+                20.826247
+            ],
+            [
+                105.568249,
+                20.826658
+            ],
+            [
+                105.565836,
+                20.825741
+            ],
+            [
+                105.564095,
+                20.824773
+            ],
+            [
+                105.56268,
+                20.823675
+            ],
+            [
+                105.560662,
+                20.82012
+            ],
+            [
+                105.559966,
+                20.81798
+            ],
+            [
+                105.559886,
+                20.814995
+            ],
+            [
+                105.559467,
+                20.813438
+            ],
+            [
+                105.55829,
+                20.811625
+            ],
+            [
+                105.555669,
+                20.809816
+            ],
+            [
+                105.554014,
+                20.809107
+            ],
+            [
+                105.55078,
+                20.809247
+            ],
+            [
+                105.552423,
+                20.806711
+            ],
+            [
+                105.555242,
+                20.806118
+            ],
+            [
+                105.559367,
+                20.804871
+            ],
+            [
+                105.562327,
+                20.805121
+            ],
+            [
+                105.564255,
+                20.805374
+            ],
+            [
+                105.565635,
+                20.806408
+            ],
+            [
+                105.568411,
+                20.808715
+            ],
+            [
+                105.574956,
+                20.808344
+            ],
+            [
+                105.575823,
+                20.80849
+            ],
+            [
+                105.581349,
+                20.81114
+            ],
+            [
+                105.583007,
+                20.812172
+            ],
+            [
+                105.583166,
+                20.812542
+            ],
+            [
+                105.583247,
+                20.813135
+            ],
+            [
+                105.583291,
+                20.81421
+            ],
+            [
+                105.583296,
+                20.815544
+            ],
+            [
+                105.583777,
+                20.817692
+            ],
+            [
+                105.584178,
+                20.819396
+            ],
+            [
+                105.585131,
+                20.821394
+            ],
+            [
+                105.586321,
+                20.823392
+            ],
+            [
+                105.589413,
+                20.828274
+            ],
+            [
+                105.593534,
+                20.834042
+            ],
+            [
+                105.595989,
+                20.837221
+            ],
+            [
+                105.598599,
+                20.83951
+            ],
+            [
+                105.599366,
+                20.840178
+            ],
+            [
+                105.599785,
+                20.840544
+            ],
+            [
+                105.600339,
+                20.840987
+            ],
+            [
+                105.60097,
+                20.841281
+            ],
+            [
+                105.602074,
+                20.841277
+            ],
+            [
+                105.603648,
+                20.840827
+            ],
+            [
+                105.609941,
+                20.837765
+            ],
+            [
+                105.61192,
+                20.836357
+            ],
+            [
+                105.612975,
+                20.835642
+            ],
+            [
+                105.614255,
+                20.834571
+            ],
+            [
+                105.615759,
+                20.832575
+            ],
+            [
+                105.616286,
+                20.832076
+            ],
+            [
+                105.616663,
+                20.831861
+            ],
+            [
+                105.617871,
+                20.831573
+            ],
+            [
+                105.625808,
+                20.832041
+            ],
+            [
+                105.626714,
+                20.832038
+            ],
+            [
+                105.62762,
+                20.83175
+            ],
+            [
+                105.628072,
+                20.831464
+            ],
+            [
+                105.629579,
+                20.83025
+            ],
+            [
+                105.630182,
+                20.829822
+            ],
+            [
+                105.63071,
+                20.829606
+            ],
+            [
+                105.631465,
+                20.829604
+            ],
+            [
+                105.632297,
+                20.829672
+            ],
+            [
+                105.63272,
+                20.829965
+            ],
+            [
+                105.63284,
+                20.830298
+            ],
+            [
+                105.632842,
+                20.830743
+            ],
+            [
+                105.632491,
+                20.831522
+            ],
+            [
+                105.632023,
+                20.832747
+            ],
+            [
+                105.631913,
+                20.834638
+            ],
+            [
+                105.632279,
+                20.837416
+            ],
+            [
+                105.632637,
+                20.838304
+            ],
+            [
+                105.633704,
+                20.839079
+            ],
+            [
+                105.634652,
+                20.83952
+            ],
+            [
+                105.635716,
+                20.839516
+            ],
+            [
+                105.636378,
+                20.839011
+            ],
+            [
+                105.635734,
+                20.837292
+            ],
+            [
+                105.635084,
+                20.834776
+            ],
+            [
+                105.635081,
+                20.834062
+            ],
+            [
+                105.635125,
+                20.833393
+            ],
+            [
+                105.635925,
+                20.832053
+            ],
+            [
+                105.636773,
+                20.830757
+            ],
+            [
+                105.638002,
+                20.829905
+            ],
+            [
+                105.640131,
+                20.82905
+            ],
+            [
+                105.640793,
+                20.828646
+            ],
+            [
+                105.641171,
+                20.828333
+            ],
+            [
+                105.641689,
+                20.827484
+            ],
+            [
+                105.641782,
+                20.827082
+            ],
+            [
+                105.64178,
+                20.826681
+            ],
+            [
+                105.641254,
+                20.825657
+            ],
+            [
+                105.640826,
+                20.825213
+            ],
+            [
+                105.640431,
+                20.825066
+            ],
+            [
+                105.639996,
+                20.825163
+            ],
+            [
+                105.638351,
+                20.824837
+            ],
+            [
+                105.637352,
+                20.824455
+            ],
+            [
+                105.633943,
+                20.823087
+            ],
+            [
+                105.633061,
+                20.822759
+            ],
+            [
+                105.632062,
+                20.822321
+            ],
+            [
+                105.629652,
+                20.821281
+            ],
+            [
+                105.629003,
+                20.820566
+            ],
+            [
+                105.628825,
+                20.81996
+            ],
+            [
+                105.628881,
+                20.819352
+            ],
+            [
+                105.629166,
+                20.817309
+            ],
+            [
+                105.629132,
+                20.816177
+            ],
+            [
+                105.629772,
+                20.814905
+            ],
+            [
+                105.630238,
+                20.81402
+            ],
+            [
+                105.630411,
+                20.813247
+            ],
+            [
+                105.630406,
+                20.812087
+            ],
+            [
+                105.630284,
+                20.811149
+            ],
+            [
+                105.630283,
+                20.810708
+            ],
+            [
+                105.630515,
+                20.810044
+            ],
+            [
+                105.631271,
+                20.808551
+            ],
+            [
+                105.63162,
+                20.807667
+            ],
+            [
+                105.63179,
+                20.806286
+            ],
+            [
+                105.632019,
+                20.80507
+            ],
+            [
+                105.632554,
+                20.803917
+            ],
+            [
+                105.634242,
+                20.802647
+            ],
+            [
+                105.634314,
+                20.802011
+            ],
+            [
+                105.634162,
+                20.801377
+            ],
+            [
+                105.633182,
+                20.800252
+            ],
+            [
+                105.630751,
+                20.797538
+            ],
+            [
+                105.630183,
+                20.796685
+            ],
+            [
+                105.629637,
+                20.795115
+            ],
+            [
+                105.629589,
+                20.794689
+            ],
+            [
+                105.629757,
+                20.793699
+            ],
+            [
+                105.63017,
+                20.793053
+            ],
+            [
+                105.630677,
+                20.792713
+            ],
+            [
+                105.631341,
+                20.792519
+            ],
+            [
+                105.6321,
+                20.792496
+            ],
+            [
+                105.638623,
+                20.792543
+            ],
+            [
+                105.648468,
+                20.792699
+            ],
+            [
+                105.64844,
+                20.786088
+            ],
+            [
+                105.648249,
+                20.7823
+            ],
+            [
+                105.648805,
+                20.781068
+            ],
+            [
+                105.649171,
+                20.779397
+            ],
+            [
+                105.649523,
+                20.776822
+            ],
+            [
+                105.649356,
+                20.772316
+            ],
+            [
+                105.649344,
+                20.769542
+            ],
+            [
+                105.649334,
+                20.767115
+            ],
+            [
+                105.649614,
+                20.763717
+            ],
+            [
+                105.650263,
+                20.760525
+            ],
+            [
+                105.65106,
+                20.757263
+            ],
+            [
+                105.652515,
+                20.752959
+            ],
+            [
+                105.655615,
+                20.745909
+            ],
+            [
+                105.656567,
+                20.744449
+            ],
+            [
+                105.659057,
+                20.741181
+            ],
+            [
+                105.662433,
+                20.738117
+            ],
+            [
+                105.666321,
+                20.734635
+            ],
+            [
+                105.666394,
+                20.734427
+            ],
+            [
+                105.666319,
+                20.734081
+            ],
+            [
+                105.666171,
+                20.733943
+            ],
+            [
+                105.664165,
+                20.729929
+            ],
+            [
+                105.662306,
+                20.725914
+            ],
+            [
+                105.661446,
+                20.724014
+            ],
+            [
+                105.662726,
+                20.720867
+            ],
+            [
+                105.663377,
+                20.719846
+            ],
+            [
+                105.66439,
+                20.718484
+            ],
+            [
+                105.668989,
+                20.712594
+            ],
+            [
+                105.673884,
+                20.706583
+            ],
+            [
+                105.679119,
+                20.700731
+            ],
+            [
+                105.682499,
+                20.697442
+            ],
+            [
+                105.683511,
+                20.69608
+            ],
+            [
+                105.684015,
+                20.694959
+            ],
+            [
+                105.68401,
+                20.693841
+            ],
+            [
+                105.683406,
+                20.691686
+            ],
+            [
+                105.681088,
+                20.685544
+            ],
+            [
+                105.680319,
+                20.684349
+            ],
+            [
+                105.679297,
+                20.683554
+            ],
+            [
+                105.67679,
+                20.682645
+            ],
+            [
+                105.670075,
+                20.679875
+            ],
+            [
+                105.669563,
+                20.679158
+            ],
+            [
+                105.669561,
+                20.678679
+            ],
+            [
+                105.670148,
+                20.677158
+            ],
+            [
+                105.670569,
+                20.676438
+            ],
+            [
+                105.670994,
+                20.676436
+            ],
+            [
+                105.671927,
+                20.676512
+            ],
+            [
+                105.673114,
+                20.676348
+            ],
+            [
+                105.673622,
+                20.676026
+            ],
+            [
+                105.676493,
+                20.673059
+            ],
+            [
+                105.677592,
+                20.672176
+            ],
+            [
+                105.678352,
+                20.671374
+            ],
+            [
+                105.678687,
+                20.670334
+            ],
+            [
+                105.678932,
+                20.668256
+            ],
+            [
+                105.679431,
+                20.665937
+            ],
+            [
+                105.679929,
+                20.663379
+            ],
+            [
+                105.680804,
+                20.652313
+            ],
+            [
+                105.680728,
+                20.65142
+            ],
+            [
+                105.679625,
+                20.649365
+            ],
+            [
+                105.678815,
+                20.64772
+            ],
+            [
+                105.678667,
+                20.64724
+            ],
+            [
+                105.678664,
+                20.646553
+            ],
+            [
+                105.679746,
+                20.64394
+            ],
+            [
+                105.680977,
+                20.641875
+            ],
+            [
+                105.682592,
+                20.640069
+            ],
+            [
+                105.685359,
+                20.638135
+            ],
+            [
+                105.685452,
+                20.637113
+            ],
+            [
+                105.685233,
+                20.635556
+            ],
+            [
+                105.685058,
+                20.634358
+            ],
+            [
+                105.684289,
+                20.633083
+            ],
+            [
+                105.683096,
+                20.63181
+            ],
+            [
+                105.680799,
+                20.630221
+            ],
+            [
+                105.679694,
+                20.629666
+            ],
+            [
+                105.677657,
+                20.629434
+            ],
+            [
+                105.675622,
+                20.629442
+            ],
+            [
+                105.674604,
+                20.629526
+            ],
+            [
+                105.673504,
+                20.63009
+            ],
+            [
+                105.672998,
+                20.630571
+            ],
+            [
+                105.672072,
+                20.632172
+            ],
+            [
+                105.671567,
+                20.633213
+            ],
+            [
+                105.671144,
+                20.633294
+            ],
+            [
+                105.670804,
+                20.633296
+            ],
+            [
+                105.670464,
+                20.633137
+            ],
+            [
+                105.669953,
+                20.63258
+            ],
+            [
+                105.668928,
+                20.630906
+            ],
+            [
+                105.667821,
+                20.629872
+            ],
+            [
+                105.66646,
+                20.629078
+            ],
+            [
+                105.664168,
+                20.628448
+            ],
+            [
+                105.663741,
+                20.62797
+            ],
+            [
+                105.663739,
+                20.627491
+            ],
+            [
+                105.663906,
+                20.626851
+            ],
+            [
+                105.666336,
+                20.619971
+            ],
+            [
+                105.66701,
+                20.61893
+            ],
+            [
+                105.667769,
+                20.618048
+            ],
+            [
+                105.669063,
+                20.61731
+            ],
+            [
+                105.663202,
+                20.613588
+            ],
+            [
+                105.659252,
+                20.615808
+            ],
+            [
+                105.652114,
+                20.621232
+            ],
+            [
+                105.650884,
+                20.621237
+            ],
+            [
+                105.649144,
+                20.620424
+            ],
+            [
+                105.646026,
+                20.618659
+            ],
+            [
+                105.643929,
+                20.618667
+            ],
+            [
+                105.635843,
+                20.622522
+            ],
+            [
+                105.630606,
+                20.624225
+            ],
+            [
+                105.628918,
+                20.626671
+            ],
+            [
+                105.619677,
+                20.639066
+            ],
+            [
+                105.616621,
+                20.643903
+            ],
+            [
+                105.615941,
+                20.64471
+            ],
+            [
+                105.614078,
+                20.648739
+            ],
+            [
+                105.609511,
+                20.660018
+            ],
+            [
+                105.607465,
+                20.662388
+            ],
+            [
+                105.607469,
+                20.663431
+            ],
+            [
+                105.608587,
+                20.666209
+            ],
+            [
+                105.611192,
+                20.671068
+            ],
+            [
+                105.611787,
+                20.673685
+            ],
+            [
+                105.611397,
+                20.676283
+            ],
+            [
+                105.610485,
+                20.679068
+            ],
+            [
+                105.6048,
+                20.688824
+            ],
+            [
+                105.603152,
+                20.692307
+            ],
+            [
+                105.601337,
+                20.70031
+            ],
+            [
+                105.600434,
+                20.705529
+            ],
+            [
+                105.598969,
+                20.708664
+            ],
+            [
+                105.596573,
+                20.712423
+            ],
+            [
+                105.603164,
+                20.718245
+            ],
+            [
+                105.590881,
+                20.720856
+            ],
+            [
+                105.587546,
+                20.723807
+            ],
+            [
+                105.585848,
+                20.726548
+            ],
+            [
+                105.582092,
+                20.729299
+            ],
+            [
+                105.582766,
+                20.733724
+            ],
+            [
+                105.585601,
+                20.738091
+            ],
+            [
+                105.58555,
+                20.738133
+            ],
+            [
+                105.584873,
+                20.739905
+            ],
+            [
+                105.584689,
+                20.74105
+            ],
+            [
+                105.583405,
+                20.743314
+            ],
+            [
+                105.58101,
+                20.745061
+            ],
+            [
+                105.579085,
+                20.746038
+            ],
+            [
+                105.577719,
+                20.746526
+            ],
+            [
+                105.571418,
+                20.74857
+            ],
+            [
+                105.567266,
+                20.751366
+            ],
+            [
+                105.567124,
+                20.753797
+            ],
+            [
+                105.572023,
+                20.767218
+            ],
+            [
+                105.57462,
+                20.772784
+            ],
+            [
+                105.57463,
+                20.7755
+            ],
+            [
+                105.573424,
+                20.777219
+            ],
+            [
+                105.572063,
+                20.777939
+            ],
+            [
+                105.569788,
+                20.777517
+            ],
+            [
+                105.565541,
+                20.776388
+            ],
+            [
+                105.56221,
+                20.77697
+            ],
+            [
+                105.560397,
+                20.778692
+            ],
+            [
+                105.554365,
+                20.783223
+            ],
+            [
+                105.554554,
+                20.784265
+            ],
+            [
+                105.554005,
+                20.785658
+            ],
+            [
+                105.552537,
+                20.788502
+            ],
+            [
+                105.552494,
+                20.788754
+            ],
+            [
+                105.552498,
+                20.789969
+            ],
+            [
+                105.552583,
+                20.791183
+            ],
+            [
+                105.554288,
+                20.794213
+            ],
+            [
+                105.555665,
+                20.795878
+            ],
+            [
+                105.555747,
+                20.796258
+            ],
+            [
+                105.55575,
+                20.797093
+            ],
+            [
+                105.555429,
+                20.797473
+            ],
+            [
+                105.554221,
+                20.797856
+            ],
+            [
+                105.553172,
+                20.79786
+            ],
+            [
+                105.551236,
+                20.79779
+            ],
+            [
+                105.547767,
+                20.797725
+            ],
+            [
+                105.545266,
+                20.797657
+            ],
+            [
+                105.541917,
+                20.797251
+            ],
+            [
+                105.53877,
+                20.796805
+            ],
+            [
+                105.535786,
+                20.796966
+            ],
+            [
+                105.531837,
+                20.798117
+            ],
+            [
+                105.524264,
+                20.800873
+            ],
+            [
+                105.522412,
+                20.801865
+            ],
+            [
+                105.519354,
+                20.803848
+            ],
+            [
+                105.516282,
+                20.802111
+            ],
+            [
+                105.514344,
+                20.801434
+            ],
+            [
+                105.512327,
+                20.801288
+            ],
+            [
+                105.505955,
+                20.801459
+            ],
+            [
+                105.502808,
+                20.801316
+            ],
+            [
+                105.502082,
+                20.801091
+            ],
+            [
+                105.501596,
+                20.800561
+            ],
+            [
+                105.500947,
+                20.799424
+            ],
+            [
+                105.499323,
+                20.79609
+            ],
+            [
+                105.497622,
+                20.793969
+            ],
+            [
+                105.496975,
+                20.793592
+            ],
+            [
+                105.495805,
+                20.793405
+            ],
+            [
+                105.494111,
+                20.793486
+            ],
+            [
+                105.493143,
+                20.793489
+            ],
+            [
+                105.491045,
+                20.793267
+            ],
+            [
+                105.489915,
+                20.792891
+            ],
+            [
+                105.488299,
+                20.791985
+            ],
+            [
+                105.486599,
+                20.790168
+            ],
+            [
+                105.48498,
+                20.788503
+            ],
+            [
+                105.482232,
+                20.786613
+            ],
+            [
+                105.481747,
+                20.786235
+            ],
+            [
+                105.480779,
+                20.786238
+            ],
+            [
+                105.480135,
+                20.786771
+            ],
+            [
+                105.479815,
+                20.787379
+            ],
+            [
+                105.477058,
+                20.795698
+            ],
+            [
+                105.476418,
+                20.797369
+            ],
+            [
+                105.476421,
+                20.79828
+            ],
+            [
+                105.476585,
+                20.799266
+            ],
+            [
+                105.477558,
+                20.800857
+            ],
+            [
+                105.479262,
+                20.803888
+            ],
+            [
+                105.479263,
+                20.804344
+            ],
+            [
+                105.47913,
+                20.805123
+            ],
+            [
+                105.47798,
+                20.806776
+            ],
+            [
+                105.477015,
+                20.807614
+            ],
+            [
+                105.47637,
+                20.807767
+            ],
+            [
+                105.475967,
+                20.807844
+            ],
+            [
+                105.475079,
+                20.807847
+            ],
+            [
+                105.472982,
+                20.807701
+            ],
+            [
+                105.469996,
+                20.807329
+            ],
+            [
+                105.468625,
+                20.807561
+            ],
+            [
+                105.467941,
+                20.808132
+            ],
+            [
+                105.464783,
+                20.810109
+            ],
+            [
+                105.463764,
+                20.810334
+            ],
+            [
+                105.461881,
+                20.81056
+            ],
+            [
+                105.454234,
+                20.810446
+            ],
+            [
+                105.453589,
+                20.810447
+            ],
+            [
+                105.452378,
+                20.810147
+            ],
+            [
+                105.449871,
+                20.808104
+            ],
+            [
+                105.448983,
+                20.807879
+            ],
+            [
+                105.447854,
+                20.80811
+            ],
+            [
+                105.447209,
+                20.808187
+            ],
+            [
+                105.446243,
+                20.808873
+            ],
+            [
+                105.444315,
+                20.811686
+            ],
+            [
+                105.443914,
+                20.812674
+            ],
+            [
+                105.443517,
+                20.8148
+            ],
+            [
+                105.443443,
+                20.817077
+            ],
+            [
+                105.443206,
+                20.818823
+            ],
+            [
+                105.442083,
+                20.820799
+            ],
+            [
+                105.439916,
+                20.824828
+            ],
+            [
+                105.438548,
+                20.826197
+            ],
+            [
+                105.437581,
+                20.826276
+            ],
+            [
+                105.436693,
+                20.826202
+            ],
+            [
+                105.432657,
+                20.825681
+            ],
+            [
+                105.432254,
+                20.825682
+            ],
+            [
+                105.431851,
+                20.825987
+            ],
+            [
+                105.431613,
+                20.827201
+            ],
+            [
+                105.431212,
+                20.827961
+            ],
+            [
+                105.42991,
+                20.828741
+            ],
+            [
+                105.430246,
+                20.828951
+            ],
+            [
+                105.431085,
+                20.830492
+            ],
+            [
+                105.43204,
+                20.832572
+            ],
+            [
+                105.432253,
+                20.833465
+            ],
+            [
+                105.431941,
+                20.834854
+            ],
+            [
+                105.431154,
+                20.836159
+            ],
+            [
+                105.430579,
+                20.83823
+            ],
+            [
+                105.430401,
+                20.844328
+            ],
+            [
+                105.430614,
+                20.844694
+            ],
+            [
+                105.431499,
+                20.845915
+            ],
+            [
+                105.434278,
+                20.850063
+            ],
+            [
+                105.435756,
+                20.851823
+            ],
+            [
+                105.436966,
+                20.853625
+            ],
+            [
+                105.437414,
+                20.854379
+            ],
+            [
+                105.437595,
+                20.85505
+            ],
+            [
+                105.437778,
+                20.856435
+            ],
+            [
+                105.437912,
+                20.85677
+            ],
+            [
+                105.438226,
+                20.857106
+            ],
+            [
+                105.438673,
+                20.857398
+            ],
+            [
+                105.438896,
+                20.85744
+            ],
+            [
+                105.439298,
+                20.857439
+            ],
+            [
+                105.440133,
+                20.858939
+            ],
+            [
+                105.440452,
+                20.859831
+            ],
+            [
+                105.440614,
+                20.860948
+            ],
+            [
+                105.440228,
+                20.864225
+            ],
+            [
+                105.439951,
+                20.870444
+            ],
+            [
+                105.439976,
+                20.870773
+            ],
+            [
+                105.439979,
+                20.871573
+            ],
+            [
+                105.44003,
+                20.872091
+            ],
+            [
+                105.440115,
+                20.872789
+            ],
+            [
+                105.440285,
+                20.873383
+            ],
+            [
+                105.440436,
+                20.873739
+            ],
+            [
+                105.440788,
+                20.874491
+            ],
+            [
+                105.441392,
+                20.875385
+            ],
+            [
+                105.441794,
+                20.875855
+            ],
+            [
+                105.443102,
+                20.877688
+            ],
+            [
+                105.44371,
+                20.878836
+            ],
+            [
+                105.443911,
+                20.880465
+            ],
+            [
+                105.44427,
+                20.883384
+            ],
+            [
+                105.44498,
+                20.886349
+            ],
+            [
+                105.445034,
+                20.887573
+            ],
+            [
+                105.444986,
+                20.888186
+            ],
+            [
+                105.444638,
+                20.889082
+            ],
+            [
+                105.444188,
+                20.889554
+            ],
+            [
+                105.443638,
+                20.889932
+            ],
+            [
+                105.443339,
+                20.890357
+            ],
+            [
+                105.44324,
+                20.890781
+            ],
+            [
+                105.442997,
+                20.893136
+            ],
+            [
+                105.443049,
+                20.893937
+            ],
+            [
+                105.443301,
+                20.894266
+            ],
+            [
+                105.444605,
+                20.894922
+            ],
+            [
+                105.446611,
+                20.895764
+            ],
+            [
+                105.447924,
+                20.895992
+            ],
+            [
+                105.448792,
+                20.898204
+            ],
+            [
+                105.451081,
+                20.90321
+            ],
+            [
+                105.452369,
+                20.906213
+            ],
+            [
+                105.455367,
+                20.910682
+            ],
+            [
+                105.455654,
+                20.91135
+            ],
+            [
+                105.455655,
+                20.911751
+            ],
+            [
+                105.455515,
+                20.912419
+            ],
+            [
+                105.45488,
+                20.913958
+            ],
+            [
+                105.454881,
+                20.914425
+            ],
+            [
+                105.454954,
+                20.914826
+            ],
+            [
+                105.455383,
+                20.915694
+            ],
+            [
+                105.456096,
+                20.916561
+            ],
+            [
+                105.457703,
+                20.918995
+            ],
+            [
+                105.458848,
+                20.921531
+            ],
+            [
+                105.459642,
+                20.925806
+            ],
+            [
+                105.460437,
+                20.929813
+            ],
+            [
+                105.460369,
+                20.931016
+            ],
+            [
+                105.459732,
+                20.931953
+            ],
+            [
+                105.458883,
+                20.933158
+            ],
+            [
+                105.458672,
+                20.933827
+            ],
+            [
+                105.459318,
+                20.93603
+            ],
+            [
+                105.460176,
+                20.937632
+            ],
+            [
+                105.461245,
+                20.938631
+            ],
+            [
+                105.46203,
+                20.939498
+            ],
+            [
+                105.462174,
+                20.940099
+            ],
+            [
+                105.462247,
+                20.940834
+            ],
+            [
+                105.462252,
+                20.94217
+            ],
+            [
+                105.461925,
+                20.946988
+            ],
+            [
+                105.462764,
+                20.946846
+            ],
+            [
+                105.464637,
+                20.946764
+            ],
+            [
+                105.465323,
+                20.946906
+            ],
+            [
+                105.466998,
+                20.947446
+            ],
+            [
+                105.46985,
+                20.949044
+            ],
+            [
+                105.472214,
+                20.950414
+            ],
+            [
+                105.473679,
+                20.950869
+            ],
+            [
+                105.475022,
+                20.95098
+            ],
+            [
+                105.47616,
+                20.950747
+            ],
+            [
+                105.478518,
+                20.950129
+            ],
+            [
+                105.480956,
+                20.949434
+            ],
+            [
+                105.483757,
+                20.947396
+            ]
+        ]
+    ]
+}

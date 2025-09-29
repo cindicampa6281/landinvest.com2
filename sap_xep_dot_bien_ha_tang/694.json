@@ -1,0 +1,1824 @@
+{
+    "id_district": "694",
+    "id_province": 3,
+    "name_province": "Bạc Liêu",
+    "name_district": "Thị xã Giá Rai",
+    "list_sukien": [
+        {
+            "bidName": "Gói thầu số 3: Thi công xây dựng công trình",
+            "chudautu": "Trung tâm dịch vụ đô thị thị xã Giá Rai",
+            "createdBy": "vn1900459447",
+            "publicDate": "2023-12-15 14:37:56",
+            "projectName": "Liên danh Vỹ Thức – Toàn Thắng",
+            "bidCloseDate": "2023-12-25 14:00:00",
+            "id_muasamcong": "00570760-05c0-4f3c-af8f-42be88eaea01",
+            "tongmuc_dautu": 10090938155.0,
+            "bidNamePlanNew": "PL2300255594",
+            "dotbien_hatang": "Gói thầu số 3: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng thị xã Giá Rai",
+            "createdBy": "vn1900411935",
+            "publicDate": "2024-04-19 11:03:49",
+            "projectName": null,
+            "bidCloseDate": "2024-04-26 11:15:00",
+            "id_muasamcong": "0166c694-06d3-4675-9662-f8a46071aaaf",
+            "tongmuc_dautu": 1653171000.0,
+            "bidNamePlanNew": "PL2400032532",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 5a: Thi công xây dựng công trình hạ tầng kỹ thuật",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng thị xã Giá Rai",
+            "createdBy": "vn1900411935",
+            "publicDate": "2024-11-19 16:11:17",
+            "projectName": "Liên danh Tiến Thịnh – Phúc Anh",
+            "bidCloseDate": "2024-11-28 16:20:00",
+            "id_muasamcong": "02c72afe-c566-44aa-9bcf-3c9ce6a64f8e",
+            "tongmuc_dautu": 13338069037.0,
+            "bidNamePlanNew": "PL2400238605",
+            "dotbien_hatang": "Gói thầu số 5a: Thi công xây dựng công trình hạ tầng kỹ thuật",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng, mua sắm và lắp đặt thiết bị nâng cấp hệ thống điều khiển đóng mở cửa van, SCADA cống Nọc Nạng",
+            "chudautu": "Chi cục Thủy lợi Bạc Liêu",
+            "createdBy": "vnz000018634",
+            "publicDate": "2023-11-22 08:17:30",
+            "projectName": "Liên danh Công ty TNHH Tư vấn và Phát triển Công nghệ Hợp Phát và Công ty Cổ phần Đầu tư Xây dựng Bắc Ninh",
+            "bidCloseDate": "2023-11-29 13:30:00",
+            "id_muasamcong": "0849bc59-1b74-41dd-82fb-56647bb7b96a",
+            "tongmuc_dautu": 1787282000.0,
+            "bidNamePlanNew": "PL2300108951",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng, mua sắm và lắp đặt thiết bị nâng cấp hệ thống điều khiển đóng mở cửa van, SCADA cống Nọc Nạng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 2: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng thị xã Giá Rai",
+            "createdBy": "vn1900411935",
+            "publicDate": "2023-12-22 11:11:22",
+            "projectName": "Liên danh Công ty TNHH MTV ĐTXD Trường Sơn Bạc Liêu và Công ty TNHH Đầu tư Xây dựng Thương mại Toàn Thắng",
+            "bidCloseDate": "2023-12-29 11:15:00",
+            "id_muasamcong": "0a6fca65-a176-45ba-bfdc-fa35484ebed9",
+            "tongmuc_dautu": 4364841108.0,
+            "bidNamePlanNew": "PL2300262559",
+            "dotbien_hatang": "Gói thầu số 2: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng thị xã Giá Rai",
+            "createdBy": "vn1900411935",
+            "publicDate": "2024-06-14 10:54:03",
+            "projectName": null,
+            "bidCloseDate": "2024-06-21 11:00:00",
+            "id_muasamcong": "0b26643d-a419-4093-b3f3-1a63d7dd1f53",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400105650",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng, mua sắm và lắp đặt thiết bị nâng cấp hệ thống điều khiển đóng mở cửa van, SCADA cống Nọc Nạng",
+            "chudautu": "Chi cục Thủy lợi Bạc Liêu",
+            "createdBy": "vnz000018634",
+            "publicDate": "2023-11-10 17:39:57",
+            "projectName": null,
+            "bidCloseDate": "2023-11-18 09:00:00",
+            "id_muasamcong": "0dce9cca-cb7f-43ff-bc05-0d01a6ae0c5a",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300108951",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng, mua sắm và lắp đặt thiết bị nâng cấp hệ thống điều khiển đóng mở cửa van, SCADA cống Nọc Nạng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Phòng Quản lý đô thị thị xã Giá Rai",
+            "createdBy": "vn1900411942",
+            "publicDate": "2024-10-23 14:41:36",
+            "projectName": null,
+            "bidCloseDate": "2024-10-30 08:35:00",
+            "id_muasamcong": "11251181-5f65-4e78-aaa6-60aae0039816",
+            "tongmuc_dautu": 858292851.0,
+            "bidNamePlanNew": "PL2400238643",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 3: Thi công xây dựng công trình",
+            "chudautu": "Trung tâm dịch vụ đô thị thị xã Giá Rai",
+            "createdBy": "vn1900459447",
+            "publicDate": "2023-12-31 10:58:25",
+            "projectName": null,
+            "bidCloseDate": "2024-01-10 09:00:00",
+            "id_muasamcong": "131053ea-a6ff-48b0-b476-afb95553d48a",
+            "tongmuc_dautu": 5133213020.0,
+            "bidNamePlanNew": "PL2300270805",
+            "dotbien_hatang": "Gói thầu số 3: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng thị xã Giá Rai",
+            "createdBy": "vn1900411935",
+            "publicDate": "2024-09-27 15:08:56",
+            "projectName": null,
+            "bidCloseDate": "2024-10-06 15:45:00",
+            "id_muasamcong": "14c663ec-1353-4d70-93f0-09b895945bb3",
+            "tongmuc_dautu": 8355189918.0,
+            "bidNamePlanNew": "PL2400204356",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng, lắp đặt thiết bị (trừ hạng mục ống nhánh vào nhà dân)",
+            "chudautu": "Trung tâm Nước sạch và vệ sinh môi trường Nông thôn tỉnh Bạc Liêu",
+            "createdBy": "vn1900273636",
+            "publicDate": "2023-07-18 16:25:30",
+            "projectName": null,
+            "bidCloseDate": "2023-07-28 16:30:00",
+            "id_muasamcong": "22b7307b-1be4-4f5f-b646-1fc681d95705",
+            "tongmuc_dautu": 9548361000.0,
+            "bidNamePlanNew": "PL2300106800",
+            "dotbien_hatang": "Thi công xây dựng, lắp đặt thiết bị (trừ hạng mục ống nhánh vào nhà dân)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng công trình",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng thị xã Giá Rai",
+            "createdBy": "vn1900411935",
+            "publicDate": "2023-07-14 13:42:30",
+            "projectName": null,
+            "bidCloseDate": "2023-07-24 14:00:00",
+            "id_muasamcong": "26fd9e69-5daf-431c-9477-27fe6b15bf4f",
+            "tongmuc_dautu": 1244733233.0,
+            "bidNamePlanNew": "PL2300119055",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng thị xã Giá Rai",
+            "createdBy": "vn1900411935",
+            "publicDate": "2023-09-22 10:20:32",
+            "projectName": null,
+            "bidCloseDate": "2023-10-02 10:30:00",
+            "id_muasamcong": "2b5968c8-fa5a-4ce3-8fce-6bdf0deb9fc1",
+            "tongmuc_dautu": 1506103513.0,
+            "bidNamePlanNew": "PL2300171934",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng thị xã Giá Rai",
+            "createdBy": "vn1900411935",
+            "publicDate": "2024-07-09 15:18:40",
+            "projectName": null,
+            "bidCloseDate": "2024-07-18 15:25:00",
+            "id_muasamcong": "2e8059c6-f7fc-4833-a01a-e656bc57fa1e",
+            "tongmuc_dautu": 1747585000.0,
+            "bidNamePlanNew": "PL2400113588",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 3: Thi công xây dựng công trình",
+            "chudautu": "Trung tâm dịch vụ đô thị thị xã Giá Rai",
+            "createdBy": "vn1900459447",
+            "publicDate": "2023-12-31 10:52:07",
+            "projectName": null,
+            "bidCloseDate": "2024-01-10 09:00:00",
+            "id_muasamcong": "32f15592-cd5c-4959-b6f3-3a26407bf353",
+            "tongmuc_dautu": 3909168429.0,
+            "bidNamePlanNew": "PL2300270819",
+            "dotbien_hatang": "Gói thầu số 3: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 3: Thi công xây dựng công trình",
+            "chudautu": "Trung tâm dịch vụ đô thị thị xã Giá Rai",
+            "createdBy": "vn1900459447",
+            "publicDate": "2024-01-23 07:44:26",
+            "projectName": null,
+            "bidCloseDate": "2024-02-01 09:00:00",
+            "id_muasamcong": "3414058d-83d8-4f3b-a957-bd0f781e97da",
+            "tongmuc_dautu": 1369318979.0,
+            "bidNamePlanNew": "PL2400010098",
+            "dotbien_hatang": "Gói thầu số 3: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 3: Thi công xây dựng công trình",
+            "chudautu": "Trung tâm dịch vụ đô thị thị xã Giá Rai",
+            "createdBy": "vn1900459447",
+            "publicDate": "2024-01-23 17:33:26",
+            "projectName": null,
+            "bidCloseDate": "2024-02-01 09:00:00",
+            "id_muasamcong": "3426178f-ac03-42f0-98e2-f2bf3ae27b74",
+            "tongmuc_dautu": 3283777692.0,
+            "bidNamePlanNew": "PL2400011040",
+            "dotbien_hatang": "Gói thầu số 3: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 6: Thi công xây dựng công trình",
+            "chudautu": "Trung tâm dịch vụ đô thị thị xã Giá Rai",
+            "createdBy": "vn1900459447",
+            "publicDate": "2022-11-24 16:58:50",
+            "projectName": "Liên danh Công ty TNHH Đầu tư Xâu dựng Thương mại Hồng Phúc - Công ty TNHH Xây dựng Đỉnh Lê",
+            "bidCloseDate": "2022-12-04 16:30:00",
+            "id_muasamcong": "3e27c2ee-86f6-44a5-bffa-30dd1759d63d",
+            "tongmuc_dautu": 7300102678.0,
+            "bidNamePlanNew": "PL2200054670",
+            "dotbien_hatang": "Gói thầu số 6: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 3: Thi công xây dựng công trình",
+            "chudautu": "Trung tâm dịch vụ đô thị thị xã Giá Rai",
+            "createdBy": "vn1900459447",
+            "publicDate": "2023-09-12 11:06:22",
+            "projectName": "Liên danh Công ty TNHH xây dựng tổng hợp Miền Tây - Công ty TNHH thiết kế xây dựng cảnh quan An Gia Phát",
+            "bidCloseDate": "2023-09-22 14:00:00",
+            "id_muasamcong": "43d55d1c-0eff-4ab3-b243-07c5381458b5",
+            "tongmuc_dautu": 13113284888.0,
+            "bidNamePlanNew": "PL2300161980",
+            "dotbien_hatang": "Gói thầu số 3: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 3: Thi công xây dựng công trình",
+            "chudautu": "Trung tâm dịch vụ đô thị thị xã Giá Rai",
+            "createdBy": "vn1900459447",
+            "publicDate": "2023-12-26 16:38:54",
+            "projectName": null,
+            "bidCloseDate": "2024-01-05 08:00:00",
+            "id_muasamcong": "4b4c320e-1c06-42aa-9b48-32081c4256ed",
+            "tongmuc_dautu": 4261073470.0,
+            "bidNamePlanNew": "PL2300266042",
+            "dotbien_hatang": "Gói thầu số 3: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi Công xây dựng gìan kéo phai sự cố và làm mới phai sự cố cống Hộ Phòng",
+            "chudautu": "Chi cục Thủy lợi Bạc Liêu",
+            "createdBy": "vnz000018634",
+            "publicDate": "2023-07-28 14:20:25",
+            "projectName": null,
+            "bidCloseDate": "2023-08-07 08:00:00",
+            "id_muasamcong": "521133ea-70c3-4a64-a6f6-5b66d471d9d6",
+            "tongmuc_dautu": 1395957792.0,
+            "bidNamePlanNew": "PL2200055084",
+            "dotbien_hatang": "Gói thầu số 04: Thi Công xây dựng gìan kéo phai sự cố và làm mới phai sự cố cống Hộ Phòng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 4: Thi công xây dựng công trình",
+            "chudautu": "Trung tâm dịch vụ đô thị thị xã Giá Rai",
+            "createdBy": "vn1900459447",
+            "publicDate": "2023-08-31 14:25:02",
+            "projectName": "Liên danh Vỹ Thức – Toàn Thắng",
+            "bidCloseDate": "2023-09-10 15:00:00",
+            "id_muasamcong": "53fcc519-0ea6-43f2-993a-a52e0416952d",
+            "tongmuc_dautu": 13088892183.0,
+            "bidNamePlanNew": "PL2300155741",
+            "dotbien_hatang": "Gói thầu số 4: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 3: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng thị xã Giá Rai",
+            "createdBy": "vn1900411935",
+            "publicDate": "2023-12-20 16:05:23",
+            "projectName": null,
+            "bidCloseDate": "2023-12-27 16:15:00",
+            "id_muasamcong": "54a0a55d-b288-4d21-9cef-1068b0400c3a",
+            "tongmuc_dautu": 3995338169.0,
+            "bidNamePlanNew": "PL2300260295",
+            "dotbien_hatang": "Gói thầu số 3: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng thị xã Giá Rai",
+            "createdBy": "vn1900411935",
+            "publicDate": "2024-10-18 18:27:06",
+            "projectName": null,
+            "bidCloseDate": "2024-10-27 17:00:00",
+            "id_muasamcong": "5fbfddbf-075f-439d-a0a1-3ca61a25e74f",
+            "tongmuc_dautu": 12330073208.0,
+            "bidNamePlanNew": "PL2400236188",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng công trình",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng thị xã Giá Rai",
+            "createdBy": "vn1900411935",
+            "publicDate": "2023-07-05 17:44:54",
+            "projectName": null,
+            "bidCloseDate": "2023-07-15 17:50:00",
+            "id_muasamcong": "686a3e86-781f-4ed6-9a72-6eb29b76cd9a",
+            "tongmuc_dautu": 4886158266.0,
+            "bidNamePlanNew": "PL2300111303",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng thị xã Giá Rai",
+            "createdBy": "vn1900411935",
+            "publicDate": "2023-11-06 10:38:29",
+            "projectName": null,
+            "bidCloseDate": "2023-11-13 10:50:00",
+            "id_muasamcong": "699a5b09-f841-45cc-b112-770b7daacb61",
+            "tongmuc_dautu": 3780317425.0,
+            "bidNamePlanNew": "PL2300211184",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng công trình",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng thị xã Giá Rai",
+            "createdBy": "vn1900411935",
+            "publicDate": "2023-07-14 17:01:32",
+            "projectName": null,
+            "bidCloseDate": "2023-07-24 17:20:00",
+            "id_muasamcong": "6b18ec74-2489-4798-b81f-e3540a044afe",
+            "tongmuc_dautu": 6827533636.0,
+            "bidNamePlanNew": "PL2300119407",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng thị xã Giá Rai",
+            "createdBy": "vn1900411935",
+            "publicDate": "2024-09-20 15:34:01",
+            "projectName": "Liên danh thi công gói thầu số 2",
+            "bidCloseDate": "2024-09-29 15:30:00",
+            "id_muasamcong": "6cbb62fd-7a7c-4f12-a551-8bf6d0571621",
+            "tongmuc_dautu": 6043889689.0,
+            "bidNamePlanNew": "PL2400203761",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng thị xã Giá Rai",
+            "createdBy": "vn1900411935",
+            "publicDate": "2024-06-30 12:40:06",
+            "projectName": null,
+            "bidCloseDate": "2024-07-06 08:00:00",
+            "id_muasamcong": "6dd1e0a5-c1a9-4239-9d3d-9d83f211a294",
+            "tongmuc_dautu": 2531666000.0,
+            "bidNamePlanNew": "PL2400105650",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng, lắp đặt thiết bị (trừ hạng mục ống nhánh vào nhà dân)",
+            "chudautu": "Trung tâm Nước sạch và vệ sinh môi trường Nông thôn tỉnh Bạc Liêu",
+            "createdBy": "vn2200775784",
+            "publicDate": "2023-12-02 14:41:24",
+            "projectName": "Liên danh CÔNG TY TNHH CÔNG NGHỆ XÂY DỰNG VÀ THƯƠNG MẠI HÒA THẮNG - CÔNG TY CỔ PHẦN ĐIỆN NƯỚC NGỌC NGÂN",
+            "bidCloseDate": "2023-12-12 15:30:00",
+            "id_muasamcong": "73007f7a-a249-4d7a-9ef2-383a42234e70",
+            "tongmuc_dautu": 10463081000.0,
+            "bidNamePlanNew": "PL2300230057",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng, lắp đặt thiết bị (trừ hạng mục ống nhánh vào nhà dân)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng thị xã Giá Rai",
+            "createdBy": "vn1900411935",
+            "publicDate": "2024-08-15 10:58:30",
+            "projectName": null,
+            "bidCloseDate": "2024-08-22 10:45:00",
+            "id_muasamcong": "7f493510-af2d-4b32-9dea-d86a85fe025a",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400163602",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng công trình (Các hạng mục thuộc công trình dân dụng cải tạo và công trình dân dụng xây dựng mới)",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng thị xã Giá Rai",
+            "createdBy": "vn1900411935",
+            "publicDate": "2024-06-19 13:55:22",
+            "projectName": "Liên danh Gói thầu số 05: Thi công xây dựng công trình",
+            "bidCloseDate": "2024-07-07 13:55:00",
+            "id_muasamcong": "8064afa4-4266-4e9b-a290-092ad82c857f",
+            "tongmuc_dautu": 31303401969.0,
+            "bidNamePlanNew": "PL2300215687",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng công trình (Các hạng mục thuộc công trình dân dụng cải tạo và công trình dân dụng xây dựng mới)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 4: Thi công xây dựng công trình dân dụng (khối nhà chính và các hạng mục phụ trợ)",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng thị xã Giá Rai",
+            "createdBy": "vn1900411935",
+            "publicDate": "2024-01-12 16:47:16",
+            "projectName": "Liên danh Tiến Thịnh – Phú Quang",
+            "bidCloseDate": "2024-01-22 17:00:00",
+            "id_muasamcong": "9436683b-7590-439b-8954-4f286ba2c94d",
+            "tongmuc_dautu": 13556041871.0,
+            "bidNamePlanNew": "PL2300219339",
+            "dotbien_hatang": "Gói thầu số 4: Thi công xây dựng công trình dân dụng (khối nhà chính và các hạng mục phụ trợ)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng thị xã Giá Rai",
+            "createdBy": "vn1900411935",
+            "publicDate": "2024-11-22 15:32:05",
+            "projectName": "Liên danh Gói thầu số 02",
+            "bidCloseDate": "2024-12-01 15:30:00",
+            "id_muasamcong": "a3b21897-d33d-4f69-beab-32d25f55a6ff",
+            "tongmuc_dautu": 4724573934.0,
+            "bidNamePlanNew": "PL2400204776",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Phòng Quản lý đô thị thị xã Giá Rai",
+            "createdBy": "vn1900411942",
+            "publicDate": "2024-11-22 17:26:53",
+            "projectName": null,
+            "bidCloseDate": "2024-11-29 08:00:00",
+            "id_muasamcong": "a7aaa8a5-cf9a-4703-8b37-ebe24b58659c",
+            "tongmuc_dautu": 893726680.0,
+            "bidNamePlanNew": "PL2400283093",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng thị xã Giá Rai",
+            "createdBy": "vn1900411935",
+            "publicDate": "2024-10-22 14:37:16",
+            "projectName": "Liên danh Công ty TNHH MTV TV XD Phúc Hy & Công ty TNHH MTV XD DV TM Thành Trung",
+            "bidCloseDate": "2024-10-27 15:45:00",
+            "id_muasamcong": "b13b6f7d-10b0-4000-804d-29e2ffd09e2c",
+            "tongmuc_dautu": 4504785658.0,
+            "bidNamePlanNew": "PL2400236315",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng thị xã Giá Rai",
+            "createdBy": "vn1900411935",
+            "publicDate": "2025-01-09 16:11:48",
+            "projectName": "Liên danh thi công gói thầu số 02",
+            "bidCloseDate": "2025-01-18 11:00:00",
+            "id_muasamcong": "b4ea7a8a-a798-4322-94f5-2e9eff2b87d8",
+            "tongmuc_dautu": 8776719573.0,
+            "bidNamePlanNew": "PL2500004357",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng công trình",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng thị xã Giá Rai",
+            "createdBy": "vn1900411935",
+            "publicDate": "2023-09-13 17:10:59",
+            "projectName": "Liên danh Công ty TNHH MTV XD Tâm Tài Lộc và Công ty TNHH Đầu tư Xây dựng Thương mại Toàn Thắng",
+            "bidCloseDate": "2023-09-23 17:00:00",
+            "id_muasamcong": "bb4165e8-42b1-4c61-a844-6ce4a14198d8",
+            "tongmuc_dautu": 6507571000.0,
+            "bidNamePlanNew": "PL2300165131",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi Công xây dựng giàn kéo phai sự cố cống Giá Rai và làm phai sự cố mới",
+            "chudautu": "Chi cục Thủy lợi Bạc Liêu",
+            "createdBy": "vnz000018634",
+            "publicDate": "2023-08-01 13:55:46",
+            "projectName": null,
+            "bidCloseDate": "2023-08-11 08:00:00",
+            "id_muasamcong": "bfec402b-6374-40b3-9f80-81dfb51b75cc",
+            "tongmuc_dautu": 1392270625.0,
+            "bidNamePlanNew": "PL2200055177",
+            "dotbien_hatang": "Gói thầu số 04: Thi Công xây dựng giàn kéo phai sự cố cống Giá Rai và làm phai sự cố mới",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Phòng Quản lý đô thị thị xã Giá Rai",
+            "createdBy": "vn1900411942",
+            "publicDate": "2024-10-23 14:40:06",
+            "projectName": null,
+            "bidCloseDate": "2024-10-30 08:30:00",
+            "id_muasamcong": "c1dd38df-5a34-412e-8ad9-94ea71c3ae47",
+            "tongmuc_dautu": 588061885.0,
+            "bidNamePlanNew": "PL2400238641",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng thị xã Giá Rai",
+            "createdBy": "vn1900411935",
+            "publicDate": "2023-11-06 14:18:19",
+            "projectName": null,
+            "bidCloseDate": "2023-11-13 14:30:00",
+            "id_muasamcong": "c25d2fe8-318e-47e1-a9aa-45a13bd414aa",
+            "tongmuc_dautu": 3362733380.0,
+            "bidNamePlanNew": "PL2300211164",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04 - Thi công xây dựng công trình",
+            "chudautu": "Trung tâm dịch vụ đô thị thị xã Giá Rai",
+            "createdBy": "vn1900459447",
+            "publicDate": "2022-12-22 20:16:56",
+            "projectName": null,
+            "bidCloseDate": "2023-01-01 09:00:00",
+            "id_muasamcong": "c56ce085-b86d-4333-bc60-56f4f49d713b",
+            "tongmuc_dautu": 3457916979.0,
+            "bidNamePlanNew": "PL2200082709",
+            "dotbien_hatang": "Gói thầu số 04 - Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 3: Thi công xây dựng công trình",
+            "chudautu": "Trung tâm dịch vụ đô thị thị xã Giá Rai",
+            "createdBy": "vn1900459447",
+            "publicDate": "2024-01-05 09:13:18",
+            "projectName": null,
+            "bidCloseDate": "2024-01-10 09:00:00",
+            "id_muasamcong": "ccfb6bbf-71d3-4d1e-bd59-76563b7e0375",
+            "tongmuc_dautu": 4958178441.0,
+            "bidNamePlanNew": "PL2300270773",
+            "dotbien_hatang": "Gói thầu số 3: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng thị xã Giá Rai",
+            "createdBy": "vn1900411935",
+            "publicDate": "2023-09-12 05:13:54",
+            "projectName": "Liên danh Trường Sơn – Toàn Thắng",
+            "bidCloseDate": "2023-09-21 16:00:00",
+            "id_muasamcong": "d48aee14-57be-476e-885c-f8f19dd495bd",
+            "tongmuc_dautu": 8001000000.0,
+            "bidNamePlanNew": "PL2300162496",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Bảo hiểm xã hội tỉnh Bạc Liêu",
+            "createdBy": "vn0601159531",
+            "publicDate": "2025-02-20 08:14:17",
+            "projectName": null,
+            "bidCloseDate": "2025-02-26 10:00:00",
+            "id_muasamcong": "d95f9a55-62cc-4146-a11e-d26d5d564d1e",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500013492",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng thị xã Giá Rai",
+            "createdBy": "vn1900411935",
+            "publicDate": "2025-01-17 16:02:12",
+            "projectName": null,
+            "bidCloseDate": "2025-01-24 16:30:00",
+            "id_muasamcong": "dcbdc5d6-f4d8-4b54-b030-47fdaacdaf7e",
+            "tongmuc_dautu": 2092114254.0,
+            "bidNamePlanNew": "PL2500010629",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng thị xã Giá Rai",
+            "createdBy": "vn1900411935",
+            "publicDate": "2023-12-29 15:04:24",
+            "projectName": "Công ty TNHH MTV ĐT&XD Nam Việt Cà Mau & Công ty TNHH MTV xây dựng Kiều Khanh",
+            "bidCloseDate": "2024-01-08 15:15:00",
+            "id_muasamcong": "f2145661-bf04-4b3d-b395-7a17740d86c8",
+            "tongmuc_dautu": 2867628927.0,
+            "bidNamePlanNew": "PL2300268789",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu 05: Thi công xây lắp toàn bộ công trình",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng các công trình dân dụng và công nghiệp tỉnh Bạc Liêu",
+            "createdBy": "vn1900266822",
+            "publicDate": "2023-12-04 14:10:53",
+            "projectName": null,
+            "bidCloseDate": "2023-12-14 15:00:00",
+            "id_muasamcong": "f4eea936-9474-4793-b974-c22e15f2907a",
+            "tongmuc_dautu": 12525546591.0,
+            "bidNamePlanNew": "PL2300241842",
+            "dotbien_hatang": "Gói thầu 05: Thi công xây lắp toàn bộ công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng công trình",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng thị xã Giá Rai",
+            "createdBy": "vn1900411935",
+            "publicDate": "2023-07-14 15:31:21",
+            "projectName": null,
+            "bidCloseDate": "2023-07-24 15:45:00",
+            "id_muasamcong": "f5c5c5f2-de0e-482e-9225-8a0b39cdf2f9",
+            "tongmuc_dautu": 10617140888.0,
+            "bidNamePlanNew": "PL2300119142",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Phòng Quản lý đô thị thị xã Giá Rai",
+            "createdBy": "vn1900411942",
+            "publicDate": "2024-11-22 17:27:16",
+            "projectName": null,
+            "bidCloseDate": "2024-11-29 08:00:00",
+            "id_muasamcong": "f8e76277-903f-48f9-b3f1-eefa2bdae4e0",
+            "tongmuc_dautu": 1516035977.0,
+            "bidNamePlanNew": "PL2400283090",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        }
+    ],
+    "so_dot_bien": 50,
+    "thu_tu_sap_xep": 355,
+    "polygon": [
+        [
+            [
+                105.404262,
+                9.352098
+            ],
+            [
+                105.405545,
+                9.351693
+            ],
+            [
+                105.406413,
+                9.35142
+            ],
+            [
+                105.407439,
+                9.351077
+            ],
+            [
+                105.421669,
+                9.346313
+            ],
+            [
+                105.441096,
+                9.347568
+            ],
+            [
+                105.449887,
+                9.343091
+            ],
+            [
+                105.453308,
+                9.341417
+            ],
+            [
+                105.46299,
+                9.342521
+            ],
+            [
+                105.463279,
+                9.342554
+            ],
+            [
+                105.467781,
+                9.342421
+            ],
+            [
+                105.472316,
+                9.342164
+            ],
+            [
+                105.472412,
+                9.342159
+            ],
+            [
+                105.473008,
+                9.342016
+            ],
+            [
+                105.477041,
+                9.340747
+            ],
+            [
+                105.49067,
+                9.335743
+            ],
+            [
+                105.508617,
+                9.329971
+            ],
+            [
+                105.508118,
+                9.327651
+            ],
+            [
+                105.508724,
+                9.326591
+            ],
+            [
+                105.512173,
+                9.32512
+            ],
+            [
+                105.513156,
+                9.324622
+            ],
+            [
+                105.507623,
+                9.324512
+            ],
+            [
+                105.50745,
+                9.322942
+            ],
+            [
+                105.507335,
+                9.318468
+            ],
+            [
+                105.507271,
+                9.317766
+            ],
+            [
+                105.507257,
+                9.315093
+            ],
+            [
+                105.507384,
+                9.314202
+            ],
+            [
+                105.507721,
+                9.311549
+            ],
+            [
+                105.509481,
+                9.310974
+            ],
+            [
+                105.512155,
+                9.310655
+            ],
+            [
+                105.512693,
+                9.310591
+            ],
+            [
+                105.515365,
+                9.310182
+            ],
+            [
+                105.515786,
+                9.308737
+            ],
+            [
+                105.51587,
+                9.307782
+            ],
+            [
+                105.516081,
+                9.306679
+            ],
+            [
+                105.516473,
+                9.304684
+            ],
+            [
+                105.516706,
+                9.303198
+            ],
+            [
+                105.516637,
+                9.299878
+            ],
+            [
+                105.51647,
+                9.299892
+            ],
+            [
+                105.516566,
+                9.298701
+            ],
+            [
+                105.516408,
+                9.296093
+            ],
+            [
+                105.515938,
+                9.291797
+            ],
+            [
+                105.514075,
+                9.287483
+            ],
+            [
+                105.514511,
+                9.28747
+            ],
+            [
+                105.518965,
+                9.28659
+            ],
+            [
+                105.519296,
+                9.286537
+            ],
+            [
+                105.519584,
+                9.286589
+            ],
+            [
+                105.519941,
+                9.286728
+            ],
+            [
+                105.522338,
+                9.287412
+            ],
+            [
+                105.52292,
+                9.288983
+            ],
+            [
+                105.523394,
+                9.290003
+            ],
+            [
+                105.524196,
+                9.290849
+            ],
+            [
+                105.526421,
+                9.289945
+            ],
+            [
+                105.52711,
+                9.28957
+            ],
+            [
+                105.527302,
+                9.289442
+            ],
+            [
+                105.53144,
+                9.287951
+            ],
+            [
+                105.531579,
+                9.287866
+            ],
+            [
+                105.53337,
+                9.287014
+            ],
+            [
+                105.533562,
+                9.286844
+            ],
+            [
+                105.533689,
+                9.28642
+            ],
+            [
+                105.533773,
+                9.28538
+            ],
+            [
+                105.533708,
+                9.284256
+            ],
+            [
+                105.533549,
+                9.283342
+            ],
+            [
+                105.535972,
+                9.282731
+            ],
+            [
+                105.537762,
+                9.282264
+            ],
+            [
+                105.538709,
+                9.282062
+            ],
+            [
+                105.539058,
+                9.28201
+            ],
+            [
+                105.539399,
+                9.282093
+            ],
+            [
+                105.539474,
+                9.28213
+            ],
+            [
+                105.539819,
+                9.282335
+            ],
+            [
+                105.541524,
+                9.283272
+            ],
+            [
+                105.54229,
+                9.283422
+            ],
+            [
+                105.543102,
+                9.28339
+            ],
+            [
+                105.543824,
+                9.283339
+            ],
+            [
+                105.545127,
+                9.283367
+            ],
+            [
+                105.545224,
+                9.283065
+            ],
+            [
+                105.545282,
+                9.28236
+            ],
+            [
+                105.545288,
+                9.281333
+            ],
+            [
+                105.545286,
+                9.280613
+            ],
+            [
+                105.545255,
+                9.279512
+            ],
+            [
+                105.54521,
+                9.278925
+            ],
+            [
+                105.545039,
+                9.278352
+            ],
+            [
+                105.544757,
+                9.277531
+            ],
+            [
+                105.544342,
+                9.276665
+            ],
+            [
+                105.543943,
+                9.275946
+            ],
+            [
+                105.543595,
+                9.275374
+            ],
+            [
+                105.543046,
+                9.274053
+            ],
+            [
+                105.542883,
+                9.273613
+            ],
+            [
+                105.542912,
+                9.273275
+            ],
+            [
+                105.543059,
+                9.272923
+            ],
+            [
+                105.543361,
+                9.272364
+            ],
+            [
+                105.544363,
+                9.2711
+            ],
+            [
+                105.544983,
+                9.270394
+            ],
+            [
+                105.545498,
+                9.269513
+            ],
+            [
+                105.546182,
+                9.267265
+            ],
+            [
+                105.546078,
+                9.267001
+            ],
+            [
+                105.545774,
+                9.266458
+            ],
+            [
+                105.545345,
+                9.265637
+            ],
+            [
+                105.5449,
+                9.264918
+            ],
+            [
+                105.544516,
+                9.26439
+            ],
+            [
+                105.544249,
+                9.263891
+            ],
+            [
+                105.544219,
+                9.263656
+            ],
+            [
+                105.5443,
+                9.26348
+            ],
+            [
+                105.54461,
+                9.263274
+            ],
+            [
+                105.545053,
+                9.263097
+            ],
+            [
+                105.546057,
+                9.26286
+            ],
+            [
+                105.546884,
+                9.262668
+            ],
+            [
+                105.547371,
+                9.262521
+            ],
+            [
+                105.547828,
+                9.262182
+            ],
+            [
+                105.548064,
+                9.261874
+            ],
+            [
+                105.548167,
+                9.261521
+            ],
+            [
+                105.548154,
+                9.261138
+            ],
+            [
+                105.548151,
+                9.261051
+            ],
+            [
+                105.54823,
+                9.259708
+            ],
+            [
+                105.547101,
+                9.259342
+            ],
+            [
+                105.547336,
+                9.258606
+            ],
+            [
+                105.546097,
+                9.258289
+            ],
+            [
+                105.533656,
+                9.255106
+            ],
+            [
+                105.513069,
+                9.250057
+            ],
+            [
+                105.511707,
+                9.249723
+            ],
+            [
+                105.490186,
+                9.244443
+            ],
+            [
+                105.485923,
+                9.24342
+            ],
+            [
+                105.487287,
+                9.239905
+            ],
+            [
+                105.487347,
+                9.239752
+            ],
+            [
+                105.488332,
+                9.238323
+            ],
+            [
+                105.488735,
+                9.234084
+            ],
+            [
+                105.488131,
+                9.23406
+            ],
+            [
+                105.487143,
+                9.234559
+            ],
+            [
+                105.486168,
+                9.235058
+            ],
+            [
+                105.485538,
+                9.235308
+            ],
+            [
+                105.482384,
+                9.235948
+            ],
+            [
+                105.481926,
+                9.236086
+            ],
+            [
+                105.481324,
+                9.236198
+            ],
+            [
+                105.477983,
+                9.236534
+            ],
+            [
+                105.476377,
+                9.236647
+            ],
+            [
+                105.475288,
+                9.236814
+            ],
+            [
+                105.474571,
+                9.236926
+            ],
+            [
+                105.473912,
+                9.236926
+            ],
+            [
+                105.473194,
+                9.236789
+            ],
+            [
+                105.466,
+                9.23171
+            ],
+            [
+                105.466277,
+                9.231204
+            ],
+            [
+                105.46679,
+                9.229859
+            ],
+            [
+                105.467884,
+                9.228897
+            ],
+            [
+                105.469172,
+                9.228704
+            ],
+            [
+                105.469925,
+                9.22864
+            ],
+            [
+                105.466139,
+                9.223026
+            ],
+            [
+                105.46428,
+                9.220096
+            ],
+            [
+                105.464063,
+                9.219828
+            ],
+            [
+                105.464057,
+                9.219821
+            ],
+            [
+                105.457458,
+                9.221501
+            ],
+            [
+                105.457319,
+                9.221539
+            ],
+            [
+                105.456959,
+                9.221639
+            ],
+            [
+                105.448402,
+                9.224017
+            ],
+            [
+                105.447534,
+                9.224238
+            ],
+            [
+                105.445593,
+                9.224732
+            ],
+            [
+                105.444632,
+                9.224996
+            ],
+            [
+                105.444328,
+                9.221763
+            ],
+            [
+                105.443758,
+                9.212955
+            ],
+            [
+                105.441264,
+                9.21041
+            ],
+            [
+                105.44075,
+                9.20976
+            ],
+            [
+                105.440115,
+                9.209973
+            ],
+            [
+                105.438781,
+                9.210444
+            ],
+            [
+                105.435763,
+                9.211461
+            ],
+            [
+                105.433519,
+                9.212264
+            ],
+            [
+                105.433519,
+                9.212264
+            ],
+            [
+                105.432487,
+                9.212635
+            ],
+            [
+                105.431954,
+                9.212883
+            ],
+            [
+                105.431679,
+                9.212986
+            ],
+            [
+                105.429136,
+                9.213935
+            ],
+            [
+                105.424367,
+                9.215774
+            ],
+            [
+                105.42401,
+                9.215938
+            ],
+            [
+                105.42401,
+                9.215938
+            ],
+            [
+                105.422143,
+                9.213599
+            ],
+            [
+                105.41802,
+                9.212817
+            ],
+            [
+                105.415784,
+                9.212393
+            ],
+            [
+                105.414584,
+                9.212166
+            ],
+            [
+                105.41009,
+                9.211435
+            ],
+            [
+                105.409949,
+                9.211635
+            ],
+            [
+                105.409681,
+                9.211992
+            ],
+            [
+                105.409331,
+                9.212533
+            ],
+            [
+                105.408565,
+                9.213628
+            ],
+            [
+                105.408266,
+                9.214016
+            ],
+            [
+                105.408096,
+                9.214207
+            ],
+            [
+                105.408045,
+                9.214331
+            ],
+            [
+                105.406973,
+                9.222077
+            ],
+            [
+                105.406776,
+                9.222555
+            ],
+            [
+                105.406688,
+                9.222907
+            ],
+            [
+                105.371162,
+                9.211715
+            ],
+            [
+                105.352886,
+                9.204446
+            ],
+            [
+                105.333847,
+                9.196873
+            ],
+            [
+                105.330797,
+                9.195744
+            ],
+            [
+                105.317367,
+                9.190775
+            ],
+            [
+                105.317297,
+                9.190748
+            ],
+            [
+                105.291113,
+                9.180612
+            ],
+            [
+                105.288528,
+                9.179612
+            ],
+            [
+                105.279359,
+                9.173737
+            ],
+            [
+                105.279117,
+                9.173584
+            ],
+            [
+                105.279086,
+                9.173565
+            ],
+            [
+                105.278791,
+                9.174805
+            ],
+            [
+                105.278465,
+                9.175581
+            ],
+            [
+                105.277764,
+                9.17725
+            ],
+            [
+                105.277157,
+                9.178681
+            ],
+            [
+                105.276577,
+                9.179451
+            ],
+            [
+                105.27638,
+                9.179665
+            ],
+            [
+                105.273947,
+                9.182476
+            ],
+            [
+                105.273726,
+                9.182721
+            ],
+            [
+                105.273087,
+                9.182966
+            ],
+            [
+                105.271305,
+                9.182772
+            ],
+            [
+                105.265473,
+                9.180693
+            ],
+            [
+                105.262198,
+                9.178851
+            ],
+            [
+                105.261237,
+                9.17862
+            ],
+            [
+                105.26122,
+                9.17866
+            ],
+            [
+                105.259303,
+                9.183056
+            ],
+            [
+                105.254225,
+                9.195115
+            ],
+            [
+                105.25329,
+                9.197486
+            ],
+            [
+                105.241962,
+                9.199784
+            ],
+            [
+                105.241245,
+                9.199943
+            ],
+            [
+                105.24037,
+                9.200418
+            ],
+            [
+                105.240052,
+                9.200894
+            ],
+            [
+                105.239894,
+                9.202318
+            ],
+            [
+                105.239576,
+                9.203743
+            ],
+            [
+                105.238942,
+                9.208176
+            ],
+            [
+                105.239049,
+                9.208796
+            ],
+            [
+                105.238705,
+                9.209759
+            ],
+            [
+                105.237432,
+                9.211342
+            ],
+            [
+                105.236875,
+                9.211739
+            ],
+            [
+                105.235761,
+                9.212135
+            ],
+            [
+                105.234328,
+                9.212294
+            ],
+            [
+                105.233134,
+                9.213086
+            ],
+            [
+                105.232736,
+                9.213562
+            ],
+            [
+                105.232737,
+                9.21467
+            ],
+            [
+                105.232724,
+                9.223134
+            ],
+            [
+                105.232721,
+                9.224558
+            ],
+            [
+                105.233895,
+                9.224018
+            ],
+            [
+                105.235471,
+                9.224122
+            ],
+            [
+                105.238097,
+                9.225164
+            ],
+            [
+                105.239712,
+                9.225875
+            ],
+            [
+                105.242615,
+                9.229336
+            ],
+            [
+                105.24724,
+                9.235701
+            ],
+            [
+                105.253283,
+                9.241752
+            ],
+            [
+                105.255105,
+                9.243007
+            ],
+            [
+                105.255177,
+                9.243057
+            ],
+            [
+                105.255559,
+                9.24332
+            ],
+            [
+                105.257067,
+                9.246133
+            ],
+            [
+                105.257593,
+                9.247594
+            ],
+            [
+                105.257543,
+                9.249891
+            ],
+            [
+                105.257754,
+                9.251144
+            ],
+            [
+                105.258805,
+                9.2525
+            ],
+            [
+                105.262588,
+                9.255525
+            ],
+            [
+                105.266266,
+                9.258654
+            ],
+            [
+                105.277903,
+                9.264942
+            ],
+            [
+                105.280363,
+                9.266994
+            ],
+            [
+                105.282238,
+                9.268558
+            ],
+            [
+                105.294086,
+                9.279632
+            ],
+            [
+                105.294303,
+                9.279835
+            ],
+            [
+                105.299424,
+                9.284621
+            ],
+            [
+                105.306362,
+                9.290983
+            ],
+            [
+                105.306503,
+                9.291118
+            ],
+            [
+                105.317806,
+                9.301957
+            ],
+            [
+                105.319003,
+                9.303105
+            ],
+            [
+                105.31911,
+                9.303062
+            ],
+            [
+                105.319126,
+                9.30305
+            ],
+            [
+                105.320344,
+                9.302082
+            ],
+            [
+                105.326899,
+                9.296875
+            ],
+            [
+                105.331288,
+                9.293388
+            ],
+            [
+                105.337039,
+                9.288813
+            ],
+            [
+                105.338128,
+                9.287948
+            ],
+            [
+                105.338449,
+                9.287693
+            ],
+            [
+                105.339453,
+                9.286896
+            ],
+            [
+                105.341433,
+                9.289378
+            ],
+            [
+                105.345221,
+                9.294233
+            ],
+            [
+                105.34758,
+                9.297256
+            ],
+            [
+                105.354291,
+                9.304758
+            ],
+            [
+                105.361437,
+                9.313011
+            ],
+            [
+                105.36145,
+                9.313025
+            ],
+            [
+                105.365477,
+                9.317273
+            ],
+            [
+                105.366345,
+                9.318151
+            ],
+            [
+                105.369017,
+                9.321264
+            ],
+            [
+                105.376337,
+                9.329434
+            ],
+            [
+                105.383744,
+                9.337143
+            ],
+            [
+                105.387392,
+                9.340025
+            ],
+            [
+                105.390948,
+                9.343508
+            ],
+            [
+                105.392106,
+                9.344641
+            ],
+            [
+                105.397535,
+                9.34932
+            ],
+            [
+                105.39867,
+                9.350464
+            ],
+            [
+                105.400136,
+                9.351942
+            ],
+            [
+                105.401284,
+                9.353099
+            ],
+            [
+                105.402752,
+                9.352606
+            ],
+            [
+                105.402981,
+                9.352529
+            ],
+            [
+                105.404262,
+                9.352098
+            ]
+        ]
+    ]
+}

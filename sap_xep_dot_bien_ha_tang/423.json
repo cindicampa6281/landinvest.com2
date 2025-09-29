@@ -1,0 +1,5102 @@
+{
+    "id_district": "423",
+    "id_province": 43,
+    "name_province": "Ninh Thuận",
+    "name_district": "Thành phố Phan Rang-Tháp Chàm",
+    "list_sukien": [
+        {
+            "bidName": "Gói thầu số 07 - Thi công xây lắp",
+            "chudautu": "Sở Giáo dục và Đào tạo Ninh Thuận",
+            "createdBy": "vn4500239932",
+            "publicDate": "2024-09-10 10:34:45",
+            "projectName": null,
+            "bidCloseDate": "2024-09-17 09:30:00",
+            "id_muasamcong": "001a7752-a5f3-4d3c-b24b-2aba63f753b4",
+            "tongmuc_dautu": 462842040.0,
+            "bidNamePlanNew": "PL2400168949",
+            "dotbien_hatang": "Gói thầu số 07 - Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng",
+            "chudautu": "BAN QUẢN LÝ DỊCH VỤ CÔNG ÍCH THÀNH PHỐ PHAN RANG - THÁP CHÀM",
+            "createdBy": "vnz000012555",
+            "publicDate": "2024-08-01 16:02:40",
+            "projectName": null,
+            "bidCloseDate": "2024-08-08 09:00:00",
+            "id_muasamcong": "005eff49-18f4-4dc1-b982-57da03f08aa9",
+            "tongmuc_dautu": 920253406.0,
+            "bidNamePlanNew": "PL2400147167",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07 Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2023-06-23 17:22:38",
+            "projectName": null,
+            "bidCloseDate": "2023-07-04 15:00:00",
+            "id_muasamcong": "0147e69c-ca59-43ee-9f38-3a2e4f02c161",
+            "tongmuc_dautu": 11543105062.0,
+            "bidNamePlanNew": "PL2300101240",
+            "dotbien_hatang": "Gói thầu số 07 Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06 - Thi công xây dựng",
+            "chudautu": "Phòng Quản lý Đô thị thành phố Phan Rang - Tháp Chàm",
+            "createdBy": "vnz000012733",
+            "publicDate": "2024-11-12 07:36:36",
+            "projectName": null,
+            "bidCloseDate": "2024-11-21 08:00:00",
+            "id_muasamcong": "03ffa662-f1a5-4cb0-bd57-93156a57a1e8",
+            "tongmuc_dautu": 412180123.0,
+            "bidNamePlanNew": "PL2400264802",
+            "dotbien_hatang": "Gói thầu số 06 - Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2023-05-04 19:26:17",
+            "projectName": null,
+            "bidCloseDate": "2023-05-15 15:00:00",
+            "id_muasamcong": "0404c6f2-13a5-4ede-8ea9-e217b23febb3",
+            "tongmuc_dautu": 6739726465.0,
+            "bidNamePlanNew": "PL2300013938",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 13: Giám sát thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2024-06-04 16:32:55",
+            "projectName": null,
+            "bidCloseDate": "2024-06-22 09:30:00",
+            "id_muasamcong": "04de45d3-3ae5-438f-8785-d6848190646d",
+            "tongmuc_dautu": 608510292.0,
+            "bidNamePlanNew": "PL2400095384",
+            "dotbien_hatang": "Gói thầu số 13: Giám sát thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Số 40 Thi công xây dựng và lắp đặt thiết bị (bổ sung)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng các công trình Dân dụng và Công nghiệp tỉnh Ninh Thuận",
+            "createdBy": "vnz000005557",
+            "publicDate": "2024-06-04 09:29:24",
+            "projectName": "Liên danh Công ty Thăng Long – Á Châu",
+            "bidCloseDate": "2024-06-13 15:00:00",
+            "id_muasamcong": "05b8e60c-a36d-4476-81ee-6c98e06fe9c8",
+            "tongmuc_dautu": 4915787267.0,
+            "bidNamePlanNew": "PL2400096251",
+            "dotbien_hatang": "Số 40 Thi công xây dựng và lắp đặt thiết bị (bổ sung)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2023-03-03 21:42:04",
+            "projectName": null,
+            "bidCloseDate": "2023-03-14 15:00:00",
+            "id_muasamcong": "06d29a0e-5417-42d0-92dc-62c9eb28d829",
+            "tongmuc_dautu": 3350664273.0,
+            "bidNamePlanNew": "PL2300017154",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Công an thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vnz000030926",
+            "publicDate": "2023-10-24 13:26:37",
+            "projectName": null,
+            "bidCloseDate": "2023-10-28 08:00:00",
+            "id_muasamcong": "071d469b-e60c-4d52-b458-20276cd24db8",
+            "tongmuc_dautu": 121342983.0,
+            "bidNamePlanNew": "PL2300191314",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng",
+            "chudautu": "Trường tiểu học và trung học cơ sở Lê Đình Chinh",
+            "createdBy": "vn4500283113",
+            "publicDate": "2024-07-06 09:31:52",
+            "projectName": null,
+            "bidCloseDate": "2024-07-15 09:15:00",
+            "id_muasamcong": "089edc98-7261-498b-b0af-b2a6a7f16110",
+            "tongmuc_dautu": 429266077.0,
+            "bidNamePlanNew": "PL2400124560",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06:Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2024-03-19 09:28:13",
+            "projectName": null,
+            "bidCloseDate": "2024-03-27 15:00:00",
+            "id_muasamcong": "0f598f94-e4dc-4280-826a-2024531080fe",
+            "tongmuc_dautu": 8135899796.0,
+            "bidNamePlanNew": "PL2400025689",
+            "dotbien_hatang": "Gói thầu số 06:Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 13: Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2023-03-03 15:05:51",
+            "projectName": "Liên danh Công ty Cổ phần Phúc Thành An và Công ty trách nhiệm hữu hạn thiết bị phòng cháy chữa cháy Hồng Hà",
+            "bidCloseDate": "2023-03-14 15:00:00",
+            "id_muasamcong": "135d35a1-de23-4b3f-9b7f-3211decf0c0f",
+            "tongmuc_dautu": 11086032563.0,
+            "bidNamePlanNew": "PL2300018286",
+            "dotbien_hatang": "Gói thầu số 13: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói số 01: thi công xây lắp",
+            "chudautu": "CHI NHÁNH XĂNG DẦU NINH THUẬN",
+            "createdBy": "vnz000025651",
+            "publicDate": "2023-11-10 15:35:27",
+            "projectName": null,
+            "bidCloseDate": "2023-11-20 09:00:00",
+            "id_muasamcong": "13894c8f-2fdf-4f11-8599-0abfbbb93954",
+            "tongmuc_dautu": 894959837.0,
+            "bidNamePlanNew": "PL2300210821",
+            "dotbien_hatang": "Gói số 01: thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 22: Thi công xây dựng trung tâm y tế huyện Ninh Phước.",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng các công trình Dân dụng và Công nghiệp tỉnh Ninh Thuận",
+            "createdBy": "vnz000005557",
+            "publicDate": "2023-05-18 12:07:46",
+            "projectName": "Liên danh công ty Gia Việt – Tre Xanh – Thuận Tiến – Cầu đường 71",
+            "bidCloseDate": "2023-06-05 15:30:00",
+            "id_muasamcong": "16164bf0-3871-469c-8a44-79a28472d515",
+            "tongmuc_dautu": 41222000000.0,
+            "bidNamePlanNew": "PL2300070552",
+            "dotbien_hatang": "Gói thầu số 22: Thi công xây dựng trung tâm y tế huyện Ninh Phước.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 11: Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2024-09-09 14:49:26",
+            "projectName": null,
+            "bidCloseDate": "2024-09-18 15:00:00",
+            "id_muasamcong": "171e21e1-06d7-4046-9e69-8e315bde6247",
+            "tongmuc_dautu": 18094304961.0,
+            "bidNamePlanNew": "PL2400146728",
+            "dotbien_hatang": "Gói thầu số 11: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08: Thi công xây dựng",
+            "chudautu": "Trường tiểu học Đông Hải 2",
+            "createdBy": "vn4500319056",
+            "publicDate": "2024-09-21 10:52:13",
+            "projectName": null,
+            "bidCloseDate": "2024-09-30 09:30:00",
+            "id_muasamcong": "180be16f-4d28-48d3-b638-f199c4c8ecfe",
+            "tongmuc_dautu": 192064657.0,
+            "bidNamePlanNew": "PL2400206647",
+            "dotbien_hatang": "Gói thầu số 08: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03 - Thi công xây lắp công trình",
+            "chudautu": "Văn phòng Ủy ban nhân dân tỉnh Ninh Thuận",
+            "createdBy": "vn4500288619",
+            "publicDate": "2024-05-30 13:59:59",
+            "projectName": null,
+            "bidCloseDate": "2024-06-06 14:30:00",
+            "id_muasamcong": "184ced0a-280d-4d20-9e65-b4c5efe8549f",
+            "tongmuc_dautu": 120673298.0,
+            "bidNamePlanNew": "PL2400079428",
+            "dotbien_hatang": "Gói thầu số 03 - Thi công xây lắp công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08: Thi công xây dựng",
+            "chudautu": "Trường Tiểu học Phước Mỹ 1",
+            "createdBy": "vn4500282800",
+            "publicDate": "2024-09-11 10:50:55",
+            "projectName": null,
+            "bidCloseDate": "2024-09-20 09:00:00",
+            "id_muasamcong": "19417553-44c4-4770-96ff-a772f76fdf77",
+            "tongmuc_dautu": 229838119.0,
+            "bidNamePlanNew": "PL2400195196",
+            "dotbien_hatang": "Gói thầu số 08: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07 -Thi công xây lắp công trình.",
+            "chudautu": "Bệnh viện đa khoa tỉnh Ninh Thuận ",
+            "createdBy": "vnz000007757-05",
+            "publicDate": "2023-03-07 09:41:17",
+            "projectName": null,
+            "bidCloseDate": "2023-03-17 15:00:00",
+            "id_muasamcong": "1f64978e-6e51-4534-aa02-2750f6a02f49",
+            "tongmuc_dautu": 3972246233.0,
+            "bidNamePlanNew": "PL2300015704",
+            "dotbien_hatang": "Gói thầu số 07 -Thi công xây lắp công trình.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 13: Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2024-03-27 07:54:22",
+            "projectName": "Liên danh Công ty Châu An - Thuận Tiến",
+            "bidCloseDate": "2024-04-05 14:00:00",
+            "id_muasamcong": "202d99ab-ee08-4f75-8a10-2dfb950d86e1",
+            "tongmuc_dautu": 17372358756.0,
+            "bidNamePlanNew": "PL2400039753",
+            "dotbien_hatang": "Gói thầu số 13: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Giám sát thi công xây lắp gói thầu số 09",
+            "chudautu": "Văn phòng tỉnh ủy Ninh Thuận",
+            "createdBy": "vn4500233306",
+            "publicDate": "2023-06-27 08:44:06",
+            "projectName": null,
+            "bidCloseDate": "2023-07-07 15:30:00",
+            "id_muasamcong": "23bf7f4c-926a-4e7a-8662-8d24e832a060",
+            "tongmuc_dautu": 582600000.0,
+            "bidNamePlanNew": "PL2300093665",
+            "dotbien_hatang": "Giám sát thi công xây lắp gói thầu số 09",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 09 - Thi công xây lắp công trình",
+            "chudautu": "Sở Giáo dục và Đào tạo Ninh Thuận",
+            "createdBy": "vn4500239932",
+            "publicDate": "2025-03-08 08:33:21",
+            "projectName": null,
+            "bidCloseDate": "2025-03-17 08:30:00",
+            "id_muasamcong": "2548bba3-1852-49f4-b0ea-cc984ff6a5d3",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500030798",
+            "dotbien_hatang": "Gói thầu số 09 - Thi công xây lắp công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Cung cấp, lắp đặt vật tư thiết bị và thi công xây dựng công trình “Cải tạo và phát triển lưới điện phân phối xã Nhơn Sơn, Mỹ Sơn, huyện Ninh Sơn; xã Tân Hải, Xuân Hải và Hộ Hải, huyện Ninh Hải; phường Đô Vinh, Phước Mỹ, Tấn Tài, Phủ Hà và xã Thành Hải, thành phố PR-TC năm 2024”",
+            "chudautu": "CHI NHÁNH TỔNG CÔNG TY ĐIỆN LỰC MIỀN NAM TNHH - CÔNG TY ĐIỆN LỰC NINH THUẬN",
+            "createdBy": "vn4316000011-01",
+            "publicDate": "2023-11-20 16:00:13",
+            "projectName": null,
+            "bidCloseDate": "2023-11-30 16:10:00",
+            "id_muasamcong": "2684fa7d-6758-4721-bf6e-760ba2815f3f",
+            "tongmuc_dautu": 7543188123.0,
+            "bidNamePlanNew": "PL2300221807",
+            "dotbien_hatang": "Cung cấp, lắp đặt vật tư thiết bị và thi công xây dựng công trình “Cải tạo và phát triển lưới điện phân phối xã Nhơn Sơn, Mỹ Sơn, huyện Ninh Sơn; xã Tân Hải, Xuân Hải và Hộ Hải, huyện Ninh Hải; phường Đô Vinh, Phước Mỹ, Tấn Tài, Phủ Hà và xã Thành Hải, thành phố PR-TC năm 2024”",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 11: Giám sát thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng các công trình Dân dụng và Công nghiệp tỉnh Ninh Thuận",
+            "createdBy": "vnz000005557",
+            "publicDate": "2023-05-22 16:49:01",
+            "projectName": "HÒA BÌNH-TRUNG NGUYÊN-LINH VIỆT",
+            "bidCloseDate": "2023-06-05 16:00:00",
+            "id_muasamcong": "27435bb4-6c76-4cb6-9ecf-cdb318113f89",
+            "tongmuc_dautu": 1555719064.0,
+            "bidNamePlanNew": "PL2300070552",
+            "dotbien_hatang": "Gói thầu số 11: Giám sát thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu XL01: Thi công xây dựng",
+            "chudautu": "Lữ đoàn 5/Binh chủng Đặc công",
+            "createdBy": "vn0318070778",
+            "publicDate": "2024-11-04 15:21:15",
+            "projectName": null,
+            "bidCloseDate": "2024-11-08 08:00:00",
+            "id_muasamcong": "28246c9f-5d2a-4b5a-8417-22965f818a22",
+            "tongmuc_dautu": 2486465620.0,
+            "bidNamePlanNew": "PL2400251491",
+            "dotbien_hatang": "Gói thầu XL01: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số  07: Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2023-02-24 17:06:39",
+            "projectName": "LIÊN DANH CÔNG TY TNHH ĐẦU TƯ VÀ THƯƠNG MẠI MIỀN NHIỆT ĐỚI VÀ CÔNG TY TRÁCH NHIỆM HỮU HẠN THIẾT BỊ PHÒNG CHÁY CHỮA CHÁY HỒNG HÀ",
+            "bidCloseDate": "2023-03-07 15:00:00",
+            "id_muasamcong": "28dccacf-cb0d-426b-b295-83926615e1d8",
+            "tongmuc_dautu": 5079788299.0,
+            "bidNamePlanNew": "PL2300018267",
+            "dotbien_hatang": "Gói thầu số  07: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Cung cấp lắp đặt vật tư thiết bị và thi công xây dựng công trình “Trang bị bổ sung hệ thống PCCC tại các Trạm biến áp 110kV Tháp Chàm, Ninh Sơn, Ninh Hải, Ninh Phước, Ninh Thuận 1”",
+            "chudautu": "CHI NHÁNH TỔNG CÔNG TY ĐIỆN LỰC MIỀN NAM TNHH - CÔNG TY ĐIỆN LỰC NINH THUẬN",
+            "createdBy": "vn4316000011",
+            "publicDate": "2024-11-25 17:29:29",
+            "projectName": null,
+            "bidCloseDate": "2024-11-29 16:40:00",
+            "id_muasamcong": "29a76d77-caee-4a9b-aa5b-aa22df69cf67",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400265053",
+            "dotbien_hatang": "Cung cấp lắp đặt vật tư thiết bị và thi công xây dựng công trình “Trang bị bổ sung hệ thống PCCC tại các Trạm biến áp 110kV Tháp Chàm, Ninh Sơn, Ninh Hải, Ninh Phước, Ninh Thuận 1”",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng",
+            "chudautu": "Trường trung học cơ sở Lê Hồng Phong",
+            "createdBy": "vn4500282945",
+            "publicDate": "2024-07-06 10:00:14",
+            "projectName": null,
+            "bidCloseDate": "2024-07-15 09:30:00",
+            "id_muasamcong": "2a236a8d-ec91-440d-a7c6-5e30bb7a2dbd",
+            "tongmuc_dautu": 394381574.0,
+            "bidNamePlanNew": "PL2400124635",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây lắp công trình",
+            "chudautu": "BAN QUẢN LÝ DỊCH VỤ CÔNG ÍCH THÀNH PHỐ PHAN RANG - THÁP CHÀM",
+            "createdBy": "vnz000012555",
+            "publicDate": "2023-05-04 08:25:12",
+            "projectName": null,
+            "bidCloseDate": "2023-05-15 09:00:00",
+            "id_muasamcong": "2b2b36c6-30c6-4473-8fce-d06b95591cb5",
+            "tongmuc_dautu": 3034240967.0,
+            "bidNamePlanNew": "PL2300060495",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây lắp công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng",
+            "chudautu": "BAN QUẢN LÝ DỊCH VỤ CÔNG ÍCH THÀNH PHỐ PHAN RANG - THÁP CHÀM",
+            "createdBy": "vnz000012555",
+            "publicDate": "2024-10-29 09:24:52",
+            "projectName": null,
+            "bidCloseDate": "2024-11-05 09:00:00",
+            "id_muasamcong": "2b83883e-4f33-4ca7-a77b-891cb720242b",
+            "tongmuc_dautu": 207394933.0,
+            "bidNamePlanNew": "PL2400241662",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 11: Thi công xây lắp công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2024-10-26 08:56:57",
+            "projectName": "Liên danh Long Vịnh - Hồng Hà",
+            "bidCloseDate": "2024-11-03 08:30:00",
+            "id_muasamcong": "2e5a2508-57d3-4a02-9aaf-924776751b30",
+            "tongmuc_dautu": 15690347883.0,
+            "bidNamePlanNew": "PL2400238833",
+            "dotbien_hatang": "Gói thầu số 11: Thi công xây lắp công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08: Thi công xây dựng",
+            "chudautu": "Trường tiểu học Mỹ Bình Ninh Thuận",
+            "createdBy": "vn4500282977",
+            "publicDate": "2024-08-05 09:03:13",
+            "projectName": null,
+            "bidCloseDate": "2024-08-14 09:00:00",
+            "id_muasamcong": "2fee8746-ddbf-4484-8550-e12bcd3f621e",
+            "tongmuc_dautu": 154005466.0,
+            "bidNamePlanNew": "PL2400157573",
+            "dotbien_hatang": "Gói thầu số 08: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng",
+            "chudautu": "Ủy Ban Nhân Dân Xã Phước Tiến",
+            "createdBy": "vn4500498045",
+            "publicDate": "2024-10-17 15:00:40",
+            "projectName": null,
+            "bidCloseDate": "2024-10-25 09:00:00",
+            "id_muasamcong": "33f0faea-7821-4f79-bd53-41866c6ec2bf",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400215980",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thuầ số 03: Thi công xây lắp công trình",
+            "chudautu": "Sở Tài Chính Ninh Thuận",
+            "createdBy": "vn4500198588",
+            "publicDate": "2024-11-30 10:51:19",
+            "projectName": null,
+            "bidCloseDate": "2024-12-08 09:00:00",
+            "id_muasamcong": "34670e9b-dae0-4c00-b9e2-9d90259d2230",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400295739",
+            "dotbien_hatang": "Gói thuầ số 03: Thi công xây lắp công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng nhà để xe xuồng và các hạng mục phụ trợ",
+            "chudautu": "Lữ đoàn 5/Binh chủng Đặc công",
+            "createdBy": "vnz000009204",
+            "publicDate": "2023-07-18 09:34:44",
+            "projectName": null,
+            "bidCloseDate": "2023-07-28 10:00:00",
+            "id_muasamcong": "34c847a9-4268-438f-9ca4-dbb72a49d408",
+            "tongmuc_dautu": 1650283000.0,
+            "bidNamePlanNew": "PL2300121081",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng nhà để xe xuồng và các hạng mục phụ trợ",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 10: Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2024-08-29 15:41:10",
+            "projectName": "Liên danh công ty TNHH tư vấn thiết kế xây dựng và thương mại Hưng Phú - công ty TNHH thiết bị PCCC Hồng Hà",
+            "bidCloseDate": "2024-09-09 14:00:00",
+            "id_muasamcong": "3532e770-f26e-40b7-bede-c385c6e7fa77",
+            "tongmuc_dautu": 5235809110.0,
+            "bidNamePlanNew": "PL2400176853",
+            "dotbien_hatang": "Gói thầu số 10: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công Xây lắp công trình",
+            "chudautu": "Bệnh viện đa khoa tỉnh Ninh Thuận ",
+            "createdBy": "vnz000007757-05",
+            "publicDate": "2023-05-27 09:59:13",
+            "projectName": "Liên danh Trường Thịnh Phát - PCCC Hồng Hà - Công Nghệ HKN",
+            "bidCloseDate": "2023-06-09 09:00:00",
+            "id_muasamcong": "35a17c6a-839e-48ee-a0f6-14f5c662c4d6",
+            "tongmuc_dautu": 12038589418.0,
+            "bidNamePlanNew": "PL2300064207",
+            "dotbien_hatang": "Gói thầu số 07: Thi công Xây lắp công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08: Thi công xây dựng",
+            "chudautu": "Trường mẫu giáo Mỹ Đông",
+            "createdBy": "vn4500400035",
+            "publicDate": "2024-09-08 09:24:32",
+            "projectName": null,
+            "bidCloseDate": "2024-09-17 08:30:00",
+            "id_muasamcong": "35b16049-2b8d-49fc-8f63-cde2d6c4c9e8",
+            "tongmuc_dautu": 241845986.0,
+            "bidNamePlanNew": "PL2400146371",
+            "dotbien_hatang": "Gói thầu số 08: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu TV-05: Tư vấn giám sát thi công xây dựng và lắp đặt thiết bị, doanh cụ",
+            "chudautu": "Sư đoàn 370/Quân chủng PK-KQ",
+            "createdBy": "vnz000020498",
+            "publicDate": "2022-12-16 15:00:21",
+            "projectName": null,
+            "bidCloseDate": "2023-01-06 10:00:00",
+            "id_muasamcong": "393b5b5d-bf01-4c61-89da-a66e97712c15",
+            "tongmuc_dautu": 793000000.0,
+            "bidNamePlanNew": "PL2200004181",
+            "dotbien_hatang": "Gói thầu TV-05: Tư vấn giám sát thi công xây dựng và lắp đặt thiết bị, doanh cụ",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06 - Thi công xây dựng",
+            "chudautu": "Phòng Quản lý Đô thị thành phố Phan Rang - Tháp Chàm",
+            "createdBy": "vnz000012733",
+            "publicDate": "2024-07-22 14:11:09",
+            "projectName": null,
+            "bidCloseDate": "2024-07-27 08:30:00",
+            "id_muasamcong": "3968dcb3-dfe6-4c85-9799-cd1e928aa65c",
+            "tongmuc_dautu": 293992947.0,
+            "bidNamePlanNew": "PL2400132709",
+            "dotbien_hatang": "Gói thầu số 06 - Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng",
+            "chudautu": "BAN QUẢN LÝ DỊCH VỤ CÔNG ÍCH THÀNH PHỐ PHAN RANG - THÁP CHÀM",
+            "createdBy": "vnz000012555",
+            "publicDate": "2024-12-18 17:29:25",
+            "projectName": null,
+            "bidCloseDate": "2024-12-25 09:15:00",
+            "id_muasamcong": "3a1b87a4-7b7f-470f-b59f-c28fa9310e3d",
+            "tongmuc_dautu": 2241426553.0,
+            "bidNamePlanNew": "PL2400316598",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06: Thi công xây dựng công trình",
+            "chudautu": "NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN NGOẠI THƯƠNG VIỆT NAM - CHI NHÁNH NINH THUẬN",
+            "createdBy": "vnz000019480-02",
+            "publicDate": "2023-10-12 10:52:35",
+            "projectName": "Liên danh Công ty Nam Phan Rang - Phú Cường",
+            "bidCloseDate": "2023-10-22 09:09:00",
+            "id_muasamcong": "3ed2781a-683e-4d44-a4f4-18a1eb39704a",
+            "tongmuc_dautu": 1318079160.0,
+            "bidNamePlanNew": "PL2300179338",
+            "dotbien_hatang": "Gói thầu số 06: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Giám sát thi công xây lắp gói thầu số 09",
+            "chudautu": "Văn phòng tỉnh ủy Ninh Thuận",
+            "createdBy": "vn4500233306",
+            "publicDate": "2023-06-26 13:43:17",
+            "projectName": null,
+            "bidCloseDate": "2024-06-06 08:30:00",
+            "id_muasamcong": "3f484ffc-bcab-4c90-8c4f-e6839fc83e70",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300093665",
+            "dotbien_hatang": "Giám sát thi công xây lắp gói thầu số 09",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 10: Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2023-10-01 07:47:46",
+            "projectName": "Liên danh Long Vịnh - PCCC Thuận Tiến",
+            "bidCloseDate": "2023-10-11 16:00:00",
+            "id_muasamcong": "3f48604d-031b-42b6-8976-22faa8139d26",
+            "tongmuc_dautu": 10393865625.0,
+            "bidNamePlanNew": "PL2300174026",
+            "dotbien_hatang": "Gói thầu số 10: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng",
+            "chudautu": "BAN QUẢN LÝ DỊCH VỤ CÔNG ÍCH THÀNH PHỐ PHAN RANG - THÁP CHÀM",
+            "createdBy": "vnz000012555",
+            "publicDate": "2024-12-28 09:59:24",
+            "projectName": null,
+            "bidCloseDate": "2025-01-07 09:00:00",
+            "id_muasamcong": "412dd9d4-8458-41ca-b6c2-40982f0a0460",
+            "tongmuc_dautu": 585067140.0,
+            "bidNamePlanNew": "PL2400331566",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "số 08 Thi công xây lắp công trình + đảm bảo an toàn giao thông",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2025-02-26 16:13:59",
+            "projectName": null,
+            "bidCloseDate": "2025-03-07 09:00:00",
+            "id_muasamcong": "4145fb50-ee6a-42fa-9390-053fa021b77c",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500012173",
+            "dotbien_hatang": "số 08 Thi công xây lắp công trình + đảm bảo an toàn giao thông",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 16: Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2023-11-27 17:14:04",
+            "projectName": "LIÊN DANH C.TY TNHH XD & TTNT VẠN GIA , C.TY TNHH X D- TM - DV HẢI VÂN VÀ C.TY TNHH THIẾT BỊ PCCC HỒNG HÀ.",
+            "bidCloseDate": "2023-12-07 15:00:00",
+            "id_muasamcong": "4209981b-50cb-4494-a26c-82d1b3997389",
+            "tongmuc_dautu": 15250405531.0,
+            "bidNamePlanNew": "PL2300228658",
+            "dotbien_hatang": "Gói thầu số 16: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 20: Thi công xây lắp công trình",
+            "chudautu": "Văn phòng tỉnh ủy Ninh Thuận",
+            "createdBy": "vn4500233306",
+            "publicDate": "2023-07-10 10:03:47",
+            "projectName": "LIÊN DANH TRƯỜNG THỊNH PHÁT - PCCC HỒNG HÀ",
+            "bidCloseDate": "2023-07-22 10:00:00",
+            "id_muasamcong": "4452ab89-5f3a-4cbe-a3d1-748fbc7f65d2",
+            "tongmuc_dautu": 27932185895.0,
+            "bidNamePlanNew": "PL2300093665",
+            "dotbien_hatang": "Gói thầu số 20: Thi công xây lắp công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Tư vấn giám sát thi công xây dựng, lắp đặt thiết bị",
+            "chudautu": "Lữ đoàn 5/Binh chủng Đặc công",
+            "createdBy": "vnz000009204",
+            "publicDate": "2025-03-03 14:07:47",
+            "projectName": null,
+            "bidCloseDate": "2025-03-21 08:00:00",
+            "id_muasamcong": "44c636fa-90c8-4d7f-b687-137008d2c110",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400162258",
+            "dotbien_hatang": "Gói thầu số 05: Tư vấn giám sát thi công xây dựng, lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08: Thi công xây dựng",
+            "chudautu": "Trường Tiểu học Mỹ Hương",
+            "createdBy": "vn4500282751",
+            "publicDate": "2024-09-16 10:17:59",
+            "projectName": null,
+            "bidCloseDate": "2024-09-23 09:10:00",
+            "id_muasamcong": "45c8395d-d547-42b4-9d1d-dd3e71642530",
+            "tongmuc_dautu": 233295711.0,
+            "bidNamePlanNew": "PL2400196489",
+            "dotbien_hatang": "Gói thầu số 08: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 11: Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2023-10-01 07:41:11",
+            "projectName": "Liên danh Công ty Châu An - Thuận Tiến",
+            "bidCloseDate": "2023-10-11 15:30:00",
+            "id_muasamcong": "47765946-37c1-480a-8c59-7e5070657a11",
+            "tongmuc_dautu": 6314554041.0,
+            "bidNamePlanNew": "PL2300178807",
+            "dotbien_hatang": "Gói thầu số 11: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu XL-01: Thi công xây dựng và cung cấp, lắp đặt thiết bị toàn bộ dự án (trừ PCCC)",
+            "chudautu": "Sư đoàn 370/Quân chủng PK-KQ",
+            "createdBy": "vnz000020498",
+            "publicDate": "2024-06-21 10:45:31",
+            "projectName": "Liên danh ACC243 – Minh Dũng",
+            "bidCloseDate": "2024-07-11 10:00:00",
+            "id_muasamcong": "4c549ef2-58d7-4801-9f8c-909004734d53",
+            "tongmuc_dautu": 31428150000.0,
+            "bidNamePlanNew": "PL2300190115",
+            "dotbien_hatang": "Gói thầu XL-01: Thi công xây dựng và cung cấp, lắp đặt thiết bị toàn bộ dự án (trừ PCCC)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08: Thi công xây dựng",
+            "chudautu": "Trường tiểu học Phủ Hà 2",
+            "createdBy": "vn4500282744",
+            "publicDate": "2024-08-16 15:12:37",
+            "projectName": null,
+            "bidCloseDate": "2024-08-26 08:30:00",
+            "id_muasamcong": "4d769b5f-5d03-4f9c-acf7-1a641888c67e",
+            "tongmuc_dautu": 250540998.0,
+            "bidNamePlanNew": "PL2400167208",
+            "dotbien_hatang": "Gói thầu số 08: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 15: Giám sát thi công xây dựng công trình + lắp đặt thiết bị công nghệ thông tin",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2024-06-10 14:02:19",
+            "projectName": "LIÊN DANH CÔNG TY TNHH ĐẦU TƯ VÀ THƯƠNG MẠI MIỀN NHIỆT ĐỚI VÀ CÔNG TY TRÁCH NHIỆM HỮU HẠN TƯ VẤN THIẾT KẾ  XÂY DỰNG THUẬN PHÁT VÀ CÔNG TY TNHH ĐẦU TƯ XÂY DỰNG VÀ PHÒNG CHÁY CHỮA CHÁY HỒNG PHÁT",
+            "bidCloseDate": "2024-06-28 15:00:00",
+            "id_muasamcong": "4dc8270c-55b0-45bf-85ca-420b8f1e1323",
+            "tongmuc_dautu": 503169936.0,
+            "bidNamePlanNew": "PL2400102858",
+            "dotbien_hatang": "Gói thầu số 15: Giám sát thi công xây dựng công trình + lắp đặt thiết bị công nghệ thông tin",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng",
+            "chudautu": "Trường mẫu giáo Hoạ Mi",
+            "createdBy": "vn4500657552",
+            "publicDate": "2024-07-23 17:43:56",
+            "projectName": null,
+            "bidCloseDate": "2024-08-01 09:00:00",
+            "id_muasamcong": "4e230197-6b58-4aaa-8e1e-9c7d3a5d6197",
+            "tongmuc_dautu": 193684040.0,
+            "bidNamePlanNew": "PL2400137934",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng",
+            "chudautu": "Trường THCS Lê Văn Tám",
+            "createdBy": "vn4500282938",
+            "publicDate": "2024-08-20 18:08:10",
+            "projectName": null,
+            "bidCloseDate": "2024-08-30 15:00:00",
+            "id_muasamcong": "515c9024-f17d-481e-83a0-baf1501640ee",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400167170",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08 - Thi công xây dựng",
+            "chudautu": "Phòng Kinh tế thành phố Phan Rang - Tháp Chàm",
+            "createdBy": "vn4500289186",
+            "publicDate": "2024-08-06 05:42:46",
+            "projectName": null,
+            "bidCloseDate": "2024-08-13 16:00:00",
+            "id_muasamcong": "5265dd7a-936d-4e11-9a45-dbbf59fc7192",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400128762",
+            "dotbien_hatang": "Gói thầu số 08 - Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 10: Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2023-03-03 10:30:46",
+            "projectName": "LIÊN DANH LONG VỊNH - THUẬN TIẾN",
+            "bidCloseDate": "2023-03-13 16:10:00",
+            "id_muasamcong": "556d6dfb-0c25-4fe0-8863-2b9513d98bf3",
+            "tongmuc_dautu": 7270343927.0,
+            "bidNamePlanNew": "PL2300014273",
+            "dotbien_hatang": "Gói thầu số 10: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 14: Thi công xây lắp công trình + chi phí dự phòng (hạng mục các trục đường khu dân cư)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2024-10-22 10:39:32",
+            "projectName": "Liên danh Trường Hùng – Sơn Trà – Hoà Bình Ninh Thuận – Nhật Quỳnh – Ninh Thuận New",
+            "bidCloseDate": "2024-10-31 15:00:00",
+            "id_muasamcong": "55cceb23-caf1-41c0-bb8a-24c38aa64df5",
+            "tongmuc_dautu": 11207149679.0,
+            "bidNamePlanNew": "PL2400231042",
+            "dotbien_hatang": "Gói thầu số 14: Thi công xây lắp công trình + chi phí dự phòng (hạng mục các trục đường khu dân cư)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08 - Thi công xây dựng công trình",
+            "chudautu": "BAN QUẢN LÝ DỊCH VỤ CÔNG ÍCH THÀNH PHỐ PHAN RANG - THÁP CHÀM",
+            "createdBy": "vnz000012555",
+            "publicDate": "2024-12-25 11:02:21",
+            "projectName": null,
+            "bidCloseDate": "2024-12-31 09:00:00",
+            "id_muasamcong": "5739cb3f-642b-4e96-b009-e61a4b38ad3d",
+            "tongmuc_dautu": 2283228620.0,
+            "bidNamePlanNew": "PL2400327336",
+            "dotbien_hatang": "Gói thầu số 08 - Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "gói thầu số 10 thi công xây lắp công trình",
+            "chudautu": "Chi cục phòng chống lụt bão, quản lý đê điều, quản lý nước và công trình thủy lợi tỉnh Ninh Thuận",
+            "createdBy": "vnz000012990",
+            "publicDate": "2023-05-15 16:20:40",
+            "projectName": "Liên danh công ty cổ phần xây dựng Hòa Bình Ninh Thuận - công ty TNHH thi công xây dựng Đức Minh - công ty TNHH xây dựng PCCC Thuận Tiến",
+            "bidCloseDate": "2023-05-25 17:00:00",
+            "id_muasamcong": "574361ef-18cc-4105-b528-b953b07efda6",
+            "tongmuc_dautu": 12832121187.0,
+            "bidNamePlanNew": "PL2300067432",
+            "dotbien_hatang": "gói thầu số 10 thi công xây lắp công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2024-03-19 09:28:55",
+            "projectName": "Liên danh Công ty Cổ phần Tư vấn và Đầu tư Phát triển Quảng Nam và Công ty Cổ phần Quản lý và Xây dựng Đường bộ KonTum",
+            "bidCloseDate": "2024-03-26 15:00:00",
+            "id_muasamcong": "58c34ebf-ef4b-49ce-8b2e-0a4a83e0195c",
+            "tongmuc_dautu": 2654406236.0,
+            "bidNamePlanNew": "PL2400025065",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05 Thi công xây dựng Sân Tennis",
+            "chudautu": "Bộ chỉ huy Bộ đội Biên phòng tỉnh Ninh Thuận",
+            "createdBy": "vn4500588676",
+            "publicDate": "2024-06-30 16:41:28",
+            "projectName": null,
+            "bidCloseDate": "2024-07-09 16:30:00",
+            "id_muasamcong": "5b802a0c-2678-4a9f-a239-f490af2389b3",
+            "tongmuc_dautu": 993685000.0,
+            "bidNamePlanNew": "PL2400120892",
+            "dotbien_hatang": "Gói thầu số 05 Thi công xây dựng Sân Tennis",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 12: Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2024-06-04 15:27:51",
+            "projectName": "Liên danh Công ty TNHH Châu An - Tân Phát - Ngọc Bích",
+            "bidCloseDate": "2024-06-22 10:00:00",
+            "id_muasamcong": "5d43601e-5f65-4528-9baa-80ec25d78c6e",
+            "tongmuc_dautu": 26438839512.0,
+            "bidNamePlanNew": "PL2400095384",
+            "dotbien_hatang": "Gói thầu số 12: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 12: Giám sát thi công xây lắp + thiết bị",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2024-10-25 11:04:14",
+            "projectName": "Liên danh Công ty TNHH tư vấn xây dựng Hưng Thịnh - Công ty TNHH Phòng cháy chữa cháy Ninh Thuận",
+            "bidCloseDate": "2024-11-12 15:00:00",
+            "id_muasamcong": "62e541ab-b1e6-468e-b570-aefaf2ba767e",
+            "tongmuc_dautu": 469965185.0,
+            "bidNamePlanNew": "PL2400238833",
+            "dotbien_hatang": "Gói thầu số 12: Giám sát thi công xây lắp + thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08 – Thi công xây lắp công trình",
+            "chudautu": "Văn phòng Đăng ký đất đai Ninh Thuận",
+            "createdBy": "vn4500244026",
+            "publicDate": "2024-03-27 14:29:32",
+            "projectName": null,
+            "bidCloseDate": "2024-04-03 08:30:00",
+            "id_muasamcong": "633c2386-d631-4483-a8bb-b3e1e87f5055",
+            "tongmuc_dautu": 931527990.0,
+            "bidNamePlanNew": "PL2400032186",
+            "dotbien_hatang": "Gói thầu số 08 – Thi công xây lắp công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08: Thi công xây dựng",
+            "chudautu": "Trường mẫu giáo Vàng Anh",
+            "createdBy": "vn4500634844",
+            "publicDate": "2024-08-07 08:37:17",
+            "projectName": null,
+            "bidCloseDate": "2024-08-14 08:30:00",
+            "id_muasamcong": "64b640fe-7de6-4969-929f-18239ca01159",
+            "tongmuc_dautu": 238090503.0,
+            "bidNamePlanNew": "PL2400146462",
+            "dotbien_hatang": "Gói thầu số 08: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây lắp công trình",
+            "chudautu": "Công an tỉnh Ninh Thuận",
+            "createdBy": "vn0102060625",
+            "publicDate": "2023-03-21 09:43:09",
+            "projectName": null,
+            "bidCloseDate": "2024-04-04 09:00:00",
+            "id_muasamcong": "653292a1-dd68-441a-85ae-ec6d0d87ba75",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300019649",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây lắp công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2023-03-20 11:17:56",
+            "projectName": null,
+            "bidCloseDate": "2023-03-30 15:00:00",
+            "id_muasamcong": "66f58fb5-ab51-4a37-b4d5-323ca38611db",
+            "tongmuc_dautu": 8142999046.0,
+            "bidNamePlanNew": "PL2300032840",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08: Thi công xây dựng",
+            "chudautu": "Trường Tiểu học Mỹ Hương",
+            "createdBy": "vn4500282751",
+            "publicDate": "2024-09-12 10:14:53",
+            "projectName": null,
+            "bidCloseDate": "2024-09-23 09:00:00",
+            "id_muasamcong": "689d88cd-8f20-44bc-b25d-76c894b6d414",
+            "tongmuc_dautu": 565562317.0,
+            "bidNamePlanNew": "PL2400196443",
+            "dotbien_hatang": "Gói thầu số 08: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08: Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2023-03-03 21:42:45",
+            "projectName": "LIÊN DANH KHANG THỊNH - HƯNG CƯỜNG",
+            "bidCloseDate": "2023-03-14 15:20:00",
+            "id_muasamcong": "6905d543-bfb1-42c3-b719-bc9be758f879",
+            "tongmuc_dautu": 5120485901.0,
+            "bidNamePlanNew": "PL2300013949",
+            "dotbien_hatang": "Gói thầu số 08: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 1: Cung cấp, lắp đặt vật tư thiết bị và thi công xây dựng công trình",
+            "chudautu": "TỔNG CÔNG TY ĐIỆN LỰC MIỀN NAM TNHH",
+            "createdBy": "vn4316000011",
+            "publicDate": "2023-07-14 07:48:44",
+            "projectName": null,
+            "bidCloseDate": "2023-07-24 09:00:00",
+            "id_muasamcong": "6a5151ee-1b63-4823-8802-09bd83778f3c",
+            "tongmuc_dautu": 1374914362.0,
+            "bidNamePlanNew": "PL2300111712",
+            "dotbien_hatang": "Gói 1: Cung cấp, lắp đặt vật tư thiết bị và thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 26: Thi công xây dựng gói thầu số 26 + đảm bảo giao thông trục đường B18",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2023-11-24 14:50:49",
+            "projectName": "Liên danh Công ty TNHH Tư vấn Thiết kế Xây dựng Thuận Phát và Công ty TNHH xây dựng Phòng cháy Chữa cháy Thuận Tiến (gọi tắt là: Liên danh Công ty Thuận Phát -Công ty Thuận Tiến)",
+            "bidCloseDate": "2023-12-04 15:00:00",
+            "id_muasamcong": "6b1d2de1-63e5-4cc9-8bb5-42a69f1dd996",
+            "tongmuc_dautu": 1725524354.0,
+            "bidNamePlanNew": "PL2300228766",
+            "dotbien_hatang": "Gói thầu số 26: Thi công xây dựng gói thầu số 26 + đảm bảo giao thông trục đường B18",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Cung cấp lắp đặt vật tư thiết bị và thi công xây dựng công trình “Trang bị bổ sung hệ thống PCCC tại các Trạm biến áp 110kV Tháp Chàm, Ninh Sơn, Ninh Hải, Ninh Phước, Ninh Thuận 1”",
+            "chudautu": "CHI NHÁNH TỔNG CÔNG TY ĐIỆN LỰC MIỀN NAM TNHH - CÔNG TY ĐIỆN LỰC NINH THUẬN",
+            "createdBy": "vn4316000011-01",
+            "publicDate": "2025-01-12 10:09:42",
+            "projectName": null,
+            "bidCloseDate": "2025-01-21 10:45:00",
+            "id_muasamcong": "6b2a8b6d-2a68-40d3-97cb-914406d9dab3",
+            "tongmuc_dautu": 4312279594.0,
+            "bidNamePlanNew": "PL2400265053",
+            "dotbien_hatang": "Cung cấp lắp đặt vật tư thiết bị và thi công xây dựng công trình “Trang bị bổ sung hệ thống PCCC tại các Trạm biến áp 110kV Tháp Chàm, Ninh Sơn, Ninh Hải, Ninh Phước, Ninh Thuận 1”",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05:Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2024-03-18 08:21:57",
+            "projectName": null,
+            "bidCloseDate": "2024-03-27 15:00:00",
+            "id_muasamcong": "6d671a87-93e1-41ca-8148-970d636d6f0b",
+            "tongmuc_dautu": 3674939842.0,
+            "bidNamePlanNew": "PL2400026540",
+            "dotbien_hatang": "Gói thầu số 05:Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08: Thi công xây dựng",
+            "chudautu": "Trường Tiểu học Đài Sơn",
+            "createdBy": "vn4500282889",
+            "publicDate": "2024-11-14 10:41:14",
+            "projectName": null,
+            "bidCloseDate": "2024-11-23 09:00:00",
+            "id_muasamcong": "706bd272-c016-4858-acbb-eb9d9183f8f3",
+            "tongmuc_dautu": 416423299.0,
+            "bidNamePlanNew": "PL2400271152",
+            "dotbien_hatang": "Gói thầu số 08: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06 - Thi công xây lắp",
+            "chudautu": "Đài Phát thanh và Truyền hình tỉnh Ninh Thuận",
+            "createdBy": "vn4500144092",
+            "publicDate": "2024-09-19 15:22:00",
+            "projectName": null,
+            "bidCloseDate": "2024-09-26 09:00:00",
+            "id_muasamcong": "7316e554-6789-4088-84b1-99862c4f7732",
+            "tongmuc_dautu": 550878175.0,
+            "bidNamePlanNew": "PL2400188789",
+            "dotbien_hatang": "Gói thầu số 06 - Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08 - Thi công xây dựng",
+            "chudautu": "Phòng Kinh tế thành phố Phan Rang - Tháp Chàm",
+            "createdBy": "vn4500289186",
+            "publicDate": "2024-10-07 16:30:37",
+            "projectName": null,
+            "bidCloseDate": "2024-10-12 09:00:00",
+            "id_muasamcong": "77e07dc5-ccfc-4652-8986-c56d0f206a0d",
+            "tongmuc_dautu": 396669276.0,
+            "bidNamePlanNew": "PL2400217052",
+            "dotbien_hatang": "Gói thầu số 08 - Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu XL-01: Thi công xây dựng công trình",
+            "chudautu": "Sư đoàn 370/Quân chủng PK-KQ",
+            "createdBy": "vnz000020498",
+            "publicDate": "2024-10-01 10:21:19",
+            "projectName": null,
+            "bidCloseDate": "2024-10-10 10:00:00",
+            "id_muasamcong": "78095e98-3df3-4c84-9d15-8aa172a7a800",
+            "tongmuc_dautu": 10132326865.0,
+            "bidNamePlanNew": "PL2400213967",
+            "dotbien_hatang": "Gói thầu XL-01: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Số 16 Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2024-12-08 12:34:19",
+            "projectName": "Liên danh Công ty Chân An - Thuận Tiến",
+            "bidCloseDate": "2024-12-17 10:00:00",
+            "id_muasamcong": "789126eb-9f97-4b5e-939a-ac74cff2a9e1",
+            "tongmuc_dautu": 17323995196.0,
+            "bidNamePlanNew": "PL2400286745",
+            "dotbien_hatang": "Số 16 Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08: Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2024-09-06 10:44:39",
+            "projectName": "Liên danh công ty Châu An - Thuận Tiến",
+            "bidCloseDate": "2024-09-16 10:00:00",
+            "id_muasamcong": "7a36bfa4-063f-437d-80f0-842d7e1d9800",
+            "tongmuc_dautu": 8856927994.0,
+            "bidNamePlanNew": "PL2400177617",
+            "dotbien_hatang": "Gói thầu số 08: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08: Thi công xây dựng",
+            "chudautu": "Trường tiểu học Bảo An 1",
+            "createdBy": "vn4500282864",
+            "publicDate": "2024-07-09 08:42:41",
+            "projectName": null,
+            "bidCloseDate": "2024-07-17 08:30:00",
+            "id_muasamcong": "7e367156-f859-478c-9e2d-30a138d0b7e0",
+            "tongmuc_dautu": 468527723.0,
+            "bidNamePlanNew": "PL2400124479",
+            "dotbien_hatang": "Gói thầu số 08: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03 - Thi công xây lắp",
+            "chudautu": "Ban quản lý các khu công nghiệp tỉnh Ninh Thuận",
+            "createdBy": "vnz000016332",
+            "publicDate": "2024-07-26 08:43:24",
+            "projectName": null,
+            "bidCloseDate": "2024-08-05 09:00:00",
+            "id_muasamcong": "7f1495ae-ad7c-495d-8e6a-2b5a28a3d6f1",
+            "tongmuc_dautu": 760956757.0,
+            "bidNamePlanNew": "PL2400134465",
+            "dotbien_hatang": "Gói thầu số 03 - Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08: Thi công xây dựng",
+            "chudautu": "Trường trung học cơ sở Nguyễn Văn Trỗi",
+            "createdBy": "vn4500282825",
+            "publicDate": "2024-07-30 17:37:44",
+            "projectName": null,
+            "bidCloseDate": "2024-08-08 09:00:00",
+            "id_muasamcong": "7f861eb8-181f-492b-a586-b14defdfcdf0",
+            "tongmuc_dautu": 567331073.0,
+            "bidNamePlanNew": "PL2400144963",
+            "dotbien_hatang": "Gói thầu số 08: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 13: Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2023-03-03 21:42:24",
+            "projectName": "CÔNG TY TRÁCH NHIỆM HỮU HẠN THƯƠNG MẠI VÀ XÂY DỰNG THÀNH LONG-CÔNG TY TNHH XÂY DỰNG PCCC THUẬN TIẾN",
+            "bidCloseDate": "2023-03-14 15:10:00",
+            "id_muasamcong": "81c327b2-bc72-4e58-860b-40ffa64c3bcd",
+            "tongmuc_dautu": 7207398929.0,
+            "bidNamePlanNew": "PL2300017129",
+            "dotbien_hatang": "Gói thầu số 13: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 15: Giám sát thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2024-10-18 11:22:33",
+            "projectName": "Liên danh Công ty TNHH tư vấn xây dựng Hưng Thịnh - Công ty TNHH tư vấn xây dựng An Lộc Ninh Thuận",
+            "bidCloseDate": "2024-11-05 15:00:00",
+            "id_muasamcong": "82a00748-d4f5-47fb-a92e-b0df8d667279",
+            "tongmuc_dautu": 747878915.0,
+            "bidNamePlanNew": "PL2400231042",
+            "dotbien_hatang": "Gói thầu số 15: Giám sát thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Trường Cao đẳng nghề Ninh Thuận",
+            "createdBy": "vn4500237653",
+            "publicDate": "2023-07-18 15:39:32",
+            "projectName": "Liên danh Tuấn Anh - Hồng Hà",
+            "bidCloseDate": "2023-07-28 14:30:00",
+            "id_muasamcong": "84392d74-68c0-4d85-a0f7-e4e5253799c7",
+            "tongmuc_dautu": 4957632142.0,
+            "bidNamePlanNew": "PL2300117608",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 15: Giám sát thi công xây dựng công trình + lắp đặt thiết bị công nghệ thông tin",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2024-03-27 14:52:07",
+            "projectName": "Liên danh Sông Dinh - PCCC Ninh Thuận",
+            "bidCloseDate": "2024-04-15 15:00:00",
+            "id_muasamcong": "86b8ecb8-9ddd-4130-90cc-884deeb1c0eb",
+            "tongmuc_dautu": 504924464.0,
+            "bidNamePlanNew": "PL2400039753",
+            "dotbien_hatang": "Gói thầu số 15: Giám sát thi công xây dựng công trình + lắp đặt thiết bị công nghệ thông tin",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2023-08-11 19:29:26",
+            "projectName": null,
+            "bidCloseDate": "2023-08-22 15:00:00",
+            "id_muasamcong": "873a6645-6239-49f0-b663-8c3af2db7dce",
+            "tongmuc_dautu": 3890129540.0,
+            "bidNamePlanNew": "PL2300134351",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu TV - 05: Tư vấn Giám sát thi công xây dựng và thiết bị cả dự án",
+            "chudautu": "Binh chủng Đặc công",
+            "createdBy": "vnz000012019",
+            "publicDate": "2023-06-17 15:27:58",
+            "projectName": null,
+            "bidCloseDate": "2023-07-07 10:30:00",
+            "id_muasamcong": "87edb8d0-db45-495c-8f66-5fe83c56702b",
+            "tongmuc_dautu": 911403000.0,
+            "bidNamePlanNew": "PL2200086871",
+            "dotbien_hatang": "Gói thầu TV - 05: Tư vấn Giám sát thi công xây dựng và thiết bị cả dự án",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07 - Thi công xây lắp công trình",
+            "chudautu": "Sở Giáo dục và Đào tạo Ninh Thuận",
+            "createdBy": "vn4500239932",
+            "publicDate": "2023-03-06 16:03:32",
+            "projectName": null,
+            "bidCloseDate": "2023-03-13 09:00:00",
+            "id_muasamcong": "88940840-5b02-4678-89cc-1e5d20576766",
+            "tongmuc_dautu": 1833291220.0,
+            "bidNamePlanNew": "PL2300017681",
+            "dotbien_hatang": "Gói thầu số 07 - Thi công xây lắp công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06: Thi công xây dựng",
+            "chudautu": "BAN QUẢN LÝ DỊCH VỤ CÔNG ÍCH THÀNH PHỐ PHAN RANG - THÁP CHÀM",
+            "createdBy": "vnz000012555",
+            "publicDate": "2024-08-16 09:25:38",
+            "projectName": null,
+            "bidCloseDate": "2024-08-23 08:30:00",
+            "id_muasamcong": "89e3e824-b650-45db-9f45-f5c4a9b7fda4",
+            "tongmuc_dautu": 666833532.0,
+            "bidNamePlanNew": "PL2400159352",
+            "dotbien_hatang": "Gói thầu số 06: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 10: Giám sát thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2023-05-12 15:28:41",
+            "projectName": "Liên danh Công ty TNHH tư vấn thiết kế Trung Nguyên - Công ty TNHH tư vấn xây dựng An Lộc Ninh Thuận - Công ty TNHH tư vấn thiết kế và xây dựng QT Ninh Thuận (gọi tắt là: Liên danh tư vấn giám sát Trung Nguyên - An Lộc - QT Ninh Thuận)",
+            "bidCloseDate": "2023-06-01 16:30:00",
+            "id_muasamcong": "8a3b956f-98f8-4ff6-a424-96c43e3f16c6",
+            "tongmuc_dautu": 669161454.0,
+            "bidNamePlanNew": "PL2300066867",
+            "dotbien_hatang": "Gói thầu số 10: Giám sát thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08: Thi công xây dựng",
+            "chudautu": "Trường tiểu học Mỹ Đông",
+            "createdBy": "vn4500283000",
+            "publicDate": "2024-08-30 15:55:04",
+            "projectName": null,
+            "bidCloseDate": "2024-09-09 09:30:00",
+            "id_muasamcong": "8cc80c3d-1cad-445b-b52f-a9ab53fc8c4a",
+            "tongmuc_dautu": 385818162.0,
+            "bidNamePlanNew": "PL2400185587",
+            "dotbien_hatang": "Gói thầu số 08: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 1: Thi công xây dựng công trình",
+            "chudautu": "Bưu điện tỉnh Ninh Thuận",
+            "createdBy": "vn4316000021",
+            "publicDate": "2024-07-03 08:50:20",
+            "projectName": "Liên danh CÔNG TY TNHH XÂY DỰNG THƯƠNG MẠI GLOBAL TLM VÀ CÔNG TY TNHH TƯ VẤN ĐẦU TƯ XÂY DỰNG MINH PHÚ",
+            "bidCloseDate": "2024-07-10 09:30:00",
+            "id_muasamcong": "8e4ca86d-5c33-41be-836d-dea286546128",
+            "tongmuc_dautu": 1109033505.0,
+            "bidNamePlanNew": "PL2400117860",
+            "dotbien_hatang": "Gói thầu số 1: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2023-10-02 11:23:02",
+            "projectName": null,
+            "bidCloseDate": "2023-10-12 15:00:00",
+            "id_muasamcong": "90ceced8-10fa-4b62-9a69-cc57f9a43e7d",
+            "tongmuc_dautu": 2429347222.0,
+            "bidNamePlanNew": "PL2300174648",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07 - Thi công xây dựng công trình",
+            "chudautu": "BAN QUẢN LÝ DỊCH VỤ CÔNG ÍCH THÀNH PHỐ PHAN RANG - THÁP CHÀM",
+            "createdBy": "vnz000012555",
+            "publicDate": "2023-11-13 10:03:39",
+            "projectName": null,
+            "bidCloseDate": "2023-11-18 07:00:00",
+            "id_muasamcong": "9162aebe-2e41-4f2b-8085-93e05443e1a9",
+            "tongmuc_dautu": 2194032790.0,
+            "bidNamePlanNew": "PL2300215647",
+            "dotbien_hatang": "Gói thầu số 07 - Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng",
+            "chudautu": "Trường tiểu học Phú Thọ",
+            "createdBy": "vn4500282857",
+            "publicDate": "2024-08-01 15:17:54",
+            "projectName": null,
+            "bidCloseDate": "2024-08-12 08:30:00",
+            "id_muasamcong": "93535050-920c-402c-a5c0-d7e496753839",
+            "tongmuc_dautu": 218663227.0,
+            "bidNamePlanNew": "PL2400146303",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng",
+            "chudautu": "BAN QUẢN LÝ DỊCH VỤ CÔNG ÍCH THÀNH PHỐ PHAN RANG - THÁP CHÀM",
+            "createdBy": "vnz000012555",
+            "publicDate": "2024-12-25 15:22:08",
+            "projectName": "CÔNG TY CỔ PHẦN CÔNG TRÌNH ĐÔ THỊ NINH THUẬN, CÔNG TY TNHH XÂY DỰNG VÀ THƯƠNG MẠI DUY ANH và CÔNG TY TNHH ĐÔNG HƯNG NINH THUẬN.",
+            "bidCloseDate": "2025-01-01 09:00:00",
+            "id_muasamcong": "93729111-2e60-4d57-a798-158c059469c7",
+            "tongmuc_dautu": 1375661833.0,
+            "bidNamePlanNew": "PL2400329296",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08:Thi công xây dựng",
+            "chudautu": "Trường tiểu học Thanh Sơn",
+            "createdBy": "vnz000009387",
+            "publicDate": "2024-07-23 18:00:30",
+            "projectName": null,
+            "bidCloseDate": "2024-08-01 09:15:00",
+            "id_muasamcong": "9759ab88-0c34-4f0d-b61d-92fdcfde45ea",
+            "tongmuc_dautu": 327339208.0,
+            "bidNamePlanNew": "PL2400129991",
+            "dotbien_hatang": "Gói thầu số 08:Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08 - Thi công xây dựng",
+            "chudautu": "Phòng Kinh tế thành phố Phan Rang - Tháp Chàm",
+            "createdBy": "vn4500289186",
+            "publicDate": "2024-08-06 05:39:56",
+            "projectName": null,
+            "bidCloseDate": "2024-08-13 16:00:00",
+            "id_muasamcong": "9878ed9a-ef3c-4cfd-8134-664b4101a480",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400128854",
+            "dotbien_hatang": "Gói thầu số 08 - Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng",
+            "chudautu": "BAN QUẢN LÝ DỊCH VỤ CÔNG ÍCH THÀNH PHỐ PHAN RANG - THÁP CHÀM",
+            "createdBy": "vnz000012555",
+            "publicDate": "2024-12-18 17:29:35",
+            "projectName": null,
+            "bidCloseDate": "2024-12-25 09:00:00",
+            "id_muasamcong": "988cfbdc-6ae8-4fc9-a855-6637f1ebcee2",
+            "tongmuc_dautu": 2091798747.0,
+            "bidNamePlanNew": "PL2400316603",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Chi cục phòng chống lụt bão, quản lý đê điều, quản lý nước và công trình thủy lợi tỉnh Ninh Thuận",
+            "createdBy": "vnz000012990",
+            "publicDate": "2024-06-12 09:11:25",
+            "projectName": null,
+            "bidCloseDate": "2024-06-21 09:00:00",
+            "id_muasamcong": "99e47ee3-4fcd-4873-ae30-04b6bfe0cef1",
+            "tongmuc_dautu": 746869483.0,
+            "bidNamePlanNew": "PL2400096212",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "TỔNG CÔNG TY ĐƯỜNG SẮT VIỆT NAM",
+            "createdBy": "vn0103466748",
+            "publicDate": "2023-08-18 17:43:12",
+            "projectName": null,
+            "bidCloseDate": "2023-08-28 14:30:00",
+            "id_muasamcong": "9aa20c57-501b-443c-a395-14f658228097",
+            "tongmuc_dautu": 6270972000.0,
+            "bidNamePlanNew": "PL2300135145",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08:Thi công xây dựng",
+            "chudautu": "Trường Trung học cơ sở Trần Phú",
+            "createdBy": "vn4500283120",
+            "publicDate": "2024-07-16 09:18:14",
+            "projectName": null,
+            "bidCloseDate": "2024-07-25 09:10:00",
+            "id_muasamcong": "a0b412f5-fdb5-4a92-9b55-f6bb948af934",
+            "tongmuc_dautu": 682157119.0,
+            "bidNamePlanNew": "PL2400131245",
+            "dotbien_hatang": "Gói thầu số 08:Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Số 06 Thi công xây lắp công trình + thiết bị",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2025-01-06 14:06:19",
+            "projectName": null,
+            "bidCloseDate": "2025-01-15 09:10:00",
+            "id_muasamcong": "a168ceed-17df-4982-b843-88a996b12cc7",
+            "tongmuc_dautu": 2147607351.0,
+            "bidNamePlanNew": "PL2500002022",
+            "dotbien_hatang": "Số 06 Thi công xây lắp công trình + thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu XL-01: Thi công xây dựng công trình",
+            "chudautu": "Lữ đoàn 5/Binh chủng Đặc công",
+            "createdBy": "vnz000009204",
+            "publicDate": "2024-12-27 18:06:53",
+            "projectName": null,
+            "bidCloseDate": "2025-01-14 08:00:00",
+            "id_muasamcong": "a332f5fa-d04e-4343-889b-2440076a573c",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400162258",
+            "dotbien_hatang": "Gói thầu XL-01: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "số 06: Thi công xây lắp công trình",
+            "chudautu": "Văn phòng tỉnh ủy Ninh Thuận",
+            "createdBy": "vn4500233306",
+            "publicDate": "2024-11-29 16:20:09",
+            "projectName": null,
+            "bidCloseDate": "2024-12-06 09:30:00",
+            "id_muasamcong": "a604de28-6948-4d51-9132-d7c60ee73b0f",
+            "tongmuc_dautu": 754371132.0,
+            "bidNamePlanNew": "PL2400277811",
+            "dotbien_hatang": "số 06: Thi công xây lắp công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06 Thi công xây lắp công trình",
+            "chudautu": "Bộ chỉ huy Bộ đội Biên phòng tỉnh Ninh Thuận",
+            "createdBy": "vn4500588676",
+            "publicDate": "2024-06-29 11:04:30",
+            "projectName": null,
+            "bidCloseDate": "2024-07-07 09:00:00",
+            "id_muasamcong": "a7daefb5-dc31-45c7-8a3e-1efe4e3e1c16",
+            "tongmuc_dautu": 5397337000.0,
+            "bidNamePlanNew": "PL2400120885",
+            "dotbien_hatang": "Gói thầu số 06 Thi công xây lắp công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Số 14 Giám sát thi công xây dựng công trình + Lắp đặt thiết bị công nghệ thông tin",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2024-12-05 10:41:52",
+            "projectName": "Liên danh An Lộc Ninh Thuận và PCCC Hồng Hà",
+            "bidCloseDate": "2024-12-19 10:00:00",
+            "id_muasamcong": "a93b5d06-2c1f-4882-8e8d-28e29c61307a",
+            "tongmuc_dautu": 552878136.0,
+            "bidNamePlanNew": "PL2400286745",
+            "dotbien_hatang": "Số 14 Giám sát thi công xây dựng công trình + Lắp đặt thiết bị công nghệ thông tin",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2023-03-03 15:36:08",
+            "projectName": "CÔNG TY TNHH XÂY DỰNG VÀ TRANG TRÍ NỘI THẤT VẠN GIA VÀ CÔNG TY TNHH XÂY DỰNG - THƯƠNG MẠI - DỊCH VỤ HẢI VÂN",
+            "bidCloseDate": "2023-03-14 15:30:00",
+            "id_muasamcong": "acad017a-ce72-4297-a6ec-abdc6e9cc48c",
+            "tongmuc_dautu": 6168512122.0,
+            "bidNamePlanNew": "PL2300018656",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Cung cấp, lắp đặt vật tư thiết bị và thi công xây dựng công trình “Cải tạo và phát triển lưới điện phân phối khu vực TP.Phan Rang-Tháp Chàm và các địa bàn lân cận (năm 2025)”",
+            "chudautu": "CHI NHÁNH TỔNG CÔNG TY ĐIỆN LỰC MIỀN NAM TNHH - CÔNG TY ĐIỆN LỰC NINH THUẬN",
+            "createdBy": "vn4316000011-01",
+            "publicDate": "2024-11-05 17:52:29",
+            "projectName": null,
+            "bidCloseDate": "2024-11-15 14:10:00",
+            "id_muasamcong": "af4e076b-360c-479e-a94c-bf8c4e6964bc",
+            "tongmuc_dautu": 4360875227.0,
+            "bidNamePlanNew": "PL2400222198",
+            "dotbien_hatang": "Cung cấp, lắp đặt vật tư thiết bị và thi công xây dựng công trình “Cải tạo và phát triển lưới điện phân phối khu vực TP.Phan Rang-Tháp Chàm và các địa bàn lân cận (năm 2025)”",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 10: Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2023-02-23 16:14:55",
+            "projectName": "Liên danh Công ty cổ phần đầu tư xây dựng Song Hân - Công ty TNHH Xây dựng PCCC Thuận Tiến",
+            "bidCloseDate": "2023-03-07 14:30:00",
+            "id_muasamcong": "b15af806-de9a-4769-9ba4-15e91d5cd9fc",
+            "tongmuc_dautu": 7242837721.0,
+            "bidNamePlanNew": "PL2300014213",
+            "dotbien_hatang": "Gói thầu số 10: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Số 03: Thi công xây lắp công trình",
+            "chudautu": "Sở Xây dựng Ninh Thuận",
+            "createdBy": "vnz000008963",
+            "publicDate": "2024-06-07 15:25:40",
+            "projectName": null,
+            "bidCloseDate": "2024-06-14 15:00:00",
+            "id_muasamcong": "b37d7db6-a674-4a6a-8b2b-1ca0a9b190e1",
+            "tongmuc_dautu": 128549947.0,
+            "bidNamePlanNew": "PL2400014916",
+            "dotbien_hatang": "Số 03: Thi công xây lắp công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Chi nhánh Ngân hàng phát triển KHU VỰC NAM TRUNG BỘ",
+            "createdBy": "vnz000005627",
+            "publicDate": "2023-10-11 08:27:58",
+            "projectName": null,
+            "bidCloseDate": "2023-10-18 09:00:00",
+            "id_muasamcong": "b4a58ffb-63e3-4480-83be-bdf2d956bd45",
+            "tongmuc_dautu": 1332000000.0,
+            "bidNamePlanNew": "PL2300185918",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06: Thi công xây lắp công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2024-08-22 08:25:26",
+            "projectName": null,
+            "bidCloseDate": "2024-08-31 10:00:00",
+            "id_muasamcong": "b50be8f9-7818-456d-8b59-4f38a2ebe22f",
+            "tongmuc_dautu": 2244066119.0,
+            "bidNamePlanNew": "PL2400172118",
+            "dotbien_hatang": "Gói thầu số 06: Thi công xây lắp công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Ủy ban nhân dân Xã Thành Hải, Thành Phố Phan Rang Tháp Chàm tỉnh Ninh Thuận",
+            "createdBy": "vn4500199045",
+            "publicDate": "2024-08-27 15:21:06",
+            "projectName": null,
+            "bidCloseDate": "2024-09-06 09:30:00",
+            "id_muasamcong": "b5db9f50-6649-4ab2-ace3-58ab0306cb63",
+            "tongmuc_dautu": 197610466.0,
+            "bidNamePlanNew": "PL2400176537",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 09: Thi công xây dựng công trình Sủa chữa vòng xoay, tiểu đảo đường Võ Nguyên Giáp - Yên Ninh, phường Mỹ Hải",
+            "chudautu": "BAN QUẢN LÝ DỊCH VỤ CÔNG ÍCH THÀNH PHỐ PHAN RANG - THÁP CHÀM",
+            "createdBy": "vnz000012555",
+            "publicDate": "2024-01-02 17:06:17",
+            "projectName": "LIÊN DANH CÔNG TY CP CÔNG TRÌNH ĐÔ THỊ NINH THUẬN VÀ CÔNG TY TNHH XÂY DỰNG VÀ THƯƠNG MẠI PHÚ THUẬN VIỆC",
+            "bidCloseDate": "2024-01-12 15:30:00",
+            "id_muasamcong": "b76776bd-2a94-473e-9266-b2313194e28a",
+            "tongmuc_dautu": 1199234184.0,
+            "bidNamePlanNew": "PL2300264911",
+            "dotbien_hatang": "Gói thầu số 09: Thi công xây dựng công trình Sủa chữa vòng xoay, tiểu đảo đường Võ Nguyên Giáp - Yên Ninh, phường Mỹ Hải",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 14: Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2024-03-16 08:21:27",
+            "projectName": "LIÊN DANH LONG VỊNH - THÁI SƠN",
+            "bidCloseDate": "2024-03-25 15:00:00",
+            "id_muasamcong": "b7bb18a4-7522-4b61-9634-06c34333ee5b",
+            "tongmuc_dautu": 9471895529.0,
+            "bidNamePlanNew": "PL2400033114",
+            "dotbien_hatang": "Gói thầu số 14: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 13: Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2023-05-12 15:26:36",
+            "projectName": "Liên danh Công ty TNHH Châu An - Tân Phát - Ngọc Bích",
+            "bidCloseDate": "2023-06-01 16:00:00",
+            "id_muasamcong": "b9cb725b-253b-4ed9-9bb6-68ed0593b870",
+            "tongmuc_dautu": 28342069511.0,
+            "bidNamePlanNew": "PL2300066867",
+            "dotbien_hatang": "Gói thầu số 13: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06: Thi công xây lắp công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2024-02-06 10:17:19",
+            "projectName": "Liên danh Trường Thịnh Phát - Union",
+            "bidCloseDate": "2024-02-24 10:00:00",
+            "id_muasamcong": "bbb03096-8cd5-4206-92e7-8b38ac4334f9",
+            "tongmuc_dautu": 11663373612.0,
+            "bidNamePlanNew": "PL2400016313",
+            "dotbien_hatang": "Gói thầu số 06: Thi công xây lắp công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "gói thầu số 11: Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2023-03-03 10:30:21",
+            "projectName": "LIÊN DANH TRƯỜNG THỊNH PHÁT - THUẬN TIẾN",
+            "bidCloseDate": "2023-03-13 16:00:00",
+            "id_muasamcong": "bf3cb0e8-c838-4d66-973f-b14a3609308c",
+            "tongmuc_dautu": 8758068312.0,
+            "bidNamePlanNew": "PL2300021353",
+            "dotbien_hatang": "gói thầu số 11: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng công trình + đảm bảo an toàn giao thông (bổ sung)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2025-01-06 10:28:53",
+            "projectName": "LIÊN DANH KHANG THỊNH - DUY ANH",
+            "bidCloseDate": "2025-01-15 09:00:00",
+            "id_muasamcong": "c07414a2-03ee-4d0c-a63a-b15208bc386f",
+            "tongmuc_dautu": 2659363899.0,
+            "bidNamePlanNew": "PL2400335129",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng công trình + đảm bảo an toàn giao thông (bổ sung)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số  06 - Thi công xây lắp",
+            "chudautu": "Sở Giáo dục và Đào tạo Ninh Thuận",
+            "createdBy": "vn4500239932",
+            "publicDate": "2024-09-09 15:51:49",
+            "projectName": null,
+            "bidCloseDate": "2024-09-16 09:00:00",
+            "id_muasamcong": "c1347638-cbad-4cb5-a432-22d5e57f51ba",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400164654",
+            "dotbien_hatang": "Gói thầu số  06 - Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 13: Thi công xây lắp công trình + đảm bảo an toàn giao thông + Chi phí dự phòng (hạng mục điện chiếu sáng + vỉa hè)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2024-10-23 19:40:15",
+            "projectName": "Liên danh Trường Thịnh Phát-Duy Anh-Ngọc Bích",
+            "bidCloseDate": "2024-11-09 08:30:00",
+            "id_muasamcong": "c3307f24-87db-4912-9a05-a5f485ccaed2",
+            "tongmuc_dautu": 24123856598.0,
+            "bidNamePlanNew": "PL2400231042",
+            "dotbien_hatang": "Gói thầu số 13: Thi công xây lắp công trình + đảm bảo an toàn giao thông + Chi phí dự phòng (hạng mục điện chiếu sáng + vỉa hè)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng",
+            "chudautu": "Ủy Ban Nhân Dân Xã Phước Tiến",
+            "createdBy": "vn4500498045",
+            "publicDate": "2024-09-30 19:36:32",
+            "projectName": null,
+            "bidCloseDate": "2024-10-07 10:00:00",
+            "id_muasamcong": "c37b8719-19a6-4eb5-a7c4-c45be8fae790",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400215980",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 10: Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2024-08-29 16:02:58",
+            "projectName": "LIÊN DANH CÔNG TY TNHH VIỆT TRUNG NINH THUẬN VÀ CÔNG TY TNHH PHÒNG CHÁY CHỮA CHÁY NINH THUẬN",
+            "bidCloseDate": "2024-09-09 14:30:00",
+            "id_muasamcong": "c4c07017-5ab9-466f-8852-f58d0335e7a1",
+            "tongmuc_dautu": 3817570363.0,
+            "bidNamePlanNew": "PL2400176719",
+            "dotbien_hatang": "Gói thầu số 10: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08: Thi công xây dựng",
+            "chudautu": "Trường tiểu học Thành Hải 2",
+            "createdBy": "vn4500319017",
+            "publicDate": "2024-10-21 13:58:53",
+            "projectName": null,
+            "bidCloseDate": "2024-10-30 09:10:00",
+            "id_muasamcong": "c5b1e175-412a-4943-9557-c563d53706ce",
+            "tongmuc_dautu": 421181640.0,
+            "bidNamePlanNew": "PL2400238592",
+            "dotbien_hatang": "Gói thầu số 08: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây lắp công trình",
+            "chudautu": "Công an tỉnh Ninh Thuận",
+            "createdBy": "vn0102060625",
+            "publicDate": "2023-03-28 17:39:28",
+            "projectName": null,
+            "bidCloseDate": "2023-04-10 10:00:00",
+            "id_muasamcong": "c6322e67-4ffc-4db3-9805-2f11cb7cd2bd",
+            "tongmuc_dautu": 13082686639.0,
+            "bidNamePlanNew": "PL2300019649",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây lắp công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08: Thi công xây dựng",
+            "chudautu": "Trường Trung Học Cơ Sở Lý Tự Trọng",
+            "createdBy": "vn4500282984",
+            "publicDate": "2024-09-19 15:11:59",
+            "projectName": null,
+            "bidCloseDate": "2024-09-30 09:00:00",
+            "id_muasamcong": "c81e5ed6-9620-49a2-bc0f-0cc220a27870",
+            "tongmuc_dautu": 149224323.0,
+            "bidNamePlanNew": "PL2400202982",
+            "dotbien_hatang": "Gói thầu số 08: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06 - Thi công xây dựng",
+            "chudautu": "Phòng Quản lý Đô thị thành phố Phan Rang - Tháp Chàm",
+            "createdBy": "vnz000012733",
+            "publicDate": "2024-04-23 09:23:44",
+            "projectName": null,
+            "bidCloseDate": "2024-04-30 10:00:00",
+            "id_muasamcong": "ca64754c-4346-4c25-8e48-6b46ee54c7e2",
+            "tongmuc_dautu": 238306463.0,
+            "bidNamePlanNew": "PL2400059016",
+            "dotbien_hatang": "Gói thầu số 06 - Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "số 23 Thi công xây dựng công trình hạng mục bổ sung",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2025-03-10 14:52:51",
+            "projectName": null,
+            "bidCloseDate": "2025-03-19 15:00:00",
+            "id_muasamcong": "ca95c365-52c7-4b7b-84da-56363c742904",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500037101",
+            "dotbien_hatang": "số 23 Thi công xây dựng công trình hạng mục bổ sung",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 09 - Thi công xây dựng",
+            "chudautu": "BAN QUẢN LÝ DỊCH VỤ CÔNG ÍCH THÀNH PHỐ PHAN RANG - THÁP CHÀM",
+            "createdBy": "vnz000012555",
+            "publicDate": "2024-06-17 14:24:29",
+            "projectName": null,
+            "bidCloseDate": "2024-06-24 08:30:00",
+            "id_muasamcong": "cbf8e6f4-f0e5-473f-99de-9e6d4fd5d7c2",
+            "tongmuc_dautu": 654065013.0,
+            "bidNamePlanNew": "PL2400105216",
+            "dotbien_hatang": "Gói thầu số 09 - Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06: Thi công xây dựng",
+            "chudautu": "BAN QUẢN LÝ DỊCH VỤ CÔNG ÍCH THÀNH PHỐ PHAN RANG - THÁP CHÀM",
+            "createdBy": "vnz000012555",
+            "publicDate": "2024-08-01 16:04:08",
+            "projectName": null,
+            "bidCloseDate": "2024-08-08 09:30:00",
+            "id_muasamcong": "cc5817e7-0ac9-4552-b72b-94a16d30e2a7",
+            "tongmuc_dautu": 594616840.0,
+            "bidNamePlanNew": "PL2400147117",
+            "dotbien_hatang": "Gói thầu số 06: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06: Thi công xây dựng công trình",
+            "chudautu": "Phòng Quản lý Đô thị thành phố Phan Rang - Tháp Chàm",
+            "createdBy": "vnz000012733",
+            "publicDate": "2024-12-30 14:12:43",
+            "projectName": "Liên danh Khang Minh – Miền Nhiệt Đới",
+            "bidCloseDate": "2025-01-07 16:30:00",
+            "id_muasamcong": "cc8d084a-0d0b-438f-a719-185b28309b30",
+            "tongmuc_dautu": 1895715561.0,
+            "bidNamePlanNew": "PL2400333215",
+            "dotbien_hatang": "Gói thầu số 06: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08: Thi công xây dựng",
+            "chudautu": "TRƯỜNG TIỂU HỌC ĐÔNG HẢI 1",
+            "createdBy": "vn4500282896",
+            "publicDate": "2024-07-16 08:48:26",
+            "projectName": null,
+            "bidCloseDate": "2024-07-25 09:00:00",
+            "id_muasamcong": "cef672e7-31a0-4cf6-bca0-5dd0eb62fc36",
+            "tongmuc_dautu": 479935259.0,
+            "bidNamePlanNew": "PL2400133571",
+            "dotbien_hatang": "Gói thầu số 08: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Tư vấn Giám sát thi công xây dựng và lắp đặt vật tư thiết bị công trình “Cải tạo và phát triển lưới điện phân phối khu vực huyện Ninh Hải và các địa bàn lân cận (năm 2025)”.",
+            "chudautu": "CHI NHÁNH TỔNG CÔNG TY ĐIỆN LỰC MIỀN NAM TNHH - CÔNG TY ĐIỆN LỰC NINH THUẬN",
+            "createdBy": "vn4316000011",
+            "publicDate": "2024-11-20 16:51:08",
+            "projectName": null,
+            "bidCloseDate": "2024-12-09 08:30:00",
+            "id_muasamcong": "d113e237-6d1d-4ec2-9618-b51767886464",
+            "tongmuc_dautu": 309000000.0,
+            "bidNamePlanNew": "PL2400254100",
+            "dotbien_hatang": "Tư vấn Giám sát thi công xây dựng và lắp đặt vật tư thiết bị công trình “Cải tạo và phát triển lưới điện phân phối khu vực huyện Ninh Hải và các địa bàn lân cận (năm 2025)”.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2024-03-19 09:29:36",
+            "projectName": null,
+            "bidCloseDate": "2024-03-26 15:30:00",
+            "id_muasamcong": "d3601d77-ebc6-4b2a-af70-2790d6f74a51",
+            "tongmuc_dautu": 1956515818.0,
+            "bidNamePlanNew": "PL2400025127",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói số 4: Thi công xây dựng công trình",
+            "chudautu": "Ban An toàn giao thông tỉnh Ninh Thuận",
+            "createdBy": "vnz000033708",
+            "publicDate": "2024-07-30 17:49:03",
+            "projectName": null,
+            "bidCloseDate": "2024-08-08 08:00:00",
+            "id_muasamcong": "d96c6028-6ae2-438c-bee5-dd96a8450122",
+            "tongmuc_dautu": 567971148.0,
+            "bidNamePlanNew": "PL2400139586",
+            "dotbien_hatang": "Gói số 4: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây lắp",
+            "chudautu": "Công an thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vnz000030926",
+            "publicDate": "2023-10-24 13:25:00",
+            "projectName": null,
+            "bidCloseDate": "2023-10-31 08:30:00",
+            "id_muasamcong": "da96e72a-e351-4db7-ae45-7854294d000a",
+            "tongmuc_dautu": 471551597.0,
+            "bidNamePlanNew": "PL2300191306",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu XD-01: Thi công xây dựng hạng mục công trình",
+            "chudautu": "SƯ ĐOÀN 377/QUÂN CHỦNG PKKQ",
+            "createdBy": "vnz000010027-02",
+            "publicDate": "2024-06-06 22:42:00",
+            "projectName": "Liên danh Xây dựng Hoàng Trường - Toàn Phát",
+            "bidCloseDate": "2024-06-15 07:00:00",
+            "id_muasamcong": "dc1ca7cb-a7a5-491e-a365-439662adacd2",
+            "tongmuc_dautu": 7748000000.0,
+            "bidNamePlanNew": "PL2400090448",
+            "dotbien_hatang": "Gói thầu XD-01: Thi công xây dựng hạng mục công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Ủy ban nhân dân phường Đông Hải",
+            "createdBy": "vn4500199052",
+            "publicDate": "2024-08-27 08:24:34",
+            "projectName": null,
+            "bidCloseDate": "2024-09-05 15:35:00",
+            "id_muasamcong": "dc99f198-d1e3-4549-84a8-4db147e77391",
+            "tongmuc_dautu": 523121050.0,
+            "bidNamePlanNew": "PL2400165682",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 17: Thi công xây dựng công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2024-06-10 14:04:34",
+            "projectName": "LIÊN DANH TRƯỜNG THỊNH PHÁT-HỒNG HÀ",
+            "bidCloseDate": "2024-06-28 15:30:00",
+            "id_muasamcong": "df4fc95b-2784-44a9-87c6-1a3c0e82fcf1",
+            "tongmuc_dautu": 20693644628.0,
+            "bidNamePlanNew": "PL2400102858",
+            "dotbien_hatang": "Gói thầu số 17: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08: Thi công xây dựng",
+            "chudautu": "Trường mẫu giáo Văn Hải",
+            "createdBy": "vn4500375597",
+            "publicDate": "2024-08-26 11:06:58",
+            "projectName": null,
+            "bidCloseDate": "2024-09-04 08:30:00",
+            "id_muasamcong": "df85aa6f-20b0-4f65-a6ba-33e9e109b31d",
+            "tongmuc_dautu": 166959562.0,
+            "bidNamePlanNew": "PL2400180353",
+            "dotbien_hatang": "Gói thầu số 08: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Cung cấp, lắp đặt vật tư thiết bị và thi công xây dựng công trình “Cải tạo và phát triển lưới điện trung, hạ thế để giải quyết kiến nghị cử tri; xóa hộ câu phụ, câu đuôi, lưới điện 1 pha khu vực TP.Phan Rang-Tháp Chàm và các địa bàn lân cận (năm 2025)”",
+            "chudautu": "CHI NHÁNH TỔNG CÔNG TY ĐIỆN LỰC MIỀN NAM TNHH - CÔNG TY ĐIỆN LỰC NINH THUẬN",
+            "createdBy": "vn4316000011-01",
+            "publicDate": "2025-03-07 14:44:57",
+            "projectName": null,
+            "bidCloseDate": "2025-03-17 08:00:00",
+            "id_muasamcong": "e0635d02-3b75-4bbe-9b6b-67304a4bd4bd",
+            "tongmuc_dautu": 8400095123.0,
+            "bidNamePlanNew": "PL2500035242",
+            "dotbien_hatang": "Cung cấp, lắp đặt vật tư thiết bị và thi công xây dựng công trình “Cải tạo và phát triển lưới điện trung, hạ thế để giải quyết kiến nghị cử tri; xóa hộ câu phụ, câu đuôi, lưới điện 1 pha khu vực TP.Phan Rang-Tháp Chàm và các địa bàn lân cận (năm 2025)”",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng",
+            "chudautu": "BAN QUẢN LÝ DỊCH VỤ CÔNG ÍCH THÀNH PHỐ PHAN RANG - THÁP CHÀM",
+            "createdBy": "vnz000012555",
+            "publicDate": "2024-08-16 09:24:23",
+            "projectName": null,
+            "bidCloseDate": "2024-08-23 08:50:00",
+            "id_muasamcong": "e0e0d319-ca42-4c76-902e-32442a3d9041",
+            "tongmuc_dautu": 452943268.0,
+            "bidNamePlanNew": "PL2400159389",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu TV-07: Giám sát thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "Sư đoàn 370/Quân chủng PK-KQ",
+            "createdBy": "vnz000020498",
+            "publicDate": "2024-06-21 10:36:31",
+            "projectName": "Liên danh nhà thầu VINA-NY",
+            "bidCloseDate": "2024-07-11 10:00:00",
+            "id_muasamcong": "e5471ba9-23ca-4fb3-90b6-86d95ab9584c",
+            "tongmuc_dautu": 855558680.0,
+            "bidNamePlanNew": "PL2300190115",
+            "dotbien_hatang": "Gói thầu TV-07: Giám sát thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07 - Thi công xây lắp",
+            "chudautu": "Sở Giáo dục và Đào tạo Ninh Thuận",
+            "createdBy": "vn4500239932",
+            "publicDate": "2024-09-10 10:33:40",
+            "projectName": null,
+            "bidCloseDate": "2024-09-17 10:15:00",
+            "id_muasamcong": "e7d3356c-3434-47e0-b205-d4bbb4805041",
+            "tongmuc_dautu": 425092314.0,
+            "bidNamePlanNew": "PL2400165025",
+            "dotbien_hatang": "Gói thầu số 07 - Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 21: Thi công xây dựng trung tâm y tế huyện Bác Ái.",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng các công trình Dân dụng và Công nghiệp tỉnh Ninh Thuận",
+            "createdBy": "vnz000005557",
+            "publicDate": "2023-05-15 23:38:13",
+            "projectName": "Liên danh công ty TNHH Xây dựng và Thương mại Khang Minh – Công ty Cổ phần đầu tư xây dựng Song Hân – Công ty TNHH Cầu đường 71 – Công ty TNHH Xây dựng PCCC Thuận Tiến",
+            "bidCloseDate": "2023-06-05 15:00:00",
+            "id_muasamcong": "ea64ba95-1786-4147-abb7-3ab555553c74",
+            "tongmuc_dautu": 29104136865.0,
+            "bidNamePlanNew": "PL2300070552",
+            "dotbien_hatang": "Gói thầu số 21: Thi công xây dựng trung tâm y tế huyện Bác Ái.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình",
+            "chudautu": "Văn phòng tỉnh ủy Ninh Thuận",
+            "createdBy": "vn4500233306",
+            "publicDate": "2024-04-24 08:56:08",
+            "projectName": null,
+            "bidCloseDate": "2024-05-04 09:00:00",
+            "id_muasamcong": "f05ba304-e867-4b60-80ab-155807407b01",
+            "tongmuc_dautu": 528718457.0,
+            "bidNamePlanNew": "PL2400053137",
+            "dotbien_hatang": "Thi công xây lắp công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Cung cấp, lắp đặt vật tư thiết bị và thi công xây dựng công trình “Cải tạo và phát triển lưới điện trung, hạ thế để giải quyết kiến nghị cử tri; xóa hộ câu phụ, câu đuôi, lưới điện 1 pha khu vực TP. Phan Rang-Tháp Chàm và các địa bàn lân cận (năm 2024)”",
+            "chudautu": "CHI NHÁNH TỔNG CÔNG TY ĐIỆN LỰC MIỀN NAM TNHH - CÔNG TY ĐIỆN LỰC NINH THUẬN",
+            "createdBy": "vn4316000011-01",
+            "publicDate": "2024-06-07 09:27:06",
+            "projectName": null,
+            "bidCloseDate": "2024-06-17 08:30:00",
+            "id_muasamcong": "f136fa3b-3d77-424d-a133-981efbdf6f80",
+            "tongmuc_dautu": 6048586466.0,
+            "bidNamePlanNew": "PL2400094880",
+            "dotbien_hatang": "Cung cấp, lắp đặt vật tư thiết bị và thi công xây dựng công trình “Cải tạo và phát triển lưới điện trung, hạ thế để giải quyết kiến nghị cử tri; xóa hộ câu phụ, câu đuôi, lưới điện 1 pha khu vực TP. Phan Rang-Tháp Chàm và các địa bàn lân cận (năm 2024)”",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói số 07 - Thi công xây dựng",
+            "chudautu": "BAN QUẢN LÝ DỊCH VỤ CÔNG ÍCH THÀNH PHỐ PHAN RANG - THÁP CHÀM",
+            "createdBy": "vnz000012555",
+            "publicDate": "2024-06-19 15:51:49",
+            "projectName": null,
+            "bidCloseDate": "2024-06-26 08:30:00",
+            "id_muasamcong": "f1c89393-eec8-4a75-8596-97d9113c4073",
+            "tongmuc_dautu": 174484950.0,
+            "bidNamePlanNew": "PL2400113557",
+            "dotbien_hatang": "Gói số 07 - Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng nhà để xe ô tô và các hạng mục phụ trợ",
+            "chudautu": "Lữ đoàn 5/Binh chủng Đặc công",
+            "createdBy": "vnz000009204",
+            "publicDate": "2023-06-29 16:51:55",
+            "projectName": null,
+            "bidCloseDate": "2023-07-10 15:00:00",
+            "id_muasamcong": "f26c6c10-901d-49ba-bc43-1dfa480c16f2",
+            "tongmuc_dautu": 2029362000.0,
+            "bidNamePlanNew": "PL2300106551",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng nhà để xe ô tô và các hạng mục phụ trợ",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số  06 - Thi công xây lắp",
+            "chudautu": "Sở Giáo dục và Đào tạo Ninh Thuận",
+            "createdBy": "vn4500239932",
+            "publicDate": "2024-09-30 16:08:23",
+            "projectName": null,
+            "bidCloseDate": "2024-10-07 09:00:00",
+            "id_muasamcong": "f5370a26-9ddd-4573-8cf9-427c5c8b407b",
+            "tongmuc_dautu": 437228953.0,
+            "bidNamePlanNew": "PL2400164654",
+            "dotbien_hatang": "Gói thầu số  06 - Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06 - Thi công xây dựng công trình",
+            "chudautu": "BAN QUẢN LÝ DỊCH VỤ CÔNG ÍCH THÀNH PHỐ PHAN RANG - THÁP CHÀM",
+            "createdBy": "vnz000012555",
+            "publicDate": "2023-10-31 14:43:15",
+            "projectName": null,
+            "bidCloseDate": "2023-11-08 16:50:00",
+            "id_muasamcong": "f9b89b9c-97a4-43dd-bcbf-b9841489e77e",
+            "tongmuc_dautu": 1431037644.0,
+            "bidNamePlanNew": "PL2300204480",
+            "dotbien_hatang": "Gói thầu số 06 - Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06: Thi công xây lắp công trình",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng thành phố Phan Rang Tháp Chàm",
+            "createdBy": "vn4500397495",
+            "publicDate": "2025-03-13 16:14:08",
+            "projectName": null,
+            "bidCloseDate": "2025-03-22 09:00:00",
+            "id_muasamcong": "fc2ff45b-bb75-47ff-af62-5706ffc1728b",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500034651",
+            "dotbien_hatang": "Gói thầu số 06: Thi công xây lắp công trình",
+            "link_muasamcong": ""
+        }
+    ],
+    "so_dot_bien": 156,
+    "thu_tu_sap_xep": 77,
+    "polygon": [
+        [
+            [
+                108.962312,
+                11.658259
+            ],
+            [
+                108.973494,
+                11.646485
+            ],
+            [
+                108.956037,
+                11.623533
+            ],
+            [
+                108.958445,
+                11.621455
+            ],
+            [
+                108.961916,
+                11.620909
+            ],
+            [
+                108.963459,
+                11.62054
+            ],
+            [
+                108.965759,
+                11.622076
+            ],
+            [
+                108.967282,
+                11.624557
+            ],
+            [
+                108.971166,
+                11.620215
+            ],
+            [
+                108.974849,
+                11.617011
+            ],
+            [
+                108.979829,
+                11.620845
+            ],
+            [
+                108.984867,
+                11.616701
+            ],
+            [
+                108.987955,
+                11.615773
+            ],
+            [
+                108.992494,
+                11.613105
+            ],
+            [
+                108.993321,
+                11.615711
+            ],
+            [
+                108.996358,
+                11.61222
+            ],
+            [
+                109.002882,
+                11.604554
+            ],
+            [
+                109.007861,
+                11.602626
+            ],
+            [
+                109.013541,
+                11.602339
+            ],
+            [
+                109.019267,
+                11.603186
+            ],
+            [
+                109.023981,
+                11.603628
+            ],
+            [
+                109.028559,
+                11.601365
+            ],
+            [
+                109.029858,
+                11.60061
+            ],
+            [
+                109.028718,
+                11.598449
+            ],
+            [
+                109.027564,
+                11.598188
+            ],
+            [
+                109.026413,
+                11.597546
+            ],
+            [
+                109.0245,
+                11.595634
+            ],
+            [
+                109.023487,
+                11.593727
+            ],
+            [
+                109.024266,
+                11.592466
+            ],
+            [
+                109.02517,
+                11.591712
+            ],
+            [
+                109.031334,
+                11.591501
+            ],
+            [
+                109.031211,
+                11.590866
+            ],
+            [
+                109.029308,
+                11.58756
+            ],
+            [
+                109.03199,
+                11.585462
+            ],
+            [
+                109.03192,
+                11.585396
+            ],
+            [
+                109.03151,
+                11.584979
+            ],
+            [
+                109.031118,
+                11.584552
+            ],
+            [
+                109.030665,
+                11.584028
+            ],
+            [
+                109.030291,
+                11.58356
+            ],
+            [
+                109.029918,
+                11.583063
+            ],
+            [
+                109.02954,
+                11.582526
+            ],
+            [
+                109.029146,
+                11.581928
+            ],
+            [
+                109.028761,
+                11.581309
+            ],
+            [
+                109.028377,
+                11.580653
+            ],
+            [
+                109.027369,
+                11.578813
+            ],
+            [
+                109.026654,
+                11.577411
+            ],
+            [
+                109.026106,
+                11.576199
+            ],
+            [
+                109.025874,
+                11.57562
+            ],
+            [
+                109.025525,
+                11.574612
+            ],
+            [
+                109.02536,
+                11.574039
+            ],
+            [
+                109.025241,
+                11.573557
+            ],
+            [
+                109.025129,
+                11.573004
+            ],
+            [
+                109.024964,
+                11.571879
+            ],
+            [
+                109.024847,
+                11.570545
+            ],
+            [
+                109.024779,
+                11.568827
+            ],
+            [
+                109.02475,
+                11.566363
+            ],
+            [
+                109.024765,
+                11.565651
+            ],
+            [
+                109.024802,
+                11.564906
+            ],
+            [
+                109.024854,
+                11.564282
+            ],
+            [
+                109.024921,
+                11.563721
+            ],
+            [
+                109.025009,
+                11.563188
+            ],
+            [
+                109.025128,
+                11.562624
+            ],
+            [
+                109.025275,
+                11.562043
+            ],
+            [
+                109.025438,
+                11.561485
+            ],
+            [
+                109.02587,
+                11.560205
+            ],
+            [
+                109.026612,
+                11.558247
+            ],
+            [
+                109.026979,
+                11.557331
+            ],
+            [
+                109.027329,
+                11.556567
+            ],
+            [
+                109.027682,
+                11.555916
+            ],
+            [
+                109.028059,
+                11.555338
+            ],
+            [
+                109.028311,
+                11.55501
+            ],
+            [
+                109.028698,
+                11.554557
+            ],
+            [
+                109.030465,
+                11.552681
+            ],
+            [
+                109.031479,
+                11.551511
+            ],
+            [
+                109.032539,
+                11.550253
+            ],
+            [
+                109.032842,
+                11.549874
+            ],
+            [
+                109.033233,
+                11.549329
+            ],
+            [
+                109.033561,
+                11.548791
+            ],
+            [
+                109.033676,
+                11.548501
+            ],
+            [
+                109.033738,
+                11.548153
+            ],
+            [
+                109.033737,
+                11.547791
+            ],
+            [
+                109.03367,
+                11.54739
+            ],
+            [
+                109.033577,
+                11.547089
+            ],
+            [
+                109.033444,
+                11.546737
+            ],
+            [
+                109.03278,
+                11.545253
+            ],
+            [
+                109.03254,
+                11.544599
+            ],
+            [
+                109.032358,
+                11.54389
+            ],
+            [
+                109.032038,
+                11.542195
+            ],
+            [
+                109.031867,
+                11.541475
+            ],
+            [
+                109.031683,
+                11.54091
+            ],
+            [
+                109.031473,
+                11.540434
+            ],
+            [
+                109.031253,
+                11.540053
+            ],
+            [
+                109.030712,
+                11.539217
+            ],
+            [
+                109.030574,
+                11.538967
+            ],
+            [
+                109.03048,
+                11.538671
+            ],
+            [
+                109.030297,
+                11.537853
+            ],
+            [
+                109.030237,
+                11.537675
+            ],
+            [
+                109.030168,
+                11.537545
+            ],
+            [
+                109.030111,
+                11.537483
+            ],
+            [
+                109.030049,
+                11.537449
+            ],
+            [
+                109.030028,
+                11.537459
+            ],
+            [
+                109.026685,
+                11.535806
+            ],
+            [
+                109.026139,
+                11.53545
+            ],
+            [
+                109.025345,
+                11.535248
+            ],
+            [
+                109.023191,
+                11.53379
+            ],
+            [
+                109.019872,
+                11.531549
+            ],
+            [
+                109.018645,
+                11.530698
+            ],
+            [
+                109.018324,
+                11.530353
+            ],
+            [
+                109.015375,
+                11.532357
+            ],
+            [
+                109.013477,
+                11.534539
+            ],
+            [
+                109.013731,
+                11.535048
+            ],
+            [
+                109.015685,
+                11.537003
+            ],
+            [
+                109.017646,
+                11.53803
+            ],
+            [
+                109.019615,
+                11.538043
+            ],
+            [
+                109.021474,
+                11.537941
+            ],
+            [
+                109.022354,
+                11.537893
+            ],
+            [
+                109.024578,
+                11.538161
+            ],
+            [
+                109.024572,
+                11.538921
+            ],
+            [
+                109.024132,
+                11.540691
+            ],
+            [
+                109.022057,
+                11.543717
+            ],
+            [
+                109.020597,
+                11.544467
+            ],
+            [
+                109.018971,
+                11.544456
+            ],
+            [
+                109.014523,
+                11.544003
+            ],
+            [
+                109.008797,
+                11.542866
+            ],
+            [
+                109.006062,
+                11.541966
+            ],
+            [
+                109.005382,
+                11.541743
+            ],
+            [
+                109.005206,
+                11.541728
+            ],
+            [
+                109.005072,
+                11.541721
+            ],
+            [
+                109.004976,
+                11.541718
+            ],
+            [
+                109.004775,
+                11.541715
+            ],
+            [
+                109.004595,
+                11.541717
+            ],
+            [
+                109.004361,
+                11.541727
+            ],
+            [
+                109.004141,
+                11.541741
+            ],
+            [
+                109.003925,
+                11.541761
+            ],
+            [
+                109.003673,
+                11.541789
+            ],
+            [
+                109.003441,
+                11.541819
+            ],
+            [
+                109.003178,
+                11.541859
+            ],
+            [
+                109.002915,
+                11.541902
+            ],
+            [
+                109.002717,
+                11.54194
+            ],
+            [
+                109.002496,
+                11.541988
+            ],
+            [
+                109.002292,
+                11.542038
+            ],
+            [
+                109.002078,
+                11.542096
+            ],
+            [
+                109.001949,
+                11.542133
+            ],
+            [
+                109.001803,
+                11.542177
+            ],
+            [
+                109.001547,
+                11.54226
+            ],
+            [
+                109.001298,
+                11.542346
+            ],
+            [
+                109.001007,
+                11.542453
+            ],
+            [
+                109.000739,
+                11.542556
+            ],
+            [
+                109.000351,
+                11.542712
+            ],
+            [
+                109.000143,
+                11.542799
+            ],
+            [
+                108.99994,
+                11.542889
+            ],
+            [
+                108.999703,
+                11.543001
+            ],
+            [
+                108.999569,
+                11.543067
+            ],
+            [
+                108.999465,
+                11.543121
+            ],
+            [
+                108.999284,
+                11.543218
+            ],
+            [
+                108.999107,
+                11.543318
+            ],
+            [
+                108.998904,
+                11.543441
+            ],
+            [
+                108.998718,
+                11.543559
+            ],
+            [
+                108.998616,
+                11.543627
+            ],
+            [
+                108.998509,
+                11.543701
+            ],
+            [
+                108.998334,
+                11.543826
+            ],
+            [
+                108.998145,
+                11.543969
+            ],
+            [
+                108.998044,
+                11.544049
+            ],
+            [
+                108.997967,
+                11.544113
+            ],
+            [
+                108.997883,
+                11.544187
+            ],
+            [
+                108.997809,
+                11.544256
+            ],
+            [
+                108.997743,
+                11.544321
+            ],
+            [
+                108.997665,
+                11.544402
+            ],
+            [
+                108.997608,
+                11.544467
+            ],
+            [
+                108.997562,
+                11.544522
+            ],
+            [
+                108.997514,
+                11.544583
+            ],
+            [
+                108.997464,
+                11.544653
+            ],
+            [
+                108.997413,
+                11.544731
+            ],
+            [
+                108.997379,
+                11.544789
+            ],
+            [
+                108.997336,
+                11.544869
+            ],
+            [
+                108.997303,
+                11.544938
+            ],
+            [
+                108.997271,
+                11.545014
+            ],
+            [
+                108.997249,
+                11.545076
+            ],
+            [
+                108.997229,
+                11.545141
+            ],
+            [
+                108.997203,
+                11.545232
+            ],
+            [
+                108.997156,
+                11.545423
+            ],
+            [
+                108.997114,
+                11.545622
+            ],
+            [
+                108.99708,
+                11.54581
+            ],
+            [
+                108.997049,
+                11.546008
+            ],
+            [
+                108.997023,
+                11.546195
+            ],
+            [
+                108.996944,
+                11.546816
+            ],
+            [
+                108.996914,
+                11.547045
+            ],
+            [
+                108.996874,
+                11.547302
+            ],
+            [
+                108.996836,
+                11.547516
+            ],
+            [
+                108.996804,
+                11.547668
+            ],
+            [
+                108.996766,
+                11.54783
+            ],
+            [
+                108.99662,
+                11.548389
+            ],
+            [
+                108.996558,
+                11.548619
+            ],
+            [
+                108.99585,
+                11.548086
+            ],
+            [
+                108.994206,
+                11.546611
+            ],
+            [
+                108.993633,
+                11.546945
+            ],
+            [
+                108.990822,
+                11.549065
+            ],
+            [
+                108.990138,
+                11.548947
+            ],
+            [
+                108.989571,
+                11.548493
+            ],
+            [
+                108.989465,
+                11.54731
+            ],
+            [
+                108.9885,
+                11.546572
+            ],
+            [
+                108.987419,
+                11.54617
+            ],
+            [
+                108.985477,
+                11.546551
+            ],
+            [
+                108.983988,
+                11.547272
+            ],
+            [
+                108.982784,
+                11.548108
+            ],
+            [
+                108.982205,
+                11.549286
+            ],
+            [
+                108.981399,
+                11.550238
+            ],
+            [
+                108.980253,
+                11.550905
+            ],
+            [
+                108.978884,
+                11.550952
+            ],
+            [
+                108.976257,
+                11.551215
+            ],
+            [
+                108.972376,
+                11.551357
+            ],
+            [
+                108.97129,
+                11.551743
+            ],
+            [
+                108.971171,
+                11.552362
+            ],
+            [
+                108.971906,
+                11.553267
+            ],
+            [
+                108.974847,
+                11.556834
+            ],
+            [
+                108.976715,
+                11.559043
+            ],
+            [
+                108.977631,
+                11.558599
+            ],
+            [
+                108.978495,
+                11.557366
+            ],
+            [
+                108.978908,
+                11.555512
+            ],
+            [
+                108.978169,
+                11.555112
+            ],
+            [
+                108.977626,
+                11.554453
+            ],
+            [
+                108.977801,
+                11.554295
+            ],
+            [
+                108.977967,
+                11.554152
+            ],
+            [
+                108.978137,
+                11.554016
+            ],
+            [
+                108.978309,
+                11.553888
+            ],
+            [
+                108.978485,
+                11.55377
+            ],
+            [
+                108.978664,
+                11.553663
+            ],
+            [
+                108.978846,
+                11.553569
+            ],
+            [
+                108.979031,
+                11.553488
+            ],
+            [
+                108.979219,
+                11.553424
+            ],
+            [
+                108.979411,
+                11.553376
+            ],
+            [
+                108.979606,
+                11.553346
+            ],
+            [
+                108.979804,
+                11.553336
+            ],
+            [
+                108.980004,
+                11.553335
+            ],
+            [
+                108.980206,
+                11.553341
+            ],
+            [
+                108.980409,
+                11.553353
+            ],
+            [
+                108.980614,
+                11.553371
+            ],
+            [
+                108.980818,
+                11.553395
+            ],
+            [
+                108.981024,
+                11.553425
+            ],
+            [
+                108.981229,
+                11.55346
+            ],
+            [
+                108.981434,
+                11.553501
+            ],
+            [
+                108.981638,
+                11.553547
+            ],
+            [
+                108.981842,
+                11.553597
+            ],
+            [
+                108.982044,
+                11.553652
+            ],
+            [
+                108.982245,
+                11.553712
+            ],
+            [
+                108.982444,
+                11.553775
+            ],
+            [
+                108.982641,
+                11.553843
+            ],
+            [
+                108.982835,
+                11.553914
+            ],
+            [
+                108.983027,
+                11.553989
+            ],
+            [
+                108.985876,
+                11.555137
+            ],
+            [
+                108.98567,
+                11.555287
+            ],
+            [
+                108.985595,
+                11.555345
+            ],
+            [
+                108.985512,
+                11.555411
+            ],
+            [
+                108.985437,
+                11.555474
+            ],
+            [
+                108.985371,
+                11.555533
+            ],
+            [
+                108.985291,
+                11.555607
+            ],
+            [
+                108.985197,
+                11.555699
+            ],
+            [
+                108.985126,
+                11.555773
+            ],
+            [
+                108.985048,
+                11.555858
+            ],
+            [
+                108.984985,
+                11.555932
+            ],
+            [
+                108.984917,
+                11.556014
+            ],
+            [
+                108.984845,
+                11.556108
+            ],
+            [
+                108.984769,
+                11.556214
+            ],
+            [
+                108.984716,
+                11.556293
+            ],
+            [
+                108.984661,
+                11.556378
+            ],
+            [
+                108.984619,
+                11.556447
+            ],
+            [
+                108.984562,
+                11.556546
+            ],
+            [
+                108.984519,
+                11.556627
+            ],
+            [
+                108.984475,
+                11.556713
+            ],
+            [
+                108.984435,
+                11.556798
+            ],
+            [
+                108.984403,
+                11.556874
+            ],
+            [
+                108.984378,
+                11.556938
+            ],
+            [
+                108.984346,
+                11.557036
+            ],
+            [
+                108.984327,
+                11.557099
+            ],
+            [
+                108.984308,
+                11.557176
+            ],
+            [
+                108.984287,
+                11.55727
+            ],
+            [
+                108.984274,
+                11.557344
+            ],
+            [
+                108.984262,
+                11.557428
+            ],
+            [
+                108.984252,
+                11.557522
+            ],
+            [
+                108.984243,
+                11.557629
+            ],
+            [
+                108.984239,
+                11.557719
+            ],
+            [
+                108.984237,
+                11.557818
+            ],
+            [
+                108.984238,
+                11.557927
+            ],
+            [
+                108.98424,
+                11.558005
+            ],
+            [
+                108.984249,
+                11.558177
+            ],
+            [
+                108.98427,
+                11.558424
+            ],
+            [
+                108.984297,
+                11.558687
+            ],
+            [
+                108.984323,
+                11.558899
+            ],
+            [
+                108.98436,
+                11.559157
+            ],
+            [
+                108.984399,
+                11.559398
+            ],
+            [
+                108.984447,
+                11.559651
+            ],
+            [
+                108.984498,
+                11.559889
+            ],
+            [
+                108.984541,
+                11.560072
+            ],
+            [
+                108.984594,
+                11.560279
+            ],
+            [
+                108.98466,
+                11.560514
+            ],
+            [
+                108.98472,
+                11.560709
+            ],
+            [
+                108.984791,
+                11.560924
+            ],
+            [
+                108.984861,
+                11.561118
+            ],
+            [
+                108.984941,
+                11.561326
+            ],
+            [
+                108.984977,
+                11.561413
+            ],
+            [
+                108.985009,
+                11.561488
+            ],
+            [
+                108.985046,
+                11.561563
+            ],
+            [
+                108.985085,
+                11.561634
+            ],
+            [
+                108.985123,
+                11.561699
+            ],
+            [
+                108.985174,
+                11.561777
+            ],
+            [
+                108.985224,
+                11.561849
+            ],
+            [
+                108.985288,
+                11.561934
+            ],
+            [
+                108.98534,
+                11.562
+            ],
+            [
+                108.985402,
+                11.562072
+            ],
+            [
+                108.985514,
+                11.562197
+            ],
+            [
+                108.985656,
+                11.562345
+            ],
+            [
+                108.986,
+                11.562696
+            ],
+            [
+                108.986075,
+                11.562775
+            ],
+            [
+                108.986152,
+                11.56286
+            ],
+            [
+                108.986232,
+                11.562952
+            ],
+            [
+                108.986313,
+                11.563053
+            ],
+            [
+                108.986394,
+                11.563164
+            ],
+            [
+                108.986454,
+                11.563255
+            ],
+            [
+                108.986494,
+                11.56332
+            ],
+            [
+                108.986522,
+                11.563371
+            ],
+            [
+                108.98655,
+                11.563424
+            ],
+            [
+                108.986577,
+                11.563479
+            ],
+            [
+                108.98662,
+                11.563575
+            ],
+            [
+                108.986645,
+                11.563635
+            ],
+            [
+                108.986697,
+                11.563774
+            ],
+            [
+                108.986742,
+                11.563911
+            ],
+            [
+                108.986769,
+                11.564001
+            ],
+            [
+                108.986788,
+                11.564073
+            ],
+            [
+                108.986807,
+                11.564154
+            ],
+            [
+                108.986827,
+                11.564247
+            ],
+            [
+                108.986851,
+                11.56438
+            ],
+            [
+                108.986868,
+                11.564503
+            ],
+            [
+                108.986879,
+                11.564606
+            ],
+            [
+                108.986888,
+                11.564719
+            ],
+            [
+                108.986891,
+                11.5648
+            ],
+            [
+                108.986893,
+                11.564887
+            ],
+            [
+                108.986892,
+                11.564978
+            ],
+            [
+                108.986887,
+                11.565074
+            ],
+            [
+                108.98688,
+                11.565176
+            ],
+            [
+                108.986868,
+                11.565283
+            ],
+            [
+                108.986854,
+                11.565377
+            ],
+            [
+                108.986836,
+                11.565476
+            ],
+            [
+                108.986815,
+                11.565577
+            ],
+            [
+                108.986786,
+                11.565694
+            ],
+            [
+                108.986766,
+                11.565769
+            ],
+            [
+                108.986738,
+                11.565859
+            ],
+            [
+                108.9867,
+                11.565968
+            ],
+            [
+                108.986667,
+                11.566053
+            ],
+            [
+                108.986627,
+                11.566147
+            ],
+            [
+                108.98659,
+                11.566225
+            ],
+            [
+                108.986547,
+                11.566311
+            ],
+            [
+                108.986495,
+                11.566404
+            ],
+            [
+                108.986454,
+                11.566471
+            ],
+            [
+                108.986409,
+                11.566542
+            ],
+            [
+                108.986358,
+                11.566616
+            ],
+            [
+                108.9863,
+                11.566694
+            ],
+            [
+                108.986252,
+                11.566756
+            ],
+            [
+                108.986199,
+                11.56682
+            ],
+            [
+                108.986113,
+                11.566918
+            ],
+            [
+                108.986021,
+                11.56702
+            ],
+            [
+                108.985943,
+                11.567104
+            ],
+            [
+                108.985824,
+                11.567226
+            ],
+            [
+                108.985747,
+                11.567302
+            ],
+            [
+                108.985653,
+                11.567391
+            ],
+            [
+                108.985579,
+                11.56746
+            ],
+            [
+                108.985423,
+                11.567596
+            ],
+            [
+                108.985345,
+                11.567661
+            ],
+            [
+                108.985259,
+                11.567731
+            ],
+            [
+                108.985162,
+                11.567805
+            ],
+            [
+                108.985092,
+                11.567857
+            ],
+            [
+                108.984937,
+                11.567967
+            ],
+            [
+                108.98485,
+                11.568025
+            ],
+            [
+                108.984756,
+                11.568084
+            ],
+            [
+                108.984655,
+                11.568146
+            ],
+            [
+                108.984546,
+                11.568209
+            ],
+            [
+                108.984368,
+                11.568306
+            ],
+            [
+                108.984202,
+                11.568389
+            ],
+            [
+                108.984018,
+                11.568473
+            ],
+            [
+                108.983899,
+                11.568525
+            ],
+            [
+                108.983815,
+                11.568559
+            ],
+            [
+                108.983635,
+                11.568628
+            ],
+            [
+                108.983539,
+                11.568662
+            ],
+            [
+                108.983332,
+                11.568734
+            ],
+            [
+                108.983058,
+                11.568823
+            ],
+            [
+                108.98282,
+                11.568895
+            ],
+            [
+                108.982547,
+                11.568973
+            ],
+            [
+                108.982334,
+                11.569028
+            ],
+            [
+                108.982167,
+                11.569069
+            ],
+            [
+                108.98203,
+                11.569101
+            ],
+            [
+                108.981878,
+                11.569133
+            ],
+            [
+                108.98171,
+                11.569166
+            ],
+            [
+                108.981589,
+                11.569189
+            ],
+            [
+                108.981392,
+                11.569221
+            ],
+            [
+                108.981249,
+                11.569243
+            ],
+            [
+                108.981016,
+                11.569273
+            ],
+            [
+                108.980761,
+                11.569299
+            ],
+            [
+                108.980285,
+                11.569335
+            ],
+            [
+                108.979859,
+                11.569362
+            ],
+            [
+                108.979352,
+                11.569387
+            ],
+            [
+                108.978833,
+                11.569406
+            ],
+            [
+                108.978279,
+                11.569419
+            ],
+            [
+                108.977943,
+                11.569425
+            ],
+            [
+                108.977794,
+                11.569424
+            ],
+            [
+                108.977598,
+                11.569418
+            ],
+            [
+                108.977354,
+                11.569404
+            ],
+            [
+                108.976596,
+                11.56934
+            ],
+            [
+                108.976413,
+                11.569327
+            ],
+            [
+                108.976205,
+                11.569317
+            ],
+            [
+                108.976091,
+                11.569314
+            ],
+            [
+                108.97597,
+                11.569313
+            ],
+            [
+                108.975874,
+                11.569315
+            ],
+            [
+                108.975761,
+                11.569319
+            ],
+            [
+                108.975594,
+                11.569331
+            ],
+            [
+                108.975519,
+                11.569339
+            ],
+            [
+                108.975421,
+                11.569352
+            ],
+            [
+                108.975332,
+                11.569366
+            ],
+            [
+                108.975224,
+                11.569385
+            ],
+            [
+                108.97514,
+                11.569402
+            ],
+            [
+                108.975045,
+                11.569423
+            ],
+            [
+                108.97491,
+                11.569458
+            ],
+            [
+                108.974753,
+                11.569504
+            ],
+            [
+                108.974647,
+                11.569539
+            ],
+            [
+                108.974571,
+                11.569566
+            ],
+            [
+                108.974405,
+                11.56963
+            ],
+            [
+                108.974314,
+                11.569668
+            ],
+            [
+                108.974218,
+                11.569711
+            ],
+            [
+                108.974064,
+                11.569786
+            ],
+            [
+                108.973896,
+                11.569873
+            ],
+            [
+                108.973808,
+                11.569923
+            ],
+            [
+                108.973715,
+                11.569977
+            ],
+            [
+                108.973552,
+                11.570079
+            ],
+            [
+                108.9734,
+                11.57018
+            ],
+            [
+                108.97321,
+                11.570314
+            ],
+            [
+                108.973037,
+                11.570445
+            ],
+            [
+                108.972866,
+                11.570581
+            ],
+            [
+                108.972689,
+                11.57073
+            ],
+            [
+                108.972527,
+                11.570873
+            ],
+            [
+                108.972403,
+                11.570987
+            ],
+            [
+                108.972301,
+                11.571084
+            ],
+            [
+                108.972151,
+                11.571228
+            ],
+            [
+                108.972027,
+                11.571352
+            ],
+            [
+                108.971842,
+                11.571539
+            ],
+            [
+                108.971653,
+                11.571733
+            ],
+            [
+                108.971276,
+                11.572125
+            ],
+            [
+                108.970958,
+                11.572466
+            ],
+            [
+                108.970796,
+                11.572643
+            ],
+            [
+                108.970671,
+                11.572782
+            ],
+            [
+                108.97053,
+                11.572942
+            ],
+            [
+                108.970414,
+                11.573077
+            ],
+            [
+                108.970199,
+                11.573332
+            ],
+            [
+                108.970005,
+                11.573573
+            ],
+            [
+                108.9699,
+                11.573708
+            ],
+            [
+                108.96979,
+                11.573853
+            ],
+            [
+                108.969674,
+                11.574009
+            ],
+            [
+                108.969584,
+                11.574135
+            ],
+            [
+                108.96949,
+                11.574268
+            ],
+            [
+                108.96939,
+                11.574415
+            ],
+            [
+                108.969301,
+                11.574551
+            ],
+            [
+                108.969238,
+                11.574652
+            ],
+            [
+                108.96915,
+                11.574797
+            ],
+            [
+                108.969094,
+                11.574893
+            ],
+            [
+                108.969029,
+                11.575009
+            ],
+            [
+                108.968953,
+                11.57515
+            ],
+            [
+                108.968895,
+                11.575261
+            ],
+            [
+                108.968831,
+                11.575389
+            ],
+            [
+                108.968726,
+                11.575612
+            ],
+            [
+                108.968628,
+                11.575836
+            ],
+            [
+                108.968543,
+                11.576044
+            ],
+            [
+                108.968454,
+                11.576282
+            ],
+            [
+                108.968383,
+                11.576484
+            ],
+            [
+                108.968311,
+                11.576707
+            ],
+            [
+                108.968237,
+                11.576955
+            ],
+            [
+                108.9682,
+                11.577088
+            ],
+            [
+                108.968163,
+                11.577228
+            ],
+            [
+                108.968126,
+                11.577385
+            ],
+            [
+                108.968094,
+                11.577542
+            ],
+            [
+                108.968067,
+                11.577698
+            ],
+            [
+                108.96804,
+                11.577881
+            ],
+            [
+                108.968016,
+                11.578076
+            ],
+            [
+                108.967997,
+                11.578259
+            ],
+            [
+                108.967932,
+                11.579014
+            ],
+            [
+                108.967914,
+                11.579194
+            ],
+            [
+                108.9679,
+                11.579323
+            ],
+            [
+                108.967882,
+                11.57946
+            ],
+            [
+                108.967855,
+                11.579643
+            ],
+            [
+                108.967828,
+                11.579798
+            ],
+            [
+                108.967804,
+                11.579921
+            ],
+            [
+                108.96771,
+                11.580331
+            ],
+            [
+                108.967632,
+                11.580651
+            ],
+            [
+                108.967596,
+                11.580788
+            ],
+            [
+                108.967566,
+                11.580895
+            ],
+            [
+                108.96753,
+                11.581015
+            ],
+            [
+                108.967499,
+                11.581114
+            ],
+            [
+                108.967462,
+                11.581222
+            ],
+            [
+                108.967418,
+                11.58134
+            ],
+            [
+                108.967384,
+                11.581424
+            ],
+            [
+                108.967346,
+                11.581513
+            ],
+            [
+                108.967303,
+                11.581606
+            ],
+            [
+                108.967253,
+                11.581704
+            ],
+            [
+                108.967212,
+                11.581781
+            ],
+            [
+                108.967166,
+                11.58186
+            ],
+            [
+                108.967063,
+                11.582026
+            ],
+            [
+                108.966945,
+                11.582206
+            ],
+            [
+                108.96684,
+                11.582359
+            ],
+            [
+                108.966711,
+                11.582538
+            ],
+            [
+                108.966574,
+                11.582722
+            ],
+            [
+                108.966444,
+                11.582893
+            ],
+            [
+                108.965927,
+                11.583556
+            ],
+            [
+                108.965757,
+                11.583779
+            ],
+            [
+                108.965569,
+                11.584033
+            ],
+            [
+                108.965417,
+                11.584249
+            ],
+            [
+                108.965212,
+                11.584556
+            ],
+            [
+                108.965006,
+                11.584873
+            ],
+            [
+                108.964758,
+                11.585263
+            ],
+            [
+                108.964173,
+                11.586192
+            ],
+            [
+                108.964008,
+                11.586449
+            ],
+            [
+                108.963821,
+                11.586736
+            ],
+            [
+                108.963543,
+                11.587151
+            ],
+            [
+                108.963317,
+                11.58748
+            ],
+            [
+                108.963139,
+                11.587731
+            ],
+            [
+                108.963049,
+                11.587853
+            ],
+            [
+                108.962944,
+                11.587991
+            ],
+            [
+                108.962825,
+                11.588144
+            ],
+            [
+                108.962723,
+                11.58827
+            ],
+            [
+                108.962608,
+                11.588407
+            ],
+            [
+                108.962523,
+                11.588505
+            ],
+            [
+                108.96243,
+                11.588608
+            ],
+            [
+                108.962302,
+                11.588743
+            ],
+            [
+                108.962189,
+                11.588858
+            ],
+            [
+                108.962097,
+                11.588947
+            ],
+            [
+                108.961998,
+                11.58904
+            ],
+            [
+                108.961891,
+                11.589136
+            ],
+            [
+                108.961776,
+                11.589235
+            ],
+            [
+                108.961651,
+                11.589337
+            ],
+            [
+                108.961516,
+                11.589442
+            ],
+            [
+                108.96142,
+                11.589514
+            ],
+            [
+                108.961264,
+                11.589624
+            ],
+            [
+                108.96115,
+                11.589698
+            ],
+            [
+                108.961065,
+                11.589751
+            ],
+            [
+                108.960966,
+                11.589807
+            ],
+            [
+                108.960875,
+                11.589856
+            ],
+            [
+                108.960791,
+                11.589898
+            ],
+            [
+                108.960688,
+                11.589945
+            ],
+            [
+                108.960607,
+                11.58998
+            ],
+            [
+                108.960514,
+                11.590017
+            ],
+            [
+                108.96041,
+                11.590056
+            ],
+            [
+                108.960322,
+                11.590086
+            ],
+            [
+                108.960225,
+                11.590116
+            ],
+            [
+                108.960118,
+                11.590147
+            ],
+            [
+                108.96,
+                11.590177
+            ],
+            [
+                108.95987,
+                11.590207
+            ],
+            [
+                108.959775,
+                11.590226
+            ],
+            [
+                108.959674,
+                11.590245
+            ],
+            [
+                108.959566,
+                11.590263
+            ],
+            [
+                108.959451,
+                11.59028
+            ],
+            [
+                108.959327,
+                11.590295
+            ],
+            [
+                108.959196,
+                11.590309
+            ],
+            [
+                108.959055,
+                11.590322
+            ],
+            [
+                108.958826,
+                11.590338
+            ],
+            [
+                108.958661,
+                11.590347
+            ],
+            [
+                108.958484,
+                11.590354
+            ],
+            [
+                108.958036,
+                11.590367
+            ],
+            [
+                108.957683,
+                11.590372
+            ],
+            [
+                108.957465,
+                11.590372
+            ],
+            [
+                108.957267,
+                11.59037
+            ],
+            [
+                108.957111,
+                11.590366
+            ],
+            [
+                108.956935,
+                11.590361
+            ],
+            [
+                108.956736,
+                11.590351
+            ],
+            [
+                108.956571,
+                11.590341
+            ],
+            [
+                108.95639,
+                11.590327
+            ],
+            [
+                108.956191,
+                11.590309
+            ],
+            [
+                108.956047,
+                11.590293
+            ],
+            [
+                108.955895,
+                11.590274
+            ],
+            [
+                108.955734,
+                11.590251
+            ],
+            [
+                108.955542,
+                11.590219
+            ],
+            [
+                108.955336,
+                11.590182
+            ],
+            [
+                108.95516,
+                11.590148
+            ],
+            [
+                108.954998,
+                11.590114
+            ],
+            [
+                108.954726,
+                11.590054
+            ],
+            [
+                108.954521,
+                11.590006
+            ],
+            [
+                108.954273,
+                11.589946
+            ],
+            [
+                108.953447,
+                11.58974
+            ],
+            [
+                108.95297,
+                11.589624
+            ],
+            [
+                108.952601,
+                11.58954
+            ],
+            [
+                108.952397,
+                11.589498
+            ],
+            [
+                108.952236,
+                11.589466
+            ],
+            [
+                108.951949,
+                11.589415
+            ],
+            [
+                108.951765,
+                11.589385
+            ],
+            [
+                108.951637,
+                11.589367
+            ],
+            [
+                108.950743,
+                11.589303
+            ],
+            [
+                108.949976,
+                11.58917
+            ],
+            [
+                108.949486,
+                11.585958
+            ],
+            [
+                108.947455,
+                11.582735
+            ],
+            [
+                108.944736,
+                11.580014
+            ],
+            [
+                108.941991,
+                11.580923
+            ],
+            [
+                108.937948,
+                11.583596
+            ],
+            [
+                108.934339,
+                11.585597
+            ],
+            [
+                108.93106,
+                11.589204
+            ],
+            [
+                108.929935,
+                11.5908
+            ],
+            [
+                108.930442,
+                11.591648
+            ],
+            [
+                108.931973,
+                11.593094
+            ],
+            [
+                108.932657,
+                11.593099
+            ],
+            [
+                108.933866,
+                11.591673
+            ],
+            [
+                108.935326,
+                11.591008
+            ],
+            [
+                108.936859,
+                11.592032
+            ],
+            [
+                108.938472,
+                11.593901
+            ],
+            [
+                108.940274,
+                11.593323
+            ],
+            [
+                108.941351,
+                11.593612
+            ],
+            [
+                108.941287,
+                11.593918
+            ],
+            [
+                108.941204,
+                11.594338
+            ],
+            [
+                108.940972,
+                11.595542
+            ],
+            [
+                108.940856,
+                11.596161
+            ],
+            [
+                108.94072,
+                11.596918
+            ],
+            [
+                108.940561,
+                11.59782
+            ],
+            [
+                108.940548,
+                11.597914
+            ],
+            [
+                108.940543,
+                11.597963
+            ],
+            [
+                108.940538,
+                11.598033
+            ],
+            [
+                108.940537,
+                11.598099
+            ],
+            [
+                108.940538,
+                11.598181
+            ],
+            [
+                108.940542,
+                11.598258
+            ],
+            [
+                108.940548,
+                11.598319
+            ],
+            [
+                108.940556,
+                11.598388
+            ],
+            [
+                108.940567,
+                11.598466
+            ],
+            [
+                108.940583,
+                11.598555
+            ],
+            [
+                108.940604,
+                11.598655
+            ],
+            [
+                108.940639,
+                11.598799
+            ],
+            [
+                108.940686,
+                11.598968
+            ],
+            [
+                108.940721,
+                11.599084
+            ],
+            [
+                108.940855,
+                11.599517
+            ],
+            [
+                108.940905,
+                11.599687
+            ],
+            [
+                108.94093,
+                11.599778
+            ],
+            [
+                108.940953,
+                11.599873
+            ],
+            [
+                108.940976,
+                11.599972
+            ],
+            [
+                108.940989,
+                11.600041
+            ],
+            [
+                108.941008,
+                11.600149
+            ],
+            [
+                108.941017,
+                11.600223
+            ],
+            [
+                108.941025,
+                11.6003
+            ],
+            [
+                108.941031,
+                11.600379
+            ],
+            [
+                108.941033,
+                11.600461
+            ],
+            [
+                108.941032,
+                11.600524
+            ],
+            [
+                108.941027,
+                11.60061
+            ],
+            [
+                108.941021,
+                11.600676
+            ],
+            [
+                108.941008,
+                11.600762
+            ],
+            [
+                108.940992,
+                11.600849
+            ],
+            [
+                108.940968,
+                11.600953
+            ],
+            [
+                108.940948,
+                11.601028
+            ],
+            [
+                108.940917,
+                11.601122
+            ],
+            [
+                108.940884,
+                11.601208
+            ],
+            [
+                108.940848,
+                11.601293
+            ],
+            [
+                108.940811,
+                11.601369
+            ],
+            [
+                108.940765,
+                11.601454
+            ],
+            [
+                108.940723,
+                11.601524
+            ],
+            [
+                108.940673,
+                11.6016
+            ],
+            [
+                108.940614,
+                11.601682
+            ],
+            [
+                108.940544,
+                11.601771
+            ],
+            [
+                108.940489,
+                11.601833
+            ],
+            [
+                108.940429,
+                11.601899
+            ],
+            [
+                108.94036,
+                11.601967
+            ],
+            [
+                108.940262,
+                11.602058
+            ],
+            [
+                108.940171,
+                11.602134
+            ],
+            [
+                108.940072,
+                11.602211
+            ],
+            [
+                108.939973,
+                11.602282
+            ],
+            [
+                108.93987,
+                11.602349
+            ],
+            [
+                108.939763,
+                11.602411
+            ],
+            [
+                108.93965,
+                11.602469
+            ],
+            [
+                108.939543,
+                11.602518
+            ],
+            [
+                108.939437,
+                11.602559
+            ],
+            [
+                108.939313,
+                11.602601
+            ],
+            [
+                108.939198,
+                11.602633
+            ],
+            [
+                108.939101,
+                11.602655
+            ],
+            [
+                108.938994,
+                11.602675
+            ],
+            [
+                108.938874,
+                11.602691
+            ],
+            [
+                108.938743,
+                11.602702
+            ],
+            [
+                108.938622,
+                11.602707
+            ],
+            [
+                108.938518,
+                11.602707
+            ],
+            [
+                108.938264,
+                11.602702
+            ],
+            [
+                108.938012,
+                11.602692
+            ],
+            [
+                108.937813,
+                11.602679
+            ],
+            [
+                108.937605,
+                11.602662
+            ],
+            [
+                108.93741,
+                11.602642
+            ],
+            [
+                108.937259,
+                11.602622
+            ],
+            [
+                108.937089,
+                11.602597
+            ],
+            [
+                108.936948,
+                11.602573
+            ],
+            [
+                108.936847,
+                11.602554
+            ],
+            [
+                108.936554,
+                11.602494
+            ],
+            [
+                108.936168,
+                11.602408
+            ],
+            [
+                108.935306,
+                11.602209
+            ],
+            [
+                108.934977,
+                11.602135
+            ],
+            [
+                108.934652,
+                11.602067
+            ],
+            [
+                108.934184,
+                11.601974
+            ],
+            [
+                108.933951,
+                11.601931
+            ],
+            [
+                108.933797,
+                11.601904
+            ],
+            [
+                108.933613,
+                11.601874
+            ],
+            [
+                108.933468,
+                11.601852
+            ],
+            [
+                108.933304,
+                11.60183
+            ],
+            [
+                108.933169,
+                11.601813
+            ],
+            [
+                108.93302,
+                11.601798
+            ],
+            [
+                108.932856,
+                11.601784
+            ],
+            [
+                108.932676,
+                11.601773
+            ],
+            [
+                108.932547,
+                11.601768
+            ],
+            [
+                108.93241,
+                11.601766
+            ],
+            [
+                108.932265,
+                11.601767
+            ],
+            [
+                108.932191,
+                11.60177
+            ],
+            [
+                108.932094,
+                11.601779
+            ],
+            [
+                108.932011,
+                11.60179
+            ],
+            [
+                108.931935,
+                11.601804
+            ],
+            [
+                108.931839,
+                11.601824
+            ],
+            [
+                108.931716,
+                11.601858
+            ],
+            [
+                108.931602,
+                11.601894
+            ],
+            [
+                108.931513,
+                11.601927
+            ],
+            [
+                108.931388,
+                11.601977
+            ],
+            [
+                108.931273,
+                11.602029
+            ],
+            [
+                108.931143,
+                11.602092
+            ],
+            [
+                108.931035,
+                11.602148
+            ],
+            [
+                108.930833,
+                11.60226
+            ],
+            [
+                108.930598,
+                11.602398
+            ],
+            [
+                108.930339,
+                11.602555
+            ],
+            [
+                108.930092,
+                11.602712
+            ],
+            [
+                108.929901,
+                11.602837
+            ],
+            [
+                108.929687,
+                11.602986
+            ],
+            [
+                108.929582,
+                11.603061
+            ],
+            [
+                108.929463,
+                11.603149
+            ],
+            [
+                108.929296,
+                11.603277
+            ],
+            [
+                108.929145,
+                11.603399
+            ],
+            [
+                108.928976,
+                11.603542
+            ],
+            [
+                108.928857,
+                11.603647
+            ],
+            [
+                108.92876,
+                11.60374
+            ],
+            [
+                108.928678,
+                11.603821
+            ],
+            [
+                108.928559,
+                11.603944
+            ],
+            [
+                108.928223,
+                11.604303
+            ],
+            [
+                108.928075,
+                11.604459
+            ],
+            [
+                108.927927,
+                11.604607
+            ],
+            [
+                108.927801,
+                11.604725
+            ],
+            [
+                108.927743,
+                11.604773
+            ],
+            [
+                108.9277,
+                11.604807
+            ],
+            [
+                108.927635,
+                11.604854
+            ],
+            [
+                108.927575,
+                11.604896
+            ],
+            [
+                108.927443,
+                11.60498
+            ],
+            [
+                108.927146,
+                11.605162
+            ],
+            [
+                108.927052,
+                11.605224
+            ],
+            [
+                108.926948,
+                11.605297
+            ],
+            [
+                108.926865,
+                11.605362
+            ],
+            [
+                108.926822,
+                11.605399
+            ],
+            [
+                108.926778,
+                11.605439
+            ],
+            [
+                108.926724,
+                11.605492
+            ],
+            [
+                108.931395,
+                11.610174
+            ],
+            [
+                108.934872,
+                11.614651
+            ],
+            [
+                108.934187,
+                11.616955
+            ],
+            [
+                108.935174,
+                11.619105
+            ],
+            [
+                108.936827,
+                11.621591
+            ],
+            [
+                108.932967,
+                11.623706
+            ],
+            [
+                108.931618,
+                11.625181
+            ],
+            [
+                108.931079,
+                11.630288
+            ],
+            [
+                108.92906,
+                11.632088
+            ],
+            [
+                108.919328,
+                11.636799
+            ],
+            [
+                108.917135,
+                11.639422
+            ],
+            [
+                108.922751,
+                11.648696
+            ],
+            [
+                108.932702,
+                11.659485
+            ],
+            [
+                108.941988,
+                11.66994
+            ],
+            [
+                108.9451,
+                11.674755
+            ],
+            [
+                108.946846,
+                11.674143
+            ],
+            [
+                108.948205,
+                11.673815
+            ],
+            [
+                108.955588,
+                11.665382
+            ],
+            [
+                108.961528,
+                11.659084
+            ],
+            [
+                108.962312,
+                11.658259
+            ]
+        ]
+    ]
+}

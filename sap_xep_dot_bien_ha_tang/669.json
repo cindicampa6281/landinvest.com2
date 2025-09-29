@@ -1,0 +1,1474 @@
+{
+    "id_district": "669",
+    "id_province": 14,
+    "name_province": "Cần Thơ",
+    "name_district": "Huyện Phong Điền",
+    "list_sukien": [
+        {
+            "bidName": "Thi công xây dựng (bao gồm GTGT 10%)",
+            "chudautu": "Ban Quản lý dự án và Phát triển quỹ đất huyện Phong Điền",
+            "createdBy": "vnz000023112",
+            "publicDate": "2024-04-10 15:48:07",
+            "projectName": null,
+            "bidCloseDate": "2024-04-20 09:00:00",
+            "id_muasamcong": "0182a7fe-ca36-4b8d-884a-803abf518a3b",
+            "tongmuc_dautu": 7816632855.0,
+            "bidNamePlanNew": "PL2400042144",
+            "dotbien_hatang": "Thi công xây dựng (bao gồm GTGT 10%)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Tư vấn giám sát thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án và Phát triển quỹ đất huyện Phong Điền",
+            "createdBy": "vnz000023112",
+            "publicDate": "2024-06-19 11:25:50",
+            "projectName": null,
+            "bidCloseDate": "2024-07-08 09:00:00",
+            "id_muasamcong": "1018bcf4-0542-49a1-95d1-b031220430d5",
+            "tongmuc_dautu": 500076000.0,
+            "bidNamePlanNew": "PL2300076958",
+            "dotbien_hatang": "Tư vấn giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng (bao gồm thuế GTGT 8%)",
+            "chudautu": "Ban Quản lý dự án và Phát triển quỹ đất huyện Phong Điền",
+            "createdBy": "vnz000023112",
+            "publicDate": "2024-11-26 16:09:47",
+            "projectName": "Liên danh Nhân Tâm - Hòa Bình - Lê Anh Phát.",
+            "bidCloseDate": "2024-12-05 09:00:00",
+            "id_muasamcong": "10a1fb6a-b204-492b-90fb-21dd5d144b76",
+            "tongmuc_dautu": 9625920465.0,
+            "bidNamePlanNew": "PL2400285367",
+            "dotbien_hatang": "Thi công xây dựng (bao gồm thuế GTGT 8%)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án và Phát triển quỹ đất huyện Phong Điền",
+            "createdBy": "vnz000023112",
+            "publicDate": "2022-10-25 09:57:23",
+            "projectName": null,
+            "bidCloseDate": "2022-11-04 10:30:00",
+            "id_muasamcong": "1a6df645-f0a2-49a6-b1a4-3e71e3033425",
+            "tongmuc_dautu": 2207942227.0,
+            "bidNamePlanNew": "PL2200018489",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 03: Thi công xây dựng công trình (Bao gồm 8% VAT)",
+            "chudautu": "Phòng Kinh tế và Hạ tầng huyện Phong Điền, thành phố Cần Thơ",
+            "createdBy": "vn6300259124",
+            "publicDate": "2024-10-21 17:16:57",
+            "projectName": null,
+            "bidCloseDate": "2024-10-28 17:30:00",
+            "id_muasamcong": "1b791e13-2e64-4710-abd6-4f3be52da019",
+            "tongmuc_dautu": 2079857456.0,
+            "bidNamePlanNew": "PL2400205829",
+            "dotbien_hatang": "Gói 03: Thi công xây dựng công trình (Bao gồm 8% VAT)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Phòng Kinh tế quận Thốt Nốt",
+            "createdBy": "vn1800664812",
+            "publicDate": "2023-06-08 17:08:32",
+            "projectName": null,
+            "bidCloseDate": "2023-06-15 17:15:00",
+            "id_muasamcong": "1bf2b002-2249-4817-b3b3-4b392367dcb9",
+            "tongmuc_dautu": 1520939140.0,
+            "bidNamePlanNew": "PL2300086913",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp và cung cấp lắp đặt thiết bị",
+            "chudautu": "Ban Quản lý dự án và Phát triển quỹ đất huyện Phong Điền",
+            "createdBy": "vnz000023112",
+            "publicDate": "2024-11-06 15:29:58",
+            "projectName": "Liên danh PMP",
+            "bidCloseDate": "2024-11-12 09:00:00",
+            "id_muasamcong": "27a0fceb-720f-43b2-89b5-02bbe85c4123",
+            "tongmuc_dautu": 15539000000.0,
+            "bidNamePlanNew": "PL2400077173",
+            "dotbien_hatang": "Thi công xây lắp và cung cấp lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 03: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án và Phát triển quỹ đất huyện Phong Điền",
+            "createdBy": "vnz000023112",
+            "publicDate": "2024-11-07 11:45:46",
+            "projectName": null,
+            "bidCloseDate": "2024-11-16 09:00:00",
+            "id_muasamcong": "28d8d9c7-d24f-4e63-8411-40144bbdd9bf",
+            "tongmuc_dautu": 3341063576.0,
+            "bidNamePlanNew": "PL2400240594",
+            "dotbien_hatang": "Gói 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng (Hạng mục khắc phục sạt lợ)",
+            "chudautu": "Ban Quản lý dự án và Phát triển quỹ đất huyện Phong Điền",
+            "createdBy": "vnz000023112",
+            "publicDate": "2024-05-20 10:17:17",
+            "projectName": null,
+            "bidCloseDate": "2024-06-03 10:00:00",
+            "id_muasamcong": "29a536ba-232a-4920-9f5e-0cc0bb84e483",
+            "tongmuc_dautu": 6483741801.0,
+            "bidNamePlanNew": "20220424182",
+            "dotbien_hatang": "Thi công xây dựng (Hạng mục khắc phục sạt lợ)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng (bao gồm thuế GTGT 10%)",
+            "chudautu": "Ban Quản lý dự án và Phát triển quỹ đất huyện Phong Điền",
+            "createdBy": "vnz000023112",
+            "publicDate": "2024-04-05 10:09:54",
+            "projectName": "Liên danh Hoàn Mỹ - 726",
+            "bidCloseDate": "2024-04-15 09:00:00",
+            "id_muasamcong": "2c824c1d-ead1-4312-8281-17e4e4a0569f",
+            "tongmuc_dautu": 10704412876.0,
+            "bidNamePlanNew": "PL2400032034",
+            "dotbien_hatang": "Thi công xây dựng (bao gồm thuế GTGT 10%)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án và Phát triển quỹ đất huyện Phong Điền",
+            "createdBy": "vn6300259124",
+            "publicDate": "2023-10-25 14:42:56",
+            "projectName": null,
+            "bidCloseDate": "2023-11-06 08:00:00",
+            "id_muasamcong": "35adccc2-c2ae-4bb7-b9a2-5cfa09b23686",
+            "tongmuc_dautu": 3858214460.0,
+            "bidNamePlanNew": "PL2300197278",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu 03: Thi công xây dựng công trình (bao gồm thuế GTGT 8%)",
+            "chudautu": "Ban Quản lý dự án và Phát triển quỹ đất huyện Phong Điền",
+            "createdBy": "vn6300259124",
+            "publicDate": "2025-01-24 09:27:56",
+            "projectName": "Liên danh công ty Vạn Thuận – Đại Thắng",
+            "bidCloseDate": "2025-02-11 10:00:00",
+            "id_muasamcong": "3d2b492c-b2c6-4c33-9d1a-522790f343d3",
+            "tongmuc_dautu": 2015512643.0,
+            "bidNamePlanNew": "PL2500013699",
+            "dotbien_hatang": "Gói thầu 03: Thi công xây dựng công trình (bao gồm thuế GTGT 8%)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án và Phát triển quỹ đất huyện Phong Điền",
+            "createdBy": "vn1800664812",
+            "publicDate": "2025-03-12 09:50:38",
+            "projectName": null,
+            "bidCloseDate": "2025-03-21 08:00:00",
+            "id_muasamcong": "3fbf13be-79d8-40c6-a862-87638334db75",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500038239",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Chi cục thủy lợi thành phố Cần Thơ",
+            "createdBy": "vn1800418616",
+            "publicDate": "2024-08-01 16:57:40",
+            "projectName": null,
+            "bidCloseDate": "2024-08-09 13:30:00",
+            "id_muasamcong": "4572e6df-33d2-41aa-bce8-162aa273ae71",
+            "tongmuc_dautu": 270473000.0,
+            "bidNamePlanNew": "PL2400140433",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 03: Thi công xây dựng công trình",
+            "chudautu": "Phòng Kinh tế và Hạ tầng huyện Phong Điền, thành phố Cần Thơ",
+            "createdBy": "vn1800664812",
+            "publicDate": "2024-10-17 17:30:49",
+            "projectName": null,
+            "bidCloseDate": "2024-10-24 14:00:00",
+            "id_muasamcong": "460697d6-ba67-468e-8bba-fba9a3e7a024",
+            "tongmuc_dautu": 932085280.0,
+            "bidNamePlanNew": "PL2400206236",
+            "dotbien_hatang": "Gói 03: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Chi cục thủy lợi thành phố Cần Thơ",
+            "createdBy": "vn1800418616",
+            "publicDate": "2024-06-29 14:03:13",
+            "projectName": null,
+            "bidCloseDate": "2024-07-08 15:00:00",
+            "id_muasamcong": "469baeba-e216-4759-8339-7401b87fbb16",
+            "tongmuc_dautu": 2806903000.0,
+            "bidNamePlanNew": "PL2400098690",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Ban Quản lý dự án và Phát triển quỹ đất huyện Phong Điền",
+            "createdBy": "vnz000023112",
+            "publicDate": "2022-11-15 15:25:15",
+            "projectName": null,
+            "bidCloseDate": "2022-11-26 09:00:00",
+            "id_muasamcong": "48bee2d2-7333-4382-b5de-33e3b0c04f95",
+            "tongmuc_dautu": 4938686705.0,
+            "bidNamePlanNew": "PL2200031108",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu 03: Thi công xây dựng công trình",
+            "chudautu": "Ban Quản lý dự án và Phát triển quỹ đất huyện Phong Điền",
+            "createdBy": "vnz000023112",
+            "publicDate": "2024-11-12 12:30:32",
+            "projectName": "Liên danh An Nhiên - Ngôi Sao Mekong",
+            "bidCloseDate": "2024-11-21 09:00:00",
+            "id_muasamcong": "4ba8d219-e9a8-4e31-b7cb-f10560aa9f9e",
+            "tongmuc_dautu": 6421684000.0,
+            "bidNamePlanNew": "PL2400256039",
+            "dotbien_hatang": "Gói thầu 03: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu 03: Thi công xây dựng công trình",
+            "chudautu": "Ban Quản lý dự án và Phát triển quỹ đất huyện Phong Điền",
+            "createdBy": "vnz000023112",
+            "publicDate": "2024-06-04 10:14:10",
+            "projectName": null,
+            "bidCloseDate": "2024-06-14 09:00:00",
+            "id_muasamcong": "5ac0f761-7e65-426a-81b1-9beec57102b6",
+            "tongmuc_dautu": 8714346805.0,
+            "bidNamePlanNew": "PL2400076217",
+            "dotbien_hatang": "Gói thầu 03: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Ban Quản lý dự án và Phát triển quỹ đất huyện Phong Điền",
+            "createdBy": "vnz000023112",
+            "publicDate": "2023-05-22 16:38:06",
+            "projectName": null,
+            "bidCloseDate": "2023-05-29 17:00:00",
+            "id_muasamcong": "602c7c67-9e88-4744-a56c-cc62fa2f4311",
+            "tongmuc_dautu": 5434353161.0,
+            "bidNamePlanNew": "PL2300068171",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 03: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án và Phát triển quỹ đất huyện Phong Điền",
+            "createdBy": "vnz000023112",
+            "publicDate": "2023-04-27 16:40:14",
+            "projectName": null,
+            "bidCloseDate": "2023-05-08 10:00:00",
+            "id_muasamcong": "62ed9f7a-cee7-4331-9e3a-db2db3cbb075",
+            "tongmuc_dautu": 1128512036.0,
+            "bidNamePlanNew": "PL2300052510",
+            "dotbien_hatang": "Gói 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án và Phát triển quỹ đất huyện Phong Điền",
+            "createdBy": "vnz000023112",
+            "publicDate": "2023-08-28 18:38:21",
+            "projectName": null,
+            "bidCloseDate": "2023-09-08 09:00:00",
+            "id_muasamcong": "6a2baf3a-5898-4c51-9382-7d0170ba6b66",
+            "tongmuc_dautu": 14000000000.0,
+            "bidNamePlanNew": "PL2300103248",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 03: Thi công xây dựng công trình (bao gồm 8% VAT)",
+            "chudautu": "Phòng Kinh tế và Hạ tầng huyện Phong Điền, thành phố Cần Thơ",
+            "createdBy": "vn1800664812",
+            "publicDate": "2024-10-17 17:25:10",
+            "projectName": null,
+            "bidCloseDate": "2024-10-24 14:00:00",
+            "id_muasamcong": "6b69b5b3-ace6-4d9f-ad86-01c0204f3c45",
+            "tongmuc_dautu": 1113325789.0,
+            "bidNamePlanNew": "PL2400206277",
+            "dotbien_hatang": "Gói 03: Thi công xây dựng công trình (bao gồm 8% VAT)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Tư vấn giám sát thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án và Phát triển quỹ đất huyện Phong Điền",
+            "createdBy": "vnz000023112",
+            "publicDate": "2023-08-29 15:41:16",
+            "projectName": "Liên Danh Công ty Cổ phần tư  vấn xây dựng Gia Minh và Công ty TNHH Thương mại Dịch vụ Tư vấn Xây dựng An Gia Phát",
+            "bidCloseDate": "2023-09-18 09:00:00",
+            "id_muasamcong": "77fa466c-65d1-4d0e-94af-1a74a298fd74",
+            "tongmuc_dautu": 249480000.0,
+            "bidNamePlanNew": "PL2300103248",
+            "dotbien_hatang": "Tư vấn giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "PHÒNG NÔNG NGHIỆP VÀ PTNT HUYỆN PHONG ĐIỀN",
+            "createdBy": "vn1801687668",
+            "publicDate": "2023-10-23 16:59:32",
+            "projectName": null,
+            "bidCloseDate": "2023-11-03 08:00:00",
+            "id_muasamcong": "7994a039-ea4b-4446-8e3a-c038a1cb760e",
+            "tongmuc_dautu": 1211023000.0,
+            "bidNamePlanNew": "PL2300198232",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 03: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án và Phát triển quỹ đất huyện Phong Điền",
+            "createdBy": "vnz000023112",
+            "publicDate": "2023-04-27 16:48:47",
+            "projectName": null,
+            "bidCloseDate": "2023-05-08 09:00:00",
+            "id_muasamcong": "7af8d750-4bfa-44cb-92fc-f482b1f391f1",
+            "tongmuc_dautu": 10370843719.0,
+            "bidNamePlanNew": "PL2300052470",
+            "dotbien_hatang": "Gói 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp\n(Bao gồm chi phí xây dựng và chi phí điều tiết đảm bảo ATGT)",
+            "chudautu": "Sở Giao thông Vận tải thành phố Cần Thơ",
+            "createdBy": "vn1800666305",
+            "publicDate": "2023-09-11 14:21:53",
+            "projectName": null,
+            "bidCloseDate": "2023-09-21 15:00:00",
+            "id_muasamcong": "7daa6a80-a320-4828-9eda-ac706014c695",
+            "tongmuc_dautu": 3996589000.0,
+            "bidNamePlanNew": "PL2300153973",
+            "dotbien_hatang": "Thi công xây lắp\n(Bao gồm chi phí xây dựng và chi phí điều tiết đảm bảo ATGT)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 03: Thi công xây dựng công trình (bao gồm 8% VAT)",
+            "chudautu": "Phòng Kinh tế và Hạ tầng huyện Phong Điền, thành phố Cần Thơ",
+            "createdBy": "vn1800622499",
+            "publicDate": "2024-12-17 21:30:46",
+            "projectName": null,
+            "bidCloseDate": "2024-12-24 08:00:00",
+            "id_muasamcong": "7dc6769d-550a-4672-9293-d60dbe67d8df",
+            "tongmuc_dautu": 1616314275.0,
+            "bidNamePlanNew": "PL2400306211",
+            "dotbien_hatang": "Gói 03: Thi công xây dựng công trình (bao gồm 8% VAT)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 03: Thi công xây dựng công trình (bao gồm 8% VAT)",
+            "chudautu": "Phòng Kinh tế và Hạ tầng huyện Phong Điền, thành phố Cần Thơ",
+            "createdBy": "vn6300259124",
+            "publicDate": "2024-12-16 22:37:01",
+            "projectName": "Liên danh Hoàn Mỹ - 726",
+            "bidCloseDate": "2024-12-24 09:00:00",
+            "id_muasamcong": "8b6201a6-8737-4a06-a11f-9b09708864d2",
+            "tongmuc_dautu": 1209362068.0,
+            "bidNamePlanNew": "PL2400303598",
+            "dotbien_hatang": "Gói 03: Thi công xây dựng công trình (bao gồm 8% VAT)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng (bao gồm GTGT 10%)",
+            "chudautu": "Ban Quản lý dự án và Phát triển quỹ đất huyện Phong Điền",
+            "createdBy": "vnz000023112",
+            "publicDate": "2024-05-15 16:45:02",
+            "projectName": "Liên danh Công ty TNHH Tư vấn Xây dựng K39 và Công ty TNHH Phòng cháy Chữa cháy Hàn Nguyên",
+            "bidCloseDate": "2024-05-25 10:00:00",
+            "id_muasamcong": "92296ef0-41d1-4ad9-aa2e-bf2f9667160b",
+            "tongmuc_dautu": 6327567404.0,
+            "bidNamePlanNew": "PL2400059658",
+            "dotbien_hatang": "Thi công xây dựng (bao gồm GTGT 10%)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án và Phát triển quỹ đất huyện Phong Điền",
+            "createdBy": "vnz000023112",
+            "publicDate": "2022-11-17 09:01:06",
+            "projectName": null,
+            "bidCloseDate": "2022-11-28 10:00:00",
+            "id_muasamcong": "a622e2ed-0672-458e-a527-d2484d2ed624",
+            "tongmuc_dautu": 2050839000.0,
+            "bidNamePlanNew": "PL2200040386",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Chi cục thủy lợi thành phố Cần Thơ",
+            "createdBy": "vn1800418616",
+            "publicDate": "2024-06-29 17:00:34",
+            "projectName": null,
+            "bidCloseDate": "2024-07-09 10:00:00",
+            "id_muasamcong": "a85f6145-3672-42da-bd2a-c3c6bb3f1587",
+            "tongmuc_dautu": 625990000.0,
+            "bidNamePlanNew": "PL2400117112",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 03: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án và Phát triển quỹ đất huyện Phong Điền",
+            "createdBy": "vnz000023112",
+            "publicDate": "2023-04-27 10:45:14",
+            "projectName": null,
+            "bidCloseDate": "2023-05-08 11:00:00",
+            "id_muasamcong": "ab3b99ac-4640-4c95-a845-2e0448bee82e",
+            "tongmuc_dautu": 11303162178.0,
+            "bidNamePlanNew": "PL2300052306",
+            "dotbien_hatang": "Gói 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án và Phát triển quỹ đất huyện Phong Điền",
+            "createdBy": "vnz000023112",
+            "publicDate": "2022-11-11 10:35:55",
+            "projectName": null,
+            "bidCloseDate": "2022-11-22 09:00:00",
+            "id_muasamcong": "af271102-da35-4c13-a2f5-c179da2e23d5",
+            "tongmuc_dautu": 4595986000.0,
+            "bidNamePlanNew": "PL2200031051",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Chi cục thủy lợi thành phố Cần Thơ",
+            "createdBy": "vn1800418616",
+            "publicDate": "2024-08-02 19:34:31",
+            "projectName": null,
+            "bidCloseDate": "2024-08-09 16:30:00",
+            "id_muasamcong": "afb0f788-e081-4d48-aa94-cd35b5706ec3",
+            "tongmuc_dautu": 217677000.0,
+            "bidNamePlanNew": "PL2400142339",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Chi cục thủy lợi thành phố Cần Thơ",
+            "createdBy": "vn1800418616",
+            "publicDate": "2024-08-01 17:00:08",
+            "projectName": null,
+            "bidCloseDate": "2024-08-09 14:30:00",
+            "id_muasamcong": "b265d323-79b8-455a-b65f-f0642e3012fc",
+            "tongmuc_dautu": 122900000.0,
+            "bidNamePlanNew": "PL2400140507",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 03: Thi công xây dựng công trình (bao gồm 8% VAT)",
+            "chudautu": "Phòng Kinh tế và Hạ tầng huyện Phong Điền, thành phố Cần Thơ",
+            "createdBy": "vn1800664812",
+            "publicDate": "2024-10-17 17:20:46",
+            "projectName": null,
+            "bidCloseDate": "2024-10-24 14:00:00",
+            "id_muasamcong": "b4dfe131-837e-4331-9261-56626fc28869",
+            "tongmuc_dautu": 1236993899.0,
+            "bidNamePlanNew": "PL2400206307",
+            "dotbien_hatang": "Gói 03: Thi công xây dựng công trình (bao gồm 8% VAT)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Chi cục thủy lợi thành phố Cần Thơ",
+            "createdBy": "vn1800418616",
+            "publicDate": "2024-08-02 19:29:47",
+            "projectName": "Liên danh Công ty TNHH Ngọc Ánh và Công ty TNHH tư vấn thiết kế xây dựng S.S.A Trà Vinh",
+            "bidCloseDate": "2024-08-09 16:00:00",
+            "id_muasamcong": "b91150b5-a8ce-442f-8813-7e9b2353c1a7",
+            "tongmuc_dautu": 1021739000.0,
+            "bidNamePlanNew": "PL2400142436",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Chi cục thủy lợi thành phố Cần Thơ",
+            "createdBy": "vn1800418616",
+            "publicDate": "2024-06-28 17:15:23",
+            "projectName": null,
+            "bidCloseDate": "2024-07-06 10:30:00",
+            "id_muasamcong": "be4fa531-b3ad-4efc-b839-3e06ebb0237e",
+            "tongmuc_dautu": 274860000.0,
+            "bidNamePlanNew": "PL2400117103",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Sở Giáo dục và Đào tạo thành phố Cần Thơ",
+            "createdBy": "vn1800422669",
+            "publicDate": "2024-10-18 13:48:35",
+            "projectName": null,
+            "bidCloseDate": "2024-10-25 09:00:00",
+            "id_muasamcong": "bf5935a7-86af-4ffa-98c3-2ef32205f0ed",
+            "tongmuc_dautu": 579046000.0,
+            "bidNamePlanNew": "PL2400226045",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án và Phát triển quỹ đất huyện Phong Điền",
+            "createdBy": "vnz000023112",
+            "publicDate": "2024-06-20 15:51:16",
+            "projectName": null,
+            "bidCloseDate": "2024-06-26 09:00:00",
+            "id_muasamcong": "c3702981-fb34-4e40-9b56-676f427a6b5a",
+            "tongmuc_dautu": 18018461910.0,
+            "bidNamePlanNew": "PL2300076958",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng (bao gồm GTGT 8%)",
+            "chudautu": "Ban Quản lý dự án và Phát triển quỹ đất huyện Phong Điền",
+            "createdBy": "vnz000023112",
+            "publicDate": "2024-11-20 09:18:41",
+            "projectName": "Liên danh công ty Vạn Thuận - Kim Quang Hưng",
+            "bidCloseDate": "2024-11-26 10:00:00",
+            "id_muasamcong": "d0522cfa-0988-48a2-a248-737cfd3a4252",
+            "tongmuc_dautu": 1761331614.0,
+            "bidNamePlanNew": "PL2400254446",
+            "dotbien_hatang": "Thi công xây dựng (bao gồm GTGT 8%)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Chi cục thủy lợi thành phố Cần Thơ",
+            "createdBy": "vn1800418616",
+            "publicDate": "2024-08-01 16:59:08",
+            "projectName": null,
+            "bidCloseDate": "2024-08-09 14:00:00",
+            "id_muasamcong": "dee585ea-8121-400b-83b1-6c971e73fe31",
+            "tongmuc_dautu": 196100000.0,
+            "bidNamePlanNew": "PL2400140477",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Ban Quản lý dự án và Phát triển quỹ đất huyện Phong Điền",
+            "createdBy": "vn1800664812",
+            "publicDate": "2023-10-25 13:58:51",
+            "projectName": null,
+            "bidCloseDate": "2023-11-04 14:00:00",
+            "id_muasamcong": "ef9b2fc6-2ae1-4ffc-bdb1-feeb2aa7a246",
+            "tongmuc_dautu": 3899346659.0,
+            "bidNamePlanNew": "PL2300185141",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án và Phát triển quỹ đất huyện Phong Điền",
+            "createdBy": "vnz000023112",
+            "publicDate": "2024-05-29 15:47:59",
+            "projectName": null,
+            "bidCloseDate": "2024-06-05 10:00:00",
+            "id_muasamcong": "f14926e6-82b2-4be0-88f1-1e5fab506c42",
+            "tongmuc_dautu": 2416595000.0,
+            "bidNamePlanNew": "PL2400063751",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án và Phát triển quỹ đất huyện Phong Điền",
+            "createdBy": "vnz000023112",
+            "publicDate": "2023-05-22 16:46:06",
+            "projectName": null,
+            "bidCloseDate": "2023-05-29 10:00:00",
+            "id_muasamcong": "f3e21e5e-4519-4a36-b660-612deb6085a0",
+            "tongmuc_dautu": 8700000000.0,
+            "bidNamePlanNew": "PL2300066802",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Chi cục thủy lợi thành phố Cần Thơ",
+            "createdBy": "vn1800418616",
+            "publicDate": "2024-06-29 12:08:55",
+            "projectName": "Liên danh Công ty TNHH MTV Nguyễn Quang và Công ty Cổ phần Tư vấn xây dựng Tân Hiệp",
+            "bidCloseDate": "2024-07-09 15:00:00",
+            "id_muasamcong": "fa4779fb-db9a-4133-8f35-4e822aa096ea",
+            "tongmuc_dautu": 2558796000.0,
+            "bidNamePlanNew": "PL2400099188",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Ban Quản lý dự án và Phát triển quỹ đất huyện Phong Điền",
+            "createdBy": "vnz000023112",
+            "publicDate": "2022-11-30 15:48:12",
+            "projectName": null,
+            "bidCloseDate": "2022-12-10 09:00:00",
+            "id_muasamcong": "ffe21f4f-49f3-4b9f-b730-08f6979c017f",
+            "tongmuc_dautu": 11025480394.0,
+            "bidNamePlanNew": "PL2200056875",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        }
+    ],
+    "so_dot_bien": 48,
+    "thu_tu_sap_xep": 360,
+    "polygon": [
+        [
+            [
+                105.677963,
+                9.943456
+            ],
+            [
+                105.676822,
+                9.944369
+            ],
+            [
+                105.676804,
+                9.944353
+            ],
+            [
+                105.673946,
+                9.941632
+            ],
+            [
+                105.671076,
+                9.9389
+            ],
+            [
+                105.670678,
+                9.939251
+            ],
+            [
+                105.670052,
+                9.939803
+            ],
+            [
+                105.66813,
+                9.941506
+            ],
+            [
+                105.664284,
+                9.945096
+            ],
+            [
+                105.658786,
+                9.950043
+            ],
+            [
+                105.658763,
+                9.950063
+            ],
+            [
+                105.65884,
+                9.950131
+            ],
+            [
+                105.661809,
+                9.952745
+            ],
+            [
+                105.666748,
+                9.957301
+            ],
+            [
+                105.667943,
+                9.958255
+            ],
+            [
+                105.669949,
+                9.960077
+            ],
+            [
+                105.670466,
+                9.960498
+            ],
+            [
+                105.671777,
+                9.961929
+            ],
+            [
+                105.672892,
+                9.96311
+            ],
+            [
+                105.67374,
+                9.964185
+            ],
+            [
+                105.673721,
+                9.964198
+            ],
+            [
+                105.673669,
+                9.964232
+            ],
+            [
+                105.672691,
+                9.964878
+            ],
+            [
+                105.671054,
+                9.965333
+            ],
+            [
+                105.668143,
+                9.966332
+            ],
+            [
+                105.662136,
+                9.966343
+            ],
+            [
+                105.659476,
+                9.966349
+            ],
+            [
+                105.659499,
+                9.966486
+            ],
+            [
+                105.660213,
+                9.97075
+            ],
+            [
+                105.660191,
+                9.970757
+            ],
+            [
+                105.652377,
+                9.973411
+            ],
+            [
+                105.647274,
+                9.975926
+            ],
+            [
+                105.647137,
+                9.97549
+            ],
+            [
+                105.646406,
+                9.974047
+            ],
+            [
+                105.646237,
+                9.973217
+            ],
+            [
+                105.646222,
+                9.973145
+            ],
+            [
+                105.646402,
+                9.972332
+            ],
+            [
+                105.647038,
+                9.971519
+            ],
+            [
+                105.647203,
+                9.970857
+            ],
+            [
+                105.647219,
+                9.970796
+            ],
+            [
+                105.647035,
+                9.969894
+            ],
+            [
+                105.646999,
+                9.969764
+            ],
+            [
+                105.645843,
+                9.965563
+            ],
+            [
+                105.644382,
+                9.963038
+            ],
+            [
+                105.642056,
+                9.96038
+            ],
+            [
+                105.637819,
+                9.958086
+            ],
+            [
+                105.63659,
+                9.958088
+            ],
+            [
+                105.635363,
+                9.959038
+            ],
+            [
+                105.634273,
+                9.959988
+            ],
+            [
+                105.633181,
+                9.960126
+            ],
+            [
+                105.632087,
+                9.959045
+            ],
+            [
+                105.63017,
+                9.95634
+            ],
+            [
+                105.629212,
+                9.954852
+            ],
+            [
+                105.629209,
+                9.953365
+            ],
+            [
+                105.629209,
+                9.953227
+            ],
+            [
+                105.629069,
+                9.951332
+            ],
+            [
+                105.627836,
+                9.949168
+            ],
+            [
+                105.61916,
+                9.945528
+            ],
+            [
+                105.619153,
+                9.945525
+            ],
+            [
+                105.598947,
+                9.967172
+            ],
+            [
+                105.584168,
+                9.983066
+            ],
+            [
+                105.584127,
+                9.983088
+            ],
+            [
+                105.583146,
+                9.983615
+            ],
+            [
+                105.58448,
+                9.986414
+            ],
+            [
+                105.585815,
+                9.989213
+            ],
+            [
+                105.588275,
+                9.994033
+            ],
+            [
+                105.588406,
+                9.994291
+            ],
+            [
+                105.589027,
+                9.995872
+            ],
+            [
+                105.58907,
+                9.995861
+            ],
+            [
+                105.592979,
+                9.994981
+            ],
+            [
+                105.593029,
+                9.995818
+            ],
+            [
+                105.593124,
+                9.996888
+            ],
+            [
+                105.593327,
+                9.998987
+            ],
+            [
+                105.593327,
+                9.998987
+            ],
+            [
+                105.593644,
+                10.004411
+            ],
+            [
+                105.603746,
+                10.003583
+            ],
+            [
+                105.604974,
+                10.005403
+            ],
+            [
+                105.611711,
+                10.0062
+            ],
+            [
+                105.61865,
+                10.005682
+            ],
+            [
+                105.626917,
+                10.006375
+            ],
+            [
+                105.628056,
+                10.01447
+            ],
+            [
+                105.626333,
+                10.017635
+            ],
+            [
+                105.624556,
+                10.019649
+            ],
+            [
+                105.623421,
+                10.020828
+            ],
+            [
+                105.625044,
+                10.032124
+            ],
+            [
+                105.627752,
+                10.033329
+            ],
+            [
+                105.626648,
+                10.038802
+            ],
+            [
+                105.626643,
+                10.040481
+            ],
+            [
+                105.627881,
+                10.041656
+            ],
+            [
+                105.630657,
+                10.044691
+            ],
+            [
+                105.633382,
+                10.047481
+            ],
+            [
+                105.63561,
+                10.048899
+            ],
+            [
+                105.636501,
+                10.049142
+            ],
+            [
+                105.637243,
+                10.04919
+            ],
+            [
+                105.638083,
+                10.049041
+            ],
+            [
+                105.639022,
+                10.0485
+            ],
+            [
+                105.640157,
+                10.047566
+            ],
+            [
+                105.641047,
+                10.047368
+            ],
+            [
+                105.641888,
+                10.047563
+            ],
+            [
+                105.642631,
+                10.048101
+            ],
+            [
+                105.644369,
+                10.051873
+            ],
+            [
+                105.646252,
+                10.053831
+            ],
+            [
+                105.655545,
+                10.050977
+            ],
+            [
+                105.661467,
+                10.048327
+            ],
+            [
+                105.665247,
+                10.048597
+            ],
+            [
+                105.668466,
+                10.048035
+            ],
+            [
+                105.67003,
+                10.048749
+            ],
+            [
+                105.673414,
+                10.049136
+            ],
+            [
+                105.673792,
+                10.051079
+            ],
+            [
+                105.673544,
+                10.052612
+            ],
+            [
+                105.681766,
+                10.05305
+            ],
+            [
+                105.682021,
+                10.054544
+            ],
+            [
+                105.681948,
+                10.057164
+            ],
+            [
+                105.708564,
+                10.054214
+            ],
+            [
+                105.709852,
+                10.051721
+            ],
+            [
+                105.705843,
+                10.050258
+            ],
+            [
+                105.705523,
+                10.050125
+            ],
+            [
+                105.705601,
+                10.048047
+            ],
+            [
+                105.706315,
+                10.044472
+            ],
+            [
+                105.709714,
+                10.041021
+            ],
+            [
+                105.713054,
+                10.040104
+            ],
+            [
+                105.714556,
+                10.037631
+            ],
+            [
+                105.711079,
+                10.035884
+            ],
+            [
+                105.712909,
+                10.033671
+            ],
+            [
+                105.712836,
+                10.030162
+            ],
+            [
+                105.71205,
+                10.029137
+            ],
+            [
+                105.710903,
+                10.029418
+            ],
+            [
+                105.708665,
+                10.029019
+            ],
+            [
+                105.706308,
+                10.028414
+            ],
+            [
+                105.705049,
+                10.026033
+            ],
+            [
+                105.704846,
+                10.024814
+            ],
+            [
+                105.705931,
+                10.022344
+            ],
+            [
+                105.704409,
+                10.016968
+            ],
+            [
+                105.702871,
+                10.016777
+            ],
+            [
+                105.701948,
+                10.01628
+            ],
+            [
+                105.701779,
+                10.015726
+            ],
+            [
+                105.702307,
+                10.014616
+            ],
+            [
+                105.703115,
+                10.013255
+            ],
+            [
+                105.709678,
+                10.009831
+            ],
+            [
+                105.713516,
+                10.008559
+            ],
+            [
+                105.714177,
+                10.005934
+            ],
+            [
+                105.715016,
+                10.005
+            ],
+            [
+                105.716102,
+                10.004115
+            ],
+            [
+                105.718424,
+                10.003522
+            ],
+            [
+                105.720402,
+                10.003517
+            ],
+            [
+                105.721619,
+                10.003601
+            ],
+            [
+                105.723172,
+                10.003708
+            ],
+            [
+                105.725497,
+                10.004389
+            ],
+            [
+                105.726548,
+                10.004932
+            ],
+            [
+                105.730595,
+                10.001125
+            ],
+            [
+                105.73154,
+                9.998986
+            ],
+            [
+                105.73154,
+                9.998986
+            ],
+            [
+                105.731392,
+                9.997919
+            ],
+            [
+                105.73139,
+                9.996938
+            ],
+            [
+                105.731461,
+                9.996402
+            ],
+            [
+                105.731619,
+                9.995207
+            ],
+            [
+                105.731659,
+                9.994035
+            ],
+            [
+                105.733398,
+                9.993674
+            ],
+            [
+                105.737051,
+                9.993502
+            ],
+            [
+                105.739502,
+                9.994124
+            ],
+            [
+                105.739615,
+                9.994152
+            ],
+            [
+                105.739561,
+                9.994065
+            ],
+            [
+                105.736171,
+                9.988489
+            ],
+            [
+                105.735384,
+                9.988102
+            ],
+            [
+                105.734278,
+                9.987816
+            ],
+            [
+                105.73387,
+                9.987528
+            ],
+            [
+                105.73352,
+                9.986895
+            ],
+            [
+                105.732982,
+                9.984605
+            ],
+            [
+                105.732815,
+                9.983896
+            ],
+            [
+                105.731586,
+                9.980552
+            ],
+            [
+                105.731372,
+                9.980072
+            ],
+            [
+                105.7311,
+                9.979919
+            ],
+            [
+                105.729432,
+                9.979653
+            ],
+            [
+                105.728036,
+                9.979656
+            ],
+            [
+                105.724998,
+                9.980325
+            ],
+            [
+                105.724788,
+                9.979967
+            ],
+            [
+                105.723876,
+                9.977911
+            ],
+            [
+                105.723627,
+                9.975843
+            ],
+            [
+                105.723612,
+                9.975713
+            ],
+            [
+                105.723605,
+                9.972775
+            ],
+            [
+                105.723605,
+                9.972637
+            ],
+            [
+                105.722695,
+                9.971739
+            ],
+            [
+                105.721006,
+                9.970585
+            ],
+            [
+                105.719317,
+                9.969302
+            ],
+            [
+                105.718277,
+                9.967889
+            ],
+            [
+                105.717233,
+                9.965319
+            ],
+            [
+                105.716711,
+                9.963647
+            ],
+            [
+                105.71567,
+                9.961849
+            ],
+            [
+                105.712032,
+                9.958898
+            ],
+            [
+                105.710669,
+                9.957552
+            ],
+            [
+                105.704042,
+                9.958563
+            ],
+            [
+                105.703667,
+                9.954136
+            ],
+            [
+                105.703662,
+                9.954137
+            ],
+            [
+                105.695219,
+                9.955428
+            ],
+            [
+                105.694583,
+                9.955314
+            ],
+            [
+                105.693946,
+                9.954628
+            ],
+            [
+                105.693251,
+                9.953598
+            ],
+            [
+                105.692614,
+                9.952969
+            ],
+            [
+                105.688046,
+                9.95103
+            ],
+            [
+                105.687166,
+                9.950764
+            ],
+            [
+                105.683711,
+                9.949721
+            ],
+            [
+                105.680704,
+                9.948237
+            ],
+            [
+                105.680003,
+                9.947767
+            ],
+            [
+                105.679682,
+                9.947538
+            ],
+            [
+                105.679367,
+                9.947312
+            ],
+            [
+                105.679362,
+                9.947309
+            ],
+            [
+                105.680226,
+                9.945068
+            ],
+            [
+                105.680268,
+                9.944958
+            ],
+            [
+                105.677963,
+                9.943456
+            ]
+        ]
+    ]
+}

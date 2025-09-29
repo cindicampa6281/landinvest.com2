@@ -1,0 +1,1754 @@
+{
+    "id_district": "532",
+    "id_province": 19,
+    "name_province": "Đồng Nai",
+    "name_district": "Thành phố Long Khánh",
+    "list_sukien": [
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "TỔNG CÔNG TY ĐƯỜNG SẮT VIỆT NAM",
+            "createdBy": "vn0103466748",
+            "publicDate": "2023-09-09 18:51:49",
+            "projectName": "Liên danh Công ty cổ phần Thông tin tín hiệu Đường sắt Sài Gòn - Công ty cổ phần Đường sắt Sài Gòn",
+            "bidCloseDate": "2023-09-20 10:00:00",
+            "id_muasamcong": "03b7600f-4d50-4d74-a5c5-b3a22ec64d37",
+            "tongmuc_dautu": 6398426000.0,
+            "bidNamePlanNew": "PL2300145853",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 30 (phi tư vấn): Bảo hiểm rủi ro của chủ đầu tư trong quá trình thi công xây dựng gói thầu số 11, 14, 17, 20, 26.",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng công trình giao thông tỉnh Đồng Nai",
+            "createdBy": "vn0313247076",
+            "publicDate": "2023-12-15 14:56:10",
+            "projectName": "Liên danh Tổng Công ty Cổ phần Bảo hiểm Petrolimex - Công ty Cổ phần Bảo hiểm Viễn Đông (gọi tắt là Liên danh PJICO – VASS)",
+            "bidCloseDate": "2023-12-22 15:00:00",
+            "id_muasamcong": "045033da-0fda-4b9f-99c0-cb2aa391783c",
+            "tongmuc_dautu": 489035000.0,
+            "bidNamePlanNew": "PL2300224952",
+            "dotbien_hatang": "Gói thầu số 30 (phi tư vấn): Bảo hiểm rủi ro của chủ đầu tư trong quá trình thi công xây dựng gói thầu số 11, 14, 17, 20, 26.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC LONG KHÁNH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000015781",
+            "publicDate": "2023-08-16 15:23:12",
+            "projectName": null,
+            "bidCloseDate": "2023-08-28 15:00:00",
+            "id_muasamcong": "088d14ba-c34c-40a8-893b-badcbe23ceb2",
+            "tongmuc_dautu": 267130822.0,
+            "bidNamePlanNew": "PL2300137008",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 5: Thi công xây dựng công trình",
+            "chudautu": "CÔNG TY CỔ PHẦN CẤP NƯỚC LONG KHÁNH",
+            "createdBy": "vn3603805070",
+            "publicDate": "2024-08-19 08:42:10",
+            "projectName": null,
+            "bidCloseDate": "2024-08-28 15:00:00",
+            "id_muasamcong": "0a574dfc-a5b6-4e15-b3a4-aa98edc27e9a",
+            "tongmuc_dautu": 3339000000.0,
+            "bidNamePlanNew": "PL2400160811",
+            "dotbien_hatang": "Gói thầu số 5: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC LONG KHÁNH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000015781",
+            "publicDate": "2023-08-17 15:50:16",
+            "projectName": null,
+            "bidCloseDate": "2023-08-29 09:00:00",
+            "id_muasamcong": "104eeebf-d714-43b3-8adb-b662e0c98c4e",
+            "tongmuc_dautu": 1544486140.0,
+            "bidNamePlanNew": "PL2300142347",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC LONG KHÁNH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000015781",
+            "publicDate": "2025-01-17 09:57:10",
+            "projectName": null,
+            "bidCloseDate": "2025-02-14 10:00:00",
+            "id_muasamcong": "12edf2e6-a48b-4996-878b-33256e348ccd",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500008518",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Giám sát thi công xây dựng",
+            "chudautu": "ĐIỆN LỰC LONG KHÁNH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000015781",
+            "publicDate": "2024-05-21 08:57:44",
+            "projectName": null,
+            "bidCloseDate": "2024-06-10 14:00:00",
+            "id_muasamcong": "14941d73-01d0-4098-be6c-43de8c4a46c9",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400077673",
+            "dotbien_hatang": "Giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Giám sát thi công xây dựng",
+            "chudautu": "ĐIỆN LỰC LONG KHÁNH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000015781",
+            "publicDate": "2023-05-16 11:36:19",
+            "projectName": null,
+            "bidCloseDate": "2023-05-31 11:00:00",
+            "id_muasamcong": "1b9d4de8-1e35-48e3-9e6e-613e9624a5f2",
+            "tongmuc_dautu": 130000000.0,
+            "bidNamePlanNew": "PL2300067256",
+            "dotbien_hatang": "Giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Giám sát thi công xây dựng",
+            "chudautu": "ĐIỆN LỰC LONG KHÁNH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000015781",
+            "publicDate": "2023-05-16 14:09:56",
+            "projectName": null,
+            "bidCloseDate": "2023-05-31 15:00:00",
+            "id_muasamcong": "1f48a8a3-0c15-4790-84b6-01e03be9d5ce",
+            "tongmuc_dautu": 72600000.0,
+            "bidNamePlanNew": "PL2300067223",
+            "dotbien_hatang": "Giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC LONG KHÁNH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000015781",
+            "publicDate": "2023-05-26 10:52:26",
+            "projectName": null,
+            "bidCloseDate": "2023-06-07 11:00:00",
+            "id_muasamcong": "20fed053-7f2c-41be-9bee-7383f9848ad0",
+            "tongmuc_dautu": 1585801773.0,
+            "bidNamePlanNew": "PL2300067223",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC LONG KHÁNH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000015781",
+            "publicDate": "2025-01-22 16:02:31",
+            "projectName": null,
+            "bidCloseDate": "2025-02-17 09:00:00",
+            "id_muasamcong": "3115c45d-6098-45fb-ac69-a13ce849c3c6",
+            "tongmuc_dautu": 1419890460.0,
+            "bidNamePlanNew": "PL2500010842",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 3: Thi công xây lắp",
+            "chudautu": "Ban Quản lý dự án lưới điện Đồng Nai chi nhánh Công ty TNHH Một thành viên Điện lực Đồng Nai",
+            "createdBy": "vnz000013106",
+            "publicDate": "2023-06-28 12:18:18",
+            "projectName": null,
+            "bidCloseDate": "2023-07-10 10:00:00",
+            "id_muasamcong": "369a479b-0dd2-4193-87c4-0acad87e7a87",
+            "tongmuc_dautu": 1379496140.0,
+            "bidNamePlanNew": "PL2300011150",
+            "dotbien_hatang": "Gói thầu số 3: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 27 (tư vấn): Giám sát thi công xây dựng gói thầu số 12",
+            "chudautu": "Ban Quản lý dự án thành phố Long Khánh",
+            "createdBy": "vn3603531937",
+            "publicDate": "2024-11-15 16:56:57",
+            "projectName": "Liên danh Công ty TNHH Tư vấn đầu tư và Xây dựng Hợp Phát – Công ty Cổ phần tư vấn và Xây dựng Cầu Giấy",
+            "bidCloseDate": "2024-12-09 09:00:00",
+            "id_muasamcong": "400262d6-65c6-402c-87c6-640284ba4953",
+            "tongmuc_dautu": 1552225000.0,
+            "bidNamePlanNew": "PL2400222747",
+            "dotbien_hatang": "Gói thầu số 27 (tư vấn): Giám sát thi công xây dựng gói thầu số 12",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 5: Thi công xây dựng công trình",
+            "chudautu": "CÔNG TY CỔ PHẦN CẤP NƯỚC LONG KHÁNH",
+            "createdBy": "vn3603805070",
+            "publicDate": "2024-09-18 09:34:03",
+            "projectName": null,
+            "bidCloseDate": "2024-09-27 15:00:00",
+            "id_muasamcong": "447812f7-13c9-4a54-b17f-e59ebd0606d7",
+            "tongmuc_dautu": 4240199580.0,
+            "bidNamePlanNew": "PL2400193960",
+            "dotbien_hatang": "Gói thầu số 5: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC LONG KHÁNH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000015781",
+            "publicDate": "2024-09-17 09:21:26",
+            "projectName": null,
+            "bidCloseDate": "2024-09-26 09:00:00",
+            "id_muasamcong": "455a8593-df09-40c8-87b0-56eddcd94be9",
+            "tongmuc_dautu": 2033418181.0,
+            "bidNamePlanNew": "PL2400200334",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC LONG KHÁNH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000015781",
+            "publicDate": "2024-06-28 16:36:45",
+            "projectName": null,
+            "bidCloseDate": "2024-07-15 11:00:00",
+            "id_muasamcong": "466300f4-1ef0-4d35-9cbf-9386b491af1e",
+            "tongmuc_dautu": 2028766490.0,
+            "bidNamePlanNew": "PL2400077711",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC LONG KHÁNH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000015781",
+            "publicDate": "2024-01-02 14:47:43",
+            "projectName": null,
+            "bidCloseDate": "2024-01-08 10:00:00",
+            "id_muasamcong": "562e93e3-f5ae-4e36-8676-8055e4dd07cc",
+            "tongmuc_dautu": 652763642.0,
+            "bidNamePlanNew": "PL2300259918",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC LONG KHÁNH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000015781",
+            "publicDate": "2023-03-14 10:38:12",
+            "projectName": null,
+            "bidCloseDate": "2023-03-27 09:00:00",
+            "id_muasamcong": "65110f07-6352-4959-bad6-e12239c8b27b",
+            "tongmuc_dautu": 567450868.0,
+            "bidNamePlanNew": "PL2200081958",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Giám sát thi công xây dựng",
+            "chudautu": "ĐIỆN LỰC LONG KHÁNH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000015781",
+            "publicDate": "2023-08-18 14:49:37",
+            "projectName": null,
+            "bidCloseDate": "2023-09-08 09:00:00",
+            "id_muasamcong": "6968143e-0798-4c5c-acfc-2851b8c3d405",
+            "tongmuc_dautu": 90200000.0,
+            "bidNamePlanNew": "PL2300142347",
+            "dotbien_hatang": "Giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Giám sát thi công xây dựng",
+            "chudautu": "ĐIỆN LỰC LONG KHÁNH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000015781",
+            "publicDate": "2023-05-16 11:12:30",
+            "projectName": null,
+            "bidCloseDate": "2023-05-31 10:00:00",
+            "id_muasamcong": "7378fa73-5253-4d82-8841-eefdf6985535",
+            "tongmuc_dautu": 70400000.0,
+            "bidNamePlanNew": "PL2300067271",
+            "dotbien_hatang": "Giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC LONG KHÁNH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000015781",
+            "publicDate": "2023-03-14 14:40:42",
+            "projectName": null,
+            "bidCloseDate": "2023-03-27 10:00:00",
+            "id_muasamcong": "76756c8e-2119-4673-82c8-3102cf690508",
+            "tongmuc_dautu": 1233402100.0,
+            "bidNamePlanNew": "PL2200081948",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Giám sát thi công xây dựng",
+            "chudautu": "ĐIỆN LỰC LONG KHÁNH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000015781",
+            "publicDate": "2024-05-20 15:43:32",
+            "projectName": null,
+            "bidCloseDate": "2024-06-10 09:00:00",
+            "id_muasamcong": "7a189f85-ef54-491b-bd1b-ec1a204105fa",
+            "tongmuc_dautu": 75827520.0,
+            "bidNamePlanNew": "PL2400077711",
+            "dotbien_hatang": "Giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 16: Tư vấn giám sát thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Bàu Trâm",
+            "createdBy": "vn3603906618",
+            "publicDate": "2023-11-18 14:12:56",
+            "projectName": null,
+            "bidCloseDate": "2023-12-08 15:00:00",
+            "id_muasamcong": "7ef84493-15e8-43f5-8c41-0d11f8c07e55",
+            "tongmuc_dautu": 687155400.0,
+            "bidNamePlanNew": "PL2300220756",
+            "dotbien_hatang": "Gói thầu số 16: Tư vấn giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng",
+            "chudautu": "TỔNG CÔNG TY ĐƯỜNG SẮT VIỆT NAM",
+            "createdBy": "vn0103466748-11",
+            "publicDate": "2024-10-04 15:41:20",
+            "projectName": "Liên danh Công ty cổ phần Đường sắt Sài Gòn – Công ty cổ phần Đường sắt Thuận Hải",
+            "bidCloseDate": "2024-10-27 09:00:00",
+            "id_muasamcong": "7efc2825-584e-40df-a2dc-5d88079d3236",
+            "tongmuc_dautu": 78365662236.0,
+            "bidNamePlanNew": "PL2400078112",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 25 (tư vấn): Giám sát thi công xây dựng gói thầu số 10",
+            "chudautu": "Ban Quản lý dự án thành phố Long Khánh",
+            "createdBy": "vn3603531937",
+            "publicDate": "2024-11-15 17:25:53",
+            "projectName": null,
+            "bidCloseDate": "2024-12-03 09:00:00",
+            "id_muasamcong": "84612741-a52d-40b5-bcb8-a503ffdc5053",
+            "tongmuc_dautu": 517325000.0,
+            "bidNamePlanNew": "PL2400222747",
+            "dotbien_hatang": "Gói thầu số 25 (tư vấn): Giám sát thi công xây dựng gói thầu số 10",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 26 (tư vấn): Giám sát thi công xây dựng gói thầu số 11, 13, 14",
+            "chudautu": "Ban Quản lý dự án thành phố Long Khánh",
+            "createdBy": "vn3603531937",
+            "publicDate": "2024-11-15 16:56:17",
+            "projectName": "Liên danh Công ty TNHH Phú Khánh Nam và Công ty TNHH Khang Phát Lộc",
+            "bidCloseDate": "2024-12-03 09:00:00",
+            "id_muasamcong": "847749cd-0dbd-4440-90ca-fa9c1872e108",
+            "tongmuc_dautu": 2443662000.0,
+            "bidNamePlanNew": "PL2400222747",
+            "dotbien_hatang": "Gói thầu số 26 (tư vấn): Giám sát thi công xây dựng gói thầu số 11, 13, 14",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03 (tư vấn): Giám sát thi công xây dựng Gói thầu số 01",
+            "chudautu": "BAN AN TOÀN GIAO THÔNG TỈNH ĐỒNG NAI",
+            "createdBy": "vn3603531937",
+            "publicDate": "2024-10-09 10:06:01",
+            "projectName": null,
+            "bidCloseDate": "2024-10-28 10:00:00",
+            "id_muasamcong": "8b83b12f-a140-4444-ba2d-c8b26d924d0a",
+            "tongmuc_dautu": 139736000.0,
+            "bidNamePlanNew": "PL2400115815",
+            "dotbien_hatang": "Gói thầu số 03 (tư vấn): Giám sát thi công xây dựng Gói thầu số 01",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Giám sát thi công xây dựng",
+            "chudautu": "ĐIỆN LỰC LONG KHÁNH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000015781",
+            "publicDate": "2023-05-16 14:35:24",
+            "projectName": null,
+            "bidCloseDate": "2023-05-31 16:00:00",
+            "id_muasamcong": "8cf1b25a-dbf8-4e45-b681-13e75d80c6c6",
+            "tongmuc_dautu": 61600000.0,
+            "bidNamePlanNew": "PL2300067207",
+            "dotbien_hatang": "Giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "TỔNG CÔNG TY ĐƯỜNG SẮT VIỆT NAM",
+            "createdBy": "vn0103466748",
+            "publicDate": "2023-09-09 18:51:10",
+            "projectName": "Liên danh Công ty cổ phần Viễn thông – Tín hiệu Đường sắt và Công ty cổ phần đường sắt Sài Gòn",
+            "bidCloseDate": "2023-09-20 09:30:00",
+            "id_muasamcong": "95417ae5-42dd-4f5d-b624-d09e381641b3",
+            "tongmuc_dautu": 6814591000.0,
+            "bidNamePlanNew": "PL2300145374",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Giám sát thi công xây dựng",
+            "chudautu": "ĐIỆN LỰC LONG KHÁNH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000015781",
+            "publicDate": "2023-05-16 10:37:43",
+            "projectName": null,
+            "bidCloseDate": "2023-05-31 09:00:00",
+            "id_muasamcong": "96354908-088c-46a4-a383-3a46ff0c79c0",
+            "tongmuc_dautu": 101200000.0,
+            "bidNamePlanNew": "PL2300067189",
+            "dotbien_hatang": "Giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC LONG KHÁNH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000015781",
+            "publicDate": "2024-01-02 14:45:51",
+            "projectName": null,
+            "bidCloseDate": "2024-01-08 09:00:00",
+            "id_muasamcong": "983bd7de-843c-463a-a67c-52698077a150",
+            "tongmuc_dautu": 658092608.0,
+            "bidNamePlanNew": "PL2300259910",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Giám sát thi công xây dựng",
+            "chudautu": "ĐIỆN LỰC LONG KHÁNH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000015781",
+            "publicDate": "2024-07-17 09:52:43",
+            "projectName": null,
+            "bidCloseDate": "2024-08-14 10:30:00",
+            "id_muasamcong": "9ba44d58-8d26-4dfe-b88d-8c4c35a6b1eb",
+            "tongmuc_dautu": 111330000.0,
+            "bidNamePlanNew": "PL2400138860",
+            "dotbien_hatang": "Gói thầu số 03: Giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC LONG KHÁNH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000015781",
+            "publicDate": "2025-01-17 10:28:07",
+            "projectName": null,
+            "bidCloseDate": "2025-02-14 09:00:00",
+            "id_muasamcong": "9dc348aa-9a4b-435c-a7a3-20d671316fb1",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500008511",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 5: Thi công xây dựng công trình",
+            "chudautu": "CÔNG TY CỔ PHẦN CẤP NƯỚC LONG KHÁNH",
+            "createdBy": "vn3603805070",
+            "publicDate": "2024-09-18 10:11:55",
+            "projectName": null,
+            "bidCloseDate": "2024-09-27 15:00:00",
+            "id_muasamcong": "a5ce12f6-9508-47ec-9ed3-6167e2d243f2",
+            "tongmuc_dautu": 3939000000.0,
+            "bidNamePlanNew": "PL2400193851",
+            "dotbien_hatang": "Gói thầu số 5: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi Công xây lắp",
+            "chudautu": "ĐIỆN LỰC LONG KHÁNH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000015781",
+            "publicDate": "2023-05-26 15:17:11",
+            "projectName": null,
+            "bidCloseDate": "2023-06-07 16:00:00",
+            "id_muasamcong": "a5ec2fb6-4784-4734-9292-75694ffae85b",
+            "tongmuc_dautu": 1801199506.0,
+            "bidNamePlanNew": "PL2300067189",
+            "dotbien_hatang": "Thi Công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC LONG KHÁNH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000015781",
+            "publicDate": "2024-06-28 10:48:19",
+            "projectName": null,
+            "bidCloseDate": "2024-07-08 09:00:00",
+            "id_muasamcong": "a9904c55-f31c-4e22-a770-292180e36527",
+            "tongmuc_dautu": 4061983737.0,
+            "bidNamePlanNew": "PL2400077640",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Giám sát thi công xây dựng",
+            "chudautu": "ĐIỆN LỰC LONG KHÁNH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000015781",
+            "publicDate": "2024-07-17 08:50:15",
+            "projectName": null,
+            "bidCloseDate": "2024-08-14 09:07:00",
+            "id_muasamcong": "b33003ab-e0c0-4563-b210-3fc5fa62e933",
+            "tongmuc_dautu": 163400000.0,
+            "bidNamePlanNew": "PL2400139044",
+            "dotbien_hatang": "Gói thầu số 03: Giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03 (tư vấn): Giám sát thi công xây dựng Gói thầu số 01",
+            "chudautu": "BAN AN TOÀN GIAO THÔNG TỈNH ĐỒNG NAI",
+            "createdBy": "vn3603531937",
+            "publicDate": "2024-10-09 10:04:45",
+            "projectName": null,
+            "bidCloseDate": "2024-10-28 10:00:00",
+            "id_muasamcong": "b920add8-56f9-46f7-8ca7-ec41ac36e075",
+            "tongmuc_dautu": 99700000.0,
+            "bidNamePlanNew": "PL2400116020",
+            "dotbien_hatang": "Gói thầu số 03 (tư vấn): Giám sát thi công xây dựng Gói thầu số 01",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 2: Thi công xây lắp",
+            "chudautu": "Ban Quản lý dự án lưới điện Đồng Nai chi nhánh Công ty TNHH Một thành viên Điện lực Đồng Nai",
+            "createdBy": "vnz000013106",
+            "publicDate": "2023-03-30 14:46:31",
+            "projectName": null,
+            "bidCloseDate": "2023-04-12 15:30:00",
+            "id_muasamcong": "ba37b367-2c1f-48bb-be0d-eabb05a48c38",
+            "tongmuc_dautu": 1939268678.0,
+            "bidNamePlanNew": "PL2300029309",
+            "dotbien_hatang": "Gói thầu số 2: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Giám sát thi công xây dựng",
+            "chudautu": "ĐIỆN LỰC LONG KHÁNH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000015781",
+            "publicDate": "2023-05-16 13:46:09",
+            "projectName": null,
+            "bidCloseDate": "2023-05-31 14:00:00",
+            "id_muasamcong": "bd8b675f-812b-446e-9bee-97e12d012343",
+            "tongmuc_dautu": 119000000.0,
+            "bidNamePlanNew": "PL2300067242",
+            "dotbien_hatang": "Giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC LONG KHÁNH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000015781",
+            "publicDate": "2024-07-01 14:04:39",
+            "projectName": null,
+            "bidCloseDate": "2024-07-15 10:00:00",
+            "id_muasamcong": "d68c3801-db37-40b4-a8dc-3a90ea28d865",
+            "tongmuc_dautu": 873182447.0,
+            "bidNamePlanNew": "PL2400077673",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC LONG KHÁNH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000015781",
+            "publicDate": "2023-05-26 10:13:33",
+            "projectName": null,
+            "bidCloseDate": "2023-06-07 10:00:00",
+            "id_muasamcong": "da08e754-5954-4d51-a094-5dc464c82576",
+            "tongmuc_dautu": 2279577205.0,
+            "bidNamePlanNew": "PL2300067256",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC LONG KHÁNH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000015781",
+            "publicDate": "2023-06-02 13:34:34",
+            "projectName": null,
+            "bidCloseDate": "2023-06-07 15:00:00",
+            "id_muasamcong": "e1344167-5f68-485f-b487-f73500cbf8ca",
+            "tongmuc_dautu": 2331348420.0,
+            "bidNamePlanNew": "PL2300067242",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC LONG KHÁNH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000015781",
+            "publicDate": "2024-07-04 08:44:06",
+            "projectName": null,
+            "bidCloseDate": "2024-07-10 11:00:00",
+            "id_muasamcong": "e570e82a-44eb-400c-862c-9e76002cfe74",
+            "tongmuc_dautu": 2273782330.0,
+            "bidNamePlanNew": "PL2400077692",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 5: Thi công xây dựng công trình",
+            "chudautu": "CÔNG TY CỔ PHẦN CẤP NƯỚC LONG KHÁNH",
+            "createdBy": "vn3603805070",
+            "publicDate": "2024-07-15 10:21:14",
+            "projectName": null,
+            "bidCloseDate": "2024-07-24 15:00:00",
+            "id_muasamcong": "e6c7dca9-be9a-447f-a870-da9b4aa6e52a",
+            "tongmuc_dautu": 1339000000.0,
+            "bidNamePlanNew": "PL2400118989",
+            "dotbien_hatang": "Gói thầu số 5: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Giám sát thi công xây dựng",
+            "chudautu": "ĐIỆN LỰC LONG KHÁNH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000015781",
+            "publicDate": "2024-05-21 08:11:57",
+            "projectName": null,
+            "bidCloseDate": "2024-06-10 10:00:00",
+            "id_muasamcong": "ebe85dd5-57e1-4a5b-ac39-534646b7f517",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400077692",
+            "dotbien_hatang": "Giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu XL: Thi công xây dựng và thông tin liên lạc, công nghệ thông  tin.",
+            "chudautu": "Bộ Tham mưu Quân khu 7",
+            "createdBy": "vnz000012668",
+            "publicDate": "2023-04-19 15:23:02",
+            "projectName": null,
+            "bidCloseDate": "2023-05-05 14:30:00",
+            "id_muasamcong": "ebf67a98-3bb8-40c2-a277-dd035d685d18",
+            "tongmuc_dautu": 14207986000.0,
+            "bidNamePlanNew": "PL2300001473",
+            "dotbien_hatang": "Gói thầu XL: Thi công xây dựng và thông tin liên lạc, công nghệ thông  tin.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC LONG KHÁNH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000015781",
+            "publicDate": "2023-05-26 14:20:55",
+            "projectName": null,
+            "bidCloseDate": "2023-06-07 14:00:00",
+            "id_muasamcong": "f6ff6e07-8e80-4cb9-87b8-7aab10100f4d",
+            "tongmuc_dautu": 945486980.0,
+            "bidNamePlanNew": "PL2300067207",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Bảo hiểm thi công xây dựng",
+            "chudautu": "TỔNG CÔNG TY ĐƯỜNG SẮT VIỆT NAM",
+            "createdBy": "vn0103466748-11",
+            "publicDate": "2024-10-08 09:18:08",
+            "projectName": "Tên đầy đủ: Liên danh Tổng công ty Cổ phần Bảo hiểm Bưu điện - Tổng công ty Cổ phần Bảo Minh\nTên viết tắt là: Liên danh PTI - BMI",
+            "bidCloseDate": "2024-10-17 09:00:00",
+            "id_muasamcong": "f84cfd9d-6016-4426-bad1-0c82818dc522",
+            "tongmuc_dautu": 301713037.0,
+            "bidNamePlanNew": "PL2400078112",
+            "dotbien_hatang": "Gói thầu số 05: Bảo hiểm thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "ĐIỆN LỰC LONG KHÁNH - CÔNG TY TNHH MỘT THÀNH VIÊN ĐIỆN LỰC ĐỒNG NAI",
+            "createdBy": "vnz000015781",
+            "publicDate": "2023-05-26 09:18:07",
+            "projectName": null,
+            "bidCloseDate": "2023-06-07 09:00:00",
+            "id_muasamcong": "f8ccb114-eccc-4c0a-a3a4-9bf10eecbbef",
+            "tongmuc_dautu": 945129182.0,
+            "bidNamePlanNew": "PL2300067271",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu 4: Giám sát thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "Ban Quản lý dự án lưới điện Đồng Nai chi nhánh Công ty TNHH Một thành viên Điện lực Đồng Nai",
+            "createdBy": "vnz000013106",
+            "publicDate": "2023-06-27 13:36:55",
+            "projectName": null,
+            "bidCloseDate": "2023-07-10 10:00:00",
+            "id_muasamcong": "fa04546d-138f-4a7a-8516-1f873aaaf02f",
+            "tongmuc_dautu": 310000000.0,
+            "bidNamePlanNew": "PL2300011150",
+            "dotbien_hatang": "Gói thầu 4: Giám sát thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 17 (Giám sát thi công xây dựng công trình gói thầu số 13 và 14)",
+            "chudautu": "Phòng Quản lý đô thị thành phố Long Khánh",
+            "createdBy": "vn3603507099",
+            "publicDate": "2023-11-28 16:54:19",
+            "projectName": null,
+            "bidCloseDate": "2023-12-18 15:00:00",
+            "id_muasamcong": "fe9010a2-2d94-4398-a546-c5c861a70e75",
+            "tongmuc_dautu": 753650840.0,
+            "bidNamePlanNew": "PL2300232766",
+            "dotbien_hatang": "Gói thầu số 17 (Giám sát thi công xây dựng công trình gói thầu số 13 và 14)",
+            "link_muasamcong": ""
+        }
+    ],
+    "so_dot_bien": 52,
+    "thu_tu_sap_xep": 342,
+    "polygon": [
+        [
+            [
+                107.260887,
+                11.031582
+            ],
+            [
+                107.261881,
+                11.030461
+            ],
+            [
+                107.262115,
+                11.028355
+            ],
+            [
+                107.262086,
+                11.02459
+            ],
+            [
+                107.262077,
+                11.023404
+            ],
+            [
+                107.263154,
+                11.016835
+            ],
+            [
+                107.264501,
+                11.012864
+            ],
+            [
+                107.265104,
+                11.009889
+            ],
+            [
+                107.265087,
+                11.007661
+            ],
+            [
+                107.264888,
+                11.005226
+            ],
+            [
+                107.268624,
+                11.002364
+            ],
+            [
+                107.26949,
+                11.002713
+            ],
+            [
+                107.271449,
+                11.004833
+            ],
+            [
+                107.272826,
+                11.006103
+            ],
+            [
+                107.27586,
+                11.007574
+            ],
+            [
+                107.276362,
+                11.007357
+            ],
+            [
+                107.277716,
+                11.005711
+            ],
+            [
+                107.278282,
+                11.004426
+            ],
+            [
+                107.278272,
+                11.003146
+            ],
+            [
+                107.278459,
+                10.999303
+            ],
+            [
+                107.279012,
+                10.996382
+            ],
+            [
+                107.279858,
+                10.9941
+            ],
+            [
+                107.280644,
+                10.993383
+            ],
+            [
+                107.285577,
+                10.98922
+            ],
+            [
+                107.286511,
+                10.988999
+            ],
+            [
+                107.287735,
+                10.989132
+            ],
+            [
+                107.288749,
+                10.990049
+            ],
+            [
+                107.28948,
+                10.991538
+            ],
+            [
+                107.28977,
+                10.99182
+            ],
+            [
+                107.304381,
+                10.99235
+            ],
+            [
+                107.315064,
+                10.99202
+            ],
+            [
+                107.316003,
+                10.992439
+            ],
+            [
+                107.317817,
+                10.994417
+            ],
+            [
+                107.323717,
+                10.994301
+            ],
+            [
+                107.327356,
+                10.994602
+            ],
+            [
+                107.327347,
+                10.993472
+            ],
+            [
+                107.325309,
+                10.991488
+            ],
+            [
+                107.324854,
+                10.989579
+            ],
+            [
+                107.324804,
+                10.983146
+            ],
+            [
+                107.323568,
+                10.982546
+            ],
+            [
+                107.320729,
+                10.979438
+            ],
+            [
+                107.317504,
+                10.971812
+            ],
+            [
+                107.315266,
+                10.9667
+            ],
+            [
+                107.31297,
+                10.9655
+            ],
+            [
+                107.312033,
+                10.963725
+            ],
+            [
+                107.310255,
+                10.961217
+            ],
+            [
+                107.309801,
+                10.959481
+            ],
+            [
+                107.310309,
+                10.956869
+            ],
+            [
+                107.309691,
+                10.956526
+            ],
+            [
+                107.307749,
+                10.955585
+            ],
+            [
+                107.306424,
+                10.954899
+            ],
+            [
+                107.305444,
+                10.953168
+            ],
+            [
+                107.304625,
+                10.949696
+            ],
+            [
+                107.303413,
+                10.946445
+            ],
+            [
+                107.3019,
+                10.944109
+            ],
+            [
+                107.299691,
+                10.942648
+            ],
+            [
+                107.294397,
+                10.94034
+            ],
+            [
+                107.289709,
+                10.936724
+            ],
+            [
+                107.287764,
+                10.935347
+            ],
+            [
+                107.288312,
+                10.932397
+            ],
+            [
+                107.291117,
+                10.932045
+            ],
+            [
+                107.295479,
+                10.932606
+            ],
+            [
+                107.299848,
+                10.934207
+            ],
+            [
+                107.303018,
+                10.936115
+            ],
+            [
+                107.304792,
+                10.937698
+            ],
+            [
+                107.306131,
+                10.934079
+            ],
+            [
+                107.308063,
+                10.933716
+            ],
+            [
+                107.308934,
+                10.932666
+            ],
+            [
+                107.309278,
+                10.931621
+            ],
+            [
+                107.309175,
+                10.929709
+            ],
+            [
+                107.307844,
+                10.928154
+            ],
+            [
+                107.305721,
+                10.926518
+            ],
+            [
+                107.304664,
+                10.926265
+            ],
+            [
+                107.302554,
+                10.926281
+            ],
+            [
+                107.302112,
+                10.926023
+            ],
+            [
+                107.302108,
+                10.925415
+            ],
+            [
+                107.302537,
+                10.924107
+            ],
+            [
+                107.302351,
+                10.922718
+            ],
+            [
+                107.299962,
+                10.910033
+            ],
+            [
+                107.296488,
+                10.908583
+            ],
+            [
+                107.295475,
+                10.908647
+            ],
+            [
+                107.288887,
+                10.908752
+            ],
+            [
+                107.283762,
+                10.908678
+            ],
+            [
+                107.282298,
+                10.908689
+            ],
+            [
+                107.28171,
+                10.909111
+            ],
+            [
+                107.28138,
+                10.91006
+            ],
+            [
+                107.281159,
+                10.910619
+            ],
+            [
+                107.279539,
+                10.912357
+            ],
+            [
+                107.276627,
+                10.914494
+            ],
+            [
+                107.275726,
+                10.914501
+            ],
+            [
+                107.275218,
+                10.914394
+            ],
+            [
+                107.274314,
+                10.913955
+            ],
+            [
+                107.273237,
+                10.913016
+            ],
+            [
+                107.271814,
+                10.910967
+            ],
+            [
+                107.270672,
+                10.908971
+            ],
+            [
+                107.270332,
+                10.908695
+            ],
+            [
+                107.269431,
+                10.908646
+            ],
+            [
+                107.268982,
+                10.908872
+            ],
+            [
+                107.268705,
+                10.909431
+            ],
+            [
+                107.268882,
+                10.910543
+            ],
+            [
+                107.270034,
+                10.913931
+            ],
+            [
+                107.270214,
+                10.915377
+            ],
+            [
+                107.270161,
+                10.915823
+            ],
+            [
+                107.26977,
+                10.916271
+            ],
+            [
+                107.266403,
+                10.9178
+            ],
+            [
+                107.262187,
+                10.918722
+            ],
+            [
+                107.259798,
+                10.919324
+            ],
+            [
+                107.258009,
+                10.917278
+            ],
+            [
+                107.257317,
+                10.915477
+            ],
+            [
+                107.257193,
+                10.912848
+            ],
+            [
+                107.257436,
+                10.910576
+            ],
+            [
+                107.257431,
+                10.909854
+            ],
+            [
+                107.257376,
+                10.909493
+            ],
+            [
+                107.256905,
+                10.90929
+            ],
+            [
+                107.254817,
+                10.909048
+            ],
+            [
+                107.253929,
+                10.908951
+            ],
+            [
+                107.253247,
+                10.908492
+            ],
+            [
+                107.248627,
+                10.904554
+            ],
+            [
+                107.248413,
+                10.903782
+            ],
+            [
+                107.247986,
+                10.902495
+            ],
+            [
+                107.247198,
+                10.901779
+            ],
+            [
+                107.244209,
+                10.899737
+            ],
+            [
+                107.243254,
+                10.897578
+            ],
+            [
+                107.24123,
+                10.891918
+            ],
+            [
+                107.240616,
+                10.886661
+            ],
+            [
+                107.238764,
+                10.883012
+            ],
+            [
+                107.238079,
+                10.882089
+            ],
+            [
+                107.237814,
+                10.881523
+            ],
+            [
+                107.237967,
+                10.881161
+            ],
+            [
+                107.247307,
+                10.885039
+            ],
+            [
+                107.254503,
+                10.870801
+            ],
+            [
+                107.257712,
+                10.864097
+            ],
+            [
+                107.2587,
+                10.863677
+            ],
+            [
+                107.260878,
+                10.86201
+            ],
+            [
+                107.26124,
+                10.861647
+            ],
+            [
+                107.260785,
+                10.860159
+            ],
+            [
+                107.261008,
+                10.858452
+            ],
+            [
+                107.261279,
+                10.858062
+            ],
+            [
+                107.264365,
+                10.856488
+            ],
+            [
+                107.263871,
+                10.855968
+            ],
+            [
+                107.262135,
+                10.854546
+            ],
+            [
+                107.260245,
+                10.853513
+            ],
+            [
+                107.257893,
+                10.853531
+            ],
+            [
+                107.256207,
+                10.853427
+            ],
+            [
+                107.255772,
+                10.853003
+            ],
+            [
+                107.254431,
+                10.851889
+            ],
+            [
+                107.252274,
+                10.851827
+            ],
+            [
+                107.251433,
+                10.852124
+            ],
+            [
+                107.249954,
+                10.853531
+            ],
+            [
+                107.247973,
+                10.85591
+            ],
+            [
+                107.246813,
+                10.858129
+            ],
+            [
+                107.246461,
+                10.85817
+            ],
+            [
+                107.240605,
+                10.856313
+            ],
+            [
+                107.234551,
+                10.853412
+            ],
+            [
+                107.233395,
+                10.857871
+            ],
+            [
+                107.225171,
+                10.856192
+            ],
+            [
+                107.210942,
+                10.849794
+            ],
+            [
+                107.202335,
+                10.845783
+            ],
+            [
+                107.198525,
+                10.85387
+            ],
+            [
+                107.197618,
+                10.85293
+            ],
+            [
+                107.195978,
+                10.851995
+            ],
+            [
+                107.192987,
+                10.851014
+            ],
+            [
+                107.189462,
+                10.850287
+            ],
+            [
+                107.187155,
+                10.850359
+            ],
+            [
+                107.185973,
+                10.850423
+            ],
+            [
+                107.185075,
+                10.850875
+            ],
+            [
+                107.183004,
+                10.852616
+            ],
+            [
+                107.18233,
+                10.852844
+            ],
+            [
+                107.183296,
+                10.853959
+            ],
+            [
+                107.18407,
+                10.855834
+            ],
+            [
+                107.183493,
+                10.858118
+            ],
+            [
+                107.183141,
+                10.861975
+            ],
+            [
+                107.183307,
+                10.865264
+            ],
+            [
+                107.183889,
+                10.866812
+            ],
+            [
+                107.184795,
+                10.867228
+            ],
+            [
+                107.188217,
+                10.867251
+            ],
+            [
+                107.190072,
+                10.867332
+            ],
+            [
+                107.19041,
+                10.868175
+            ],
+            [
+                107.19044,
+                10.868998
+            ],
+            [
+                107.189366,
+                10.871591
+            ],
+            [
+                107.188284,
+                10.87315
+            ],
+            [
+                107.186959,
+                10.873911
+            ],
+            [
+                107.184728,
+                10.874303
+            ],
+            [
+                107.181687,
+                10.874466
+            ],
+            [
+                107.180928,
+                10.874753
+            ],
+            [
+                107.180172,
+                10.875323
+            ],
+            [
+                107.179748,
+                10.87589
+            ],
+            [
+                107.17919,
+                10.877586
+            ],
+            [
+                107.178084,
+                10.879122
+            ],
+            [
+                107.176049,
+                10.880358
+            ],
+            [
+                107.174767,
+                10.880462
+            ],
+            [
+                107.173244,
+                10.880284
+            ],
+            [
+                107.171242,
+                10.879499
+            ],
+            [
+                107.169622,
+                10.878994
+            ],
+            [
+                107.166533,
+                10.879016
+            ],
+            [
+                107.164348,
+                10.879266
+            ],
+            [
+                107.163353,
+                10.879696
+            ],
+            [
+                107.162526,
+                10.880337
+            ],
+            [
+                107.161681,
+                10.881894
+            ],
+            [
+                107.160594,
+                10.882748
+            ],
+            [
+                107.157611,
+                10.88432
+            ],
+            [
+                107.15906,
+                10.894087
+            ],
+            [
+                107.158797,
+                10.897927
+            ],
+            [
+                107.159313,
+                10.898206
+            ],
+            [
+                107.159775,
+                10.898768
+            ],
+            [
+                107.16013,
+                10.900574
+            ],
+            [
+                107.160429,
+                10.902323
+            ],
+            [
+                107.161296,
+                10.90373
+            ],
+            [
+                107.162676,
+                10.904963
+            ],
+            [
+                107.16526,
+                10.90664
+            ],
+            [
+                107.167659,
+                10.907081
+            ],
+            [
+                107.167791,
+                10.908273
+            ],
+            [
+                107.167216,
+                10.910418
+            ],
+            [
+                107.16683,
+                10.911589
+            ],
+            [
+                107.166836,
+                10.912417
+            ],
+            [
+                107.167299,
+                10.91509
+            ],
+            [
+                107.167701,
+                10.916304
+            ],
+            [
+                107.168548,
+                10.917661
+            ],
+            [
+                107.169644,
+                10.919503
+            ],
+            [
+                107.169851,
+                10.920816
+            ],
+            [
+                107.169611,
+                10.921742
+            ],
+            [
+                107.169373,
+                10.922766
+            ],
+            [
+                107.16948,
+                10.923982
+            ],
+            [
+                107.170232,
+                10.925827
+            ],
+            [
+                107.173083,
+                10.932037
+            ],
+            [
+                107.176549,
+                10.941455
+            ],
+            [
+                107.176908,
+                10.946782
+            ],
+            [
+                107.177785,
+                10.952373
+            ],
+            [
+                107.182153,
+                10.960595
+            ],
+            [
+                107.187921,
+                10.968698
+            ],
+            [
+                107.196058,
+                10.979643
+            ],
+            [
+                107.196159,
+                10.982868
+            ],
+            [
+                107.197414,
+                10.985184
+            ],
+            [
+                107.199503,
+                10.98673
+            ],
+            [
+                107.209899,
+                10.97233
+            ],
+            [
+                107.221997,
+                10.973268
+            ],
+            [
+                107.22048,
+                10.999097
+            ],
+            [
+                107.222096,
+                11.010341
+            ],
+            [
+                107.22295,
+                11.010685
+            ],
+            [
+                107.224013,
+                11.010677
+            ],
+            [
+                107.225991,
+                11.009751
+            ],
+            [
+                107.227195,
+                11.009602
+            ],
+            [
+                107.22826,
+                11.009735
+            ],
+            [
+                107.229045,
+                11.01043
+            ],
+            [
+                107.229626,
+                11.012318
+            ],
+            [
+                107.229847,
+                11.013438
+            ],
+            [
+                107.230705,
+                11.014272
+            ],
+            [
+                107.231842,
+                11.014614
+            ],
+            [
+                107.233189,
+                11.014604
+            ],
+            [
+                107.234327,
+                11.015087
+            ],
+            [
+                107.234757,
+                11.015714
+            ],
+            [
+                107.235118,
+                11.016623
+            ],
+            [
+                107.235416,
+                11.018583
+            ],
+            [
+                107.235586,
+                11.022226
+            ],
+            [
+                107.236616,
+                11.021853
+            ],
+            [
+                107.237121,
+                11.021042
+            ],
+            [
+                107.237277,
+                11.018038
+            ],
+            [
+                107.241414,
+                11.018209
+            ],
+            [
+                107.243981,
+                11.020007
+            ],
+            [
+                107.254621,
+                11.019247
+            ],
+            [
+                107.254997,
+                11.022776
+            ],
+            [
+                107.25579,
+                11.028216
+            ],
+            [
+                107.256555,
+                11.030067
+            ],
+            [
+                107.257822,
+                11.031915
+            ],
+            [
+                107.259516,
+                11.032335
+            ],
+            [
+                107.260887,
+                11.031582
+            ]
+        ]
+    ]
+}

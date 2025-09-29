@@ -1,0 +1,4322 @@
+{
+    "id_district": "95",
+    "id_province": 52,
+    "name_province": "Sơn La",
+    "name_district": "Huyện Quỳnh Nhai",
+    "list_sukien": [
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2024-10-28 15:36:39",
+            "projectName": null,
+            "bidCloseDate": "2024-11-06 16:15:00",
+            "id_muasamcong": "0250e1cc-2b6d-4c10-8a69-f53743965224",
+            "tongmuc_dautu": 548882000.0,
+            "bidNamePlanNew": "PL2400246101",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 11: Thi công xây dựng các công trình giao thông thuộc xã Pá Ma Pha Khinh",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2023-10-15 23:16:53",
+            "projectName": "Liên danh nhà thầu Công ty TNHH Đầu tư xây dựng 289 - Hạnh Nam - Minh Quân - Thái Sơn - Quang Hiếu",
+            "bidCloseDate": "2023-10-30 16:56:00",
+            "id_muasamcong": "02b6393c-47d3-4cbd-9e43-3a762ef11e8c",
+            "tongmuc_dautu": 13222291000.0,
+            "bidNamePlanNew": "PL2300015806",
+            "dotbien_hatang": "Gói thầu số 11: Thi công xây dựng các công trình giao thông thuộc xã Pá Ma Pha Khinh",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2022-12-11 10:36:50",
+            "projectName": null,
+            "bidCloseDate": "2022-12-21 11:00:00",
+            "id_muasamcong": "030d648a-c21a-454a-aade-a70bd1485a55",
+            "tongmuc_dautu": 1412278000.0,
+            "bidNamePlanNew": "PL2200058917",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây lắp",
+            "chudautu": "Ủy ban nhân dân xã Mường Sại, huyện Quỳnh Nhai",
+            "createdBy": "vn5500156653",
+            "publicDate": "2024-12-16 09:56:19",
+            "projectName": null,
+            "bidCloseDate": "2024-12-25 08:30:00",
+            "id_muasamcong": "0395acee-508e-4422-9494-b9c9c0dca703",
+            "tongmuc_dautu": 103672189.0,
+            "bidNamePlanNew": "PL2400314287",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2022-12-11 18:46:10",
+            "projectName": null,
+            "bidCloseDate": "2022-12-21 10:06:00",
+            "id_muasamcong": "04f4d181-0df5-40c2-bdd4-5ccab7ffc9aa",
+            "tongmuc_dautu": 9382076000.0,
+            "bidNamePlanNew": "PL2200063413",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07 (XL): Thi công xây dựng",
+            "chudautu": "Trường Trung học phổ thông huyện Quỳnh Nhai",
+            "createdBy": "vn5500645693",
+            "publicDate": "2023-09-06 17:18:26",
+            "projectName": null,
+            "bidCloseDate": "2023-09-16 08:00:00",
+            "id_muasamcong": "04f8d61c-8ebb-4b53-b531-11d90598c65e",
+            "tongmuc_dautu": 1621747888.0,
+            "bidNamePlanNew": "PL2300156200",
+            "dotbien_hatang": "Gói thầu số 07 (XL): Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2023-05-16 09:22:50",
+            "projectName": null,
+            "bidCloseDate": "2023-05-26 16:30:00",
+            "id_muasamcong": "07873c6c-a446-4d4b-9a82-e5ed836427ea",
+            "tongmuc_dautu": 3936244000.0,
+            "bidNamePlanNew": "PL2300065688",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784-02",
+            "publicDate": "2022-12-10 15:18:26",
+            "projectName": null,
+            "bidCloseDate": "2022-12-20 17:30:00",
+            "id_muasamcong": "0795a794-a5e6-4b89-a49f-b0b8cc864c32",
+            "tongmuc_dautu": 1953503693.0,
+            "bidNamePlanNew": "PL2200058100",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 13: Thi công xây dựng các công trình cấp nước sinh hoạt và thủy lợi",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2023-12-13 08:38:20",
+            "projectName": "VINH NAM-VINCICOM-TRỌNG TÍN",
+            "bidCloseDate": "2023-12-23 10:00:00",
+            "id_muasamcong": "09754057-8204-402a-8280-ec65a8f1ad7c",
+            "tongmuc_dautu": 6420866000.0,
+            "bidNamePlanNew": "PL2300015806",
+            "dotbien_hatang": "Gói thầu số 13: Thi công xây dựng các công trình cấp nước sinh hoạt và thủy lợi",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06: Thi công xây lắp",
+            "chudautu": "Ủy ban nhân dân xã Pá Ma Pha Khinh",
+            "createdBy": "vn5500208735",
+            "publicDate": "2023-12-13 16:25:33",
+            "projectName": null,
+            "bidCloseDate": "2023-12-25 09:00:00",
+            "id_muasamcong": "0b48be1d-539d-4e73-a941-f99b7d55b0d5",
+            "tongmuc_dautu": 1227245000.0,
+            "bidNamePlanNew": "PL2300249812",
+            "dotbien_hatang": "Gói thầu số 06: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Chiềng Ơn",
+            "createdBy": "vn5500208767",
+            "publicDate": "2023-12-12 08:57:56",
+            "projectName": null,
+            "bidCloseDate": "2023-12-22 09:00:00",
+            "id_muasamcong": "0b8862f9-1e51-4cdd-a3d2-1678723d02dd",
+            "tongmuc_dautu": 1373827691.1264,
+            "bidNamePlanNew": "PL2300250883",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05- Thi công xây dựng.",
+            "chudautu": "Bảo hiểm Xã hội tỉnh Sơn La",
+            "createdBy": "vn5500343734",
+            "publicDate": "2023-10-25 15:31:58",
+            "projectName": null,
+            "bidCloseDate": "2023-11-01 08:00:00",
+            "id_muasamcong": "0df98c5b-e92c-4720-be75-0fd7c9400726",
+            "tongmuc_dautu": 557000000.0,
+            "bidNamePlanNew": "PL2300195107",
+            "dotbien_hatang": "Gói thầu số 05- Thi công xây dựng.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2023-05-18 11:05:58",
+            "projectName": null,
+            "bidCloseDate": "2023-05-29 09:00:00",
+            "id_muasamcong": "0f32802d-f5e5-4c57-8026-19d2b5c80ae8",
+            "tongmuc_dautu": 1495642000.0,
+            "bidNamePlanNew": "PL2300066104",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây lắp",
+            "chudautu": "Phòng giáo dục và đào tạo huyện Quỳnh Nhai",
+            "createdBy": "vn5500175455",
+            "publicDate": "2023-09-27 16:04:56",
+            "projectName": null,
+            "bidCloseDate": "2023-10-07 10:30:00",
+            "id_muasamcong": "1032354d-1d6c-4eed-a6ca-044d8fe68adf",
+            "tongmuc_dautu": 3151088000.0,
+            "bidNamePlanNew": "PL2300170857",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2023-05-18 17:41:17",
+            "projectName": null,
+            "bidCloseDate": "2023-05-26 09:30:00",
+            "id_muasamcong": "12618d0f-8bea-4729-8b80-2d3550c1c4bd",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300066203",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: thi công xây dựng công trình",
+            "chudautu": "TRUNG TÂM KHUYẾN NÔNG TỈNH SƠN LA",
+            "createdBy": "vnz000028577",
+            "publicDate": "2023-10-12 09:45:49",
+            "projectName": null,
+            "bidCloseDate": "2023-10-30 15:00:00",
+            "id_muasamcong": "142040bb-e744-4ad9-a2f6-a019213d78b6",
+            "tongmuc_dautu": 264372000.0,
+            "bidNamePlanNew": "PL2300179513",
+            "dotbien_hatang": "Gói thầu số 05: thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2024-10-28 14:21:00",
+            "projectName": null,
+            "bidCloseDate": "2024-11-06 14:30:00",
+            "id_muasamcong": "16140ed5-7218-43cf-8f5e-8f354f67ff33",
+            "tongmuc_dautu": 902529000.0,
+            "bidNamePlanNew": "PL2400245980",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2023-05-29 11:29:36",
+            "projectName": null,
+            "bidCloseDate": "2023-06-08 14:30:00",
+            "id_muasamcong": "166414d6-45cf-45cc-9290-827c44c4d738",
+            "tongmuc_dautu": 2382332000.0,
+            "bidNamePlanNew": "PL2300076667",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04 -Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2022-12-10 16:20:33",
+            "projectName": null,
+            "bidCloseDate": "2022-12-20 16:15:00",
+            "id_muasamcong": "18a12a9b-78b7-4c32-8663-f0e1fc58d83e",
+            "tongmuc_dautu": 1233090000.0,
+            "bidNamePlanNew": "PL2200053458",
+            "dotbien_hatang": "Gói thầu số 04 -Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784-02",
+            "publicDate": "2022-12-10 10:47:28",
+            "projectName": null,
+            "bidCloseDate": "2022-12-20 11:30:00",
+            "id_muasamcong": "1e28ed5a-97fa-4e45-bcf0-50ed68bd4006",
+            "tongmuc_dautu": 2992677400.0,
+            "bidNamePlanNew": "PL2200064424",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2022-12-07 16:11:44",
+            "projectName": null,
+            "bidCloseDate": "2022-12-17 16:15:00",
+            "id_muasamcong": "208cb7fe-2c80-4a0c-85aa-45eb8dfd74b7",
+            "tongmuc_dautu": 1192286000.0,
+            "bidNamePlanNew": "PL2200058366",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2023-05-30 21:18:51",
+            "projectName": null,
+            "bidCloseDate": "2023-06-09 10:30:00",
+            "id_muasamcong": "220fa4d4-131e-401a-85ab-e09144f12965",
+            "tongmuc_dautu": 1061880000.0,
+            "bidNamePlanNew": "PL2300066260",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784-02",
+            "publicDate": "2024-10-28 11:12:41",
+            "projectName": null,
+            "bidCloseDate": "2024-11-06 16:00:00",
+            "id_muasamcong": "25dac0b6-4d62-4468-8370-67dd8289cecd",
+            "tongmuc_dautu": 1767679000.0,
+            "bidNamePlanNew": "PL2400247290",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784-02",
+            "publicDate": "2024-11-14 16:19:50",
+            "projectName": null,
+            "bidCloseDate": "2024-11-23 15:55:00",
+            "id_muasamcong": "25e01aa6-e581-4983-8aac-1311c32aa170",
+            "tongmuc_dautu": 1711816374.0,
+            "bidNamePlanNew": "PL2400272141",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2023-05-25 08:33:52",
+            "projectName": null,
+            "bidCloseDate": "2023-06-07 08:20:00",
+            "id_muasamcong": "276f36f3-4f9f-49b9-9337-4740349f859b",
+            "tongmuc_dautu": 1927889225.0,
+            "bidNamePlanNew": "PL2300076394",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04 -Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2022-12-08 15:11:03",
+            "projectName": "Liên danh nhà thầu Công ty TNHH Xây dựng và thương mại Hiền Ý và Công ty TNNHH Đầu tư và xây dựng Khánh An Sơn La",
+            "bidCloseDate": "2022-12-18 15:30:00",
+            "id_muasamcong": "27da0bf8-5e0c-4f17-916d-74b6b0420eb4",
+            "tongmuc_dautu": 1305278000.0,
+            "bidNamePlanNew": "PL2200063678",
+            "dotbien_hatang": "Gói thầu số 04 -Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2024-11-26 16:24:05",
+            "projectName": null,
+            "bidCloseDate": "2024-12-05 16:45:00",
+            "id_muasamcong": "2a20e5cb-41c3-494d-87f1-d861046e8236",
+            "tongmuc_dautu": 626456000.0,
+            "bidNamePlanNew": "PL2400288326",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây lắp",
+            "chudautu": "Ủy ban nhân dân xã Chiềng Bằng huyện Quỳnh Nhai",
+            "createdBy": "vn5500156727",
+            "publicDate": "2024-12-19 08:11:26",
+            "projectName": null,
+            "bidCloseDate": "2024-12-28 09:30:00",
+            "id_muasamcong": "2a6ea340-885d-4fcf-adbd-320457e05e1b",
+            "tongmuc_dautu": 103568143.0,
+            "bidNamePlanNew": "PL2400322528",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04:Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2023-05-18 14:34:43",
+            "projectName": null,
+            "bidCloseDate": "2023-05-29 10:00:00",
+            "id_muasamcong": "2aef181d-4829-4bf8-9ccc-d7309d1999fe",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300066080",
+            "dotbien_hatang": "Gói thầu số 04:Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784-02",
+            "publicDate": "2022-12-08 00:31:14",
+            "projectName": null,
+            "bidCloseDate": "2022-12-18 08:30:00",
+            "id_muasamcong": "2b688814-703e-477c-802e-b33f2c44f362",
+            "tongmuc_dautu": 3515468324.0,
+            "bidNamePlanNew": "PL2200057797",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04 -Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2022-12-08 10:43:58",
+            "projectName": null,
+            "bidCloseDate": "2022-12-18 13:30:00",
+            "id_muasamcong": "2f5ddd6d-55d4-4f24-9946-5387216bf5d2",
+            "tongmuc_dautu": 1352915000.0,
+            "bidNamePlanNew": "PL2200063632",
+            "dotbien_hatang": "Gói thầu số 04 -Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2022-12-09 15:33:32",
+            "projectName": null,
+            "bidCloseDate": "2022-12-19 17:15:00",
+            "id_muasamcong": "306eefef-f627-4ed2-906f-c2189792e87b",
+            "tongmuc_dautu": 1175545000.0,
+            "bidNamePlanNew": "PL2200028696",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây lắp",
+            "chudautu": "Phòng Kinh tế và Hạ tầng huyện Quỳnh Nhai",
+            "createdBy": "vnz000005437",
+            "publicDate": "2023-12-08 15:33:49",
+            "projectName": null,
+            "bidCloseDate": "2023-12-18 16:00:00",
+            "id_muasamcong": "35f1e989-c2c4-41fb-b7cf-b96abdc89835",
+            "tongmuc_dautu": 4445265000.0,
+            "bidNamePlanNew": "PL2300247978",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07 (XL): Thi công xây dựng",
+            "chudautu": "Trường Trung học phổ thông huyện Quỳnh Nhai",
+            "createdBy": "vn5500645693",
+            "publicDate": "2023-10-10 09:36:56",
+            "projectName": null,
+            "bidCloseDate": "2023-10-17 08:00:00",
+            "id_muasamcong": "36d45dea-38e5-4b92-9d22-156a44afd86f",
+            "tongmuc_dautu": 3416669610.0,
+            "bidNamePlanNew": "PL2300170149",
+            "dotbien_hatang": "Gói thầu số 07 (XL): Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2024-11-20 11:19:05",
+            "projectName": null,
+            "bidCloseDate": "2024-11-29 14:30:00",
+            "id_muasamcong": "385edc55-43a7-4a61-9830-61d4691f7798",
+            "tongmuc_dautu": 660044000.0,
+            "bidNamePlanNew": "PL2400277903",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2024-10-24 14:24:33",
+            "projectName": null,
+            "bidCloseDate": "2024-11-02 15:00:00",
+            "id_muasamcong": "3a62f6bb-bab3-4b3d-a22a-42e04e1b1e2f",
+            "tongmuc_dautu": 632278000.0,
+            "bidNamePlanNew": "PL2400242268",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2023-05-16 09:33:13",
+            "projectName": null,
+            "bidCloseDate": "2023-05-26 15:30:00",
+            "id_muasamcong": "3a958a9d-5a1e-4627-96f3-f55f58d8e07b",
+            "tongmuc_dautu": 2083187000.0,
+            "bidNamePlanNew": "PL2300065694",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784-02",
+            "publicDate": "2025-02-20 15:10:21",
+            "projectName": null,
+            "bidCloseDate": "2025-03-01 15:30:00",
+            "id_muasamcong": "3e58f4a9-4c34-406f-a2c1-3a554b30cbaf",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500026692",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Chiềng Bằng huyện Quỳnh Nhai",
+            "createdBy": "vn5500156727",
+            "publicDate": "2023-09-10 17:09:27",
+            "projectName": null,
+            "bidCloseDate": "2023-09-20 10:00:00",
+            "id_muasamcong": "40897f4f-7368-4274-95a1-d6229ce4f2e4",
+            "tongmuc_dautu": 2087665000.0,
+            "bidNamePlanNew": "PL2300154491",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Chiềng Khoang huyện Quỳnh Nhai",
+            "createdBy": "vn5500156607",
+            "publicDate": "2023-09-11 02:55:16",
+            "projectName": null,
+            "bidCloseDate": "2023-09-21 10:00:00",
+            "id_muasamcong": "40b5b554-9811-4504-beed-ee8a52d6c1d5",
+            "tongmuc_dautu": 1904114000.0,
+            "bidNamePlanNew": "PL2300154568",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784-02",
+            "publicDate": "2024-01-23 15:15:24",
+            "projectName": null,
+            "bidCloseDate": "2024-02-02 09:00:00",
+            "id_muasamcong": "40c809ef-2412-43c5-8c77-5da3604508e7",
+            "tongmuc_dautu": 2883983205.0,
+            "bidNamePlanNew": "PL2400010398",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số XD-01: Thi công xây dựng",
+            "chudautu": "Bộ chỉ huy quân sự tỉnh Sơn La",
+            "createdBy": "vnz000006518",
+            "publicDate": "2024-11-22 19:43:23",
+            "projectName": "Liên danh Gói thầu XD-01 VH-TĐ",
+            "bidCloseDate": "2024-12-02 08:00:00",
+            "id_muasamcong": "42aaac31-4d16-47c3-ba5d-e63953803d58",
+            "tongmuc_dautu": 4678910000.0,
+            "bidNamePlanNew": "PL2400283670",
+            "dotbien_hatang": "Gói thầu số XD-01: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2022-12-11 14:02:20",
+            "projectName": null,
+            "bidCloseDate": "2022-12-21 14:30:00",
+            "id_muasamcong": "44f816d6-2f34-4ff0-bc09-c81bfbeed56c",
+            "tongmuc_dautu": 1368766000.0,
+            "bidNamePlanNew": "PL2200058911",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2023-05-29 21:39:14",
+            "projectName": null,
+            "bidCloseDate": "2023-06-11 10:00:00",
+            "id_muasamcong": "4ae604a4-7477-44e6-b874-72d49593181d",
+            "tongmuc_dautu": 1324150000.0,
+            "bidNamePlanNew": "PL2300074313",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2022-12-10 18:58:43",
+            "projectName": null,
+            "bidCloseDate": "2022-12-21 08:30:00",
+            "id_muasamcong": "4ed91b45-ad45-483b-ac7b-3abac7f26c1a",
+            "tongmuc_dautu": 1486994000.0,
+            "bidNamePlanNew": "PL2200028650",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2023-06-14 21:36:49",
+            "projectName": null,
+            "bidCloseDate": "2023-06-25 08:30:00",
+            "id_muasamcong": "4f54a134-417c-4745-9e15-64ddef09d332",
+            "tongmuc_dautu": 1296731000.0,
+            "bidNamePlanNew": "PL2300066165",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2024-11-20 11:17:22",
+            "projectName": null,
+            "bidCloseDate": "2024-11-29 16:45:00",
+            "id_muasamcong": "508760b5-7577-40d6-92dd-56da73205c92",
+            "tongmuc_dautu": 595732000.0,
+            "bidNamePlanNew": "PL2400277950",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784-02",
+            "publicDate": "2024-10-27 16:38:57",
+            "projectName": null,
+            "bidCloseDate": "2024-11-05 11:15:00",
+            "id_muasamcong": "50e59041-c899-4040-835e-50fd0ff140b2",
+            "tongmuc_dautu": 991085000.0,
+            "bidNamePlanNew": "PL2400246590",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây lắp",
+            "chudautu": "Phòng Kinh tế và Hạ tầng huyện Quỳnh Nhai",
+            "createdBy": "vnz000005437",
+            "publicDate": "2023-12-08 08:38:49",
+            "projectName": null,
+            "bidCloseDate": "2023-12-18 08:30:00",
+            "id_muasamcong": "5258cfc9-0941-4235-83e4-c10f2581380d",
+            "tongmuc_dautu": 2125239000.0,
+            "bidNamePlanNew": "PL2300244628",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 12: Thi công xây dựng các công trình giao thông, công trình điện thuộc xã Mường Sại, Nậm Ét",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784-02",
+            "publicDate": "2023-10-15 21:22:10",
+            "projectName": "Liên danh Công ty Kinh Đô- Thành Tây- Luy Lan- Quảng cáo trẻ- Vinh Nam",
+            "bidCloseDate": "2023-10-30 10:00:00",
+            "id_muasamcong": "53246b8c-94f4-48f0-9f73-1172c6f6b368",
+            "tongmuc_dautu": 15703202000.0,
+            "bidNamePlanNew": "PL2300015806",
+            "dotbien_hatang": "Gói thầu số 12: Thi công xây dựng các công trình giao thông, công trình điện thuộc xã Mường Sại, Nậm Ét",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng",
+            "chudautu": "UBND xã Cà Nàng",
+            "createdBy": "vn5500208799",
+            "publicDate": "2023-09-12 17:20:04",
+            "projectName": null,
+            "bidCloseDate": "2023-09-22 18:00:00",
+            "id_muasamcong": "53338cb3-25ea-404b-b1d9-020e57385f40",
+            "tongmuc_dautu": 1555980000.0,
+            "bidNamePlanNew": "PL2300148819",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784-02",
+            "publicDate": "2022-12-08 03:34:18",
+            "projectName": null,
+            "bidCloseDate": "2022-12-18 09:15:00",
+            "id_muasamcong": "57c5f211-8425-46f3-97d0-ce1d745ebcfd",
+            "tongmuc_dautu": 1917047356.0,
+            "bidNamePlanNew": "PL2200058015",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2024-01-15 17:29:56",
+            "projectName": null,
+            "bidCloseDate": "2024-01-24 14:00:00",
+            "id_muasamcong": "586efe3c-c1ca-4559-937a-f25d73525f09",
+            "tongmuc_dautu": 1202833000.0,
+            "bidNamePlanNew": "PL2400005732",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07 (XL): Thi công xây dựng",
+            "chudautu": "Trung tâm Giáo dục thường xuyên Quỳnh Nhai",
+            "createdBy": "vn5500645693",
+            "publicDate": "2023-09-11 13:04:29",
+            "projectName": null,
+            "bidCloseDate": "2023-09-21 08:00:00",
+            "id_muasamcong": "5ac5c1b2-35f3-4a2c-bd9b-a804cf3a059e",
+            "tongmuc_dautu": 3777205000.0,
+            "bidNamePlanNew": "PL2300161591",
+            "dotbien_hatang": "Gói thầu số 07 (XL): Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784-02",
+            "publicDate": "2024-11-20 09:14:58",
+            "projectName": null,
+            "bidCloseDate": "2024-11-29 09:30:00",
+            "id_muasamcong": "5aea7a19-e6a9-4f4d-a934-f0fcad8f9356",
+            "tongmuc_dautu": 589061000.0,
+            "bidNamePlanNew": "PL2400278268",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2024-01-15 17:25:51",
+            "projectName": null,
+            "bidCloseDate": "2024-01-25 08:30:00",
+            "id_muasamcong": "5b24653f-b17b-43f2-8c53-7f34035f5164",
+            "tongmuc_dautu": 1200621000.0,
+            "bidNamePlanNew": "PL2400006489",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2024-11-20 10:05:25",
+            "projectName": null,
+            "bidCloseDate": "2024-11-29 10:30:00",
+            "id_muasamcong": "5c153bc0-b5cd-497e-a8b0-c2e69f911433",
+            "tongmuc_dautu": 1851995000.0,
+            "bidNamePlanNew": "PL2400278706",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây lắp",
+            "chudautu": "Ủy ban nhân dân xã Mường Giàng, huyện Quỳnh Nhai",
+            "createdBy": "vn5500208781",
+            "publicDate": "2023-12-11 15:15:53",
+            "projectName": null,
+            "bidCloseDate": "2023-12-21 16:14:00",
+            "id_muasamcong": "5e68ff1e-86d6-4c5c-a3a0-92980fa968a4",
+            "tongmuc_dautu": 1449577000.0,
+            "bidNamePlanNew": "PL2300244929",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2022-12-11 20:56:40",
+            "projectName": null,
+            "bidCloseDate": "2022-12-21 21:00:00",
+            "id_muasamcong": "60dff037-6184-4ce1-be45-6632ab76841c",
+            "tongmuc_dautu": 1256985000.0,
+            "bidNamePlanNew": "PL2200058845",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07 -Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2022-12-08 10:24:38",
+            "projectName": null,
+            "bidCloseDate": "2022-12-18 09:45:00",
+            "id_muasamcong": "661e21ac-b03f-47b9-af76-762feafeb451",
+            "tongmuc_dautu": 1149191000.0,
+            "bidNamePlanNew": "PL2200053433",
+            "dotbien_hatang": "Gói thầu số 07 -Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2022-12-10 18:32:45",
+            "projectName": null,
+            "bidCloseDate": "2022-12-21 08:15:00",
+            "id_muasamcong": "672c471f-c482-4dbb-91da-03354fda4153",
+            "tongmuc_dautu": 1289589000.0,
+            "bidNamePlanNew": "PL2200028634",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây lắp",
+            "chudautu": "Phòng giáo dục và đào tạo huyện Quỳnh Nhai",
+            "createdBy": "vn5500175455",
+            "publicDate": "2023-09-27 16:11:07",
+            "projectName": null,
+            "bidCloseDate": "2023-10-06 09:30:00",
+            "id_muasamcong": "67f5e566-2022-4c9e-9687-22a5ebf02b11",
+            "tongmuc_dautu": 1670311000.0,
+            "bidNamePlanNew": "PL2300169818",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04:Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2023-02-01 13:47:24",
+            "projectName": "Liên danh Công ty TNHH MTV Gia Huy Sơn La và Công ty TNHH MTV xây dựng Việt Hoàn",
+            "bidCloseDate": "2023-02-11 16:00:00",
+            "id_muasamcong": "6913e58a-b54d-47d2-aeff-986fca87d425",
+            "tongmuc_dautu": 1765062000.0,
+            "bidNamePlanNew": "PL2200088452",
+            "dotbien_hatang": "Gói thầu số 04:Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2023-06-04 15:12:55",
+            "projectName": null,
+            "bidCloseDate": "2023-06-15 08:30:00",
+            "id_muasamcong": "6948ca08-4248-4327-a921-2833f14d3887",
+            "tongmuc_dautu": 1946333000.0,
+            "bidNamePlanNew": "PL2300076686",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2023-06-04 15:38:57",
+            "projectName": null,
+            "bidCloseDate": "2023-06-15 14:21:00",
+            "id_muasamcong": "69bed5b0-1c7d-4540-b780-fb3e32487fb9",
+            "tongmuc_dautu": 2115024000.0,
+            "bidNamePlanNew": "PL2300076271",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784-02",
+            "publicDate": "2024-03-06 09:22:37",
+            "projectName": null,
+            "bidCloseDate": "2024-03-24 09:30:00",
+            "id_muasamcong": "6b107fce-6e24-40d8-828e-3fe9b4a94baf",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300262490",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2023-05-29 22:34:11",
+            "projectName": null,
+            "bidCloseDate": "2023-06-08 08:30:00",
+            "id_muasamcong": "6b46d4f1-4187-43a2-83b8-efa98175b002",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300076701",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784-02",
+            "publicDate": "2022-12-08 01:33:14",
+            "projectName": null,
+            "bidCloseDate": "2022-12-18 08:45:00",
+            "id_muasamcong": "6d67d6db-0a13-4335-8da2-bebb0e1654ca",
+            "tongmuc_dautu": 3517401899.0,
+            "bidNamePlanNew": "PL2200057736",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06: Thi công xây dựng",
+            "chudautu": "Phòng Kinh tế và Hạ tầng huyện Quỳnh Nhai",
+            "createdBy": "vnz000005437",
+            "publicDate": "2023-09-18 15:06:58",
+            "projectName": null,
+            "bidCloseDate": "2023-09-22 09:30:00",
+            "id_muasamcong": "72dac937-854e-461d-abf8-abde622e6e40",
+            "tongmuc_dautu": 1408843000.0,
+            "bidNamePlanNew": "PL2300156439",
+            "dotbien_hatang": "Gói thầu số 06: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 09: Thi công xây dựng các công trình giao thông thuộc xã Cà Nàng, Mường Chiên, Chiềng Khay",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2023-10-15 15:30:58",
+            "projectName": "Liên danh Công ty TNHH Đầu tư và Xây dựng Tuấn Việt – Thịnh An – 981 – Hoàng Minh Tây Bắc",
+            "bidCloseDate": "2023-10-31 15:30:00",
+            "id_muasamcong": "73bb697f-5917-4945-b358-0a68ba7064e1",
+            "tongmuc_dautu": 17176840000.0,
+            "bidNamePlanNew": "PL2300015806",
+            "dotbien_hatang": "Gói thầu số 09: Thi công xây dựng các công trình giao thông thuộc xã Cà Nàng, Mường Chiên, Chiềng Khay",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây lắp",
+            "chudautu": "Phòng Kinh tế và Hạ tầng huyện Quỳnh Nhai",
+            "createdBy": "vnz000005437",
+            "publicDate": "2024-10-25 16:41:00",
+            "projectName": null,
+            "bidCloseDate": "2024-11-04 08:30:00",
+            "id_muasamcong": "77afb660-8164-4727-99b7-731b2f11f7d5",
+            "tongmuc_dautu": 359939000.0,
+            "bidNamePlanNew": "PL2400230993",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2023-05-29 17:18:22",
+            "projectName": null,
+            "bidCloseDate": "2023-06-09 10:00:00",
+            "id_muasamcong": "7897ee4c-34dc-488e-934a-909b28c920af",
+            "tongmuc_dautu": 1195437000.0,
+            "bidNamePlanNew": "PL2300074465",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2023-02-01 13:40:35",
+            "projectName": "Liên danh Công ty TNHH MTV Gia Huy Sơn La và Công ty TNHH MTV xây dựng Việt Hoàn",
+            "bidCloseDate": "2023-02-11 15:30:00",
+            "id_muasamcong": "7b0b9ceb-1899-4d5a-8608-37fa8e405c95",
+            "tongmuc_dautu": 1401900000.0,
+            "bidNamePlanNew": "PL2200088341",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây lắp",
+            "chudautu": "Ủy ban nhân dân xã Chiềng Khay, huyện Quỳnh Nhai",
+            "createdBy": "vnz000032044",
+            "publicDate": "2024-11-16 09:50:27",
+            "projectName": null,
+            "bidCloseDate": "2024-11-25 16:00:00",
+            "id_muasamcong": "7d6d3b05-8d1e-4629-8607-666b890d1ba9",
+            "tongmuc_dautu": 130271342.0,
+            "bidNamePlanNew": "PL2400250867",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2024-10-28 14:47:25",
+            "projectName": null,
+            "bidCloseDate": "2024-11-06 15:45:00",
+            "id_muasamcong": "7d81f6ca-a457-4943-9d5b-206360c752a6",
+            "tongmuc_dautu": 1173583000.0,
+            "bidNamePlanNew": "PL2400245892",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2022-12-11 16:33:55",
+            "projectName": null,
+            "bidCloseDate": "2022-12-22 10:00:00",
+            "id_muasamcong": "81b91145-24dc-4925-ab7c-c8c29f216974",
+            "tongmuc_dautu": 1558723000.0,
+            "bidNamePlanNew": "PL2200035524",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói Thầu số 02:  Thi công xây dựng",
+            "chudautu": "CÔNG TY TNHH MỘT THÀNH VIÊN QUẢN LÝ, KHAI THÁC CÔNG TRÌNH THỦY LỢI SƠN LA",
+            "createdBy": "vn5500540813-02",
+            "publicDate": "2024-10-24 14:15:33",
+            "projectName": null,
+            "bidCloseDate": "2024-11-02 15:00:00",
+            "id_muasamcong": "829c19cb-a50c-4605-86c4-391818cb600e",
+            "tongmuc_dautu": 978437000.0,
+            "bidNamePlanNew": "PL2400240185",
+            "dotbien_hatang": "Gói Thầu số 02:  Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784-02",
+            "publicDate": "2024-03-29 14:54:50",
+            "projectName": null,
+            "bidCloseDate": "2024-04-16 15:00:00",
+            "id_muasamcong": "83d89457-bdca-43b6-8ebf-30a8e68879f7",
+            "tongmuc_dautu": 30192072000.0,
+            "bidNamePlanNew": "PL2300262490",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây lắp",
+            "chudautu": "Phòng giáo dục và đào tạo huyện Quỳnh Nhai",
+            "createdBy": "vn5500175455",
+            "publicDate": "2023-09-27 16:06:31",
+            "projectName": null,
+            "bidCloseDate": "2023-10-06 10:30:00",
+            "id_muasamcong": "855fc0c5-cea0-4e9b-b989-5489a759d87d",
+            "tongmuc_dautu": 1101040000.0,
+            "bidNamePlanNew": "PL2300170542",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2022-12-11 08:28:45",
+            "projectName": null,
+            "bidCloseDate": "2022-12-21 08:45:00",
+            "id_muasamcong": "856df3db-1f7f-4c50-9b88-57ebf098d8b8",
+            "tongmuc_dautu": 5083505000.0,
+            "bidNamePlanNew": "PL2200058898",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2024-10-14 08:24:15",
+            "projectName": null,
+            "bidCloseDate": "2024-10-22 15:45:00",
+            "id_muasamcong": "8764cb8a-b47c-4370-8912-74d497df84cb",
+            "tongmuc_dautu": 1714326000.0,
+            "bidNamePlanNew": "PL2400229715",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2022-12-11 23:22:39",
+            "projectName": null,
+            "bidCloseDate": "2022-12-22 09:33:00",
+            "id_muasamcong": "8962a009-e3c8-4b15-b349-5616f11a59c3",
+            "tongmuc_dautu": 1601277000.0,
+            "bidNamePlanNew": "PL2200058769",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng công trình cấp nước sinh hoạt + Thiết bị",
+            "chudautu": "Ủy ban nhân dân huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2025-03-06 14:31:20",
+            "projectName": null,
+            "bidCloseDate": "2025-03-17 08:05:00",
+            "id_muasamcong": "8a87a3a7-bb49-4577-9409-aad03549ea7c",
+            "tongmuc_dautu": 5779579000.0,
+            "bidNamePlanNew": "PL2500028210",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng công trình cấp nước sinh hoạt + Thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2023-06-04 15:59:41",
+            "projectName": null,
+            "bidCloseDate": "2023-06-15 09:45:00",
+            "id_muasamcong": "8ca489ff-e1ba-443e-89be-fa89489e0a93",
+            "tongmuc_dautu": 1905694000.0,
+            "bidNamePlanNew": "PL2300076555",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2023-08-30 16:38:52",
+            "projectName": null,
+            "bidCloseDate": "2023-09-18 08:30:00",
+            "id_muasamcong": "8d819733-2b07-4dec-9e91-739ad8d9eb2c",
+            "tongmuc_dautu": 1698874000.0,
+            "bidNamePlanNew": "PL2300076701",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784-02",
+            "publicDate": "2022-12-09 00:35:48",
+            "projectName": null,
+            "bidCloseDate": "2022-12-19 08:30:00",
+            "id_muasamcong": "8d907f58-465b-4ab4-9a59-99e9788a5275",
+            "tongmuc_dautu": 2994524074.0,
+            "bidNamePlanNew": "PL2200058051",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 13: Thi công xây dựng hạng mục Kè bê tông dọc suối Cà Nàng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2023-06-01 10:27:49",
+            "projectName": null,
+            "bidCloseDate": "2023-06-11 16:00:00",
+            "id_muasamcong": "8e326a7a-72d6-41d3-ac2f-1b105267c83e",
+            "tongmuc_dautu": 4751229000.0,
+            "bidNamePlanNew": "PL2300049093",
+            "dotbien_hatang": "Gói thầu số 13: Thi công xây dựng hạng mục Kè bê tông dọc suối Cà Nàng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây lắp",
+            "chudautu": "Ủy ban nhân dân xã mường giôn, huyện quỳnh nhai, tỉnh sơn la",
+            "createdBy": "vn5500208742",
+            "publicDate": "2024-12-14 10:10:41",
+            "projectName": null,
+            "bidCloseDate": "2024-12-23 08:30:00",
+            "id_muasamcong": "8f7f6173-c480-433c-ad49-4058b1151b79",
+            "tongmuc_dautu": 183657153.0,
+            "bidNamePlanNew": "PL2400312460",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2023-05-24 15:59:35",
+            "projectName": null,
+            "bidCloseDate": "2023-06-03 16:30:00",
+            "id_muasamcong": "9881855c-05e0-4100-87a5-877c58ab9ece",
+            "tongmuc_dautu": 1517792000.0,
+            "bidNamePlanNew": "PL2300074104",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2023-02-01 15:05:49",
+            "projectName": null,
+            "bidCloseDate": "2023-02-11 16:30:00",
+            "id_muasamcong": "98fad98b-7fd2-48f0-85f8-f0a57d259160",
+            "tongmuc_dautu": 1239753000.0,
+            "bidNamePlanNew": "PL2200088465",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2024-11-14 14:04:05",
+            "projectName": null,
+            "bidCloseDate": "2024-11-23 15:00:00",
+            "id_muasamcong": "99409f2f-8f1f-4de0-be47-da5117372517",
+            "tongmuc_dautu": 827926000.0,
+            "bidNamePlanNew": "PL2400271803",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2023-05-25 09:11:13",
+            "projectName": null,
+            "bidCloseDate": "2023-06-09 09:34:00",
+            "id_muasamcong": "99fe0b45-48b5-4ead-b503-c8ae163414fc",
+            "tongmuc_dautu": 1769773000.0,
+            "bidNamePlanNew": "PL2300076457",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây lắp",
+            "chudautu": "Phòng giáo dục và đào tạo huyện Quỳnh Nhai",
+            "createdBy": "vn5500175455",
+            "publicDate": "2023-09-27 16:04:06",
+            "projectName": null,
+            "bidCloseDate": "2023-10-08 09:30:00",
+            "id_muasamcong": "9bfa0522-1ca4-44bd-ac17-e899466fe83a",
+            "tongmuc_dautu": 1557705000.0,
+            "bidNamePlanNew": "PL2300176381",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2022-12-11 21:32:34",
+            "projectName": null,
+            "bidCloseDate": "2022-12-21 21:04:00",
+            "id_muasamcong": "9f7b0113-1972-4a4d-8726-311e67305e82",
+            "tongmuc_dautu": 1111972000.0,
+            "bidNamePlanNew": "PL2200028727",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2022-12-11 09:41:27",
+            "projectName": null,
+            "bidCloseDate": "2022-12-21 09:45:00",
+            "id_muasamcong": "9fbe9038-2817-40d8-a28e-864369fced30",
+            "tongmuc_dautu": 6236832000.0,
+            "bidNamePlanNew": "PL2200058886",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2025-03-12 16:10:28",
+            "projectName": null,
+            "bidCloseDate": "2025-03-21 16:30:00",
+            "id_muasamcong": "a1be6d27-4333-496e-9b24-d5a9c9c206e4",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500040851",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07 - Thi công xây lắp",
+            "chudautu": "Phòng Kinh tế và Hạ tầng huyện Quỳnh Nhai",
+            "createdBy": "vnz000005437",
+            "publicDate": "2023-12-04 21:08:27",
+            "projectName": null,
+            "bidCloseDate": "2023-12-14 20:07:00",
+            "id_muasamcong": "a5ba7fbf-c1af-4113-a506-53df2be7f7b1",
+            "tongmuc_dautu": 1911124000.0,
+            "bidNamePlanNew": "PL2300242574",
+            "dotbien_hatang": "Gói thầu số 07 - Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2022-12-11 15:12:38",
+            "projectName": null,
+            "bidCloseDate": "2022-12-21 16:15:00",
+            "id_muasamcong": "a5fb573e-8b3e-4bc5-a482-4c9a35bb1d21",
+            "tongmuc_dautu": 1620650000.0,
+            "bidNamePlanNew": "PL2200063825",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784-02",
+            "publicDate": "2024-10-28 09:40:28",
+            "projectName": null,
+            "bidCloseDate": "2024-11-06 14:30:00",
+            "id_muasamcong": "a91ee7ba-e33a-409a-847e-93d7587a771f",
+            "tongmuc_dautu": 1046646000.0,
+            "bidNamePlanNew": "PL2400245798",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2022-12-08 09:05:46",
+            "projectName": null,
+            "bidCloseDate": "2022-12-18 09:26:00",
+            "id_muasamcong": "aa749b97-35ac-4743-aee8-6887a3dc11eb",
+            "tongmuc_dautu": 1548740000.0,
+            "bidNamePlanNew": "PL2200058809",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06 -Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2022-12-08 09:57:43",
+            "projectName": null,
+            "bidCloseDate": "2022-12-18 09:30:00",
+            "id_muasamcong": "aff0ff2d-847f-4661-a17c-6da2c139a76f",
+            "tongmuc_dautu": 1069551000.0,
+            "bidNamePlanNew": "PL2200053400",
+            "dotbien_hatang": "Gói thầu số 06 -Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2024-11-20 11:16:36",
+            "projectName": null,
+            "bidCloseDate": "2024-11-29 17:00:00",
+            "id_muasamcong": "b2467433-9e5f-4031-ab27-2279962303bf",
+            "tongmuc_dautu": 1023412000.0,
+            "bidNamePlanNew": "PL2400279538",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784-02",
+            "publicDate": "2024-10-13 08:45:29",
+            "projectName": null,
+            "bidCloseDate": "2024-10-22 10:00:00",
+            "id_muasamcong": "bea98b3a-796d-41c6-8664-fbe6db5d861f",
+            "tongmuc_dautu": 973047000.0,
+            "bidNamePlanNew": "PL2400229639",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã mường giôn, huyện quỳnh nhai, tỉnh sơn la",
+            "createdBy": "vn5500208742",
+            "publicDate": "2023-12-16 09:25:14",
+            "projectName": null,
+            "bidCloseDate": "2023-12-26 09:30:00",
+            "id_muasamcong": "c0181b6f-1f9e-4b51-a0c6-3279b45fe708",
+            "tongmuc_dautu": 2090373000.0,
+            "bidNamePlanNew": "PL2300254938",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784-02",
+            "publicDate": "2024-11-20 09:37:20",
+            "projectName": null,
+            "bidCloseDate": "2024-11-29 10:00:00",
+            "id_muasamcong": "c0f0a4c9-9c79-46e8-90ef-d9666cd05655",
+            "tongmuc_dautu": 592443000.0,
+            "bidNamePlanNew": "PL2400278111",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Tư vấn giám sát thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784-02",
+            "publicDate": "2024-03-14 09:26:18",
+            "projectName": null,
+            "bidCloseDate": "2024-04-08 09:30:00",
+            "id_muasamcong": "c12e4d44-cf49-46eb-a6ea-7872acdfe485",
+            "tongmuc_dautu": 655933934.0,
+            "bidNamePlanNew": "PL2300262490",
+            "dotbien_hatang": "Gói thầu số 01: Tư vấn giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây lắp",
+            "chudautu": "Phòng giáo dục và đào tạo huyện Quỳnh Nhai",
+            "createdBy": "vn5500175455",
+            "publicDate": "2023-10-21 17:41:06",
+            "projectName": null,
+            "bidCloseDate": "2023-11-02 10:30:00",
+            "id_muasamcong": "c1eabf15-7d0a-4bbe-b703-256d39751792",
+            "tongmuc_dautu": 2566920000.0,
+            "bidNamePlanNew": "PL2300197646",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784-02",
+            "publicDate": "2024-10-27 16:05:46",
+            "projectName": null,
+            "bidCloseDate": "2024-11-05 09:00:00",
+            "id_muasamcong": "c35b4701-5128-4469-b091-98f2d5744e89",
+            "tongmuc_dautu": 1382557000.0,
+            "bidNamePlanNew": "PL2400246165",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2023-05-24 15:39:10",
+            "projectName": null,
+            "bidCloseDate": "2023-06-03 16:00:00",
+            "id_muasamcong": "c532fd44-4aeb-451e-be28-adf52b172e64",
+            "tongmuc_dautu": 1697594000.0,
+            "bidNamePlanNew": "PL2300074048",
+            "dotbien_hatang": "Gói thầu số 05: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784-02",
+            "publicDate": "2024-02-28 08:57:11",
+            "projectName": null,
+            "bidCloseDate": "2024-03-05 09:30:00",
+            "id_muasamcong": "c78b301a-ecfd-44d2-a57c-70cca21b8de0",
+            "tongmuc_dautu": 16803303000.0,
+            "bidNamePlanNew": "PL2400020358",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07 (XL): Thi công xây dựng",
+            "chudautu": "Trường Phổ thông DTNT THCS  và THPT Huyện Quỳnh Nhai",
+            "createdBy": "vn5500579673",
+            "publicDate": "2023-09-15 09:02:25",
+            "projectName": null,
+            "bidCloseDate": "2023-09-25 08:00:00",
+            "id_muasamcong": "c7a2e4ad-988a-40c1-8b85-a641a533a181",
+            "tongmuc_dautu": 1135216533.0,
+            "bidNamePlanNew": "PL2300160156",
+            "dotbien_hatang": "Gói thầu số 07 (XL): Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2023-05-18 10:03:02",
+            "projectName": null,
+            "bidCloseDate": "2023-05-29 08:30:00",
+            "id_muasamcong": "c8b99d45-1b02-42c2-9ea9-391b4b2940cb",
+            "tongmuc_dautu": 3933468000.0,
+            "bidNamePlanNew": "PL2300065955",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784-02",
+            "publicDate": "2024-01-15 09:47:35",
+            "projectName": "Liên danh nhà thầu Công ty TNHH Minh Quân Sơn La và Công ty cổ phần tư vấn và xây dựng T26",
+            "bidCloseDate": "2024-01-24 10:00:00",
+            "id_muasamcong": "cb7972be-af39-422b-8850-c00d5422247f",
+            "tongmuc_dautu": 3417427141.0,
+            "bidNamePlanNew": "PL2400005719",
+            "dotbien_hatang": "Gói thầu số 06: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07 (XL): Thi công xây dựng",
+            "chudautu": "Bệnh viện Đa khoa Quỳnh Nhai",
+            "createdBy": "vn5500579560",
+            "publicDate": "2023-09-20 18:03:59",
+            "projectName": null,
+            "bidCloseDate": "2023-09-30 16:00:00",
+            "id_muasamcong": "cc7a0a9c-9282-4713-9f90-9001572d028c",
+            "tongmuc_dautu": 3472250000.0,
+            "bidNamePlanNew": "PL2300160712",
+            "dotbien_hatang": "Gói thầu số 07 (XL): Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07 (XL): Thi công xây dựng",
+            "chudautu": "Trường Phổ thông DTNT THCS  và THPT Huyện Quỳnh Nhai",
+            "createdBy": "vn5500579673",
+            "publicDate": "2023-10-02 16:08:07",
+            "projectName": null,
+            "bidCloseDate": "2023-10-09 08:00:00",
+            "id_muasamcong": "cc9fadda-537a-4d09-9c72-dd0635cae9ae",
+            "tongmuc_dautu": 1639160041.0,
+            "bidNamePlanNew": "PL2300177731",
+            "dotbien_hatang": "Gói thầu số 07 (XL): Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08: Thi công xây dựng các công trình giao thông thuộc xã Chiềng Bằng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2023-10-15 18:24:17",
+            "projectName": "Liên danh Công ty T26- Việt Hải- Trường Thủy- Bảo Ngọc- xây dựng TCVN 386- xây dựng II Sơn La",
+            "bidCloseDate": "2023-11-08 08:30:00",
+            "id_muasamcong": "cfba0a7f-1fe5-4892-8e92-6127e129c432",
+            "tongmuc_dautu": 20708286000.0,
+            "bidNamePlanNew": "PL2300015806",
+            "dotbien_hatang": "Gói thầu số 08: Thi công xây dựng các công trình giao thông thuộc xã Chiềng Bằng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây lắp",
+            "chudautu": "Ủy ban nhân dân xã Mường Sại, huyện Quỳnh Nhai",
+            "createdBy": "vn5500156653",
+            "publicDate": "2023-12-15 15:28:25",
+            "projectName": null,
+            "bidCloseDate": "2023-12-25 15:45:00",
+            "id_muasamcong": "d2141b19-0961-4495-a70b-6ebf57ac6f92",
+            "tongmuc_dautu": 1900161000.0,
+            "bidNamePlanNew": "PL2300254906",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây lắp",
+            "chudautu": "Phòng giáo dục và đào tạo huyện Quỳnh Nhai",
+            "createdBy": "vn5500175455",
+            "publicDate": "2023-09-27 16:06:05",
+            "projectName": null,
+            "bidCloseDate": "2023-10-05 15:30:00",
+            "id_muasamcong": "d28af075-7990-42a0-a6f5-c3d604dd02bd",
+            "tongmuc_dautu": 1673116000.0,
+            "bidNamePlanNew": "PL2300170696",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784-02",
+            "publicDate": "2024-10-27 17:31:08",
+            "projectName": null,
+            "bidCloseDate": "2024-11-05 15:03:00",
+            "id_muasamcong": "d28dcdd5-dc2e-45c2-bb63-bb01bf473b53",
+            "tongmuc_dautu": 1077362000.0,
+            "bidNamePlanNew": "PL2400246637",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04 -Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2022-12-10 17:47:23",
+            "projectName": null,
+            "bidCloseDate": "2022-12-21 07:45:00",
+            "id_muasamcong": "d467e6ac-eb72-4c40-b824-e5e4c0e3eb1f",
+            "tongmuc_dautu": 1143491000.0,
+            "bidNamePlanNew": "PL2200053471",
+            "dotbien_hatang": "Gói thầu số 04 -Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2022-12-10 18:09:58",
+            "projectName": null,
+            "bidCloseDate": "2022-12-21 08:00:00",
+            "id_muasamcong": "d6a9ffb8-444a-4f08-9479-8294d1e24cd3",
+            "tongmuc_dautu": 1564332000.0,
+            "bidNamePlanNew": "PL2200028622",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784-02",
+            "publicDate": "2024-10-14 08:54:01",
+            "projectName": null,
+            "bidCloseDate": "2024-10-23 09:00:00",
+            "id_muasamcong": "d6eb2118-341d-4c93-ae1b-f60dafb62a58",
+            "tongmuc_dautu": 1305072000.0,
+            "bidNamePlanNew": "PL2400228116",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784-02",
+            "publicDate": "2022-12-10 11:26:51",
+            "projectName": null,
+            "bidCloseDate": "2022-12-20 11:55:00",
+            "id_muasamcong": "d7d026b9-0fad-4d09-ac19-a1d2ffbf7fbe",
+            "tongmuc_dautu": 1610600750.0,
+            "bidNamePlanNew": "PL2200064429",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784-02",
+            "publicDate": "2024-10-28 08:54:43",
+            "projectName": null,
+            "bidCloseDate": "2024-11-06 09:00:00",
+            "id_muasamcong": "d95fda15-f999-4c2a-a42b-1327f6399073",
+            "tongmuc_dautu": 1189989000.0,
+            "bidNamePlanNew": "PL2400245751",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2024-11-20 11:18:27",
+            "projectName": null,
+            "bidCloseDate": "2024-11-29 16:30:00",
+            "id_muasamcong": "dab3d083-63a2-468f-912f-dc8932e2be3f",
+            "tongmuc_dautu": 710728000.0,
+            "bidNamePlanNew": "PL2400278065",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2023-05-15 17:36:33",
+            "projectName": null,
+            "bidCloseDate": "2023-05-26 10:30:00",
+            "id_muasamcong": "db8e4319-a2c8-4f14-9f8e-e0460a2d1b74",
+            "tongmuc_dautu": 1936501000.0,
+            "bidNamePlanNew": "PL2300065603",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây lắp",
+            "chudautu": "Phòng giáo dục và đào tạo huyện Quỳnh Nhai",
+            "createdBy": "vn5500175455",
+            "publicDate": "2023-09-27 16:05:42",
+            "projectName": null,
+            "bidCloseDate": "2023-10-07 09:30:00",
+            "id_muasamcong": "de757daf-f7d8-4a1e-b902-f436463134ce",
+            "tongmuc_dautu": 2904158000.0,
+            "bidNamePlanNew": "PL2300170802",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2025-02-26 14:14:04",
+            "projectName": null,
+            "bidCloseDate": "2025-03-07 15:30:00",
+            "id_muasamcong": "e11a06f1-9e93-4561-bf9a-85f4f87946da",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500031241",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2023-06-01 09:36:05",
+            "projectName": null,
+            "bidCloseDate": "2023-06-12 09:50:00",
+            "id_muasamcong": "e24b47d0-eae9-4592-9993-8017f749e694",
+            "tongmuc_dautu": 1656497000.0,
+            "bidNamePlanNew": "PL2300075893",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2023-05-15 17:26:54",
+            "projectName": null,
+            "bidCloseDate": "2023-05-26 08:45:00",
+            "id_muasamcong": "e273a4f8-d235-4dc0-b50d-55efa8f4fe4a",
+            "tongmuc_dautu": 5643846000.0,
+            "bidNamePlanNew": "PL2300065436",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04:Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2023-05-29 15:42:30",
+            "projectName": null,
+            "bidCloseDate": "2023-06-09 08:30:00",
+            "id_muasamcong": "ea5a56b1-678d-452e-9ee6-4e1483e4f738",
+            "tongmuc_dautu": 1778108000.0,
+            "bidNamePlanNew": "PL2300066080",
+            "dotbien_hatang": "Gói thầu số 04:Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 10: Thi công xây dựng các công trình giao thông thuộc  xã Mường Giôn, Chiềng Ơn, Mường Giàng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2023-10-15 14:48:19",
+            "projectName": "Liên danh nhà thầu các công ty: Khang Lan, Minh Châu Sơn La, Nhàn Phát Tây Bắc, Bảo Anh, Đức Minh Sơn La",
+            "bidCloseDate": "2023-11-06 07:45:00",
+            "id_muasamcong": "ed7a477d-3825-41bf-9940-fe7151c03d7d",
+            "tongmuc_dautu": 19559019000.0,
+            "bidNamePlanNew": "PL2300015806",
+            "dotbien_hatang": "Gói thầu số 10: Thi công xây dựng các công trình giao thông thuộc  xã Mường Giôn, Chiềng Ơn, Mường Giàng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2023-05-18 11:32:42",
+            "projectName": null,
+            "bidCloseDate": "2023-05-29 09:30:00",
+            "id_muasamcong": "efe9b510-a882-4e06-aa37-eb635724993d",
+            "tongmuc_dautu": 1052035000.0,
+            "bidNamePlanNew": "PL2300066008",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2024-11-20 09:16:25",
+            "projectName": null,
+            "bidCloseDate": "2024-11-29 15:00:00",
+            "id_muasamcong": "f04acda2-dd80-4524-8e3b-9fabc4209c8d",
+            "tongmuc_dautu": 1681031000.0,
+            "bidNamePlanNew": "PL2400278662",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05: Giám sát thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2023-10-18 16:45:27",
+            "projectName": null,
+            "bidCloseDate": "2023-11-10 08:30:00",
+            "id_muasamcong": "f1e4c49a-7e07-425b-9f93-7308e379e08d",
+            "tongmuc_dautu": 839454000.0,
+            "bidNamePlanNew": "PL2300015806",
+            "dotbien_hatang": "Gói thầu số 05: Giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784-02",
+            "publicDate": "2024-10-28 09:22:38",
+            "projectName": null,
+            "bidCloseDate": "2024-11-06 10:00:00",
+            "id_muasamcong": "f28c1d29-fb49-40e5-846d-90a1d78872d1",
+            "tongmuc_dautu": 1096268000.0,
+            "bidNamePlanNew": "PL2400245778",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2023-05-30 09:18:41",
+            "projectName": null,
+            "bidCloseDate": "2023-06-09 13:45:00",
+            "id_muasamcong": "fa9420f5-04a8-4f57-9a6d-1e6c6ba5eecf",
+            "tongmuc_dautu": 1244114000.0,
+            "bidNamePlanNew": "PL2300073480",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng công trình",
+            "chudautu": "Chi cục Kiểm Lâm tỉnh Sơn La",
+            "createdBy": "vn5500579560",
+            "publicDate": "2023-10-12 11:14:06",
+            "projectName": null,
+            "bidCloseDate": "2023-10-22 16:30:00",
+            "id_muasamcong": "fc3f23ad-9be0-4d70-b024-c531ff3d68a5",
+            "tongmuc_dautu": 3825955000.0,
+            "bidNamePlanNew": "PL2300179825",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây lắp",
+            "chudautu": "Phòng giáo dục và đào tạo huyện Quỳnh Nhai",
+            "createdBy": "vn5500175455",
+            "publicDate": "2023-09-27 16:06:56",
+            "projectName": null,
+            "bidCloseDate": "2023-10-07 15:30:00",
+            "id_muasamcong": "fea8fd98-a2f5-4f26-9b9e-1b0b2a14ce73",
+            "tongmuc_dautu": 1258346000.0,
+            "bidNamePlanNew": "PL2300170022",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Quỳnh Nhai",
+            "createdBy": "vnz000006784",
+            "publicDate": "2022-12-11 19:23:35",
+            "projectName": null,
+            "bidCloseDate": "2022-12-21 20:00:00",
+            "id_muasamcong": "ff789f0c-4859-420d-ac93-26e71bc7c24d",
+            "tongmuc_dautu": 1059904000.0,
+            "bidNamePlanNew": "PL2200028731",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        }
+    ],
+    "so_dot_bien": 140,
+    "thu_tu_sap_xep": 107,
+    "polygon": [
+        [
+            [
+                103.553914,
+                22.022839
+            ],
+            [
+                103.555743,
+                22.022777
+            ],
+            [
+                103.558232,
+                22.023187
+            ],
+            [
+                103.560642,
+                22.023208
+            ],
+            [
+                103.56856,
+                22.020954
+            ],
+            [
+                103.570571,
+                22.019268
+            ],
+            [
+                103.571741,
+                22.018659
+            ],
+            [
+                103.57324,
+                22.018362
+            ],
+            [
+                103.577376,
+                22.018028
+            ],
+            [
+                103.581768,
+                22.017391
+            ],
+            [
+                103.584349,
+                22.016949
+            ],
+            [
+                103.588857,
+                22.014897
+            ],
+            [
+                103.592612,
+                22.013303
+            ],
+            [
+                103.594528,
+                22.012855
+            ],
+            [
+                103.599934,
+                22.012514
+            ],
+            [
+                103.603964,
+                22.01251
+            ],
+            [
+                103.605294,
+                22.012444
+            ],
+            [
+                103.606711,
+                22.012069
+            ],
+            [
+                103.608473,
+                22.01038
+            ],
+            [
+                103.61016,
+                22.007762
+            ],
+            [
+                103.611601,
+                22.004831
+            ],
+            [
+                103.612702,
+                22.00275
+            ],
+            [
+                103.614882,
+                22.000755
+            ],
+            [
+                103.616809,
+                21.999044
+            ],
+            [
+                103.619842,
+                21.997153
+            ],
+            [
+                103.621645,
+                21.996362
+            ],
+            [
+                103.624175,
+                21.996011
+            ],
+            [
+                103.625645,
+                21.995279
+            ],
+            [
+                103.633279,
+                21.989758
+            ],
+            [
+                103.634348,
+                21.98927
+            ],
+            [
+                103.636198,
+                21.990527
+            ],
+            [
+                103.637782,
+                21.991781
+            ],
+            [
+                103.640174,
+                21.991925
+            ],
+            [
+                103.642564,
+                21.992441
+            ],
+            [
+                103.644276,
+                21.994193
+            ],
+            [
+                103.645869,
+                21.994454
+            ],
+            [
+                103.649906,
+                21.993852
+            ],
+            [
+                103.650954,
+                21.99301
+            ],
+            [
+                103.651591,
+                21.991738
+            ],
+            [
+                103.651899,
+                21.989923
+            ],
+            [
+                103.652071,
+                21.985569
+            ],
+            [
+                103.65208,
+                21.984701
+            ],
+            [
+                103.653151,
+                21.983965
+            ],
+            [
+                103.654755,
+                21.983109
+            ],
+            [
+                103.658365,
+                21.981029
+            ],
+            [
+                103.659044,
+                21.979545
+            ],
+            [
+                103.659544,
+                21.975888
+            ],
+            [
+                103.660221,
+                21.974529
+            ],
+            [
+                103.661301,
+                21.9728
+            ],
+            [
+                103.661176,
+                21.97193
+            ],
+            [
+                103.660121,
+                21.971053
+            ],
+            [
+                103.659738,
+                21.969312
+            ],
+            [
+                103.658958,
+                21.967444
+            ],
+            [
+                103.658832,
+                21.966699
+            ],
+            [
+                103.658974,
+                21.965707
+            ],
+            [
+                103.660194,
+                21.963235
+            ],
+            [
+                103.662898,
+                21.958541
+            ],
+            [
+                103.664655,
+                21.955452
+            ],
+            [
+                103.664862,
+                21.954647
+            ],
+            [
+                103.664213,
+                21.952905
+            ],
+            [
+                103.664485,
+                21.952286
+            ],
+            [
+                103.66583,
+                21.950684
+            ],
+            [
+                103.668373,
+                21.948843
+            ],
+            [
+                103.669466,
+                21.948092
+            ],
+            [
+                103.671585,
+                21.946635
+            ],
+            [
+                103.673315,
+                21.946401
+            ],
+            [
+                103.677441,
+                21.945937
+            ],
+            [
+                103.681311,
+                21.944479
+            ],
+            [
+                103.686907,
+                21.943159
+            ],
+            [
+                103.688378,
+                21.942178
+            ],
+            [
+                103.689324,
+                21.940572
+            ],
+            [
+                103.68855,
+                21.937959
+            ],
+            [
+                103.689378,
+                21.934615
+            ],
+            [
+                103.689659,
+                21.933004
+            ],
+            [
+                103.689673,
+                21.931515
+            ],
+            [
+                103.687763,
+                21.929576
+            ],
+            [
+                103.687113,
+                21.927957
+            ],
+            [
+                103.686321,
+                21.926864
+            ],
+            [
+                103.685788,
+                21.925931
+            ],
+            [
+                103.685132,
+                21.924881
+            ],
+            [
+                103.683569,
+                21.922965
+            ],
+            [
+                103.683177,
+                21.922217
+            ],
+            [
+                103.683053,
+                21.921347
+            ],
+            [
+                103.683057,
+                21.920851
+            ],
+            [
+                103.68359,
+                21.920731
+            ],
+            [
+                103.686117,
+                21.920627
+            ],
+            [
+                103.687989,
+                21.919401
+            ],
+            [
+                103.689077,
+                21.916679
+            ],
+            [
+                103.690028,
+                21.914453
+            ],
+            [
+                103.6903,
+                21.913834
+            ],
+            [
+                103.69203,
+                21.9136
+            ],
+            [
+                103.694559,
+                21.913248
+            ],
+            [
+                103.698029,
+                21.911662
+            ],
+            [
+                103.701646,
+                21.908588
+            ],
+            [
+                103.703237,
+                21.905582
+            ],
+            [
+                103.703245,
+                21.904703
+            ],
+            [
+                103.703565,
+                21.904046
+            ],
+            [
+                103.705146,
+                21.90274
+            ],
+            [
+                103.705936,
+                21.902087
+            ],
+            [
+                103.706019,
+                21.901575
+            ],
+            [
+                103.705911,
+                21.900585
+            ],
+            [
+                103.705303,
+                21.898383
+            ],
+            [
+                103.704578,
+                21.891785
+            ],
+            [
+                103.704299,
+                21.8879
+            ],
+            [
+                103.70501,
+                21.884731
+            ],
+            [
+                103.705887,
+                21.884232
+            ],
+            [
+                103.707618,
+                21.884147
+            ],
+            [
+                103.711045,
+                21.884455
+            ],
+            [
+                103.714044,
+                21.885603
+            ],
+            [
+                103.714945,
+                21.885778
+            ],
+            [
+                103.715307,
+                21.885725
+            ],
+            [
+                103.71508,
+                21.88415
+            ],
+            [
+                103.714977,
+                21.882294
+            ],
+            [
+                103.715896,
+                21.880391
+            ],
+            [
+                103.716624,
+                21.879778
+            ],
+            [
+                103.722461,
+                21.879823
+            ],
+            [
+                103.723007,
+                21.879322
+            ],
+            [
+                103.722435,
+                21.875945
+            ],
+            [
+                103.722043,
+                21.872683
+            ],
+            [
+                103.721221,
+                21.870428
+            ],
+            [
+                103.718335,
+                21.866725
+            ],
+            [
+                103.713808,
+                21.861631
+            ],
+            [
+                103.709521,
+                21.85654
+            ],
+            [
+                103.707845,
+                21.852227
+            ],
+            [
+                103.707042,
+                21.847837
+            ],
+            [
+                103.70593,
+                21.844344
+            ],
+            [
+                103.705372,
+                21.84285
+            ],
+            [
+                103.704176,
+                21.84211
+            ],
+            [
+                103.701476,
+                21.841246
+            ],
+            [
+                103.69926,
+                21.840161
+            ],
+            [
+                103.696454,
+                21.837778
+            ],
+            [
+                103.695931,
+                21.835695
+            ],
+            [
+                103.694827,
+                21.831358
+            ],
+            [
+                103.694628,
+                21.830149
+            ],
+            [
+                103.695739,
+                21.82701
+            ],
+            [
+                103.696903,
+                21.824659
+            ],
+            [
+                103.69757,
+                21.824102
+            ],
+            [
+                103.703598,
+                21.822745
+            ],
+            [
+                103.706547,
+                21.822655
+            ],
+            [
+                103.709923,
+                21.821839
+            ],
+            [
+                103.712282,
+                21.82034
+            ],
+            [
+                103.713163,
+                21.819419
+            ],
+            [
+                103.715747,
+                21.81292
+            ],
+            [
+                103.717811,
+                21.810857
+            ],
+            [
+                103.719376,
+                21.8107
+            ],
+            [
+                103.722083,
+                21.810721
+            ],
+            [
+                103.723113,
+                21.809886
+            ],
+            [
+                103.724045,
+                21.806521
+            ],
+            [
+                103.724558,
+                21.806272
+            ],
+            [
+                103.731692,
+                21.809025
+            ],
+            [
+                103.738722,
+                21.809866
+            ],
+            [
+                103.742213,
+                21.809667
+            ],
+            [
+                103.746098,
+                21.809051
+            ],
+            [
+                103.749039,
+                21.809747
+            ],
+            [
+                103.753872,
+                21.810767
+            ],
+            [
+                103.754957,
+                21.810607
+            ],
+            [
+                103.758928,
+                21.808302
+            ],
+            [
+                103.758507,
+                21.806366
+            ],
+            [
+                103.758233,
+                21.801769
+            ],
+            [
+                103.755799,
+                21.796619
+            ],
+            [
+                103.753481,
+                21.789942
+            ],
+            [
+                103.753132,
+                21.78859
+            ],
+            [
+                103.753538,
+                21.783366
+            ],
+            [
+                103.753769,
+                21.78098
+            ],
+            [
+                103.754623,
+                21.779637
+            ],
+            [
+                103.757404,
+                21.777972
+            ],
+            [
+                103.758185,
+                21.778034
+            ],
+            [
+                103.759847,
+                21.780576
+            ],
+            [
+                103.762069,
+                21.780873
+            ],
+            [
+                103.764176,
+                21.780664
+            ],
+            [
+                103.767072,
+                21.779618
+            ],
+            [
+                103.7681,
+                21.778895
+            ],
+            [
+                103.76931,
+                21.778117
+            ],
+            [
+                103.770212,
+                21.778068
+            ],
+            [
+                103.77201,
+                21.778812
+            ],
+            [
+                103.773115,
+                21.779691
+            ],
+            [
+                103.774436,
+                21.779926
+            ],
+            [
+                103.777865,
+                21.779782
+            ],
+            [
+                103.778832,
+                21.779284
+            ],
+            [
+                103.779141,
+                21.778274
+            ],
+            [
+                103.778619,
+                21.775966
+            ],
+            [
+                103.77864,
+                21.77355
+            ],
+            [
+                103.781046,
+                21.773511
+            ],
+            [
+                103.781956,
+                21.772563
+            ],
+            [
+                103.782516,
+                21.770319
+            ],
+            [
+                103.78182,
+                21.767278
+            ],
+            [
+                103.78211,
+                21.765004
+            ],
+            [
+                103.782842,
+                21.763717
+            ],
+            [
+                103.784227,
+                21.763559
+            ],
+            [
+                103.788311,
+                21.764151
+            ],
+            [
+                103.789517,
+                21.76371
+            ],
+            [
+                103.790067,
+                21.762646
+            ],
+            [
+                103.79118,
+                21.759001
+            ],
+            [
+                103.792636,
+                21.757494
+            ],
+            [
+                103.795474,
+                21.755997
+            ],
+            [
+                103.797273,
+                21.75306
+            ],
+            [
+                103.800436,
+                21.748643
+            ],
+            [
+                103.802396,
+                21.744329
+            ],
+            [
+                103.803904,
+                21.740153
+            ],
+            [
+                103.80523,
+                21.739713
+            ],
+            [
+                103.80716,
+                21.739442
+            ],
+            [
+                103.807552,
+                21.73742
+            ],
+            [
+                103.807713,
+                21.736567
+            ],
+            [
+                103.8086,
+                21.735804
+            ],
+            [
+                103.809608,
+                21.734768
+            ],
+            [
+                103.810152,
+                21.73285
+            ],
+            [
+                103.810166,
+                21.731203
+            ],
+            [
+                103.809151,
+                21.729521
+            ],
+            [
+                103.807189,
+                21.725279
+            ],
+            [
+                103.805923,
+                21.72214
+            ],
+            [
+                103.805051,
+                21.721091
+            ],
+            [
+                103.802484,
+                21.718931
+            ],
+            [
+                103.800948,
+                21.716476
+            ],
+            [
+                103.796173,
+                21.711555
+            ],
+            [
+                103.79384,
+                21.709671
+            ],
+            [
+                103.789104,
+                21.703624
+            ],
+            [
+                103.784046,
+                21.697547
+            ],
+            [
+                103.780198,
+                21.69417
+            ],
+            [
+                103.778509,
+                21.692565
+            ],
+            [
+                103.773443,
+                21.690963
+            ],
+            [
+                103.768766,
+                21.688457
+            ],
+            [
+                103.764737,
+                21.685792
+            ],
+            [
+                103.758659,
+                21.682507
+            ],
+            [
+                103.757081,
+                21.681616
+            ],
+            [
+                103.756559,
+                21.680844
+            ],
+            [
+                103.756019,
+                21.678835
+            ],
+            [
+                103.75484,
+                21.672512
+            ],
+            [
+                103.75473,
+                21.671578
+            ],
+            [
+                103.755152,
+                21.670318
+            ],
+            [
+                103.755339,
+                21.669112
+            ],
+            [
+                103.755289,
+                21.668123
+            ],
+            [
+                103.754942,
+                21.667462
+            ],
+            [
+                103.754887,
+                21.667022
+            ],
+            [
+                103.75545,
+                21.666395
+            ],
+            [
+                103.758512,
+                21.665374
+            ],
+            [
+                103.761456,
+                21.664353
+            ],
+            [
+                103.76369,
+                21.663985
+            ],
+            [
+                103.764692,
+                21.663554
+            ],
+            [
+                103.766947,
+                21.660715
+            ],
+            [
+                103.767833,
+                21.660118
+            ],
+            [
+                103.769895,
+                21.659309
+            ],
+            [
+                103.770602,
+                21.65893
+            ],
+            [
+                103.771964,
+                21.657623
+            ],
+            [
+                103.773148,
+                21.656423
+            ],
+            [
+                103.774472,
+                21.656021
+            ],
+            [
+                103.775646,
+                21.65603
+            ],
+            [
+                103.775999,
+                21.655923
+            ],
+            [
+                103.776238,
+                21.65554
+            ],
+            [
+                103.776374,
+                21.653235
+            ],
+            [
+                103.776733,
+                21.652524
+            ],
+            [
+                103.777974,
+                21.651545
+            ],
+            [
+                103.779743,
+                21.650624
+            ],
+            [
+                103.780801,
+                21.650467
+            ],
+            [
+                103.782561,
+                21.650535
+            ],
+            [
+                103.78338,
+                21.65087
+            ],
+            [
+                103.783841,
+                21.651972
+            ],
+            [
+                103.784889,
+                21.653023
+            ],
+            [
+                103.785533,
+                21.653137
+            ],
+            [
+                103.785887,
+                21.652975
+            ],
+            [
+                103.786482,
+                21.652046
+            ],
+            [
+                103.787014,
+                21.651556
+            ],
+            [
+                103.789074,
+                21.650967
+            ],
+            [
+                103.790311,
+                21.650427
+            ],
+            [
+                103.792349,
+                21.648987
+            ],
+            [
+                103.795003,
+                21.647469
+            ],
+            [
+                103.796359,
+                21.646765
+            ],
+            [
+                103.796775,
+                21.646109
+            ],
+            [
+                103.796789,
+                21.644407
+            ],
+            [
+                103.796971,
+                21.643749
+            ],
+            [
+                103.797859,
+                21.642877
+            ],
+            [
+                103.799924,
+                21.641629
+            ],
+            [
+                103.802047,
+                21.640436
+            ],
+            [
+                103.802579,
+                21.640001
+            ],
+            [
+                103.802936,
+                21.639399
+            ],
+            [
+                103.802943,
+                21.638576
+            ],
+            [
+                103.802894,
+                21.637368
+            ],
+            [
+                103.801133,
+                21.633813
+            ],
+            [
+                103.800215,
+                21.631171
+            ],
+            [
+                103.799764,
+                21.629026
+            ],
+            [
+                103.799299,
+                21.628474
+            ],
+            [
+                103.797951,
+                21.628135
+            ],
+            [
+                103.796958,
+                21.627633
+            ],
+            [
+                103.796615,
+                21.626533
+            ],
+            [
+                103.796502,
+                21.625928
+            ],
+            [
+                103.797072,
+                21.624477
+            ],
+            [
+                103.799198,
+                21.622845
+            ],
+            [
+                103.801965,
+                21.621822
+            ],
+            [
+                103.804969,
+                21.620635
+            ],
+            [
+                103.805735,
+                21.620256
+            ],
+            [
+                103.805856,
+                21.619818
+            ],
+            [
+                103.805866,
+                21.618555
+            ],
+            [
+                103.805702,
+                21.617126
+            ],
+            [
+                103.805011,
+                21.615474
+            ],
+            [
+                103.804056,
+                21.613847
+            ],
+            [
+                103.802484,
+                21.612299
+            ],
+            [
+                103.802019,
+                21.611746
+            ],
+            [
+                103.8022,
+                21.611199
+            ],
+            [
+                103.803086,
+                21.610491
+            ],
+            [
+                103.804911,
+                21.609845
+            ],
+            [
+                103.808021,
+                21.609868
+            ],
+            [
+                103.808494,
+                21.609487
+            ],
+            [
+                103.809563,
+                21.607902
+            ],
+            [
+                103.810474,
+                21.60412
+            ],
+            [
+                103.811696,
+                21.60185
+            ],
+            [
+                103.812651,
+                21.59988
+            ],
+            [
+                103.812777,
+                21.598783
+            ],
+            [
+                103.812556,
+                21.597134
+            ],
+            [
+                103.811861,
+                21.596031
+            ],
+            [
+                103.809601,
+                21.592445
+            ],
+            [
+                103.809023,
+                21.591453
+            ],
+            [
+                103.808885,
+                21.590381
+            ],
+            [
+                103.810027,
+                21.58704
+            ],
+            [
+                103.81064,
+                21.583805
+            ],
+            [
+                103.811071,
+                21.581282
+            ],
+            [
+                103.810727,
+                21.580346
+            ],
+            [
+                103.809076,
+                21.577781
+            ],
+            [
+                103.807193,
+                21.571233
+            ],
+            [
+                103.807145,
+                21.569915
+            ],
+            [
+                103.807446,
+                21.568984
+            ],
+            [
+                103.808635,
+                21.56707
+            ],
+            [
+                103.811866,
+                21.563058
+            ],
+            [
+                103.813757,
+                21.561369
+            ],
+            [
+                103.816296,
+                21.559355
+            ],
+            [
+                103.82042,
+                21.557243
+            ],
+            [
+                103.821207,
+                21.556768
+            ],
+            [
+                103.818197,
+                21.55173
+            ],
+            [
+                103.817183,
+                21.550927
+            ],
+            [
+                103.815826,
+                21.550439
+            ],
+            [
+                103.810644,
+                21.549686
+            ],
+            [
+                103.807848,
+                21.548392
+            ],
+            [
+                103.804214,
+                21.545421
+            ],
+            [
+                103.801772,
+                21.542457
+            ],
+            [
+                103.800853,
+                21.540461
+            ],
+            [
+                103.799615,
+                21.535914
+            ],
+            [
+                103.798615,
+                21.533359
+            ],
+            [
+                103.797939,
+                21.532877
+            ],
+            [
+                103.797004,
+                21.53279
+            ],
+            [
+                103.794105,
+                21.533645
+            ],
+            [
+                103.790264,
+                21.535369
+            ],
+            [
+                103.78257,
+                21.540169
+            ],
+            [
+                103.772811,
+                21.54766
+            ],
+            [
+                103.770503,
+                21.548997
+            ],
+            [
+                103.768455,
+                21.549778
+            ],
+            [
+                103.755096,
+                21.550475
+            ],
+            [
+                103.752245,
+                21.550652
+            ],
+            [
+                103.750205,
+                21.550478
+            ],
+            [
+                103.749272,
+                21.550152
+            ],
+            [
+                103.741416,
+                21.543884
+            ],
+            [
+                103.732879,
+                21.537848
+            ],
+            [
+                103.729152,
+                21.536069
+            ],
+            [
+                103.715541,
+                21.531705
+            ],
+            [
+                103.713342,
+                21.530335
+            ],
+            [
+                103.711405,
+                21.528091
+            ],
+            [
+                103.708204,
+                21.524723
+            ],
+            [
+                103.707018,
+                21.524156
+            ],
+            [
+                103.705743,
+                21.524067
+            ],
+            [
+                103.704548,
+                21.524615
+            ],
+            [
+                103.703255,
+                21.526595
+            ],
+            [
+                103.702328,
+                21.530369
+            ],
+            [
+                103.701927,
+                21.534405
+            ],
+            [
+                103.701729,
+                21.536576
+            ],
+            [
+                103.701024,
+                21.537737
+            ],
+            [
+                103.7,
+                21.538291
+            ],
+            [
+                103.697542,
+                21.538703
+            ],
+            [
+                103.696052,
+                21.539556
+            ],
+            [
+                103.693766,
+                21.541439
+            ],
+            [
+                103.692371,
+                21.541989
+            ],
+            [
+                103.691121,
+                21.541979
+            ],
+            [
+                103.689131,
+                21.541791
+            ],
+            [
+                103.686964,
+                21.540608
+            ],
+            [
+                103.678315,
+                21.53933
+            ],
+            [
+                103.675129,
+                21.538224
+            ],
+            [
+                103.672965,
+                21.536825
+            ],
+            [
+                103.6697,
+                21.53425
+            ],
+            [
+                103.668759,
+                21.535927
+            ],
+            [
+                103.667483,
+                21.538725
+            ],
+            [
+                103.666546,
+                21.539798
+            ],
+            [
+                103.665988,
+                21.540096
+            ],
+            [
+                103.663678,
+                21.539429
+            ],
+            [
+                103.661642,
+                21.539197
+            ],
+            [
+                103.660574,
+                21.539534
+            ],
+            [
+                103.656531,
+                21.541056
+            ],
+            [
+                103.653333,
+                21.54129
+            ],
+            [
+                103.649543,
+                21.540395
+            ],
+            [
+                103.64721,
+                21.542234
+            ],
+            [
+                103.645655,
+                21.545159
+            ],
+            [
+                103.64349,
+                21.548856
+            ],
+            [
+                103.639544,
+                21.554785
+            ],
+            [
+                103.635754,
+                21.558772
+            ],
+            [
+                103.632202,
+                21.562155
+            ],
+            [
+                103.629629,
+                21.564813
+            ],
+            [
+                103.628449,
+                21.567222
+            ],
+            [
+                103.627533,
+                21.571016
+            ],
+            [
+                103.627391,
+                21.576242
+            ],
+            [
+                103.627558,
+                21.578144
+            ],
+            [
+                103.629504,
+                21.583085
+            ],
+            [
+                103.631335,
+                21.585475
+            ],
+            [
+                103.632901,
+                21.586439
+            ],
+            [
+                103.634658,
+                21.586799
+            ],
+            [
+                103.63772,
+                21.586392
+            ],
+            [
+                103.638851,
+                21.589295
+            ],
+            [
+                103.64027,
+                21.591078
+            ],
+            [
+                103.64133,
+                21.591735
+            ],
+            [
+                103.643131,
+                21.592397
+            ],
+            [
+                103.64531,
+                21.592242
+            ],
+            [
+                103.647722,
+                21.591873
+            ],
+            [
+                103.649248,
+                21.592188
+            ],
+            [
+                103.650447,
+                21.592889
+            ],
+            [
+                103.651371,
+                21.593112
+            ],
+            [
+                103.652994,
+                21.592953
+            ],
+            [
+                103.653922,
+                21.592874
+            ],
+            [
+                103.659505,
+                21.595338
+            ],
+            [
+                103.658981,
+                21.596889
+            ],
+            [
+                103.657571,
+                21.599124
+            ],
+            [
+                103.655419,
+                21.601266
+            ],
+            [
+                103.652807,
+                21.603189
+            ],
+            [
+                103.648428,
+                21.605702
+            ],
+            [
+                103.649431,
+                21.607439
+            ],
+            [
+                103.649562,
+                21.608347
+            ],
+            [
+                103.649415,
+                21.609166
+            ],
+            [
+                103.648099,
+                21.611143
+            ],
+            [
+                103.645433,
+                21.613843
+            ],
+            [
+                103.63492,
+                21.623044
+            ],
+            [
+                103.633172,
+                21.621734
+            ],
+            [
+                103.632901,
+                21.620954
+            ],
+            [
+                103.633053,
+                21.619573
+            ],
+            [
+                103.633107,
+                21.618753
+            ],
+            [
+                103.632929,
+                21.617931
+            ],
+            [
+                103.631828,
+                21.616798
+            ],
+            [
+                103.630217,
+                21.615619
+            ],
+            [
+                103.627724,
+                21.614605
+            ],
+            [
+                103.625982,
+                21.617484
+            ],
+            [
+                103.622632,
+                21.614044
+            ],
+            [
+                103.619911,
+                21.612682
+            ],
+            [
+                103.615853,
+                21.610575
+            ],
+            [
+                103.607853,
+                21.608867
+            ],
+            [
+                103.600912,
+                21.614836
+            ],
+            [
+                103.598848,
+                21.617337
+            ],
+            [
+                103.595501,
+                21.620254
+            ],
+            [
+                103.593407,
+                21.621231
+            ],
+            [
+                103.589911,
+                21.621998
+            ],
+            [
+                103.587188,
+                21.621975
+            ],
+            [
+                103.586932,
+                21.622052
+            ],
+            [
+                103.58676,
+                21.62221
+            ],
+            [
+                103.586668,
+                21.622925
+            ],
+            [
+                103.589691,
+                21.627091
+            ],
+            [
+                103.589687,
+                21.627489
+            ],
+            [
+                103.587542,
+                21.629381
+            ],
+            [
+                103.585392,
+                21.631671
+            ],
+            [
+                103.583181,
+                21.631493
+            ],
+            [
+                103.577147,
+                21.630646
+            ],
+            [
+                103.572464,
+                21.630924
+            ],
+            [
+                103.562504,
+                21.631316
+            ],
+            [
+                103.554253,
+                21.631601
+            ],
+            [
+                103.552523,
+                21.63249
+            ],
+            [
+                103.550561,
+                21.633387
+            ],
+            [
+                103.550411,
+                21.634494
+            ],
+            [
+                103.550728,
+                21.637629
+            ],
+            [
+                103.550123,
+                21.638896
+            ],
+            [
+                103.549417,
+                21.639672
+            ],
+            [
+                103.548296,
+                21.64025
+            ],
+            [
+                103.545304,
+                21.639506
+            ],
+            [
+                103.544322,
+                21.640084
+            ],
+            [
+                103.542337,
+                21.643264
+            ],
+            [
+                103.54225,
+                21.644959
+            ],
+            [
+                103.542169,
+                21.646133
+            ],
+            [
+                103.542505,
+                21.647375
+            ],
+            [
+                103.547561,
+                21.650943
+            ],
+            [
+                103.554106,
+                21.652109
+            ],
+            [
+                103.557076,
+                21.65507
+            ],
+            [
+                103.558092,
+                21.658146
+            ],
+            [
+                103.560449,
+                21.666582
+            ],
+            [
+                103.561478,
+                21.668352
+            ],
+            [
+                103.566466,
+                21.671919
+            ],
+            [
+                103.568191,
+                21.677316
+            ],
+            [
+                103.573315,
+                21.68134
+            ],
+            [
+                103.579845,
+                21.684136
+            ],
+            [
+                103.583354,
+                21.685634
+            ],
+            [
+                103.588035,
+                21.6814
+            ],
+            [
+                103.591576,
+                21.67595
+            ],
+            [
+                103.593679,
+                21.674924
+            ],
+            [
+                103.595067,
+                21.675719
+            ],
+            [
+                103.596856,
+                21.678213
+            ],
+            [
+                103.598772,
+                21.682144
+            ],
+            [
+                103.598759,
+                21.683448
+            ],
+            [
+                103.595804,
+                21.686033
+            ],
+            [
+                103.589284,
+                21.696416
+            ],
+            [
+                103.584741,
+                21.704337
+            ],
+            [
+                103.585562,
+                21.70604
+            ],
+            [
+                103.58624,
+                21.708003
+            ],
+            [
+                103.580137,
+                21.71839
+            ],
+            [
+                103.576936,
+                21.72456
+            ],
+            [
+                103.574061,
+                21.733016
+            ],
+            [
+                103.572071,
+                21.736653
+            ],
+            [
+                103.573723,
+                21.739016
+            ],
+            [
+                103.572595,
+                21.74018
+            ],
+            [
+                103.568101,
+                21.742881
+            ],
+            [
+                103.561109,
+                21.751106
+            ],
+            [
+                103.560354,
+                21.756841
+            ],
+            [
+                103.557075,
+                21.763597
+            ],
+            [
+                103.55313,
+                21.767216
+            ],
+            [
+                103.543716,
+                21.773135
+            ],
+            [
+                103.540883,
+                21.777155
+            ],
+            [
+                103.5416,
+                21.782185
+            ],
+            [
+                103.543775,
+                21.788076
+            ],
+            [
+                103.54621,
+                21.795795
+            ],
+            [
+                103.547446,
+                21.797894
+            ],
+            [
+                103.547286,
+                21.79985
+            ],
+            [
+                103.541639,
+                21.805932
+            ],
+            [
+                103.539979,
+                21.811202
+            ],
+            [
+                103.537018,
+                21.814046
+            ],
+            [
+                103.537011,
+                21.814699
+            ],
+            [
+                103.540884,
+                21.818386
+            ],
+            [
+                103.541833,
+                21.821265
+            ],
+            [
+                103.541805,
+                21.824005
+            ],
+            [
+                103.540512,
+                21.827516
+            ],
+            [
+                103.537272,
+                21.830228
+            ],
+            [
+                103.532505,
+                21.832012
+            ],
+            [
+                103.527932,
+                21.835299
+            ],
+            [
+                103.52969,
+                21.840925
+            ],
+            [
+                103.529375,
+                21.844445
+            ],
+            [
+                103.523264,
+                21.854567
+            ],
+            [
+                103.522948,
+                21.858087
+            ],
+            [
+                103.522136,
+                21.862321
+            ],
+            [
+                103.519095,
+                21.86428
+            ],
+            [
+                103.51189,
+                21.866926
+            ],
+            [
+                103.511177,
+                21.868354
+            ],
+            [
+                103.509461,
+                21.872123
+            ],
+            [
+                103.50749,
+                21.87354
+            ],
+            [
+                103.50274,
+                21.873497
+            ],
+            [
+                103.499801,
+                21.873992
+            ],
+            [
+                103.495465,
+                21.874474
+            ],
+            [
+                103.493496,
+                21.875631
+            ],
+            [
+                103.492928,
+                21.876539
+            ],
+            [
+                103.49541,
+                21.879693
+            ],
+            [
+                103.493862,
+                21.880722
+            ],
+            [
+                103.489927,
+                21.882905
+            ],
+            [
+                103.488796,
+                21.884199
+            ],
+            [
+                103.4909,
+                21.890024
+            ],
+            [
+                103.487389,
+                21.891688
+            ],
+            [
+                103.485559,
+                21.892976
+            ],
+            [
+                103.484708,
+                21.894143
+            ],
+            [
+                103.484682,
+                21.896621
+            ],
+            [
+                103.486454,
+                21.900813
+            ],
+            [
+                103.487821,
+                21.903696
+            ],
+            [
+                103.487386,
+                21.905258
+            ],
+            [
+                103.48246,
+                21.908474
+            ],
+            [
+                103.480453,
+                21.913283
+            ],
+            [
+                103.480079,
+                21.915563
+            ],
+            [
+                103.480494,
+                21.915958
+            ],
+            [
+                103.482163,
+                21.916756
+            ],
+            [
+                103.48396,
+                21.9186
+            ],
+            [
+                103.484227,
+                21.919776
+            ],
+            [
+                103.483223,
+                21.922246
+            ],
+            [
+                103.482924,
+                21.92407
+            ],
+            [
+                103.483161,
+                21.928117
+            ],
+            [
+                103.484814,
+                21.93035
+            ],
+            [
+                103.488569,
+                21.932211
+            ],
+            [
+                103.489118,
+                21.93313
+            ],
+            [
+                103.48897,
+                21.933911
+            ],
+            [
+                103.486454,
+                21.933888
+            ],
+            [
+                103.485191,
+                21.934398
+            ],
+            [
+                103.484049,
+                21.936606
+            ],
+            [
+                103.48445,
+                21.938306
+            ],
+            [
+                103.486247,
+                21.940279
+            ],
+            [
+                103.490484,
+                21.942732
+            ],
+            [
+                103.495652,
+                21.943171
+            ],
+            [
+                103.496478,
+                21.944353
+            ],
+            [
+                103.496452,
+                21.946831
+            ],
+            [
+                103.496709,
+                21.948921
+            ],
+            [
+                103.500452,
+                21.951956
+            ],
+            [
+                103.505453,
+                21.955003
+            ],
+            [
+                103.506002,
+                21.955921
+            ],
+            [
+                103.50528,
+                21.958133
+            ],
+            [
+                103.504554,
+                21.960736
+            ],
+            [
+                103.503963,
+                21.963731
+            ],
+            [
+                103.503385,
+                21.965552
+            ],
+            [
+                103.502113,
+                21.966846
+            ],
+            [
+                103.499226,
+                21.968842
+            ],
+            [
+                103.496901,
+                21.970115
+            ],
+            [
+                103.49815,
+                21.971589
+            ],
+            [
+                103.498723,
+                21.974069
+            ],
+            [
+                103.499551,
+                21.976631
+            ],
+            [
+                103.500132,
+                21.978393
+            ],
+            [
+                103.500893,
+                21.979198
+            ],
+            [
+                103.504121,
+                21.981383
+            ],
+            [
+                103.506333,
+                21.982521
+            ],
+            [
+                103.508035,
+                21.983415
+            ],
+            [
+                103.50888,
+                21.984381
+            ],
+            [
+                103.510639,
+                21.987989
+            ],
+            [
+                103.512418,
+                21.989682
+            ],
+            [
+                103.513772,
+                21.991132
+            ],
+            [
+                103.513848,
+                21.992011
+            ],
+            [
+                103.513667,
+                21.992967
+            ],
+            [
+                103.512356,
+                21.99567
+            ],
+            [
+                103.512085,
+                21.997024
+            ],
+            [
+                103.512077,
+                21.997823
+            ],
+            [
+                103.512286,
+                21.998264
+            ],
+            [
+                103.51325,
+                21.999045
+            ],
+            [
+                103.51325,
+                21.999046
+            ],
+            [
+                103.514828,
+                22.001196
+            ],
+            [
+                103.515138,
+                22.003367
+            ],
+            [
+                103.514871,
+                22.005068
+            ],
+            [
+                103.513099,
+                22.007684
+            ],
+            [
+                103.511668,
+                22.009452
+            ],
+            [
+                103.511413,
+                22.009992
+            ],
+            [
+                103.511575,
+                22.01038
+            ],
+            [
+                103.515947,
+                22.01344
+            ],
+            [
+                103.51965,
+                22.017035
+            ],
+            [
+                103.521651,
+                22.020421
+            ],
+            [
+                103.523292,
+                22.022449
+            ],
+            [
+                103.524198,
+                22.023232
+            ],
+            [
+                103.52544,
+                22.023708
+            ],
+            [
+                103.535217,
+                22.026583
+            ],
+            [
+                103.535333,
+                22.026619
+            ],
+            [
+                103.541348,
+                22.028496
+            ],
+            [
+                103.544491,
+                22.029918
+            ],
+            [
+                103.54582,
+                22.030007
+            ],
+            [
+                103.547202,
+                22.028974
+            ],
+            [
+                103.549979,
+                22.025591
+            ],
+            [
+                103.552244,
+                22.023598
+            ],
+            [
+                103.553914,
+                22.022839
+            ]
+        ]
+    ]
+}

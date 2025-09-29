@@ -1,0 +1,665 @@
+{
+    "id_district": "625",
+    "id_province": 20,
+    "name_province": "Đồng Tháp",
+    "name_district": "Thành phố Sa Đéc",
+    "list_sukien": [
+        {
+            "bidName": "Gói thầu số 15: Thi công xây dựng (Nhánh rẽ trung thế)",
+            "chudautu": "Ban Quản lý dự án và Phát triển quỹ đất thành phố Sa Đéc",
+            "createdBy": "vn0315952348",
+            "publicDate": "2024-01-27 15:47:19",
+            "projectName": null,
+            "bidCloseDate": "2024-02-05 16:00:00",
+            "id_muasamcong": "18e258a2-ad49-46df-b513-20924f3a3803",
+            "tongmuc_dautu": 1472438000.0,
+            "bidNamePlanNew": "PL2400006866",
+            "dotbien_hatang": "Gói thầu số 15: Thi công xây dựng (Nhánh rẽ trung thế)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói Số 06: Thi công xây dựng các hạng mục công trình và cung cấp, lắp đặt thiết bị",
+            "chudautu": "BỆNH VIỆN ĐA KHOA SA ĐÉC",
+            "createdBy": "vn1400527427",
+            "publicDate": "2023-09-28 09:02:33",
+            "projectName": null,
+            "bidCloseDate": "2023-10-10 09:00:00",
+            "id_muasamcong": "1c900d6c-794b-43a4-80f5-59f2efae6b0c",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300116056",
+            "dotbien_hatang": "Gói Số 06: Thi công xây dựng các hạng mục công trình và cung cấp, lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 11: Thi công xây dựng các hạng mục kiến trúc và hạ tầng kỹ thuật Tiểu đoàn 1, Tiểu đoàn 4",
+            "chudautu": "Lữ Đoàn 25",
+            "createdBy": "vn1801650918",
+            "publicDate": "2023-08-18 15:25:30",
+            "projectName": null,
+            "bidCloseDate": "2023-09-07 15:00:00",
+            "id_muasamcong": "2535b875-39a7-481e-b626-ce1b61cc75d9",
+            "tongmuc_dautu": 115560023698.0,
+            "bidNamePlanNew": "PL2300016336",
+            "dotbien_hatang": "Gói thầu số 11: Thi công xây dựng các hạng mục kiến trúc và hạ tầng kỹ thuật Tiểu đoàn 1, Tiểu đoàn 4",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01:Thi công xây lắp và vận chuyển thiết bị",
+            "chudautu": "Ban quản lý công trình đô thị thành phố Sa Đéc",
+            "createdBy": "vn1402175298",
+            "publicDate": "2024-08-15 11:18:07",
+            "projectName": null,
+            "bidCloseDate": "2024-08-21 09:00:00",
+            "id_muasamcong": "266fc261-d147-4b67-a821-af53918f2486",
+            "tongmuc_dautu": 2100192000.0,
+            "bidNamePlanNew": "PL2400156745",
+            "dotbien_hatang": "Gói thầu số 01:Thi công xây lắp và vận chuyển thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Giám sát thi công xây dựng",
+            "chudautu": "Lữ Đoàn 25",
+            "createdBy": "vn1801650918",
+            "publicDate": "2023-08-20 14:42:18",
+            "projectName": null,
+            "bidCloseDate": "2023-09-09 14:00:00",
+            "id_muasamcong": "3110794e-477a-4040-b328-e0318d7cfcdd",
+            "tongmuc_dautu": 2100000000.0,
+            "bidNamePlanNew": "PL2300016336",
+            "dotbien_hatang": "Gói thầu số 04: Giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Tư vấn giám sát thi công xây dựng",
+            "chudautu": "Sở Giao thông vận tải tỉnh Đồng Tháp",
+            "createdBy": "vn1402178820",
+            "publicDate": "2024-06-20 09:38:56",
+            "projectName": null,
+            "bidCloseDate": "2024-07-08 09:00:00",
+            "id_muasamcong": "51db6b04-ec93-4345-8778-d878923e778d",
+            "tongmuc_dautu": 330000000.0,
+            "bidNamePlanNew": "PL2400053691",
+            "dotbien_hatang": "Gói thầu số 02: Tư vấn giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 1: Thi công xây lắp và thiết bị",
+            "chudautu": "Ban quản lý công trình đô thị thành phố Sa Đéc",
+            "createdBy": "vn1402175298",
+            "publicDate": "2024-07-13 09:09:01",
+            "projectName": null,
+            "bidCloseDate": "2024-07-18 09:00:00",
+            "id_muasamcong": "569b6d12-d0c7-4651-b773-dbfd638e65b3",
+            "tongmuc_dautu": 10144496000.0,
+            "bidNamePlanNew": "PL2400120164",
+            "dotbien_hatang": "Gói thầu số 1: Thi công xây lắp và thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói Số 06: Thi công xây dựng các hạng mục công trình và cung cấp, lắp đặt thiết bị",
+            "chudautu": "BỆNH VIỆN ĐA KHOA SA ĐÉC",
+            "createdBy": "vn1400527427",
+            "publicDate": "2023-08-16 08:30:46",
+            "projectName": null,
+            "bidCloseDate": "2023-08-28 09:00:00",
+            "id_muasamcong": "72ce7208-b2bc-4862-826d-96905aa0102e",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300116056",
+            "dotbien_hatang": "Gói Số 06: Thi công xây dựng các hạng mục công trình và cung cấp, lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Tư vấn Giám sát thi công xây dựng và lắp đặt thiết bị công trình",
+            "chudautu": "NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN CÔNG THƯƠNG VIỆT NAM",
+            "createdBy": "vn0100111948-15",
+            "publicDate": "2023-08-29 15:33:16",
+            "projectName": null,
+            "bidCloseDate": "2023-09-18 09:15:00",
+            "id_muasamcong": "85594919-3d53-4a7e-a0e3-7883ab8e7155",
+            "tongmuc_dautu": 899031000.0,
+            "bidNamePlanNew": "PL2300129517",
+            "dotbien_hatang": "Tư vấn Giám sát thi công xây dựng và lắp đặt thiết bị công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng, cung cấp và lắp đặt thiết bị",
+            "chudautu": "Chi nhánh Ngân hàng Chính sách xã hội tỉnh Đồng Tháp",
+            "createdBy": "vnz000024598",
+            "publicDate": "2022-12-06 08:37:03",
+            "projectName": null,
+            "bidCloseDate": "2022-12-16 08:00:00",
+            "id_muasamcong": "a131faf7-b292-482f-bfc7-13c8274412ca",
+            "tongmuc_dautu": 2585512522.0,
+            "bidNamePlanNew": "PL2200060584",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng, cung cấp và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 3: Thi công xây dựng kè bảo vệ bờ và đảm bảo an toàn giao thông",
+            "chudautu": "Ban Quản lý dự án và Phát triển quỹ đất thành phố Sa Đéc",
+            "createdBy": "vn0315952348",
+            "publicDate": "2024-03-15 13:35:39",
+            "projectName": "LIÊN DANH CÔNG TY TNHH SOMETHING VIỆT NAM  VÀ CÔNG TY TNHH XÂY DỰNG DỊCH VỤ THƯƠNG MẠI LÂM GIANG",
+            "bidCloseDate": "2024-03-30 11:00:00",
+            "id_muasamcong": "b934cbfc-db14-4fe8-bd63-62ef18718eb5",
+            "tongmuc_dautu": 5000000000.0,
+            "bidNamePlanNew": "PL2400004682",
+            "dotbien_hatang": "Gói thầu số 3: Thi công xây dựng kè bảo vệ bờ và đảm bảo an toàn giao thông",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng, cung cấp lắp đặt thiết bị",
+            "chudautu": "NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN CÔNG THƯƠNG VIỆT NAM",
+            "createdBy": "vn0100111948-15",
+            "publicDate": "2024-12-20 10:36:31",
+            "projectName": "Liên danh Công ty Cổ phần Đầu tư Xây dựng My Home - Công ty TNHH Xây dựng và Dịch vụ Thương mại PST ",
+            "bidCloseDate": "2024-12-30 09:00:00",
+            "id_muasamcong": "c2cbea14-d578-4ae9-b60c-e59cd2858c49",
+            "tongmuc_dautu": 5068156122.0,
+            "bidNamePlanNew": "PL2400281514",
+            "dotbien_hatang": "Thi công xây dựng, cung cấp lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 4: Tư vấn giám sát thi công xây dựng công trình",
+            "chudautu": "Ban quản lý công trình đô thị thành phố Sa Đéc",
+            "createdBy": "vn1402175298",
+            "publicDate": "2024-07-08 14:45:50",
+            "projectName": null,
+            "bidCloseDate": "2024-07-24 09:00:00",
+            "id_muasamcong": "d54ee78c-02d1-48af-a6cd-bd8a303bd14a",
+            "tongmuc_dautu": 190025000.0,
+            "bidNamePlanNew": "PL2400120164",
+            "dotbien_hatang": "Gói thầu số 4: Tư vấn giám sát thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng, cung cấp lắp đặt thiết bị công trình (bao gồm cả chống mối, bảo hiểm)",
+            "chudautu": "NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN CÔNG THƯƠNG VIỆT NAM",
+            "createdBy": "vn0100111948-15",
+            "publicDate": "2023-09-05 08:46:36",
+            "projectName": "liên danh: Công ty TNHH Nam Đô, Công ty Cổ phần Sơn Phước Định,Công ty TNHH Cơ điện lạnh Đại Thắng",
+            "bidCloseDate": "2023-09-15 09:15:00",
+            "id_muasamcong": "e839c436-9c9b-4907-a280-d4ade75c161e",
+            "tongmuc_dautu": 37437707000.0,
+            "bidNamePlanNew": "PL2300129517",
+            "dotbien_hatang": "Thi công xây dựng, cung cấp lắp đặt thiết bị công trình (bao gồm cả chống mối, bảo hiểm)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 3: Thi công xây dựng kè bảo vệ bờ và đảm bảo an toàn giao thông",
+            "chudautu": "Ban Quản lý dự án và Phát triển quỹ đất thành phố Sa Đéc",
+            "createdBy": "vn0315952348",
+            "publicDate": "2024-02-26 09:17:46",
+            "projectName": null,
+            "bidCloseDate": "2024-03-06 10:00:00",
+            "id_muasamcong": "f2ec4d5c-f3e7-4258-b1ab-a1c998ddc3eb",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400004682",
+            "dotbien_hatang": "Gói thầu số 3: Thi công xây dựng kè bảo vệ bờ và đảm bảo an toàn giao thông",
+            "link_muasamcong": ""
+        }
+    ],
+    "so_dot_bien": 15,
+    "thu_tu_sap_xep": 510,
+    "polygon": [
+        [
+            [
+                105.730787,
+                10.380462
+            ],
+            [
+                105.733878,
+                10.379689
+            ],
+            [
+                105.735423,
+                10.37892
+            ],
+            [
+                105.737859,
+                10.376761
+            ],
+            [
+                105.749364,
+                10.353908
+            ],
+            [
+                105.753231,
+                10.343025
+            ],
+            [
+                105.757649,
+                10.331592
+            ],
+            [
+                105.764091,
+                10.316219
+            ],
+            [
+                105.768033,
+                10.308112
+            ],
+            [
+                105.771159,
+                10.302977
+            ],
+            [
+                105.773976,
+                10.299427
+            ],
+            [
+                105.782811,
+                10.291504
+            ],
+            [
+                105.782804,
+                10.291487
+            ],
+            [
+                105.781595,
+                10.289638
+            ],
+            [
+                105.779783,
+                10.288025
+            ],
+            [
+                105.776669,
+                10.285679
+            ],
+            [
+                105.779308,
+                10.283016
+            ],
+            [
+                105.78105,
+                10.281316
+            ],
+            [
+                105.779009,
+                10.278457
+            ],
+            [
+                105.779347,
+                10.27788
+            ],
+            [
+                105.779345,
+                10.277256
+            ],
+            [
+                105.779053,
+                10.276633
+            ],
+            [
+                105.778128,
+                10.274955
+            ],
+            [
+                105.775107,
+                10.270153
+            ],
+            [
+                105.771023,
+                10.272906
+            ],
+            [
+                105.762638,
+                10.273387
+            ],
+            [
+                105.758256,
+                10.272105
+            ],
+            [
+                105.754996,
+                10.272482
+            ],
+            [
+                105.751173,
+                10.271014
+            ],
+            [
+                105.747723,
+                10.270098
+            ],
+            [
+                105.744129,
+                10.267291
+            ],
+            [
+                105.741704,
+                10.265911
+            ],
+            [
+                105.736391,
+                10.265185
+            ],
+            [
+                105.733688,
+                10.264452
+            ],
+            [
+                105.731354,
+                10.262611
+            ],
+            [
+                105.730978,
+                10.261227
+            ],
+            [
+                105.723996,
+                10.263458
+            ],
+            [
+                105.718316,
+                10.265133
+            ],
+            [
+                105.71989,
+                10.268822
+            ],
+            [
+                105.720032,
+                10.270201
+            ],
+            [
+                105.71854,
+                10.272343
+            ],
+            [
+                105.717637,
+                10.273311
+            ],
+            [
+                105.715897,
+                10.273453
+            ],
+            [
+                105.715828,
+                10.273798
+            ],
+            [
+                105.716251,
+                10.276211
+            ],
+            [
+                105.716811,
+                10.277417
+            ],
+            [
+                105.719914,
+                10.279687
+            ],
+            [
+                105.720405,
+                10.280448
+            ],
+            [
+                105.722586,
+                10.280329
+            ],
+            [
+                105.723425,
+                10.280546
+            ],
+            [
+                105.723866,
+                10.280894
+            ],
+            [
+                105.724661,
+                10.281546
+            ],
+            [
+                105.725854,
+                10.282852
+            ],
+            [
+                105.727578,
+                10.284593
+            ],
+            [
+                105.730339,
+                10.287095
+            ],
+            [
+                105.732018,
+                10.288793
+            ],
+            [
+                105.733829,
+                10.290534
+            ],
+            [
+                105.734846,
+                10.291709
+            ],
+            [
+                105.733228,
+                10.294575
+            ],
+            [
+                105.732394,
+                10.29506
+            ],
+            [
+                105.726822,
+                10.294176
+            ],
+            [
+                105.726411,
+                10.296867
+            ],
+            [
+                105.72258,
+                10.296324
+            ],
+            [
+                105.719675,
+                10.304884
+            ],
+            [
+                105.720244,
+                10.30985
+            ],
+            [
+                105.717738,
+                10.310062
+            ],
+            [
+                105.716627,
+                10.311514
+            ],
+            [
+                105.718376,
+                10.315097
+            ],
+            [
+                105.716496,
+                10.315308
+            ],
+            [
+                105.715036,
+                10.316001
+            ],
+            [
+                105.715041,
+                10.318416
+            ],
+            [
+                105.717132,
+                10.31917
+            ],
+            [
+                105.71707,
+                10.321571
+            ],
+            [
+                105.715799,
+                10.321336
+            ],
+            [
+                105.714884,
+                10.322315
+            ],
+            [
+                105.714394,
+                10.32291
+            ],
+            [
+                105.714014,
+                10.323504
+            ],
+            [
+                105.713906,
+                10.32399
+            ],
+            [
+                105.713907,
+                10.324529
+            ],
+            [
+                105.713962,
+                10.324799
+            ],
+            [
+                105.716423,
+                10.327761
+            ],
+            [
+                105.716751,
+                10.328084
+            ],
+            [
+                105.717188,
+                10.328352
+            ],
+            [
+                105.71746,
+                10.32846
+            ],
+            [
+                105.718061,
+                10.328674
+            ],
+            [
+                105.718825,
+                10.328996
+            ],
+            [
+                105.719316,
+                10.329373
+            ],
+            [
+                105.71959,
+                10.329858
+            ],
+            [
+                105.719755,
+                10.330235
+            ],
+            [
+                105.719539,
+                10.331098
+            ],
+            [
+                105.719189,
+                10.331963
+            ],
+            [
+                105.718667,
+                10.334208
+            ],
+            [
+                105.718027,
+                10.336368
+            ],
+            [
+                105.71803,
+                10.337172
+            ],
+            [
+                105.718035,
+                10.33941
+            ],
+            [
+                105.718049,
+                10.340395
+            ],
+            [
+                105.717853,
+                10.341573
+            ],
+            [
+                105.717174,
+                10.342626
+            ],
+            [
+                105.715591,
+                10.34474
+            ],
+            [
+                105.713959,
+                10.346755
+            ],
+            [
+                105.712426,
+                10.348574
+            ],
+            [
+                105.711223,
+                10.349561
+            ],
+            [
+                105.70463,
+                10.354452
+            ],
+            [
+                105.708031,
+                10.359342
+            ],
+            [
+                105.709246,
+                10.362102
+            ],
+            [
+                105.710094,
+                10.36689
+            ],
+            [
+                105.710284,
+                10.368916
+            ],
+            [
+                105.71215,
+                10.371491
+            ],
+            [
+                105.711318,
+                10.373704
+            ],
+            [
+                105.711691,
+                10.37444
+            ],
+            [
+                105.714022,
+                10.377014
+            ],
+            [
+                105.720917,
+                10.38183
+            ],
+            [
+                105.723306,
+                10.382126
+            ],
+            [
+                105.730787,
+                10.380462
+            ]
+        ]
+    ]
+}

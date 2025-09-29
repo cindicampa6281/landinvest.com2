@@ -1,0 +1,2322 @@
+{
+    "id_district": "263",
+    "id_province": 42,
+    "name_province": "Ninh Bình",
+    "name_district": "Huyện Hoa Lư",
+    "list_sukien": [
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Trung tâm bảo tồn di tích Lịch sử - Văn hoá Cố đô Hoa Lư",
+            "createdBy": "vnz000029938",
+            "publicDate": "2024-11-19 11:47:48",
+            "projectName": null,
+            "bidCloseDate": "2024-11-26 11:00:00",
+            "id_muasamcong": "003dfa9f-1ece-4d1a-99fb-0c2436840e7f",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400277983",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2024-05-10 16:13:56",
+            "projectName": null,
+            "bidCloseDate": "2024-05-20 14:00:00",
+            "id_muasamcong": "008444f4-0469-4561-9010-fcb57adcefc1",
+            "tongmuc_dautu": 4730290000.0,
+            "bidNamePlanNew": "PL2400058949",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2024-05-07 10:41:20",
+            "projectName": null,
+            "bidCloseDate": "2024-05-17 16:00:00",
+            "id_muasamcong": "0396124a-4da6-433e-b914-2234988120d5",
+            "tongmuc_dautu": 2017958000.0,
+            "bidNamePlanNew": "PL2400054447",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2023-12-01 15:36:02",
+            "projectName": null,
+            "bidCloseDate": "2023-12-11 15:00:00",
+            "id_muasamcong": "0a6d54df-2002-4913-b2e7-4ab8099f7e01",
+            "tongmuc_dautu": 10390097000.0,
+            "bidNamePlanNew": "PL2300229347",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2024-05-10 18:03:46",
+            "projectName": null,
+            "bidCloseDate": "2024-05-20 14:00:00",
+            "id_muasamcong": "0baceaa0-ddda-4881-8768-bce923e86621",
+            "tongmuc_dautu": 2009068000.0,
+            "bidNamePlanNew": "PL2400059636",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và thiết bị",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2024-11-26 15:54:53",
+            "projectName": "Liên danh Đông Hải - Duyên Thành Đạt",
+            "bidCloseDate": "2024-12-13 15:30:00",
+            "id_muasamcong": "0d23dc4f-67d0-4e75-8d04-1168ef2a8d81",
+            "tongmuc_dautu": 2486040000.0,
+            "bidNamePlanNew": "PL2400249388",
+            "dotbien_hatang": "Thi công xây dựng và thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06: Thi công xây lắp",
+            "chudautu": "Ủy ban nhân dân phường Tân Thành",
+            "createdBy": "vnz000006204",
+            "publicDate": "2025-01-21 15:52:17",
+            "projectName": null,
+            "bidCloseDate": "2025-02-08 16:00:00",
+            "id_muasamcong": "0e4c09b5-b0ef-4771-9a5f-75558508c6b2",
+            "tongmuc_dautu": 1283757000.0,
+            "bidNamePlanNew": "PL2500005603",
+            "dotbien_hatang": "Gói thầu số 06: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2023-07-13 16:38:23",
+            "projectName": "Liên danh Công Ty TNHH Xây Dựng Thương Mại và Dịch Vụ Đại An - Công ty TNHH đầu tư xây dựng Chính Tâm",
+            "bidCloseDate": "2023-07-24 09:10:00",
+            "id_muasamcong": "0e5a51b7-e588-459c-886d-2e84e26ebc67",
+            "tongmuc_dautu": 1642528000.0,
+            "bidNamePlanNew": "PL2300107369",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: thi công xây lắp",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng thành phố Hoa Lư",
+            "createdBy": "vnz000038414-08",
+            "publicDate": "2025-02-26 16:46:34",
+            "projectName": null,
+            "bidCloseDate": "2025-03-07 17:00:00",
+            "id_muasamcong": "10611836-1089-4f56-a6d1-5bb2a3d5ffa3",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500021922",
+            "dotbien_hatang": "Gói thầu số 02: thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2024-11-14 15:53:45",
+            "projectName": "Liên danh Hồng Quân - Nam Hải",
+            "bidCloseDate": "2024-12-02 17:00:00",
+            "id_muasamcong": "107da740-c46e-4bbb-b859-a5b1b1ca3895",
+            "tongmuc_dautu": 12900540000.0,
+            "bidNamePlanNew": "PL2400251304",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2023-01-05 15:37:24",
+            "projectName": null,
+            "bidCloseDate": "2023-01-15 16:00:00",
+            "id_muasamcong": "1088366a-74a3-44e4-88e1-c203740aa7e3",
+            "tongmuc_dautu": 13262778000.0,
+            "bidNamePlanNew": "PL2300001430",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2024-11-21 09:56:50",
+            "projectName": "Liên danh Công ty TNHH phát triển xây dựng Lan Anh và Công ty TNHH xây dựng và thương mại Thảo Văn",
+            "bidCloseDate": "2024-12-07 10:00:00",
+            "id_muasamcong": "1177f01f-1bcd-4e36-9930-f3c3ce609656",
+            "tongmuc_dautu": 9495540000.0,
+            "bidNamePlanNew": "PL2400261937",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây lắp công trình: Xây dựng nhà đa năng và hạng mục phụ trợ Trường THCS Ninh Nhất",
+            "chudautu": "UBND NINH NHẤT",
+            "createdBy": "vn2700555106",
+            "publicDate": "2025-02-06 16:47:45",
+            "projectName": null,
+            "bidCloseDate": "2025-02-15 10:00:00",
+            "id_muasamcong": "12407516-c768-40e2-b85d-f1dc97f71f22",
+            "tongmuc_dautu": 6592178000.0,
+            "bidNamePlanNew": "PL2500011759",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây lắp công trình: Xây dựng nhà đa năng và hạng mục phụ trợ Trường THCS Ninh Nhất",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng (đã bao gồm chi phí đảm bảo giao thông trong quá trình thi công)",
+            "chudautu": "Sở Giao thông vận tải tỉnh Ninh Bình",
+            "createdBy": "vnz000016723",
+            "publicDate": "2024-08-26 14:52:42",
+            "projectName": null,
+            "bidCloseDate": "2024-09-09 10:00:00",
+            "id_muasamcong": "1308a08b-8c65-4a52-9aaf-0ecc9a8156ec",
+            "tongmuc_dautu": 1319867000.0,
+            "bidNamePlanNew": "PL2400166436",
+            "dotbien_hatang": "Thi công xây dựng (đã bao gồm chi phí đảm bảo giao thông trong quá trình thi công)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây lắp",
+            "chudautu": "Bộ CHQS tỉnh Ninh Bình",
+            "createdBy": "vnz000009278",
+            "publicDate": "2023-05-26 14:12:51",
+            "projectName": null,
+            "bidCloseDate": "2023-06-06 16:00:00",
+            "id_muasamcong": "13444207-b17e-4d28-ac0e-a188df12a9e3",
+            "tongmuc_dautu": 2393171086.0,
+            "bidNamePlanNew": "PL2300066392",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói XL 01: Thi công xây lắp toàn bộ các hạng mục công trình",
+            "chudautu": "Trại giam Ninh Khánh",
+            "createdBy": "vnz000010988",
+            "publicDate": "2024-11-29 14:41:40",
+            "projectName": null,
+            "bidCloseDate": "2024-12-08 10:00:00",
+            "id_muasamcong": "15c4021a-82e1-4826-9c7f-ce246bf66838",
+            "tongmuc_dautu": 2304574000.0,
+            "bidNamePlanNew": "PL2400293404",
+            "dotbien_hatang": "Gói XL 01: Thi công xây lắp toàn bộ các hạng mục công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 5: Thi công xây lắp công trình",
+            "chudautu": "Sở Giao thông vận tải tỉnh Ninh Bình",
+            "createdBy": "vnz000007312",
+            "publicDate": "2024-11-22 16:58:44",
+            "projectName": null,
+            "bidCloseDate": "2024-12-20 14:00:00",
+            "id_muasamcong": "15e5b787-c528-4412-9fff-5b44b71e6ef1",
+            "tongmuc_dautu": 71547656000.0,
+            "bidNamePlanNew": "PL2400266397",
+            "dotbien_hatang": "Gói 5: Thi công xây lắp công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2024-07-31 14:55:02",
+            "projectName": "Liên danh Công ty TNHH MTV Xuân Minh - Công ty TNHH đầu tư xây dựng và thương mại Xuân Thắng",
+            "bidCloseDate": "2024-08-19 09:00:00",
+            "id_muasamcong": "17d85d08-1dba-4d9c-a83e-f9c303f0a299",
+            "tongmuc_dautu": 22266049000.0,
+            "bidNamePlanNew": "PL2400133085",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2024-05-07 10:09:55",
+            "projectName": "Liên danh Đông Hải - Duyên Thành Đat",
+            "bidCloseDate": "2024-05-17 14:00:00",
+            "id_muasamcong": "1905646f-cab6-4064-b798-990cc738fad0",
+            "tongmuc_dautu": 2199994000.0,
+            "bidNamePlanNew": "PL2400054320",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp toàn bộ các hạng mục công trình",
+            "chudautu": "Trại giam Ninh Khánh",
+            "createdBy": "vnz000010988",
+            "publicDate": "2025-02-21 14:02:48",
+            "projectName": null,
+            "bidCloseDate": "2025-03-02 08:00:00",
+            "id_muasamcong": "1a07e4d9-4938-4608-92ac-b72033d180bb",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500022153",
+            "dotbien_hatang": "Thi công xây lắp toàn bộ các hạng mục công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Sở Văn hóa và Thể thao tỉnh Ninh Bình",
+            "createdBy": "vnz000005826",
+            "publicDate": "2024-11-08 12:32:59",
+            "projectName": null,
+            "bidCloseDate": "2024-11-15 14:00:00",
+            "id_muasamcong": "1ab43350-208d-409d-93a0-bc571a78d44e",
+            "tongmuc_dautu": 252335000.0,
+            "bidNamePlanNew": "PL2400264125",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2024-05-11 11:01:47",
+            "projectName": null,
+            "bidCloseDate": "2024-05-21 09:00:00",
+            "id_muasamcong": "1ea97b2a-28ad-4dd7-bfe6-4ff6041f29bf",
+            "tongmuc_dautu": 984021000.0,
+            "bidNamePlanNew": "PL2400042112",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2024-06-05 09:44:47",
+            "projectName": null,
+            "bidCloseDate": "2024-06-14 14:00:00",
+            "id_muasamcong": "2312d394-81e3-4830-a52b-dda2848496f2",
+            "tongmuc_dautu": 947629000.0,
+            "bidNamePlanNew": "PL2400085335",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "Ban QLDA ĐTXD công trình dân dụng và công nghiệp tỉnh Ninh Bình",
+            "createdBy": "vnz000014650",
+            "publicDate": "2025-02-06 12:07:08",
+            "projectName": "Liên danh Công ty TNHH xây dựng Xuân Quyền, Công ty TNHH MTV xây dựng Xuân Chinh, Công ty TNHH xây dựng Gia Viễn, Công ty TNHH MTV đầu tư PCCC Bình Minh, Công ty cổ phần đầu tư và công nghệ môi trường Nam Sơn Thắng, Công ty TNHH thương mại dịch vụ Thịnh Quang và Công ty TNHH thang máy Sin Việt (Viết tắt: Liên danh Bệnh viện Y học cổ truyền tỉnh Ninh Bình)",
+            "bidCloseDate": "2025-02-24 09:00:00",
+            "id_muasamcong": "249610af-81b7-4d94-826f-e09e383849ea",
+            "tongmuc_dautu": 109813520000.0,
+            "bidNamePlanNew": "PL2500014635",
+            "dotbien_hatang": "Thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2024-07-26 16:50:30",
+            "projectName": null,
+            "bidCloseDate": "2024-08-15 10:00:00",
+            "id_muasamcong": "2507503a-36b1-4909-908e-34c53e20c486",
+            "tongmuc_dautu": 45205969000.0,
+            "bidNamePlanNew": "PL2400106569",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng thành phố Hoa Lư",
+            "createdBy": "vnz000038414-16",
+            "publicDate": "2025-03-21 15:08:40",
+            "projectName": null,
+            "bidCloseDate": "2025-03-31 09:00:00",
+            "id_muasamcong": "256b69f7-92fb-4ac6-915b-f3b2aa36d7ed",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500053370",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2023-11-22 10:51:39",
+            "projectName": null,
+            "bidCloseDate": "2023-12-04 10:00:00",
+            "id_muasamcong": "2e79c7fa-49a6-46b2-acfd-7e743f86b9af",
+            "tongmuc_dautu": 12085236000.0,
+            "bidNamePlanNew": "PL2300216419",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2023-01-17 11:02:00",
+            "projectName": null,
+            "bidCloseDate": "2023-02-15 09:00:00",
+            "id_muasamcong": "34d00558-4473-4150-8c3d-0d47784de2ae",
+            "tongmuc_dautu": 49983631000.0,
+            "bidNamePlanNew": "PL2200034725",
+            "dotbien_hatang": "Gói thầu số 06: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Sở Giao thông vận tải tỉnh Ninh Bình",
+            "createdBy": "vnz000016723",
+            "publicDate": "2022-10-14 09:09:27",
+            "projectName": null,
+            "bidCloseDate": "2022-10-24 16:00:00",
+            "id_muasamcong": "3c0fee7c-27ab-46d3-bc87-f2d9d12558ee",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2200014417",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2023-12-27 09:27:39",
+            "projectName": "Liên danh Công ty TNHH phát triển xây dựng Lan Anh và Công ty TNHH xây dựng và thương mại Thảo Văn",
+            "bidCloseDate": "2024-01-02 09:00:00",
+            "id_muasamcong": "3cadd524-f918-4f5f-8345-8b812ade6483",
+            "tongmuc_dautu": 8979597000.0,
+            "bidNamePlanNew": "PL2300247831",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Trung tâm Y tế huyện Hoa Lư, tỉnh Ninh Bình",
+            "createdBy": "vnz000016114",
+            "publicDate": "2024-08-14 17:12:05",
+            "projectName": "Liên danh Anh Phúc – Đại Phúc",
+            "bidCloseDate": "2024-08-23 17:15:00",
+            "id_muasamcong": "3d0b573f-9ec9-4624-8be3-b97e1941279b",
+            "tongmuc_dautu": 810065000.0,
+            "bidNamePlanNew": "PL2400165775",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2024-05-07 10:08:03",
+            "projectName": "Liên danh Đông Hải - Duyên Thành Đạt",
+            "bidCloseDate": "2024-05-17 09:00:00",
+            "id_muasamcong": "3e91ecf6-ba94-4543-b88a-dc2182dfb4cd",
+            "tongmuc_dautu": 2980673000.0,
+            "bidNamePlanNew": "PL2400054388",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2024-05-07 10:56:12",
+            "projectName": null,
+            "bidCloseDate": "2024-05-17 09:00:00",
+            "id_muasamcong": "3f44f1ae-7ae3-41e1-be84-7c0e67f32ed8",
+            "tongmuc_dautu": 2642952000.0,
+            "bidNamePlanNew": "PL2400053134",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2023-01-12 09:28:27",
+            "projectName": null,
+            "bidCloseDate": "2023-02-01 09:00:00",
+            "id_muasamcong": "4156f108-b713-4c01-90f7-f469a81eb33b",
+            "tongmuc_dautu": 3727992000.0,
+            "bidNamePlanNew": "PL2200087259",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06: Thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "Công an tỉnh Ninh Bình    ",
+            "createdBy": "vnz000013257",
+            "publicDate": "2023-03-13 16:23:56",
+            "projectName": null,
+            "bidCloseDate": "2023-03-24 10:00:00",
+            "id_muasamcong": "47f06594-a5fa-4d21-bad2-c1d7565bf41f",
+            "tongmuc_dautu": 5070533000.0,
+            "bidNamePlanNew": "PL2300015059",
+            "dotbien_hatang": "Gói thầu số 06: Thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2024-05-11 12:27:46",
+            "projectName": null,
+            "bidCloseDate": "2024-05-22 09:00:00",
+            "id_muasamcong": "4808cb55-12c5-4487-8839-0c475fe84d72",
+            "tongmuc_dautu": 866766000.0,
+            "bidNamePlanNew": "PL2400057497",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Sở Văn hóa và Thể thao tỉnh Ninh Bình",
+            "createdBy": "vnz000005826",
+            "publicDate": "2024-10-23 15:50:33",
+            "projectName": null,
+            "bidCloseDate": "2024-10-30 16:00:00",
+            "id_muasamcong": "490c22f0-2f02-4ccb-8383-7f78e7bae2bd",
+            "tongmuc_dautu": 342109000.0,
+            "bidNamePlanNew": "PL2400236557",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 2: Thi công xây lắp",
+            "chudautu": "Trung tâm phát triển quỹ đất huyện Hoa Lư, tỉnh Ninh Bình",
+            "createdBy": "vnz000007861",
+            "publicDate": "2023-08-07 15:17:15",
+            "projectName": null,
+            "bidCloseDate": "2023-08-17 14:00:00",
+            "id_muasamcong": "4c0e1b70-75ce-4558-bc8b-c47ba77b7ec5",
+            "tongmuc_dautu": 1890572000.0,
+            "bidNamePlanNew": "PL2300122031",
+            "dotbien_hatang": "Gói thầu số 2: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây dựng",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng thành phố Hoa Lư",
+            "createdBy": "vnz000038414-06",
+            "publicDate": "2025-02-25 15:14:00",
+            "projectName": null,
+            "bidCloseDate": "2025-03-07 08:00:00",
+            "id_muasamcong": "5084a2f1-b475-4b14-a8fa-680aa170124d",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500020244",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Trung tâm Dạy nghề & Hỗ trợ nông dân tỉnh Ninh Bình",
+            "createdBy": "vn2700819260",
+            "publicDate": "2025-02-28 15:47:14",
+            "projectName": null,
+            "bidCloseDate": "2025-03-07 16:00:00",
+            "id_muasamcong": "584ab845-927a-4ddb-b3f8-79b0139cf399",
+            "tongmuc_dautu": 781317000.0,
+            "bidNamePlanNew": "PL2500027617",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Tư vấn giám sát thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2024-09-26 14:54:54",
+            "projectName": null,
+            "bidCloseDate": "2024-10-14 10:30:00",
+            "id_muasamcong": "59cbc46f-68aa-4b4e-b839-1556d24e66d6",
+            "tongmuc_dautu": 1035728000.0,
+            "bidNamePlanNew": "PL2400186272",
+            "dotbien_hatang": "Tư vấn giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "TRUNG TÂM GIÁO DỤC THƯỜNG XUYÊN, TIN HỌC VÀ NGOẠI NGỮ TỈNH NINH BÌNH",
+            "createdBy": "vnz000025206",
+            "publicDate": "2025-01-14 18:52:46",
+            "projectName": null,
+            "bidCloseDate": "2025-01-21 16:30:00",
+            "id_muasamcong": "5bef9792-7934-4d2a-bad6-5f33757fe9fd",
+            "tongmuc_dautu": 604350000.0,
+            "bidNamePlanNew": "PL2500007528",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "Ủy ban nhân dân phường Đông Thành",
+            "createdBy": "vnz000007659",
+            "publicDate": "2025-02-12 15:05:53",
+            "projectName": null,
+            "bidCloseDate": "2025-02-21 15:10:00",
+            "id_muasamcong": "63ffa504-71d3-4edb-8e68-d57f3ff2ae79",
+            "tongmuc_dautu": 1189668222.0,
+            "bidNamePlanNew": "PL2500019788",
+            "dotbien_hatang": "Thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây lắp và thiết bị",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2023-05-29 15:03:33",
+            "projectName": null,
+            "bidCloseDate": "2023-06-08 08:00:00",
+            "id_muasamcong": "6adb793e-9dc9-4310-aa47-f79c18835bb8",
+            "tongmuc_dautu": 2864454000.0,
+            "bidNamePlanNew": "PL2300070539",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây lắp và thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2024-01-24 09:45:02",
+            "projectName": null,
+            "bidCloseDate": "2024-02-05 10:00:00",
+            "id_muasamcong": "6d0281c8-2938-40d2-ac4b-5e6770262222",
+            "tongmuc_dautu": 10946778000.0,
+            "bidNamePlanNew": "PL2400004756",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 2: Thi công xây lắp và thiết bị",
+            "chudautu": "Trung tâm phát triển quỹ đất huyện Hoa Lư, tỉnh Ninh Bình",
+            "createdBy": "vnz000007861",
+            "publicDate": "2022-10-24 14:59:08",
+            "projectName": "Liên danh Công ty TNHH MTV xây dựng và thương mại Đại Phúc và Công ty TNHH Hoàng An Ninh Bình.",
+            "bidCloseDate": "2022-11-04 09:00:00",
+            "id_muasamcong": "6e35bbbf-f4b4-480f-9fa9-8481c18fbf1e",
+            "tongmuc_dautu": 1592047000.0,
+            "bidNamePlanNew": "PL2200019023",
+            "dotbien_hatang": "Gói thầu số 2: Thi công xây lắp và thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Trường THPT Hoa Lư A",
+            "createdBy": "vn2700750770",
+            "publicDate": "2024-09-24 15:36:33",
+            "projectName": null,
+            "bidCloseDate": "2024-10-01 16:00:00",
+            "id_muasamcong": "70b107d0-b0ce-4146-a886-7df8345a8bc9",
+            "tongmuc_dautu": 813544607.0,
+            "bidNamePlanNew": "PL2400204589",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "TRUNG TÂM KINH DOANH VNPT - NINH BÌNH - CHI NHÁNH TỔNG CÔNG TY DỊCH VỤ VIỄN THÔNG                            ",
+            "createdBy": "vnz000023590",
+            "publicDate": "2024-11-21 00:26:53",
+            "projectName": null,
+            "bidCloseDate": "2024-11-28 09:30:00",
+            "id_muasamcong": "7253fc8d-beb6-48a1-bca8-1877a0a27fa9",
+            "tongmuc_dautu": 765180695.0,
+            "bidNamePlanNew": "PL2400281239",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2024-06-03 09:27:34",
+            "projectName": "Liên danh Hoàng Huy - Anh Phúc",
+            "bidCloseDate": "2024-06-07 10:00:00",
+            "id_muasamcong": "75076f3d-d828-467f-aafe-4607f0212bf8",
+            "tongmuc_dautu": 2113517000.0,
+            "bidNamePlanNew": "PL2400073164",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Trung tâm bảo tồn di tích Lịch sử - Văn hoá Cố đô Hoa Lư ",
+            "createdBy": "vnz000029938",
+            "publicDate": "2024-11-11 18:43:45",
+            "projectName": null,
+            "bidCloseDate": "2024-11-18 17:00:00",
+            "id_muasamcong": "7bed2953-33a6-4c09-a86d-c8089f38a27c",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400267530",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Sở Giao thông vận tải tỉnh Ninh Bình",
+            "createdBy": "vnz000016723",
+            "publicDate": "2022-11-14 17:17:27",
+            "projectName": null,
+            "bidCloseDate": "2022-11-24 19:00:00",
+            "id_muasamcong": "7d1c0170-04c9-4bd1-ac89-361942d7698b",
+            "tongmuc_dautu": 1691963000.0,
+            "bidNamePlanNew": "PL2200014417",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 6: Giám sát thi công xây lắp công trình",
+            "chudautu": "Sở Giao thông vận tải tỉnh Ninh Bình",
+            "createdBy": "vnz000007312",
+            "publicDate": "2024-11-27 17:45:31",
+            "projectName": null,
+            "bidCloseDate": "2024-12-26 10:00:00",
+            "id_muasamcong": "7ee729d0-c753-4f50-acb0-5f6085c3aa70",
+            "tongmuc_dautu": 1021321000.0,
+            "bidNamePlanNew": "PL2400266397",
+            "dotbien_hatang": "Gói 6: Giám sát thi công xây lắp công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2024-05-10 18:06:40",
+            "projectName": "Liên danh Công Ty TNHH MTV Sunshine Land -Công ty TNHH Phong Doanh NB",
+            "bidCloseDate": "2024-05-20 10:00:00",
+            "id_muasamcong": "8b4e0f40-e46c-44c1-a95b-275f715cf4ba",
+            "tongmuc_dautu": 1921732000.0,
+            "bidNamePlanNew": "PL2400053646",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Trung tâm bảo tồn di tích Lịch sử - Văn hoá Cố đô Hoa Lư ",
+            "createdBy": "vnz000029938",
+            "publicDate": "2025-02-10 17:35:18",
+            "projectName": null,
+            "bidCloseDate": "2025-02-17 16:30:00",
+            "id_muasamcong": "92562b26-fb76-4527-b5a6-1eb5b208959a",
+            "tongmuc_dautu": 434806000.0,
+            "bidNamePlanNew": "PL2500020273",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và thiết bị",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2023-12-22 17:09:43",
+            "projectName": "Liên danh Tràng An – Ngọc Hải Châu",
+            "bidCloseDate": "2024-01-03 09:00:00",
+            "id_muasamcong": "92a13624-5e09-41f6-9131-048fcb7dfea9",
+            "tongmuc_dautu": 12920149000.0,
+            "bidNamePlanNew": "PL2300260027",
+            "dotbien_hatang": "Thi công xây dựng và thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2024-05-07 16:18:42",
+            "projectName": null,
+            "bidCloseDate": "2024-05-16 16:30:00",
+            "id_muasamcong": "94217252-e844-4bfc-9daa-fa17d76406df",
+            "tongmuc_dautu": 1275377000.0,
+            "bidNamePlanNew": "PL2400057180",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói số 01: Thi công xây dựng + chi phí đảm bảo giao thông dự án",
+            "chudautu": "UBND phường Ninh Phúc",
+            "createdBy": "vnz000010385",
+            "publicDate": "2025-03-14 14:59:47",
+            "projectName": null,
+            "bidCloseDate": "2025-03-24 14:30:00",
+            "id_muasamcong": "9bcbefd0-c083-4b64-b687-71dd3bb66fc9",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500041822",
+            "dotbien_hatang": "Gói số 01: Thi công xây dựng + chi phí đảm bảo giao thông dự án",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2023-07-28 16:06:17",
+            "projectName": null,
+            "bidCloseDate": "2023-08-09 09:00:00",
+            "id_muasamcong": "9c3b546d-b633-4fd2-b6bd-917e54a21e9e",
+            "tongmuc_dautu": 4278686000.0,
+            "bidNamePlanNew": "PL2300119241",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2024-05-07 10:58:50",
+            "projectName": null,
+            "bidCloseDate": "2024-05-17 10:00:00",
+            "id_muasamcong": "a16d8b02-9fb3-41df-96f0-e7fc4fb5fe63",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400053346",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Trung tâm bảo tồn di tích Lịch sử - Văn hoá Cố đô Hoa Lư",
+            "createdBy": "vnz000029938",
+            "publicDate": "2024-11-11 17:42:25",
+            "projectName": null,
+            "bidCloseDate": "2024-11-18 17:00:00",
+            "id_muasamcong": "a3c7fc28-d184-4e4c-945b-72eda1b52a00",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400267365",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây lắp và thiết bị",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2023-05-30 09:30:57",
+            "projectName": null,
+            "bidCloseDate": "2023-06-12 09:00:00",
+            "id_muasamcong": "a40f6d75-c5ec-402c-843d-af9baa1d78f1",
+            "tongmuc_dautu": 13157841000.0,
+            "bidNamePlanNew": "PL2300059745",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây lắp và thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2024-05-10 15:43:07",
+            "projectName": null,
+            "bidCloseDate": "2024-05-20 09:00:00",
+            "id_muasamcong": "a68e01fc-cf5a-4f75-aca2-1424e1b2ea93",
+            "tongmuc_dautu": 1997427000.0,
+            "bidNamePlanNew": "PL2400054238",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Tư vấn giám sát thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2024-07-31 15:09:22",
+            "projectName": null,
+            "bidCloseDate": "2024-08-19 09:00:00",
+            "id_muasamcong": "a7bea57b-a16f-4384-88ad-15808f756a9a",
+            "tongmuc_dautu": 554462000.0,
+            "bidNamePlanNew": "PL2400133085",
+            "dotbien_hatang": "Tư vấn giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06: Thi công xây lắp",
+            "chudautu": "UBND phường Bích Đào",
+            "createdBy": "vn2700224545",
+            "publicDate": "2025-01-21 15:21:47",
+            "projectName": null,
+            "bidCloseDate": "2025-02-11 16:00:00",
+            "id_muasamcong": "aa9a13d9-61e0-421a-b479-d3f3bcecf7a3",
+            "tongmuc_dautu": 1267233000.0,
+            "bidNamePlanNew": "PL2500006549",
+            "dotbien_hatang": "Gói thầu số 06: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2024-05-11 10:27:30",
+            "projectName": "Liên danh Công Ty TNHH Xây Dựng Thương Mại và Dịch Vụ Đại An - Công ty TNHH đầu tư xây dựng Chính Tâm",
+            "bidCloseDate": "2024-05-21 10:00:00",
+            "id_muasamcong": "aba3c752-e973-48a4-ba7b-4b9863b62e83",
+            "tongmuc_dautu": 1644625000.0,
+            "bidNamePlanNew": "PL2400053858",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2024-09-26 14:55:18",
+            "projectName": null,
+            "bidCloseDate": "2024-10-14 15:30:00",
+            "id_muasamcong": "ac3a1843-8be4-42ce-8022-afa3475b4ea0",
+            "tongmuc_dautu": 44450537000.0,
+            "bidNamePlanNew": "PL2400186272",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2024-07-08 16:04:30",
+            "projectName": "Liên danh Công ty TNHH xây dựng Chính Tâm - Công ty TNHH phát triển xây dựng và thương mại Trường Lộc",
+            "bidCloseDate": "2024-07-29 09:00:00",
+            "id_muasamcong": "af5685c2-10e8-486c-bcb6-19d8db710f5e",
+            "tongmuc_dautu": 70856764000.0,
+            "bidNamePlanNew": "PL2400109880",
+            "dotbien_hatang": "Thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2023-07-07 09:22:23",
+            "projectName": null,
+            "bidCloseDate": "2023-07-18 14:00:00",
+            "id_muasamcong": "b5b20ec6-e3ba-4f1d-84cf-e384f00d09bd",
+            "tongmuc_dautu": 6938418000.0,
+            "bidNamePlanNew": "PL2300095840",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "gói thầu số 03: Thi công xây lắp và thiết bị",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2023-05-18 17:32:40",
+            "projectName": null,
+            "bidCloseDate": "2023-05-29 10:00:00",
+            "id_muasamcong": "b60ea0ee-df35-481e-833c-499e372d0d38",
+            "tongmuc_dautu": 3909358000.0,
+            "bidNamePlanNew": "PL2300059026",
+            "dotbien_hatang": "gói thầu số 03: Thi công xây lắp và thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2023-01-06 16:08:44",
+            "projectName": null,
+            "bidCloseDate": "2023-01-16 16:30:00",
+            "id_muasamcong": "b63b53ca-3998-4b3a-805f-65b0c2401779",
+            "tongmuc_dautu": 3445388000.0,
+            "bidNamePlanNew": "PL2200087203",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Giám sát thi công xây dựng, lắp đặt thiết bị",
+            "chudautu": "Ban QLDA ĐTXD công trình dân dụng và công nghiệp tỉnh Ninh Bình",
+            "createdBy": "vnz000014650",
+            "publicDate": "2025-02-07 09:47:43",
+            "projectName": "Liên danh BTN – Thiên An",
+            "bidCloseDate": "2025-02-25 10:00:00",
+            "id_muasamcong": "b9034af9-130e-443d-b696-6dea95dcf74e",
+            "tongmuc_dautu": 482908000.0,
+            "bidNamePlanNew": "PL2500017061",
+            "dotbien_hatang": "Giám sát thi công xây dựng, lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng, lắp đặt thiết bị",
+            "chudautu": "Ban QLDA ĐTXD công trình dân dụng và công nghiệp tỉnh Ninh Bình",
+            "createdBy": "vnz000014650",
+            "publicDate": "2025-02-07 09:47:13",
+            "projectName": null,
+            "bidCloseDate": "2025-02-17 08:00:00",
+            "id_muasamcong": "ba4c98e3-b834-4719-9e85-56243967776a",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500017061",
+            "dotbien_hatang": "Thi công xây dựng, lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công Xây dựng",
+            "chudautu": "UBND phường Ninh Phúc",
+            "createdBy": "vnz000010385",
+            "publicDate": "2025-03-21 10:53:23",
+            "projectName": null,
+            "bidCloseDate": "2025-03-28 15:30:00",
+            "id_muasamcong": "bb85e3a7-f589-4193-b73b-17fc026188a0",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2500049266",
+            "dotbien_hatang": "Thi công Xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Sở Giao thông vận tải tỉnh Ninh Bình",
+            "createdBy": "vnz000016723",
+            "publicDate": "2024-11-02 08:00:50",
+            "projectName": null,
+            "bidCloseDate": "2024-11-16 10:00:00",
+            "id_muasamcong": "bc704273-2b19-4f60-a6ec-67b5ae78a505",
+            "tongmuc_dautu": 526019000.0,
+            "bidNamePlanNew": "PL2400252427",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2023-07-13 15:59:54",
+            "projectName": null,
+            "bidCloseDate": "2023-07-24 09:00:00",
+            "id_muasamcong": "c031802f-f669-4076-a987-a5427b976b88",
+            "tongmuc_dautu": 2087213000.0,
+            "bidNamePlanNew": "PL2300107413",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Tư vấn giám sát thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2024-07-08 16:20:23",
+            "projectName": null,
+            "bidCloseDate": "2024-07-29 09:00:00",
+            "id_muasamcong": "c42f5fca-f070-4538-bce8-6b419d760ee9",
+            "tongmuc_dautu": 1528825000.0,
+            "bidNamePlanNew": "PL2400109880",
+            "dotbien_hatang": "Tư vấn giám sát thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây lắp + thiết bị",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2023-01-12 10:24:57",
+            "projectName": null,
+            "bidCloseDate": "2023-02-01 10:00:00",
+            "id_muasamcong": "ca49dc31-afcf-4d99-99b5-35519e3d73b8",
+            "tongmuc_dautu": 3840001000.0,
+            "bidNamePlanNew": "PL2200087321",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây lắp + thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "Ban QLDA ĐTXD công trình dân dụng và công nghiệp tỉnh Ninh Bình",
+            "createdBy": "vnz000014650",
+            "publicDate": "2023-10-10 10:51:06",
+            "projectName": null,
+            "bidCloseDate": "2023-10-20 09:00:00",
+            "id_muasamcong": "cc420552-f35e-42e8-9010-f843e1821a6e",
+            "tongmuc_dautu": 4941897000.0,
+            "bidNamePlanNew": "PL2300184601",
+            "dotbien_hatang": "Thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2024-05-11 11:37:10",
+            "projectName": null,
+            "bidCloseDate": "2024-05-22 10:00:00",
+            "id_muasamcong": "d0a78b31-4954-466a-b04d-149d46fc99dd",
+            "tongmuc_dautu": 1834319000.0,
+            "bidNamePlanNew": "PL2400053240",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây lắp + Lắp đặt thiết bị",
+            "chudautu": "Uỷ ban nhân dân phường Vân Giang",
+            "createdBy": "vnz000007198",
+            "publicDate": "2025-02-11 15:06:30",
+            "projectName": null,
+            "bidCloseDate": "2025-02-21 09:00:00",
+            "id_muasamcong": "d6e430c1-f2e8-4155-b8e9-7abb4855668f",
+            "tongmuc_dautu": 2258431000.0,
+            "bidNamePlanNew": "PL2500020201",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây lắp + Lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Trường THPT Hoa Lư A",
+            "createdBy": "vn2700750770",
+            "publicDate": "2023-07-21 18:06:52",
+            "projectName": "Liên danh Đức Minh – Xuân Cương",
+            "bidCloseDate": "2023-08-01 09:00:00",
+            "id_muasamcong": "dcc31dcf-27e4-4fff-aa75-3775058afd3b",
+            "tongmuc_dautu": 2357147299.0,
+            "bidNamePlanNew": "PL2300124806",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Trung tâm bảo tồn di tích Lịch sử - Văn hoá Cố đô Hoa Lư",
+            "createdBy": "vnz000029938",
+            "publicDate": "2024-11-19 11:45:28",
+            "projectName": null,
+            "bidCloseDate": "2024-11-26 11:00:00",
+            "id_muasamcong": "e36cd0c0-a79d-40a7-ae5a-862bd88efe27",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400277925",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Sở Giao thông vận tải tỉnh Ninh Bình",
+            "createdBy": "vnz000016723",
+            "publicDate": "2023-06-20 08:09:54",
+            "projectName": null,
+            "bidCloseDate": "2023-06-30 09:00:00",
+            "id_muasamcong": "e7d880c3-5671-453c-a973-c99a2ab9d3d0",
+            "tongmuc_dautu": 8694424000.0,
+            "bidNamePlanNew": "PL2300091816",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Tư vấn giám sát thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2024-07-26 17:17:24",
+            "projectName": null,
+            "bidCloseDate": "2024-08-15 10:00:00",
+            "id_muasamcong": "e871678e-2abe-4628-90b7-4ce4f3579e25",
+            "tongmuc_dautu": 936000000.0,
+            "bidNamePlanNew": "PL2400106569",
+            "dotbien_hatang": "Tư vấn giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02: Thi công xây lắp",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2022-10-21 16:19:05",
+            "projectName": null,
+            "bidCloseDate": "2022-11-01 09:00:00",
+            "id_muasamcong": "f70db0c0-bfe9-4da3-8e09-8f3d0907bb27",
+            "tongmuc_dautu": 3489611000.0,
+            "bidNamePlanNew": "PL2200004971",
+            "dotbien_hatang": "Gói thầu số 02: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và thiết bị",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2024-01-23 11:51:28",
+            "projectName": null,
+            "bidCloseDate": "2024-02-01 14:00:00",
+            "id_muasamcong": "fda4b6c3-8fb3-43a8-acb1-8b0b5c198da4",
+            "tongmuc_dautu": 8134817000.0,
+            "bidNamePlanNew": "PL2300265503",
+            "dotbien_hatang": "Thi công xây dựng và thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Hoa Lư",
+            "createdBy": "vnz000011585",
+            "publicDate": "2023-12-06 16:20:16",
+            "projectName": "Liên danh Tràng An – Ngọc Hải Châu",
+            "bidCloseDate": "2023-12-26 16:30:00",
+            "id_muasamcong": "fde5abe8-6b42-4122-94ef-ce7feb2c7bcf",
+            "tongmuc_dautu": 21494371000.0,
+            "bidNamePlanNew": "PL2300242880",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 04: Thi công xây dựng",
+            "chudautu": "Sở Văn hóa và Thể thao tỉnh Ninh Bình",
+            "createdBy": "vnz000005826",
+            "publicDate": "2024-10-25 09:29:32",
+            "projectName": null,
+            "bidCloseDate": "2024-11-01 09:30:00",
+            "id_muasamcong": "ffb4e582-4509-4297-9700-a8e6fcca806c",
+            "tongmuc_dautu": 343137000.0,
+            "bidNamePlanNew": "PL2400237814",
+            "dotbien_hatang": "Gói thầu số 04: Thi công xây dựng",
+            "link_muasamcong": ""
+        }
+    ],
+    "so_dot_bien": 88,
+    "thu_tu_sap_xep": 221,
+    "polygon": [
+        [
+            [
+                105.887438,
+                20.218645
+            ],
+            [
+                105.886166,
+                20.219982
+            ],
+            [
+                105.88282,
+                20.222926
+            ],
+            [
+                105.878298,
+                20.227806
+            ],
+            [
+                105.87758,
+                20.229117
+            ],
+            [
+                105.877451,
+                20.229616
+            ],
+            [
+                105.877453,
+                20.230052
+            ],
+            [
+                105.877522,
+                20.23055
+            ],
+            [
+                105.877989,
+                20.23142
+            ],
+            [
+                105.879052,
+                20.232847
+            ],
+            [
+                105.880373,
+                20.233942
+            ],
+            [
+                105.881266,
+                20.234411
+            ],
+            [
+                105.882159,
+                20.234669
+            ],
+            [
+                105.883553,
+                20.234925
+            ],
+            [
+                105.888402,
+                20.235637
+            ],
+            [
+                105.888793,
+                20.235846
+            ],
+            [
+                105.892702,
+                20.237719
+            ],
+            [
+                105.89382,
+                20.23845
+            ],
+            [
+                105.894157,
+                20.238974
+            ],
+            [
+                105.894159,
+                20.239342
+            ],
+            [
+                105.893998,
+                20.240342
+            ],
+            [
+                105.892401,
+                20.243454
+            ],
+            [
+                105.890746,
+                20.246355
+            ],
+            [
+                105.888845,
+                20.249915
+            ],
+            [
+                105.888627,
+                20.25081
+            ],
+            [
+                105.888521,
+                20.251652
+            ],
+            [
+                105.888525,
+                20.252336
+            ],
+            [
+                105.888642,
+                20.253387
+            ],
+            [
+                105.889652,
+                20.254749
+            ],
+            [
+                105.889823,
+                20.255379
+            ],
+            [
+                105.889438,
+                20.256328
+            ],
+            [
+                105.887945,
+                20.258177
+            ],
+            [
+                105.887059,
+                20.259075
+            ],
+            [
+                105.886726,
+                20.259235
+            ],
+            [
+                105.886448,
+                20.259289
+            ],
+            [
+                105.885556,
+                20.259188
+            ],
+            [
+                105.883605,
+                20.258987
+            ],
+            [
+                105.88316,
+                20.259042
+            ],
+            [
+                105.882633,
+                20.259439
+            ],
+            [
+                105.882083,
+                20.260757
+            ],
+            [
+                105.88121,
+                20.263917
+            ],
+            [
+                105.881158,
+                20.264496
+            ],
+            [
+                105.881161,
+                20.26518
+            ],
+            [
+                105.882003,
+                20.266227
+            ],
+            [
+                105.883125,
+                20.267642
+            ],
+            [
+                105.883749,
+                20.269585
+            ],
+            [
+                105.883757,
+                20.271057
+            ],
+            [
+                105.883596,
+                20.272057
+            ],
+            [
+                105.883211,
+                20.273006
+            ],
+            [
+                105.882246,
+                20.274773
+            ],
+            [
+                105.881972,
+                20.275616
+            ],
+            [
+                105.881975,
+                20.276089
+            ],
+            [
+                105.882715,
+                20.278873
+            ],
+            [
+                105.882831,
+                20.279714
+            ],
+            [
+                105.882728,
+                20.281134
+            ],
+            [
+                105.882571,
+                20.282923
+            ],
+            [
+                105.882189,
+                20.28445
+            ],
+            [
+                105.880982,
+                20.287665
+            ],
+            [
+                105.880598,
+                20.288719
+            ],
+            [
+                105.8806,
+                20.289139
+            ],
+            [
+                105.880718,
+                20.289987
+            ],
+            [
+                105.882014,
+                20.28949
+            ],
+            [
+                105.882709,
+                20.289322
+            ],
+            [
+                105.883928,
+                20.289316
+            ],
+            [
+                105.885148,
+                20.289529
+            ],
+            [
+                105.887473,
+                20.29023
+            ],
+            [
+                105.89085,
+                20.292185
+            ],
+            [
+                105.894638,
+                20.294905
+            ],
+            [
+                105.897499,
+                20.297904
+            ],
+            [
+                105.898841,
+                20.299157
+            ],
+            [
+                105.900013,
+                20.301014
+            ],
+            [
+                105.90154,
+                20.304183
+            ],
+            [
+                105.902892,
+                20.307135
+            ],
+            [
+                105.903864,
+                20.309568
+            ],
+            [
+                105.904515,
+                20.311701
+            ],
+            [
+                105.90531,
+                20.313467
+            ],
+            [
+                105.906421,
+                20.315249
+            ],
+            [
+                105.907528,
+                20.316512
+            ],
+            [
+                105.909982,
+                20.318172
+            ],
+            [
+                105.91176,
+                20.319086
+            ],
+            [
+                105.91384,
+                20.319479
+            ],
+            [
+                105.916164,
+                20.319813
+            ],
+            [
+                105.919258,
+                20.318386
+            ],
+            [
+                105.920939,
+                20.316352
+            ],
+            [
+                105.9234,
+                20.312503
+            ],
+            [
+                105.924985,
+                20.313347
+            ],
+            [
+                105.927258,
+                20.315786
+            ],
+            [
+                105.925689,
+                20.317819
+            ],
+            [
+                105.923988,
+                20.316443
+            ],
+            [
+                105.92092,
+                20.321797
+            ],
+            [
+                105.922475,
+                20.322549
+            ],
+            [
+                105.928969,
+                20.325283
+            ],
+            [
+                105.933409,
+                20.32673
+            ],
+            [
+                105.934511,
+                20.32707
+            ],
+            [
+                105.935429,
+                20.327238
+            ],
+            [
+                105.93604,
+                20.327235
+            ],
+            [
+                105.937016,
+                20.326942
+            ],
+            [
+                105.937809,
+                20.326547
+            ],
+            [
+                105.940706,
+                20.325395
+            ],
+            [
+                105.951229,
+                20.320959
+            ],
+            [
+                105.957159,
+                20.318108
+            ],
+            [
+                105.960933,
+                20.316182
+            ],
+            [
+                105.965709,
+                20.313178
+            ],
+            [
+                105.970353,
+                20.309102
+            ],
+            [
+                105.975243,
+                20.304192
+            ],
+            [
+                105.980131,
+                20.298924
+            ],
+            [
+                105.982759,
+                20.295455
+            ],
+            [
+                105.984132,
+                20.293184
+            ],
+            [
+                105.985377,
+                20.290437
+            ],
+            [
+                105.986486,
+                20.286262
+            ],
+            [
+                105.986344,
+                20.283881
+            ],
+            [
+                105.985554,
+                20.278644
+            ],
+            [
+                105.983371,
+                20.272463
+            ],
+            [
+                105.982962,
+                20.271565
+            ],
+            [
+                105.982039,
+                20.272289
+            ],
+            [
+                105.979026,
+                20.275156
+            ],
+            [
+                105.97784,
+                20.276653
+            ],
+            [
+                105.976703,
+                20.278465
+            ],
+            [
+                105.97236,
+                20.287632
+            ],
+            [
+                105.960335,
+                20.283332
+            ],
+            [
+                105.95767,
+                20.289121
+            ],
+            [
+                105.95546,
+                20.288024
+            ],
+            [
+                105.955175,
+                20.285124
+            ],
+            [
+                105.952353,
+                20.282616
+            ],
+            [
+                105.949458,
+                20.279036
+            ],
+            [
+                105.94845,
+                20.277969
+            ],
+            [
+                105.947578,
+                20.277469
+            ],
+            [
+                105.946641,
+                20.277222
+            ],
+            [
+                105.946308,
+                20.277413
+            ],
+            [
+                105.945385,
+                20.279436
+            ],
+            [
+                105.944197,
+                20.280671
+            ],
+            [
+                105.939293,
+                20.285136
+            ],
+            [
+                105.938356,
+                20.285682
+            ],
+            [
+                105.938132,
+                20.283681
+            ],
+            [
+                105.937314,
+                20.280916
+            ],
+            [
+                105.935253,
+                20.276536
+            ],
+            [
+                105.933141,
+                20.275242
+            ],
+            [
+                105.928088,
+                20.271894
+            ],
+            [
+                105.927354,
+                20.27114
+            ],
+            [
+                105.927278,
+                20.270659
+            ],
+            [
+                105.927276,
+                20.270314
+            ],
+            [
+                105.927419,
+                20.269831
+            ],
+            [
+                105.928795,
+                20.268171
+            ],
+            [
+                105.930243,
+                20.266304
+            ],
+            [
+                105.930604,
+                20.265682
+            ],
+            [
+                105.930601,
+                20.265269
+            ],
+            [
+                105.928828,
+                20.26149
+            ],
+            [
+                105.928825,
+                20.260939
+            ],
+            [
+                105.928894,
+                20.260319
+            ],
+            [
+                105.92958,
+                20.259041
+            ],
+            [
+                105.93154,
+                20.257584
+            ],
+            [
+                105.932777,
+                20.256957
+            ],
+            [
+                105.934088,
+                20.256675
+            ],
+            [
+                105.935765,
+                20.256528
+            ],
+            [
+                105.943701,
+                20.256823
+            ],
+            [
+                105.945136,
+                20.253905
+            ],
+            [
+                105.946068,
+                20.25179
+            ],
+            [
+                105.944483,
+                20.250765
+            ],
+            [
+                105.940969,
+                20.248717
+            ],
+            [
+                105.940724,
+                20.24438
+            ],
+            [
+                105.936838,
+                20.243184
+            ],
+            [
+                105.937515,
+                20.239819
+            ],
+            [
+                105.938414,
+                20.238193
+            ],
+            [
+                105.940319,
+                20.235991
+            ],
+            [
+                105.943428,
+                20.232733
+            ],
+            [
+                105.946608,
+                20.230217
+            ],
+            [
+                105.949896,
+                20.227584
+            ],
+            [
+                105.952382,
+                20.225124
+            ],
+            [
+                105.953714,
+                20.223852
+            ],
+            [
+                105.954426,
+                20.223342
+            ],
+            [
+                105.955585,
+                20.222998
+            ],
+            [
+                105.957285,
+                20.223495
+            ],
+            [
+                105.958631,
+                20.224584
+            ],
+            [
+                105.958817,
+                20.22568
+            ],
+            [
+                105.958822,
+                20.226608
+            ],
+            [
+                105.959386,
+                20.228278
+            ],
+            [
+                105.960442,
+                20.228687
+            ],
+            [
+                105.962202,
+                20.229176
+            ],
+            [
+                105.963783,
+                20.229167
+            ],
+            [
+                105.964395,
+                20.228749
+            ],
+            [
+                105.964831,
+                20.228166
+            ],
+            [
+                105.966471,
+                20.223511
+            ],
+            [
+                105.966468,
+                20.223014
+            ],
+            [
+                105.966289,
+                20.222517
+            ],
+            [
+                105.965934,
+                20.221938
+            ],
+            [
+                105.964167,
+                20.220206
+            ],
+            [
+                105.963373,
+                20.21963
+            ],
+            [
+                105.962141,
+                20.219304
+            ],
+            [
+                105.959417,
+                20.21907
+            ],
+            [
+                105.958807,
+                20.218844
+            ],
+            [
+                105.95833,
+                20.218644
+            ],
+            [
+                105.957595,
+                20.218017
+            ],
+            [
+                105.957365,
+                20.216937
+            ],
+            [
+                105.958271,
+                20.214137
+            ],
+            [
+                105.958732,
+                20.21152
+            ],
+            [
+                105.958746,
+                20.209949
+            ],
+            [
+                105.958463,
+                20.209088
+            ],
+            [
+                105.95809,
+                20.20874
+            ],
+            [
+                105.958119,
+                20.208459
+            ],
+            [
+                105.958045,
+                20.207042
+            ],
+            [
+                105.958998,
+                20.207037
+            ],
+            [
+                105.963194,
+                20.207554
+            ],
+            [
+                105.966056,
+                20.208078
+            ],
+            [
+                105.969892,
+                20.210504
+            ],
+            [
+                105.973921,
+                20.210916
+            ],
+            [
+                105.97528,
+                20.21141
+            ],
+            [
+                105.977885,
+                20.213233
+            ],
+            [
+                105.979129,
+                20.214062
+            ],
+            [
+                105.979779,
+                20.214392
+            ],
+            [
+                105.981018,
+                20.214385
+            ],
+            [
+                105.98143,
+                20.214272
+            ],
+            [
+                105.982194,
+                20.213989
+            ],
+            [
+                105.982899,
+                20.213484
+            ],
+            [
+                105.98413,
+                20.212307
+            ],
+            [
+                105.985419,
+                20.21113
+            ],
+            [
+                105.986476,
+                20.210401
+            ],
+            [
+                105.986885,
+                20.209786
+            ],
+            [
+                105.987117,
+                20.209172
+            ],
+            [
+                105.986938,
+                20.208839
+            ],
+            [
+                105.986521,
+                20.208228
+            ],
+            [
+                105.986222,
+                20.207506
+            ],
+            [
+                105.9861,
+                20.206838
+            ],
+            [
+                105.986091,
+                20.205446
+            ],
+            [
+                105.986546,
+                20.202882
+            ],
+            [
+                105.987413,
+                20.199981
+            ],
+            [
+                105.987651,
+                20.199361
+            ],
+            [
+                105.987993,
+                20.198474
+            ],
+            [
+                105.988518,
+                20.197691
+            ],
+            [
+                105.988782,
+                20.197511
+            ],
+            [
+                105.988184,
+                20.197404
+            ],
+            [
+                105.987404,
+                20.197042
+            ],
+            [
+                105.986477,
+                20.196358
+            ],
+            [
+                105.981832,
+                20.193175
+            ],
+            [
+                105.980712,
+                20.192685
+            ],
+            [
+                105.979397,
+                20.19263
+            ],
+            [
+                105.977164,
+                20.192891
+            ],
+            [
+                105.973099,
+                20.194403
+            ],
+            [
+                105.970309,
+                20.195111
+            ],
+            [
+                105.969402,
+                20.195116
+            ],
+            [
+                105.968897,
+                20.195172
+            ],
+            [
+                105.959097,
+                20.193984
+            ],
+            [
+                105.95673,
+                20.193872
+            ],
+            [
+                105.955742,
+                20.193443
+            ],
+            [
+                105.955213,
+                20.192949
+            ],
+            [
+                105.95461,
+                20.190966
+            ],
+            [
+                105.954475,
+                20.19047
+            ],
+            [
+                105.954143,
+                20.189975
+            ],
+            [
+                105.95322,
+                20.189421
+            ],
+            [
+                105.948546,
+                20.188081
+            ],
+            [
+                105.947695,
+                20.186985
+            ],
+            [
+                105.947383,
+                20.185001
+            ],
+            [
+                105.947351,
+                20.179649
+            ],
+            [
+                105.946736,
+                20.179652
+            ],
+            [
+                105.945817,
+                20.17957
+            ],
+            [
+                105.944896,
+                20.179228
+            ],
+            [
+                105.943395,
+                20.178789
+            ],
+            [
+                105.943597,
+                20.174842
+            ],
+            [
+                105.943017,
+                20.174361
+            ],
+            [
+                105.940874,
+                20.172323
+            ],
+            [
+                105.939243,
+                20.172537
+            ],
+            [
+                105.938301,
+                20.172733
+            ],
+            [
+                105.936958,
+                20.173313
+            ],
+            [
+                105.933207,
+                20.176577
+            ],
+            [
+                105.933209,
+                20.176958
+            ],
+            [
+                105.934438,
+                20.179814
+            ],
+            [
+                105.934573,
+                20.179877
+            ],
+            [
+                105.937528,
+                20.179279
+            ],
+            [
+                105.938206,
+                20.179349
+            ],
+            [
+                105.938545,
+                20.179665
+            ],
+            [
+                105.938551,
+                20.180683
+            ],
+            [
+                105.938486,
+                20.181129
+            ],
+            [
+                105.937951,
+                20.181781
+            ],
+            [
+                105.936136,
+                20.182856
+            ],
+            [
+                105.933736,
+                20.184501
+            ],
+            [
+                105.932319,
+                20.185678
+            ],
+            [
+                105.931515,
+                20.186445
+            ],
+            [
+                105.930744,
+                20.186926
+            ],
+            [
+                105.924631,
+                20.189439
+            ],
+            [
+                105.918655,
+                20.19227
+            ],
+            [
+                105.914626,
+                20.194263
+            ],
+            [
+                105.910669,
+                20.197018
+            ],
+            [
+                105.908054,
+                20.198877
+            ],
+            [
+                105.904433,
+                20.201503
+            ],
+            [
+                105.902622,
+                20.202848
+            ],
+            [
+                105.901083,
+                20.204447
+            ],
+            [
+                105.897335,
+                20.208537
+            ],
+            [
+                105.894394,
+                20.212496
+            ],
+            [
+                105.891745,
+                20.215475
+            ],
+            [
+                105.889983,
+                20.217226
+            ],
+            [
+                105.888923,
+                20.217968
+            ],
+            [
+                105.887438,
+                20.218645
+            ]
+        ]
+    ]
+}

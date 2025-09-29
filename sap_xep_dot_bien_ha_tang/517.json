@@ -1,0 +1,1416 @@
+{
+    "id_district": "517",
+    "id_province": 53,
+    "name_province": "Tây Ninh",
+    "name_district": "Huyện Châu Thành",
+    "list_sukien": [
+        {
+            "bidName": "Thi công xây dựng công trình",
+            "chudautu": "Ban Quản lý dự án Đầu tư xây dựng ngành Giao thông tỉnh Tây Ninh",
+            "createdBy": "vnz000017824",
+            "publicDate": "2022-12-09 16:12:07",
+            "projectName": null,
+            "bidCloseDate": "2022-12-20 09:00:00",
+            "id_muasamcong": "03444f25-6783-45f1-9af0-b7755f7ee77f",
+            "tongmuc_dautu": 60773005000.0,
+            "bidNamePlanNew": "20220349921",
+            "dotbien_hatang": "Thi công xây dựng công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Tư vấn giám sát thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Châu Thành",
+            "createdBy": "vn3900370376",
+            "publicDate": "2024-04-04 10:03:18",
+            "projectName": null,
+            "bidCloseDate": "2024-04-22 09:00:00",
+            "id_muasamcong": "10b60ee8-a7ec-4ff9-9862-e38d50658185",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400036066",
+            "dotbien_hatang": "Tư vấn giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và cung cấp lắp đặt thiết bị",
+            "chudautu": "Ban Quản lý dự án Đầu tư Xây dựng tỉnh Tây Ninh",
+            "createdBy": "vn3900975678-01",
+            "publicDate": "2023-02-13 16:16:49",
+            "projectName": null,
+            "bidCloseDate": "2023-02-24 09:00:00",
+            "id_muasamcong": "12aeb2fa-d889-44d0-987e-5ee780d54e99",
+            "tongmuc_dautu": 6798326000.0,
+            "bidNamePlanNew": "PL2300003824",
+            "dotbien_hatang": "Thi công xây dựng và cung cấp lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu XL: Thi công xây dựng và lắp đặt doanh cụ toàn bộ dự án",
+            "chudautu": "SƯ ĐOÀN 5, QUÂN KHU 7",
+            "createdBy": "vn0316422110",
+            "publicDate": "2025-01-06 15:10:50",
+            "projectName": null,
+            "bidCloseDate": "2025-01-24 09:00:00",
+            "id_muasamcong": "144964f3-32fe-4b39-bf1f-04745ce3bf1b",
+            "tongmuc_dautu": 29512000000.0,
+            "bidNamePlanNew": "PL2400042116",
+            "dotbien_hatang": "Gói thầu XL: Thi công xây dựng và lắp đặt doanh cụ toàn bộ dự án",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Tư vấn giám sát thi công xây dựng và lắp đặt thiết bị doanh trại.",
+            "chudautu": "Bộ chỉ huy Bộ đội Biên phòng tỉnh Tây Ninh",
+            "createdBy": "vn0315989475",
+            "publicDate": "2022-10-21 15:17:42",
+            "projectName": null,
+            "bidCloseDate": "2022-11-10 16:00:00",
+            "id_muasamcong": "1adc2b3e-25c2-4e85-b29e-9dc619d174c6",
+            "tongmuc_dautu": 824702000.0,
+            "bidNamePlanNew": "PL2200007909",
+            "dotbien_hatang": "Tư vấn giám sát thi công xây dựng và lắp đặt thiết bị doanh trại.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "TV-08: Giám sát thi công xây dựng",
+            "chudautu": "SƯ ĐOÀN 5, QUÂN KHU 7",
+            "createdBy": "vn0316422110",
+            "publicDate": "2025-01-06 15:09:53",
+            "projectName": "Liên danh Gói thầu TV-08",
+            "bidCloseDate": "2025-01-18 09:00:00",
+            "id_muasamcong": "26c19bea-bb3e-4724-bdc1-3ccde0bf1f36",
+            "tongmuc_dautu": 1450000000.0,
+            "bidNamePlanNew": "PL2400300705",
+            "dotbien_hatang": "TV-08: Giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và cung cấp lắp đặt thiết bị công trình cải tạo, mở rộng Trụ sở Chi cục THADS huyện Châu Thành",
+            "chudautu": "Cục Thi hành án dân sự tỉnh Tây Ninh",
+            "createdBy": "vn3900370376",
+            "publicDate": "2023-11-18 12:05:23",
+            "projectName": "Liên danh Công ty Cổ phần Xây dựng Dân dụng và Hạ tầng HTC - Công ty TNHH MTV Xây dựng - Thương mại và Dịch vụ P.V.A Tây Ninh",
+            "bidCloseDate": "2023-11-28 14:00:00",
+            "id_muasamcong": "45483484-dd52-4ca6-878a-4825baa6a819",
+            "tongmuc_dautu": 7549650000.0,
+            "bidNamePlanNew": "PL2300220188",
+            "dotbien_hatang": "Thi công xây dựng và cung cấp lắp đặt thiết bị công trình cải tạo, mở rộng Trụ sở Chi cục THADS huyện Châu Thành",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Tư vấn giám sát thi công xây dựng",
+            "chudautu": "Sở Giao thông Vận tải tỉnh Tây Ninh",
+            "createdBy": "vn3901306863",
+            "publicDate": "2024-10-28 22:50:00",
+            "projectName": null,
+            "bidCloseDate": "2024-11-15 13:00:00",
+            "id_muasamcong": "4f30f223-3f03-4f06-9924-bdba3364c88b",
+            "tongmuc_dautu": 179000000.0,
+            "bidNamePlanNew": "PL2400232725",
+            "dotbien_hatang": "Tư vấn giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "TV-08: Tư vấn giám sát thi công xây dựng và lắp đặt thiết bị.",
+            "chudautu": "SƯ ĐOÀN 5, QUÂN KHU 7",
+            "createdBy": "vn0316422110",
+            "publicDate": "2025-01-06 15:10:20",
+            "projectName": null,
+            "bidCloseDate": "2025-01-18 09:30:00",
+            "id_muasamcong": "54851d6d-b450-4074-b6c7-d1d569bbf266",
+            "tongmuc_dautu": 1460000000.0,
+            "bidNamePlanNew": "PL2400300688",
+            "dotbien_hatang": "TV-08: Tư vấn giám sát thi công xây dựng và lắp đặt thiết bị.",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Giám sát thi công xây dựng",
+            "chudautu": "Phòng Kinh tế và Hạ tầng huyện Châu Thành, tỉnh Tây Ninh",
+            "createdBy": "vn3901219106",
+            "publicDate": "2024-11-13 19:51:26",
+            "projectName": null,
+            "bidCloseDate": "2024-12-02 07:00:00",
+            "id_muasamcong": "620c1936-eed9-429b-9630-ff32b918721c",
+            "tongmuc_dautu": 122112000.0,
+            "bidNamePlanNew": "PL2400268014",
+            "dotbien_hatang": "Giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu TV-07: Tư vấn giám sát thi công xây dựng và lắp đặt doanh cụ",
+            "chudautu": "SƯ ĐOÀN 5, QUÂN KHU 7",
+            "createdBy": "vn0316422110",
+            "publicDate": "2025-01-06 15:11:18",
+            "projectName": null,
+            "bidCloseDate": "2025-01-24 09:30:00",
+            "id_muasamcong": "64af7e32-674e-4269-ba23-537d4ca3f979",
+            "tongmuc_dautu": 786000000.0,
+            "bidNamePlanNew": "PL2400042116",
+            "dotbien_hatang": "Gói thầu TV-07: Tư vấn giám sát thi công xây dựng và lắp đặt doanh cụ",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "XL-02: Thi công xây dựng và lắp đặt thiết bị",
+            "chudautu": "SƯ ĐOÀN 5, QUÂN KHU 7",
+            "createdBy": "vn0316422110",
+            "publicDate": "2024-12-31 14:43:08",
+            "projectName": null,
+            "bidCloseDate": "2025-01-18 09:00:00",
+            "id_muasamcong": "6ac2ab0c-e352-4f86-9eaa-5441d4205512",
+            "tongmuc_dautu": 62476560770.0,
+            "bidNamePlanNew": "PL2400300688",
+            "dotbien_hatang": "XL-02: Thi công xây dựng và lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu TV-12: Giám sát thi công xây lắp đoạn tuyến từ khu vực Mốc 143 - Mốc 146",
+            "chudautu": "Bộ Tham mưu Quân khu 7",
+            "createdBy": "vnz000012668",
+            "publicDate": "2024-06-07 17:45:59",
+            "projectName": null,
+            "bidCloseDate": "2024-06-25 14:30:00",
+            "id_muasamcong": "7619a8ad-cb2c-4cbb-a040-2d0212e7258a",
+            "tongmuc_dautu": 1958000000.0,
+            "bidNamePlanNew": "PL2400099988",
+            "dotbien_hatang": "Gói thầu TV-12: Giám sát thi công xây lắp đoạn tuyến từ khu vực Mốc 143 - Mốc 146",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu TV-07: Tư vấn giám sát thi công xây dựng và lắp đặt doanh cụ, thiết bị",
+            "chudautu": "SƯ ĐOÀN 5, QUÂN KHU 7",
+            "createdBy": "vn0316422110",
+            "publicDate": "2023-12-21 12:10:59",
+            "projectName": null,
+            "bidCloseDate": "2024-01-10 09:00:00",
+            "id_muasamcong": "7882301d-8cf8-4557-8196-0566b813e591",
+            "tongmuc_dautu": 1450000000.0,
+            "bidNamePlanNew": "PL2300091845",
+            "dotbien_hatang": "Gói thầu TV-07: Tư vấn giám sát thi công xây dựng và lắp đặt doanh cụ, thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Tư vấn giám sát thi công xây dựng",
+            "chudautu": "Sở Giao thông Vận tải tỉnh Tây Ninh",
+            "createdBy": "vn3901306863",
+            "publicDate": "2024-10-28 23:41:51",
+            "projectName": null,
+            "bidCloseDate": "2024-11-15 13:00:00",
+            "id_muasamcong": "79d50131-177f-46b3-8ea9-264b6fbbe5d7",
+            "tongmuc_dautu": 195645000.0,
+            "bidNamePlanNew": "PL2400235921",
+            "dotbien_hatang": "Tư vấn giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Tư vấn giám sát thi công xây dựng và cung cấp lắp đặt thiết bị",
+            "chudautu": "Phòng Hậu cần, Công an tỉnh Tây Ninh",
+            "createdBy": "vn3900785645",
+            "publicDate": "2024-11-25 18:23:45",
+            "projectName": null,
+            "bidCloseDate": "2024-12-13 15:00:00",
+            "id_muasamcong": "7ca13305-4387-47aa-a50a-8c1f09c184f5",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400133157",
+            "dotbien_hatang": "Tư vấn giám sát thi công xây dựng và cung cấp lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình",
+            "chudautu": "Sở Giao thông Vận tải tỉnh Tây Ninh",
+            "createdBy": "vn3901306863",
+            "publicDate": "2024-10-27 23:58:46",
+            "projectName": null,
+            "bidCloseDate": "2024-11-05 13:00:00",
+            "id_muasamcong": "805e9d57-0201-46d1-bd09-0a37f3db56e1",
+            "tongmuc_dautu": 11877127000.0,
+            "bidNamePlanNew": "PL2400232725",
+            "dotbien_hatang": "Thi công xây lắp công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình",
+            "chudautu": "Sở Giao thông Vận tải tỉnh Tây Ninh",
+            "createdBy": "vn3901306863",
+            "publicDate": "2024-10-27 20:55:45",
+            "projectName": null,
+            "bidCloseDate": "2024-11-05 13:00:00",
+            "id_muasamcong": "8080ec13-3c4b-4bf0-a85d-53761973bc6b",
+            "tongmuc_dautu": 9011792000.0,
+            "bidNamePlanNew": "PL2400235921",
+            "dotbien_hatang": "Thi công xây lắp công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu TV-07: Tư vấn giám sát thi công xây dựng và lắp đặt doanh cụ, thiết bị",
+            "chudautu": "SƯ ĐOÀN 5, QUÂN KHU 7",
+            "createdBy": "vn0316422110",
+            "publicDate": "2023-12-19 14:35:38",
+            "projectName": null,
+            "bidCloseDate": "2024-02-08 10:30:00",
+            "id_muasamcong": "8fc4f50d-3c23-4ade-9908-4e8606a6a6d1",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2300091845",
+            "dotbien_hatang": "Gói thầu TV-07: Tư vấn giám sát thi công xây dựng và lắp đặt doanh cụ, thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và cung cấp lắp đặt thiết bị toàn bộ công trình",
+            "chudautu": "Phòng Hậu cần, Công an tỉnh Tây Ninh",
+            "createdBy": "vn0317563192",
+            "publicDate": "2024-11-20 15:29:10",
+            "projectName": "LIÊN DANH MỞ RỘNG TRỤ SỞ LÀM VIỆC CÔNG AN HUYỆN CHÂU THÀNH",
+            "bidCloseDate": "2024-12-09 08:00:00",
+            "id_muasamcong": "9b6c8a62-4d95-4df6-950b-a53fa7192f4e",
+            "tongmuc_dautu": 32426066000.0,
+            "bidNamePlanNew": "PL2400133157",
+            "dotbien_hatang": "Thi công xây dựng và cung cấp lắp đặt thiết bị toàn bộ công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu TV-07: Giám sát thi công xây dựng đoạn tuyến từ khu vực Mốc 96 - Mốc 103 (Km21+833,19 - Km30+892,47) và đoạn tuyến từ khu vực Mốc 146 - Mốc 148 (Km0+00 - Km4+40,91)",
+            "chudautu": "Bộ Tham mưu Quân khu 7",
+            "createdBy": "vnz000012668",
+            "publicDate": "2022-10-15 13:06:32",
+            "projectName": null,
+            "bidCloseDate": "2022-11-04 15:30:00",
+            "id_muasamcong": "9dccda52-4028-40db-ac5b-b1157cd5a2cd",
+            "tongmuc_dautu": 2031300000.0,
+            "bidNamePlanNew": "PL2200012290",
+            "dotbien_hatang": "Gói thầu TV-07: Giám sát thi công xây dựng đoạn tuyến từ khu vực Mốc 96 - Mốc 103 (Km21+833,19 - Km30+892,47) và đoạn tuyến từ khu vực Mốc 146 - Mốc 148 (Km0+00 - Km4+40,91)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu XL-01: Thi công xây dựng và mua sắm, lắp đặt thiết bị",
+            "chudautu": "SƯ ĐOÀN 5, QUÂN KHU 7",
+            "createdBy": "vn0316422110",
+            "publicDate": "2024-01-08 14:17:07",
+            "projectName": "Liên danh CÔNG TY TNHH MỘT THÀNH VIÊN SẢN XUẤT THƯƠNG MẠI XUẤT NHẬP KHẨU TÂY NAM và CÔNG TY CỔ PHẦN DỊCH VỤ THƯƠNG MẠI TƯ VẤN ĐẦU TƯ MAI XUÂN",
+            "bidCloseDate": "2024-01-18 10:00:00",
+            "id_muasamcong": "a0b3c6c3-8685-4823-b92c-c01c4a64f022",
+            "tongmuc_dautu": 62294016000.0,
+            "bidNamePlanNew": "PL2300091845",
+            "dotbien_hatang": "Gói thầu XL-01: Thi công xây dựng và mua sắm, lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Phòng Hậu cần, Công an tỉnh Tây Ninh",
+            "createdBy": "vn3900370376",
+            "publicDate": "2022-11-04 17:18:34",
+            "projectName": null,
+            "bidCloseDate": "2022-11-15 09:00:00",
+            "id_muasamcong": "a64e7186-9665-44d2-8c4a-6b5a29640240",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2200034367",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu XL: Thi công xây dựng và lắp đặt doanh cụ toàn bộ dự án",
+            "chudautu": "SƯ ĐOÀN 5, QUÂN KHU 7",
+            "createdBy": "vn0316422110",
+            "publicDate": "2024-10-19 12:52:50",
+            "projectName": null,
+            "bidCloseDate": "2024-11-06 09:00:00",
+            "id_muasamcong": "a7467b75-b829-4a99-acf4-c5af9ca2d118",
+            "tongmuc_dautu": 29439000000.0,
+            "bidNamePlanNew": "PL2400042003",
+            "dotbien_hatang": "Gói thầu XL: Thi công xây dựng và lắp đặt doanh cụ toàn bộ dự án",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Giám sát thi công xây dựng",
+            "chudautu": "Phòng Kinh tế và Hạ tầng huyện Châu Thành, tỉnh Tây Ninh",
+            "createdBy": "vn3901219106",
+            "publicDate": "2024-04-02 12:30:20",
+            "projectName": null,
+            "bidCloseDate": "2024-04-20 07:00:00",
+            "id_muasamcong": "abfd9506-5c17-4301-99b7-4776eaa4b1eb",
+            "tongmuc_dautu": 91584000.0,
+            "bidNamePlanNew": "PL2400033995",
+            "dotbien_hatang": "Giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu TV-06: Giám sát thi công xây dựng đoạn tuyến từ khu vực Mốc 82 - Mốc 96 (Km0+00 - Km21+833,19)",
+            "chudautu": "Bộ Tham mưu Quân khu 7",
+            "createdBy": "vnz000012668",
+            "publicDate": "2022-10-15 12:11:13",
+            "projectName": null,
+            "bidCloseDate": "2022-11-04 14:30:00",
+            "id_muasamcong": "b0c5c914-c72d-4faa-9d37-455af61a1d45",
+            "tongmuc_dautu": 1984660000.0,
+            "bidNamePlanNew": "PL2200012290",
+            "dotbien_hatang": "Gói thầu TV-06: Giám sát thi công xây dựng đoạn tuyến từ khu vực Mốc 82 - Mốc 96 (Km0+00 - Km21+833,19)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng hồ bơi, khán đài (bao gồm mái che, thiết bị hồ bơi) và cải tạo các phòng chức năng",
+            "chudautu": "Ban Quản lý dự án Đầu tư Xây dựng tỉnh Tây Ninh",
+            "createdBy": "vn3900975678-03",
+            "publicDate": "2024-10-18 18:04:11",
+            "projectName": null,
+            "bidCloseDate": "2024-11-05 08:30:00",
+            "id_muasamcong": "b85b004e-d994-436b-9390-e2f761b8d2ed",
+            "tongmuc_dautu": 21534741627.0,
+            "bidNamePlanNew": "PL2400020364",
+            "dotbien_hatang": "Thi công xây dựng hồ bơi, khán đài (bao gồm mái che, thiết bị hồ bơi) và cải tạo các phòng chức năng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Tư vấn giám sát thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Châu Thành",
+            "createdBy": "vn3900370376",
+            "publicDate": "2024-05-20 11:03:06",
+            "projectName": "LIÊN DANH CÔNG TY CỔ PHẦN XÂY DỰNG THƯƠNG MẠI TÂY LONG VÀ CÔNG TY TRÁCH NHIỆM HỮU HẠN TƯ VẤN THIẾT KẾ VÀ XÂY DỰNG MÊ KÔNG",
+            "bidCloseDate": "2024-05-31 14:00:00",
+            "id_muasamcong": "ba5505fb-59cc-440f-be92-6f605fc44de2",
+            "tongmuc_dautu": 638141000.0,
+            "bidNamePlanNew": "PL2400036066",
+            "dotbien_hatang": "Tư vấn giám sát thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng + thiết bị",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Châu Thành",
+            "createdBy": "vn3900370376",
+            "publicDate": "2024-10-18 10:37:09",
+            "projectName": null,
+            "bidCloseDate": "2024-10-25 14:00:00",
+            "id_muasamcong": "c1337e5d-d501-40f4-ac6d-f8a0c6a4dbdd",
+            "tongmuc_dautu": 969653000.0,
+            "bidNamePlanNew": "PL2400233903",
+            "dotbien_hatang": "Thi công xây dựng + thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Phòng Hậu cần, Công an tỉnh Tây Ninh",
+            "createdBy": "vn0311217277",
+            "publicDate": "2023-06-19 15:31:58",
+            "projectName": null,
+            "bidCloseDate": "2023-06-22 16:00:00",
+            "id_muasamcong": "cef3d647-ec51-4969-ab78-51c506c071c4",
+            "tongmuc_dautu": 5153291000.0,
+            "bidNamePlanNew": "PL2300091171",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Phòng Hậu cần, Công an tỉnh Tây Ninh",
+            "createdBy": "vn3900370376",
+            "publicDate": "2022-11-16 10:49:32",
+            "projectName": "Liên danh Công ty TNHH Tăng Việt Thắng và Công ty TNHH MTV Cấu Kiện Bê Tông Ninh Điền",
+            "bidCloseDate": "2022-11-26 11:00:00",
+            "id_muasamcong": "d1d6c7b1-7f2e-4f6a-8523-d5b3282545ee",
+            "tongmuc_dautu": 899875000.0,
+            "bidNamePlanNew": "PL2200046937",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Tư vấn giám sát thi công xây dựng và cung cấp lắp đặt thiết bị",
+            "chudautu": "Phòng Hậu cần, Công an tỉnh Tây Ninh",
+            "createdBy": "vn3900785645",
+            "publicDate": "2025-01-06 17:42:45",
+            "projectName": "Liên danh giám sát dự án: Mở rộng Trụ sở làm việc Công an huyện Châu Thành",
+            "bidCloseDate": "2025-01-22 15:00:00",
+            "id_muasamcong": "d3d349b0-52cf-41fe-bd82-5de08ff8c9c2",
+            "tongmuc_dautu": 800000000.0,
+            "bidNamePlanNew": "PL2400133157",
+            "dotbien_hatang": "Tư vấn giám sát thi công xây dựng và cung cấp lắp đặt thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu TV-07: Tư vấn giám sát thi công xây dựng và lắp đặt doanh cụ",
+            "chudautu": "SƯ ĐOÀN 5, QUÂN KHU 7",
+            "createdBy": "vn0316422110",
+            "publicDate": "2024-10-19 12:51:00",
+            "projectName": null,
+            "bidCloseDate": "2024-11-06 09:30:00",
+            "id_muasamcong": "e11a9510-5c63-4b2f-91ca-46db8f706ef7",
+            "tongmuc_dautu": 770000000.0,
+            "bidNamePlanNew": "PL2400042003",
+            "dotbien_hatang": "Gói thầu TV-07: Tư vấn giám sát thi công xây dựng và lắp đặt doanh cụ",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Bộ CHQS tỉnh Tây Ninh",
+            "createdBy": "vn3900785645",
+            "publicDate": "2023-11-28 16:10:14",
+            "projectName": null,
+            "bidCloseDate": "2023-12-08 16:15:00",
+            "id_muasamcong": "e6ea444f-de40-429c-8b3c-97e0e6983055",
+            "tongmuc_dautu": 14298691000.0,
+            "bidNamePlanNew": "PL2300227849",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08: Tư vấn giám sát thi công xây dựng và lắp đặt doanh cụ, thiết bị",
+            "chudautu": "SƯ ĐOÀN 5, QUÂN KHU 7",
+            "createdBy": "vn0304239696",
+            "publicDate": "2022-11-07 16:04:32",
+            "projectName": null,
+            "bidCloseDate": "2022-11-28 15:30:00",
+            "id_muasamcong": "e758d695-9b7a-48bb-b665-df9d472bca3a",
+            "tongmuc_dautu": 1581700000.0,
+            "bidNamePlanNew": "PL2200023125",
+            "dotbien_hatang": "Gói thầu số 08: Tư vấn giám sát thi công xây dựng và lắp đặt doanh cụ, thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng (bao gồm hồ nước PCCC và máy lạnh)",
+            "chudautu": "Ban Quản lý dự án Đầu tư Xây dựng tỉnh Tây Ninh",
+            "createdBy": "vn3900975678",
+            "publicDate": "2023-11-27 09:38:27",
+            "projectName": null,
+            "bidCloseDate": "2023-12-07 10:00:00",
+            "id_muasamcong": "e98b6fb9-19c9-41b3-a34c-1f17851a7f34",
+            "tongmuc_dautu": 5415463000.0,
+            "bidNamePlanNew": "PL2300212761",
+            "dotbien_hatang": "Thi công xây dựng (bao gồm hồ nước PCCC và máy lạnh)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói 10.1: Thi công xây dựng (Phần khối lượng còn lại)",
+            "chudautu": "TỔNG CÔNG TY ĐIỆN LỰC MIỀN NAM TNHH",
+            "createdBy": "vnz000010501",
+            "publicDate": "2025-01-13 10:09:17",
+            "projectName": null,
+            "bidCloseDate": "2025-01-22 10:00:00",
+            "id_muasamcong": "ec6521a2-b9dd-4df5-8fc9-68ae654563fe",
+            "tongmuc_dautu": 10350026579.0,
+            "bidNamePlanNew": "PL2500003368",
+            "dotbien_hatang": "Gói 10.1: Thi công xây dựng (Phần khối lượng còn lại)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Phòng Hậu cần, Công an tỉnh Tây Ninh",
+            "createdBy": "vn3900370376",
+            "publicDate": "2022-12-04 11:45:51",
+            "projectName": null,
+            "bidCloseDate": "2022-12-14 14:00:00",
+            "id_muasamcong": "eea40481-a1f8-4581-b854-be294f2e6ffc",
+            "tongmuc_dautu": 616000000.0,
+            "bidNamePlanNew": "PL2200064393",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "HH-01: Thi công xây dựng và lắp đặt doanh cụ",
+            "chudautu": "SƯ ĐOÀN 5, QUÂN KHU 7",
+            "createdBy": "vn0316422110",
+            "publicDate": "2024-12-31 12:26:19",
+            "projectName": null,
+            "bidCloseDate": "2025-01-18 09:30:00",
+            "id_muasamcong": "f1153a61-32a9-4962-b768-5af17d4b6a3f",
+            "tongmuc_dautu": 62395025244.0,
+            "bidNamePlanNew": "PL2400300705",
+            "dotbien_hatang": "HH-01: Thi công xây dựng và lắp đặt doanh cụ",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "XL: Thi công xây dựng",
+            "chudautu": "Cục Kỹ thuật, Quân khu 7",
+            "createdBy": "vn0310610365",
+            "publicDate": "2023-08-17 16:58:01",
+            "projectName": null,
+            "bidCloseDate": "2023-08-28 08:00:00",
+            "id_muasamcong": "fb778b74-e603-4beb-bc76-70b4b483f89e",
+            "tongmuc_dautu": 1026489000.0,
+            "bidNamePlanNew": "PL2300120812",
+            "dotbien_hatang": "XL: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Phòng Hậu cần, Công an tỉnh Tây Ninh",
+            "createdBy": "vn3900876405",
+            "publicDate": "2024-11-22 08:32:45",
+            "projectName": null,
+            "bidCloseDate": "2024-11-29 15:00:00",
+            "id_muasamcong": "ff7305cd-c6b6-414b-8e10-5f9970be509a",
+            "tongmuc_dautu": 816335026.0,
+            "bidNamePlanNew": "PL2400280467",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp",
+            "chudautu": "Phòng Hậu cần, Công an tỉnh Tây Ninh",
+            "createdBy": "vn3900370376",
+            "publicDate": "2022-12-06 09:30:51",
+            "projectName": null,
+            "bidCloseDate": "2022-12-16 10:00:00",
+            "id_muasamcong": "ffbd33a6-5a2a-4ed2-ac41-f4d4bca56c12",
+            "tongmuc_dautu": 137000000.0,
+            "bidNamePlanNew": "PL2200034367",
+            "dotbien_hatang": "Thi công xây lắp",
+            "link_muasamcong": ""
+        }
+    ],
+    "so_dot_bien": 42,
+    "thu_tu_sap_xep": 379,
+    "polygon": [
+        [
+            [
+                106.037747,
+                11.403619
+            ],
+            [
+                106.041818,
+                11.403031
+            ],
+            [
+                106.047063,
+                11.40531
+            ],
+            [
+                106.051725,
+                11.407288
+            ],
+            [
+                106.058901,
+                11.407263
+            ],
+            [
+                106.06323,
+                11.407493
+            ],
+            [
+                106.070549,
+                11.410012
+            ],
+            [
+                106.074237,
+                11.410956
+            ],
+            [
+                106.07734,
+                11.410753
+            ],
+            [
+                106.080174,
+                11.40835
+            ],
+            [
+                106.078189,
+                11.403103
+            ],
+            [
+                106.07683,
+                11.395383
+            ],
+            [
+                106.074708,
+                11.392919
+            ],
+            [
+                106.071647,
+                11.390458
+            ],
+            [
+                106.070419,
+                11.386896
+            ],
+            [
+                106.071009,
+                11.385661
+            ],
+            [
+                106.071267,
+                11.382928
+            ],
+            [
+                106.072096,
+                11.374144
+            ],
+            [
+                106.072438,
+                11.370148
+            ],
+            [
+                106.072837,
+                11.365271
+            ],
+            [
+                106.072823,
+                11.361571
+            ],
+            [
+                106.072934,
+                11.359397
+            ],
+            [
+                106.07432,
+                11.356191
+            ],
+            [
+                106.075683,
+                11.354718
+            ],
+            [
+                106.077759,
+                11.353065
+            ],
+            [
+                106.079872,
+                11.348029
+            ],
+            [
+                106.079106,
+                11.34074
+            ],
+            [
+                106.07881,
+                11.335727
+            ],
+            [
+                106.076956,
+                11.333728
+            ],
+            [
+                106.073993,
+                11.331369
+            ],
+            [
+                106.073991,
+                11.330822
+            ],
+            [
+                106.076381,
+                11.327896
+            ],
+            [
+                106.07895,
+                11.323693
+            ],
+            [
+                106.078931,
+                11.318588
+            ],
+            [
+                106.081137,
+                11.31621
+            ],
+            [
+                106.08242,
+                11.313471
+            ],
+            [
+                106.081493,
+                11.312563
+            ],
+            [
+                106.076691,
+                11.312033
+            ],
+            [
+                106.076129,
+                11.309847
+            ],
+            [
+                106.076103,
+                11.302919
+            ],
+            [
+                106.077022,
+                11.302004
+            ],
+            [
+                106.080532,
+                11.302539
+            ],
+            [
+                106.083498,
+                11.305627
+            ],
+            [
+                106.085157,
+                11.305074
+            ],
+            [
+                106.086807,
+                11.301969
+            ],
+            [
+                106.089011,
+                11.298861
+            ],
+            [
+                106.097966,
+                11.299102
+            ],
+            [
+                106.098183,
+                11.297528
+            ],
+            [
+                106.098093,
+                11.293917
+            ],
+            [
+                106.098043,
+                11.291889
+            ],
+            [
+                106.097557,
+                11.289365
+            ],
+            [
+                106.097255,
+                11.288133
+            ],
+            [
+                106.096239,
+                11.286903
+            ],
+            [
+                106.094836,
+                11.285528
+            ],
+            [
+                106.094118,
+                11.284415
+            ],
+            [
+                106.093871,
+                11.282007
+            ],
+            [
+                106.09349,
+                11.275606
+            ],
+            [
+                106.093136,
+                11.268353
+            ],
+            [
+                106.093008,
+                11.266122
+            ],
+            [
+                106.092837,
+                11.26016
+            ],
+            [
+                106.092635,
+                11.253876
+            ],
+            [
+                106.092687,
+                11.25182
+            ],
+            [
+                106.093358,
+                11.248557
+            ],
+            [
+                106.093766,
+                11.246148
+            ],
+            [
+                106.093761,
+                11.244914
+            ],
+            [
+                106.093095,
+                11.241686
+            ],
+            [
+                106.092073,
+                11.238811
+            ],
+            [
+                106.090722,
+                11.235439
+            ],
+            [
+                106.088958,
+                11.23292
+            ],
+            [
+                106.087552,
+                11.231486
+            ],
+            [
+                106.088007,
+                11.230052
+            ],
+            [
+                106.088702,
+                11.229361
+            ],
+            [
+                106.08946,
+                11.228732
+            ],
+            [
+                106.0906,
+                11.228602
+            ],
+            [
+                106.091551,
+                11.228662
+            ],
+            [
+                106.092694,
+                11.229158
+            ],
+            [
+                106.094092,
+                11.229967
+            ],
+            [
+                106.096191,
+                11.2319
+            ],
+            [
+                106.097208,
+                11.232836
+            ],
+            [
+                106.100987,
+                11.234731
+            ],
+            [
+                106.10194,
+                11.235416
+            ],
+            [
+                106.10245,
+                11.236166
+            ],
+            [
+                106.102517,
+                11.237042
+            ],
+            [
+                106.102538,
+                11.242739
+            ],
+            [
+                106.102669,
+                11.243615
+            ],
+            [
+                106.103337,
+                11.244395
+            ],
+            [
+                106.104544,
+                11.24508
+            ],
+            [
+                106.109367,
+                11.246564
+            ],
+            [
+                106.114001,
+                11.248363
+            ],
+            [
+                106.114762,
+                11.248422
+            ],
+            [
+                106.11527,
+                11.248483
+            ],
+            [
+                106.115713,
+                11.248294
+            ],
+            [
+                106.116472,
+                11.247852
+            ],
+            [
+                106.119882,
+                11.244521
+            ],
+            [
+                106.121333,
+                11.242763
+            ],
+            [
+                106.122876,
+                11.240284
+            ],
+            [
+                106.12376,
+                11.239404
+            ],
+            [
+                106.124646,
+                11.239088
+            ],
+            [
+                106.12566,
+                11.239021
+            ],
+            [
+                106.128071,
+                11.239451
+            ],
+            [
+                106.131369,
+                11.240127
+            ],
+            [
+                106.133271,
+                11.240182
+            ],
+            [
+                106.134094,
+                11.239991
+            ],
+            [
+                106.134917,
+                11.239612
+            ],
+            [
+                106.135486,
+                11.239172
+            ],
+            [
+                106.13599,
+                11.238544
+            ],
+            [
+                106.136617,
+                11.236851
+            ],
+            [
+                106.137624,
+                11.235032
+            ],
+            [
+                106.141941,
+                11.228598
+            ],
+            [
+                106.144082,
+                11.225146
+            ],
+            [
+                106.146721,
+                11.219314
+            ],
+            [
+                106.148259,
+                11.215395
+            ],
+            [
+                106.14857,
+                11.213829
+            ],
+            [
+                106.148598,
+                11.212985
+            ],
+            [
+                106.148683,
+                11.210447
+            ],
+            [
+                106.148239,
+                11.202341
+            ],
+            [
+                106.148164,
+                11.201296
+            ],
+            [
+                106.106691,
+                11.204261
+            ],
+            [
+                106.096881,
+                11.205861
+            ],
+            [
+                106.094028,
+                11.205246
+            ],
+            [
+                106.090843,
+                11.200253
+            ],
+            [
+                106.080663,
+                11.187463
+            ],
+            [
+                106.074625,
+                11.181541
+            ],
+            [
+                106.068286,
+                11.179687
+            ],
+            [
+                106.058787,
+                11.17972
+            ],
+            [
+                106.050559,
+                11.181001
+            ],
+            [
+                106.042971,
+                11.184156
+            ],
+            [
+                106.035705,
+                11.188874
+            ],
+            [
+                106.030013,
+                11.191083
+            ],
+            [
+                106.024628,
+                11.190476
+            ],
+            [
+                106.013977,
+                11.184817
+            ],
+            [
+                106.013269,
+                11.189302
+            ],
+            [
+                105.999801,
+                11.191319
+            ],
+            [
+                105.976366,
+                11.197806
+            ],
+            [
+                105.9685,
+                11.196229
+            ],
+            [
+                105.964756,
+                11.195995
+            ],
+            [
+                105.95279,
+                11.199731
+            ],
+            [
+                105.934608,
+                11.210389
+            ],
+            [
+                105.932384,
+                11.212732
+            ],
+            [
+                105.922171,
+                11.223493
+            ],
+            [
+                105.909998,
+                11.24128
+            ],
+            [
+                105.906041,
+                11.252878
+            ],
+            [
+                105.911574,
+                11.266173
+            ],
+            [
+                105.908628,
+                11.281713
+            ],
+            [
+                105.897146,
+                11.281994
+            ],
+            [
+                105.891669,
+                11.286695
+            ],
+            [
+                105.876441,
+                11.286494
+            ],
+            [
+                105.867935,
+                11.280109
+            ],
+            [
+                105.866687,
+                11.280359
+            ],
+            [
+                105.863457,
+                11.285299
+            ],
+            [
+                105.862223,
+                11.289987
+            ],
+            [
+                105.871236,
+                11.298835
+            ],
+            [
+                105.871504,
+                11.304751
+            ],
+            [
+                105.865798,
+                11.3166
+            ],
+            [
+                105.867053,
+                11.319062
+            ],
+            [
+                105.872815,
+                11.325454
+            ],
+            [
+                105.881894,
+                11.355256
+            ],
+            [
+                105.882183,
+                11.368074
+            ],
+            [
+                105.870711,
+                11.372792
+            ],
+            [
+                105.869731,
+                11.378958
+            ],
+            [
+                105.874002,
+                11.387327
+            ],
+            [
+                105.878758,
+                11.391011
+            ],
+            [
+                105.872795,
+                11.401136
+            ],
+            [
+                105.871217,
+                11.404208
+            ],
+            [
+                105.87333,
+                11.404569
+            ],
+            [
+                105.877991,
+                11.406149
+            ],
+            [
+                105.880415,
+                11.407061
+            ],
+            [
+                105.882344,
+                11.408281
+            ],
+            [
+                105.884835,
+                11.410725
+            ],
+            [
+                105.886207,
+                11.412437
+            ],
+            [
+                105.886576,
+                11.413836
+            ],
+            [
+                105.886392,
+                11.414634
+            ],
+            [
+                105.88652,
+                11.415675
+            ],
+            [
+                105.886584,
+                11.416472
+            ],
+            [
+                105.887209,
+                11.417757
+            ],
+            [
+                105.889458,
+                11.422224
+            ],
+            [
+                105.891328,
+                11.424548
+            ],
+            [
+                105.892697,
+                11.425218
+            ],
+            [
+                105.896177,
+                11.426372
+            ],
+            [
+                105.898793,
+                11.427208
+            ],
+            [
+                105.900964,
+                11.428012
+            ],
+            [
+                105.90165,
+                11.428868
+            ],
+            [
+                105.902025,
+                11.429725
+            ],
+            [
+                105.901903,
+                11.430399
+            ],
+            [
+                105.901163,
+                11.431934
+            ],
+            [
+                105.900856,
+                11.433038
+            ],
+            [
+                105.901482,
+                11.43463
+            ],
+            [
+                105.902729,
+                11.436281
+            ],
+            [
+                105.903292,
+                11.43775
+            ],
+            [
+                105.903609,
+                11.439649
+            ],
+            [
+                105.903801,
+                11.441548
+            ],
+            [
+                105.903587,
+                11.44256
+            ],
+            [
+                105.903032,
+                11.443727
+            ],
+            [
+                105.901918,
+                11.44514
+            ],
+            [
+                105.900495,
+                11.446738
+            ],
+            [
+                105.898576,
+                11.448521
+            ],
+            [
+                105.897461,
+                11.449505
+            ],
+            [
+                105.896407,
+                11.450121
+            ],
+            [
+                105.894546,
+                11.45074
+            ],
+            [
+                105.897083,
+                11.451155
+            ],
+            [
+                105.899619,
+                11.451571
+            ],
+            [
+                105.902047,
+                11.45187
+            ],
+            [
+                105.914538,
+                11.451962
+            ],
+            [
+                105.963432,
+                11.452318
+            ],
+            [
+                105.972359,
+                11.453054
+            ],
+            [
+                105.978754,
+                11.451118
+            ],
+            [
+                105.988818,
+                11.444574
+            ],
+            [
+                106.009512,
+                11.426887
+            ],
+            [
+                106.022784,
+                11.415011
+            ],
+            [
+                106.026591,
+                11.414877
+            ],
+            [
+                106.028665,
+                11.413225
+            ],
+            [
+                106.032724,
+                11.40919
+            ],
+            [
+                106.035816,
+                11.405924
+            ],
+            [
+                106.037747,
+                11.403619
+            ]
+        ]
+    ]
+}

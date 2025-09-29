@@ -1,0 +1,958 @@
+{
+    "id_district": "623",
+    "id_province": 61,
+    "name_province": "Vĩnh Long",
+    "name_district": "Huyện Bình Tân",
+    "list_sukien": [
+        {
+            "bidName": "Gói số 11B: Giám sát thi công xây dựng công trình gói thầu xây lắp số 1B",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng các công trình Nông nghiệp và PTNT Vĩnh Long",
+            "createdBy": "vnz000013356",
+            "publicDate": "2024-11-20 15:34:39",
+            "projectName": null,
+            "bidCloseDate": "2024-12-09 08:00:00",
+            "id_muasamcong": "0ffb4c9a-2968-4181-b296-8c760bd0fe0d",
+            "tongmuc_dautu": 458522400.0,
+            "bidNamePlanNew": "20200415378",
+            "dotbien_hatang": "Gói số 11B: Giám sát thi công xây dựng công trình gói thầu xây lắp số 1B",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng các hạng mục công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BÌNH TÂN",
+            "createdBy": "vn1500971379",
+            "publicDate": "2023-03-27 12:20:21",
+            "projectName": null,
+            "bidCloseDate": "2023-04-03 16:00:00",
+            "id_muasamcong": "18134376-4276-43ef-bfe9-c6c63642c2fa",
+            "tongmuc_dautu": 4283010000.0,
+            "bidNamePlanNew": "PL2300037891",
+            "dotbien_hatang": "Thi công xây dựng các hạng mục công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng các hạng mục công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BÌNH TÂN",
+            "createdBy": "vn1501102910",
+            "publicDate": "2023-03-15 14:58:53",
+            "projectName": null,
+            "bidCloseDate": "2023-03-22 15:15:00",
+            "id_muasamcong": "197c1032-1d92-4294-8cf4-0e3a24553f30",
+            "tongmuc_dautu": 2872630000.0,
+            "bidNamePlanNew": "PL2300030235",
+            "dotbien_hatang": "Thi công xây dựng các hạng mục công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "CÔNG TY ĐIỆN LỰC VĨNH LONG",
+            "createdBy": "vnz000023627-01",
+            "publicDate": "2023-04-26 09:02:41",
+            "projectName": null,
+            "bidCloseDate": "2023-05-09 09:00:00",
+            "id_muasamcong": "3a9913c4-055e-4bd3-b734-345af876a294",
+            "tongmuc_dautu": 8001408000.0,
+            "bidNamePlanNew": "PL2300015291",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 1: Thi công xây dựng các hạng mục công trình",
+            "chudautu": "Bộ Chỉ huy Quân sự tỉnh Vĩnh Long",
+            "createdBy": "vn0315989475",
+            "publicDate": "2024-04-05 14:35:02",
+            "projectName": null,
+            "bidCloseDate": "2024-04-12 15:00:00",
+            "id_muasamcong": "3cd6ddd0-2f7d-43d0-a5b1-ddd08a523d23",
+            "tongmuc_dautu": 4602769000.0,
+            "bidNamePlanNew": "PL2400040006",
+            "dotbien_hatang": "Gói thầu số 1: Thi công xây dựng các hạng mục công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng các hạng mục công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BÌNH TÂN",
+            "createdBy": "vn1501102910-01",
+            "publicDate": "2023-03-27 10:21:38",
+            "projectName": null,
+            "bidCloseDate": "2023-04-01 09:00:00",
+            "id_muasamcong": "3f1b5f8e-8cff-4383-a348-1e9ac6b8ed9f",
+            "tongmuc_dautu": 2749377000.0,
+            "bidNamePlanNew": "PL2300037907",
+            "dotbien_hatang": "Thi công xây dựng các hạng mục công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng các hạng mục công trình (trừ các hạng mục đường (D8) đường Phan Chu Trình)",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BÌNH TÂN",
+            "createdBy": "vn1500971379",
+            "publicDate": "2023-03-27 17:54:28",
+            "projectName": null,
+            "bidCloseDate": "2023-04-17 08:00:00",
+            "id_muasamcong": "5140aad6-c1f9-4440-aa3a-a905871d9d41",
+            "tongmuc_dautu": 21873499000.0,
+            "bidNamePlanNew": "PL2300037485",
+            "dotbien_hatang": "Thi công xây dựng các hạng mục công trình (trừ các hạng mục đường (D8) đường Phan Chu Trình)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng các hạng mục công trình (trừ hạng mục hệ thống PCCC & chống sét)",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BÌNH TÂN",
+            "createdBy": "vn1500496885",
+            "publicDate": "2025-01-08 17:33:10",
+            "projectName": null,
+            "bidCloseDate": "2025-01-17 07:00:00",
+            "id_muasamcong": "55197e45-3fc5-4aa6-b26a-5ce8f7d118f9",
+            "tongmuc_dautu": 8379801000.0,
+            "bidNamePlanNew": "PL2400335175",
+            "dotbien_hatang": "Thi công xây dựng các hạng mục công trình (trừ hạng mục hệ thống PCCC & chống sét)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng các hạng mục công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BÌNH TÂN",
+            "createdBy": "vn1500496885",
+            "publicDate": "2025-01-08 17:34:08",
+            "projectName": null,
+            "bidCloseDate": "2025-01-17 07:00:00",
+            "id_muasamcong": "5b837c58-415e-4dd0-9f4f-426d4f958c48",
+            "tongmuc_dautu": 10530756000.0,
+            "bidNamePlanNew": "PL2400335206",
+            "dotbien_hatang": "Thi công xây dựng các hạng mục công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng các hạng mục công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BÌNH TÂN",
+            "createdBy": "vn0316773408",
+            "publicDate": "2024-08-26 11:30:21",
+            "projectName": ": Liên danh Đường liên ấp Thành Quý - Thành Giang",
+            "bidCloseDate": "2024-09-04 15:00:00",
+            "id_muasamcong": "71377ad3-1c9a-4003-9c3e-d5df14bdcccd",
+            "tongmuc_dautu": 12628362135.0,
+            "bidNamePlanNew": "PL2400156016",
+            "dotbien_hatang": "Thi công xây dựng các hạng mục công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng các hạng mục công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BÌNH TÂN",
+            "createdBy": "vn1501090140",
+            "publicDate": "2023-04-03 09:32:22",
+            "projectName": null,
+            "bidCloseDate": "2023-04-08 09:35:00",
+            "id_muasamcong": "8b0382d2-82b4-4686-9d25-9be80e9b2720",
+            "tongmuc_dautu": 3892528000.0,
+            "bidNamePlanNew": "PL2300043021",
+            "dotbien_hatang": "Thi công xây dựng các hạng mục công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng các hạng mục công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BÌNH TÂN",
+            "createdBy": "vn1501090140",
+            "publicDate": "2023-04-10 10:19:11",
+            "projectName": null,
+            "bidCloseDate": "2023-04-15 10:30:00",
+            "id_muasamcong": "8d4d40b3-f5b9-4145-9f37-c3288ba74c46",
+            "tongmuc_dautu": 3273651000.0,
+            "bidNamePlanNew": "PL2300045904",
+            "dotbien_hatang": "Thi công xây dựng các hạng mục công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói số 2B: Thi công xây dựng hoàn trả hạ tầng kỹ thuật hệ thống điện phục vụ gói thầu xây lắp số 1B",
+            "chudautu": "Ban Quản lý dự án đầu tư xây dựng các công trình Nông nghiệp và PTNT Vĩnh Long",
+            "createdBy": "vnz000013356",
+            "publicDate": "2024-11-27 19:06:52",
+            "projectName": null,
+            "bidCloseDate": "2024-12-06 08:00:00",
+            "id_muasamcong": "96801f29-58fc-4635-9e82-a22895e9427a",
+            "tongmuc_dautu": 270446190.0,
+            "bidNamePlanNew": "20200415378",
+            "dotbien_hatang": "Gói số 2B: Thi công xây dựng hoàn trả hạ tầng kỹ thuật hệ thống điện phục vụ gói thầu xây lắp số 1B",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "CÔNG TY ĐIỆN LỰC VĨNH LONG",
+            "createdBy": "vnz000023627-01",
+            "publicDate": "2024-03-12 17:12:38",
+            "projectName": null,
+            "bidCloseDate": "2024-03-25 09:30:00",
+            "id_muasamcong": "a925db09-c43f-4e43-9e93-9b43efcfae85",
+            "tongmuc_dautu": 4658250770.44,
+            "bidNamePlanNew": "PL2400025307",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng các hạng mục công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BÌNH TÂN",
+            "createdBy": "vn1500971379",
+            "publicDate": "2023-07-10 21:08:38",
+            "projectName": null,
+            "bidCloseDate": "2023-07-15 17:00:00",
+            "id_muasamcong": "ae61449d-9c22-42e4-8314-27a4d293b14f",
+            "tongmuc_dautu": 2061488800.0,
+            "bidNamePlanNew": "PL2300112844",
+            "dotbien_hatang": "Thi công xây dựng các hạng mục công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng và lắp đặt thiết bị công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BÌNH TÂN",
+            "createdBy": "vn1500496885",
+            "publicDate": "2024-09-10 12:45:17",
+            "projectName": null,
+            "bidCloseDate": "2024-09-17 07:00:00",
+            "id_muasamcong": "b05a39c4-576c-4a09-a2f5-3933120476b3",
+            "tongmuc_dautu": 2146053000.0,
+            "bidNamePlanNew": "PL2400183472",
+            "dotbien_hatang": "Thi công xây dựng và lắp đặt thiết bị công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng các hạng mục công trình (trừ hạng mục hệ thống PCCC)",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BÌNH TÂN",
+            "createdBy": "vn1500496885",
+            "publicDate": "2024-08-22 15:42:01",
+            "projectName": null,
+            "bidCloseDate": "2024-08-28 17:00:00",
+            "id_muasamcong": "ba3c0479-5a96-4412-a826-0d3d7f1968ce",
+            "tongmuc_dautu": 11082068000.0,
+            "bidNamePlanNew": "PL2400169144",
+            "dotbien_hatang": "Thi công xây dựng các hạng mục công trình (trừ hạng mục hệ thống PCCC)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng các hạng mục công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BÌNH TÂN",
+            "createdBy": "vn1501090140",
+            "publicDate": "2023-04-10 09:36:55",
+            "projectName": null,
+            "bidCloseDate": "2023-04-15 10:00:00",
+            "id_muasamcong": "bb5f0b3f-5db0-4015-9042-3f6a2365845a",
+            "tongmuc_dautu": 1246879000.0,
+            "bidNamePlanNew": "PL2300045891",
+            "dotbien_hatang": "Thi công xây dựng các hạng mục công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng hạng mục Bảo dưỡng, sửa chữa trường Tiểu học Thành Trung A",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BÌNH TÂN",
+            "createdBy": "vn1500496885",
+            "publicDate": "2024-08-27 11:59:53",
+            "projectName": null,
+            "bidCloseDate": "2024-09-05 07:00:00",
+            "id_muasamcong": "bf627358-6b8d-4fcb-9fe3-458475d14447",
+            "tongmuc_dautu": 796582000.0,
+            "bidNamePlanNew": "PL2400174840",
+            "dotbien_hatang": "Thi công xây dựng hạng mục Bảo dưỡng, sửa chữa trường Tiểu học Thành Trung A",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng các hạng mục công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BÌNH TÂN",
+            "createdBy": "vn1500496885",
+            "publicDate": "2024-08-16 09:42:42",
+            "projectName": null,
+            "bidCloseDate": "2024-08-23 07:00:00",
+            "id_muasamcong": "c07ab5e8-9187-4c95-bf5e-f944808fcbc4",
+            "tongmuc_dautu": 2978884000.0,
+            "bidNamePlanNew": "PL2400164918",
+            "dotbien_hatang": "Thi công xây dựng các hạng mục công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 01: Thi công xây dựng các hạng mục công trình và thiết bị công trình",
+            "chudautu": "Công an tỉnh Vĩnh Long",
+            "createdBy": "vnz000005198",
+            "publicDate": "2023-06-26 09:41:36",
+            "projectName": null,
+            "bidCloseDate": "2023-06-30 16:00:00",
+            "id_muasamcong": "c1507aaa-8686-44a1-aaa1-9bc63b2408bb",
+            "tongmuc_dautu": 2550899442.0,
+            "bidNamePlanNew": "PL2300100199",
+            "dotbien_hatang": "Gói thầu số 01: Thi công xây dựng các hạng mục công trình và thiết bị công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng hạng mục Bảo dưỡng, sửa chữa trường Mầm non Tuổi Thơ",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BÌNH TÂN",
+            "createdBy": "vn1500496885",
+            "publicDate": "2024-08-27 12:29:04",
+            "projectName": null,
+            "bidCloseDate": "2024-09-05 07:00:00",
+            "id_muasamcong": "c1be04dd-cb5b-4bb7-ae25-d36be186d7da",
+            "tongmuc_dautu": 322706000.0,
+            "bidNamePlanNew": "PL2400174840",
+            "dotbien_hatang": "Thi công xây dựng hạng mục Bảo dưỡng, sửa chữa trường Mầm non Tuổi Thơ",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng các hạng mục công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BÌNH TÂN",
+            "createdBy": "vn1500496885",
+            "publicDate": "2025-01-15 08:42:02",
+            "projectName": "LIÊN DANH CÔNG TY TNHH ĐẦU TƯ XÂY DỰNG VÀ THƯƠNG MẠI ĐẠI LỤC VÀ CÔNG TY TNHH TƯ VẤN VÀ XÂY DỰNG KVK",
+            "bidCloseDate": "2025-01-22 07:00:00",
+            "id_muasamcong": "da0a01c0-f4bc-4adb-a824-0b99a1918960",
+            "tongmuc_dautu": 1663930000.0,
+            "bidNamePlanNew": "PL2500004366",
+            "dotbien_hatang": "Thi công xây dựng các hạng mục công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng các hạng mục công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BÌNH TÂN",
+            "createdBy": "vn1501102910",
+            "publicDate": "2023-03-15 14:18:14",
+            "projectName": null,
+            "bidCloseDate": "2023-03-22 15:00:00",
+            "id_muasamcong": "db3b5ff8-c058-4027-858d-22a7826d530c",
+            "tongmuc_dautu": 2141486000.0,
+            "bidNamePlanNew": "PL2300030129",
+            "dotbien_hatang": "Thi công xây dựng các hạng mục công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng các hạng mục công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BÌNH TÂN",
+            "createdBy": "vn1501090140",
+            "publicDate": "2023-07-10 16:28:44",
+            "projectName": null,
+            "bidCloseDate": "2023-07-28 10:00:00",
+            "id_muasamcong": "dc020f96-e59e-4242-896e-a0d09225d19f",
+            "tongmuc_dautu": 6629143000.0,
+            "bidNamePlanNew": "PL2300112855",
+            "dotbien_hatang": "Thi công xây dựng các hạng mục công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 08: Thi công xây lắp công trình",
+            "chudautu": "Phòng giao dịch Ngân hàng chính sách xã hội huyện Bình Tân",
+            "createdBy": "vnz000027871",
+            "publicDate": "2023-07-07 08:41:30",
+            "projectName": null,
+            "bidCloseDate": "2023-07-17 08:45:00",
+            "id_muasamcong": "dcbf23e7-5810-4ef0-a7f2-8ddee9b8a098",
+            "tongmuc_dautu": 4054485014.0,
+            "bidNamePlanNew": "PL2300104123",
+            "dotbien_hatang": "Gói thầu số 08: Thi công xây lắp công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng hạng mục Bảo dưỡng, sửa chữa trường Tiểu học Thành Trung B",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BÌNH TÂN",
+            "createdBy": "vn1500496885",
+            "publicDate": "2024-08-27 11:40:54",
+            "projectName": null,
+            "bidCloseDate": "2024-09-05 07:00:00",
+            "id_muasamcong": "dd26dbbc-cc3f-4c10-b4bd-cdb05d115dc3",
+            "tongmuc_dautu": 261694000.0,
+            "bidNamePlanNew": "PL2400174840",
+            "dotbien_hatang": "Thi công xây dựng hạng mục Bảo dưỡng, sửa chữa trường Tiểu học Thành Trung B",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng các hạng mục công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BÌNH TÂN",
+            "createdBy": "vn1501090140",
+            "publicDate": "2023-07-10 13:59:29",
+            "projectName": "Liên danh Công ty TNHH XD Hưng Phát Lợi và Công ty TNHH MTV Phúc Thịnh Bình Tân",
+            "bidCloseDate": "2023-07-15 14:00:00",
+            "id_muasamcong": "de485256-8d52-4c97-8d75-da630aaf3b8c",
+            "tongmuc_dautu": 2204295000.0,
+            "bidNamePlanNew": "PL2300112910",
+            "dotbien_hatang": "Thi công xây dựng các hạng mục công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng các hạng mục công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BÌNH TÂN",
+            "createdBy": "vn1501090140",
+            "publicDate": "2023-04-10 11:06:12",
+            "projectName": null,
+            "bidCloseDate": "2023-04-15 11:10:00",
+            "id_muasamcong": "e327a04e-a0b8-4777-9d47-79dadc913093",
+            "tongmuc_dautu": 2040237000.0,
+            "bidNamePlanNew": "PL2300045876",
+            "dotbien_hatang": "Thi công xây dựng các hạng mục công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Tư vấn Giám sát thi công xây dựng các hạng mục công trình (trừ các hạng mục đường (D8) đường Phan Chu Trình)",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BÌNH TÂN",
+            "createdBy": "vn1500971379",
+            "publicDate": "2023-03-28 20:35:18",
+            "projectName": null,
+            "bidCloseDate": "2023-04-18 08:00:00",
+            "id_muasamcong": "f43e0255-0d87-47d1-a105-d69e06e5e2fd",
+            "tongmuc_dautu": 502189620.0,
+            "bidNamePlanNew": "PL2300037485",
+            "dotbien_hatang": "Tư vấn Giám sát thi công xây dựng các hạng mục công trình (trừ các hạng mục đường (D8) đường Phan Chu Trình)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng các hạng mục công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BÌNH TÂN",
+            "createdBy": "vn1501018169",
+            "publicDate": "2024-12-04 10:37:56",
+            "projectName": null,
+            "bidCloseDate": "2024-12-11 08:00:00",
+            "id_muasamcong": "ff478963-feda-4722-9dcb-481238bbb94c",
+            "tongmuc_dautu": 1264868087.0,
+            "bidNamePlanNew": "PL2400292642",
+            "dotbien_hatang": "Thi công xây dựng các hạng mục công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng các hạng mục công trình",
+            "chudautu": "BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG HUYỆN BÌNH TÂN",
+            "createdBy": "vn1501102910",
+            "publicDate": "2023-06-08 14:38:47",
+            "projectName": "Liên danh Công ty TNHH MTV XD Huy Bình Bình Minh và Công ty trách nhiệm tư vấn và xây dựng KVK",
+            "bidCloseDate": "2023-06-15 08:00:00",
+            "id_muasamcong": "ffe458b7-5e93-42d8-8a9f-1a1332b9ad22",
+            "tongmuc_dautu": 2839090000.0,
+            "bidNamePlanNew": "PL2300086726",
+            "dotbien_hatang": "Thi công xây dựng các hạng mục công trình",
+            "link_muasamcong": ""
+        }
+    ],
+    "so_dot_bien": 32,
+    "thu_tu_sap_xep": 421,
+    "polygon": [
+        [
+            [
+                105.864477,
+                10.146877
+            ],
+            [
+                105.8629,
+                10.146944
+            ],
+            [
+                105.862828,
+                10.146051
+            ],
+            [
+                105.86369,
+                10.144031
+            ],
+            [
+                105.865498,
+                10.135995
+            ],
+            [
+                105.865503,
+                10.136277
+            ],
+            [
+                105.865608,
+                10.13557
+            ],
+            [
+                105.865611,
+                10.135554
+            ],
+            [
+                105.864859,
+                10.133442
+            ],
+            [
+                105.864852,
+                10.131116
+            ],
+            [
+                105.865808,
+                10.129845
+            ],
+            [
+                105.862904,
+                10.12034
+            ],
+            [
+                105.865023,
+                10.115366
+            ],
+            [
+                105.856973,
+                10.114071
+            ],
+            [
+                105.857404,
+                10.109676
+            ],
+            [
+                105.858766,
+                10.101967
+            ],
+            [
+                105.851506,
+                10.101529
+            ],
+            [
+                105.85164,
+                10.109088
+            ],
+            [
+                105.850037,
+                10.106824
+            ],
+            [
+                105.847651,
+                10.103617
+            ],
+            [
+                105.844029,
+                10.098643
+            ],
+            [
+                105.842358,
+                10.096998
+            ],
+            [
+                105.84162,
+                10.096228
+            ],
+            [
+                105.840589,
+                10.095426
+            ],
+            [
+                105.839655,
+                10.094872
+            ],
+            [
+                105.839107,
+                10.094648
+            ],
+            [
+                105.838829,
+                10.09458
+            ],
+            [
+                105.838448,
+                10.094615
+            ],
+            [
+                105.828806,
+                10.096935
+            ],
+            [
+                105.827939,
+                10.097222
+            ],
+            [
+                105.827491,
+                10.098796
+            ],
+            [
+                105.827317,
+                10.099558
+            ],
+            [
+                105.797046,
+                10.1062
+            ],
+            [
+                105.796771,
+                10.096749
+            ],
+            [
+                105.796014,
+                10.082643
+            ],
+            [
+                105.795771,
+                10.078705
+            ],
+            [
+                105.79558,
+                10.074215
+            ],
+            [
+                105.795409,
+                10.070385
+            ],
+            [
+                105.795257,
+                10.067178
+            ],
+            [
+                105.795283,
+                10.06217
+            ],
+            [
+                105.794344,
+                10.054858
+            ],
+            [
+                105.787933,
+                10.06371
+            ],
+            [
+                105.784637,
+                10.067199
+            ],
+            [
+                105.778555,
+                10.071514
+            ],
+            [
+                105.77851,
+                10.071539
+            ],
+            [
+                105.765972,
+                10.078302
+            ],
+            [
+                105.761952,
+                10.081691
+            ],
+            [
+                105.752881,
+                10.089084
+            ],
+            [
+                105.74989,
+                10.090729
+            ],
+            [
+                105.744526,
+                10.093404
+            ],
+            [
+                105.734106,
+                10.09824
+            ],
+            [
+                105.729672,
+                10.101322
+            ],
+            [
+                105.71627,
+                10.112411
+            ],
+            [
+                105.711113,
+                10.116108
+            ],
+            [
+                105.708249,
+                10.11791
+            ],
+            [
+                105.683676,
+                10.13337
+            ],
+            [
+                105.682628,
+                10.134035
+            ],
+            [
+                105.685636,
+                10.138268
+            ],
+            [
+                105.684206,
+                10.141476
+            ],
+            [
+                105.689908,
+                10.149704
+            ],
+            [
+                105.693127,
+                10.15436
+            ],
+            [
+                105.696477,
+                10.159404
+            ],
+            [
+                105.698283,
+                10.161907
+            ],
+            [
+                105.7011,
+                10.166309
+            ],
+            [
+                105.701699,
+                10.167474
+            ],
+            [
+                105.705509,
+                10.17304
+            ],
+            [
+                105.711256,
+                10.181291
+            ],
+            [
+                105.712767,
+                10.183491
+            ],
+            [
+                105.715132,
+                10.186791
+            ],
+            [
+                105.715427,
+                10.187147
+            ],
+            [
+                105.72272,
+                10.197825
+            ],
+            [
+                105.724953,
+                10.201191
+            ],
+            [
+                105.725662,
+                10.202132
+            ],
+            [
+                105.727646,
+                10.20497
+            ],
+            [
+                105.727717,
+                10.205074
+            ],
+            [
+                105.727731,
+                10.205065
+            ],
+            [
+                105.730272,
+                10.203886
+            ],
+            [
+                105.732053,
+                10.203059
+            ],
+            [
+                105.738906,
+                10.200345
+            ],
+            [
+                105.747518,
+                10.196835
+            ],
+            [
+                105.747941,
+                10.197389
+            ],
+            [
+                105.748732,
+                10.196545
+            ],
+            [
+                105.750574,
+                10.194286
+            ],
+            [
+                105.750835,
+                10.193914
+            ],
+            [
+                105.752686,
+                10.191516
+            ],
+            [
+                105.753406,
+                10.190503
+            ],
+            [
+                105.754378,
+                10.18922
+            ],
+            [
+                105.756087,
+                10.186739
+            ],
+            [
+                105.757272,
+                10.185051
+            ],
+            [
+                105.758905,
+                10.183174
+            ],
+            [
+                105.75931,
+                10.18265
+            ],
+            [
+                105.75963,
+                10.182406
+            ],
+            [
+                105.759958,
+                10.18264
+            ],
+            [
+                105.760286,
+                10.182875
+            ],
+            [
+                105.765529,
+                10.17938
+            ],
+            [
+                105.774869,
+                10.189568
+            ],
+            [
+                105.774871,
+                10.189564
+            ],
+            [
+                105.775214,
+                10.189134
+            ],
+            [
+                105.775802,
+                10.188337
+            ],
+            [
+                105.776933,
+                10.186796
+            ],
+            [
+                105.781822,
+                10.1806
+            ],
+            [
+                105.798638,
+                10.158767
+            ],
+            [
+                105.801287,
+                10.155481
+            ],
+            [
+                105.815278,
+                10.152512
+            ],
+            [
+                105.818089,
+                10.14957
+            ],
+            [
+                105.818287,
+                10.1495
+            ],
+            [
+                105.822861,
+                10.149044
+            ],
+            [
+                105.825444,
+                10.148911
+            ],
+            [
+                105.826257,
+                10.148988
+            ],
+            [
+                105.827433,
+                10.149027
+            ],
+            [
+                105.827883,
+                10.149047
+            ],
+            [
+                105.830116,
+                10.149357
+            ],
+            [
+                105.830914,
+                10.149355
+            ],
+            [
+                105.831264,
+                10.149386
+            ],
+            [
+                105.831584,
+                10.14948
+            ],
+            [
+                105.835682,
+                10.149801
+            ],
+            [
+                105.838456,
+                10.149825
+            ],
+            [
+                105.843686,
+                10.149938
+            ],
+            [
+                105.846572,
+                10.149973
+            ],
+            [
+                105.848755,
+                10.149967
+            ],
+            [
+                105.850639,
+                10.157244
+            ],
+            [
+                105.851416,
+                10.160134
+            ],
+            [
+                105.851421,
+                10.160132
+            ],
+            [
+                105.866286,
+                10.15385
+            ],
+            [
+                105.866394,
+                10.149187
+            ],
+            [
+                105.866383,
+                10.149174
+            ],
+            [
+                105.866432,
+                10.148456
+            ],
+            [
+                105.865848,
+                10.148529
+            ],
+            [
+                105.865185,
+                10.148612
+            ],
+            [
+                105.864837,
+                10.147312
+            ],
+            [
+                105.864718,
+                10.146867
+            ],
+            [
+                105.864477,
+                10.146877
+            ]
+        ]
+    ]
+}

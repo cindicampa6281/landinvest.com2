@@ -1,0 +1,5768 @@
+{
+    "id_district": "101",
+    "id_province": 52,
+    "name_province": "Sơn La",
+    "name_district": "Huyện Yên Châu",
+    "list_sukien": [
+        {
+            "bidName": "Thi công xây dựng thuộc công trình: Sửa chữa Trường TH-THCS Chiềng Sàng, xã Chiềng Sàng, huyện Yên Châu (Điểm trường bản Mai Ngập)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-07",
+            "publicDate": "2024-05-22 15:58:25",
+            "projectName": null,
+            "bidCloseDate": "2024-05-30 15:00:00",
+            "id_muasamcong": "02a6fb2a-87ca-4443-b6d0-ee7793a0cae0",
+            "tongmuc_dautu": 337152000.0,
+            "bidNamePlanNew": "PL2400068766",
+            "dotbien_hatang": "Thi công xây dựng thuộc công trình: Sửa chữa Trường TH-THCS Chiềng Sàng, xã Chiềng Sàng, huyện Yên Châu (Điểm trường bản Mai Ngập)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng thuộc công trình: Sửa chữa Trường TH-THCS Liên Chung, xã Phiêng Khoài, huyện Yên Châu (Điểm trường Tiểu học Liên Chung, Thanh Yên)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-07",
+            "publicDate": "2024-05-22 16:07:01",
+            "projectName": null,
+            "bidCloseDate": "2024-05-31 15:00:00",
+            "id_muasamcong": "02b3a6a4-e81f-4629-960a-2fbeb431284d",
+            "tongmuc_dautu": 998693000.0,
+            "bidNamePlanNew": "PL2400068791",
+            "dotbien_hatang": "Thi công xây dựng thuộc công trình: Sửa chữa Trường TH-THCS Liên Chung, xã Phiêng Khoài, huyện Yên Châu (Điểm trường Tiểu học Liên Chung, Thanh Yên)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Trường Trung học phổ thông Yên Châu",
+            "createdBy": "vn5500515750",
+            "publicDate": "2024-10-22 15:03:52",
+            "projectName": null,
+            "bidCloseDate": "2024-10-31 09:30:00",
+            "id_muasamcong": "0588843d-8bfc-41b8-9556-70afab20eea9",
+            "tongmuc_dautu": 404279000.0,
+            "bidNamePlanNew": "PL2400237235",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Phiêng Khoài ",
+            "createdBy": "vnz000029050",
+            "publicDate": "2024-11-18 20:48:31",
+            "projectName": null,
+            "bidCloseDate": "2024-11-25 10:00:00",
+            "id_muasamcong": "05cac0b1-082f-40dd-8b82-fb818c6c7516",
+            "tongmuc_dautu": 483670000.0,
+            "bidNamePlanNew": "PL2400273147",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Cung cấp vật tư, thiết bị và thi công xây dựng công trình cấp điện thị trấn Yên Châu, các xã: Chiềng Pằn, Chiềng Sàng, Viêng Lán, Chiềng Khoi, Chiềng Hặc, Yên Sơn, Chiềng Đông, Mường Lựm, Tú Nang, Lóng Phiêng, Chiềng Tương, Chiềng On, Phiêng Khoài huyện Yên Châu",
+            "chudautu": "Sở Công Thương tỉnh Sơn La",
+            "createdBy": "vnz000004348",
+            "publicDate": "2022-09-23 09:04:51",
+            "projectName": "Liên danh Công ty cổ phần đầu tư xây dựng Phú Minh - Công ty TNHH Ánh Trang Sơn La",
+            "bidCloseDate": "2022-10-13 15:00:00",
+            "id_muasamcong": "0682a227-50d3-4292-9d63-5b45b6ed26cf",
+            "tongmuc_dautu": 42677622000.0,
+            "bidNamePlanNew": "PL2200001776",
+            "dotbien_hatang": "Cung cấp vật tư, thiết bị và thi công xây dựng công trình cấp điện thị trấn Yên Châu, các xã: Chiềng Pằn, Chiềng Sàng, Viêng Lán, Chiềng Khoi, Chiềng Hặc, Yên Sơn, Chiềng Đông, Mường Lựm, Tú Nang, Lóng Phiêng, Chiềng Tương, Chiềng On, Phiêng Khoài huyện Yên Châu",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng + lắp đặt thiết bị + thí  nghiệm mẫu nước",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826",
+            "publicDate": "2024-08-29 09:43:42",
+            "projectName": null,
+            "bidCloseDate": "2024-09-10 15:00:00",
+            "id_muasamcong": "0995e475-4302-4010-97be-b01448eaf0d8",
+            "tongmuc_dautu": 3745609000.0,
+            "bidNamePlanNew": "PL2400181992",
+            "dotbien_hatang": "Thi công xây dựng + lắp đặt thiết bị + thí  nghiệm mẫu nước",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng + thiết bị các công trình trên địa bàn xã Phiêng Khoài",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826",
+            "publicDate": "2024-11-15 08:11:07",
+            "projectName": "Liên danh Công ty cổ phần điện Tân Thành – Công ty TNHH Tuấn Hoài Sơn La",
+            "bidCloseDate": "2024-11-25 10:00:00",
+            "id_muasamcong": "0d1bc8b1-a6b6-4179-8a81-073747e66a0e",
+            "tongmuc_dautu": 10058531000.0,
+            "bidNamePlanNew": "PL2300122100",
+            "dotbien_hatang": "Thi công xây dựng + thiết bị các công trình trên địa bàn xã Phiêng Khoài",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Chiềng Hặc ",
+            "createdBy": "vnz000026884",
+            "publicDate": "2024-11-11 02:07:34",
+            "projectName": null,
+            "bidCloseDate": "2024-11-18 10:15:00",
+            "id_muasamcong": "0fa43420-422d-482a-b208-510b329a341d",
+            "tongmuc_dautu": 219001000.0,
+            "bidNamePlanNew": "PL2400265188",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng thuộc công trình: Sửa chữa Trường TH-THCS Mường Lựm, xã Mường Lựm, huyện Yên Châu (Điểm Trung tâm)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-07",
+            "publicDate": "2024-05-14 10:47:00",
+            "projectName": null,
+            "bidCloseDate": "2024-05-21 09:00:00",
+            "id_muasamcong": "0faeef26-08c2-4f27-b9de-88f872dfdadb",
+            "tongmuc_dautu": 633622000.0,
+            "bidNamePlanNew": "PL2400071074",
+            "dotbien_hatang": "Thi công xây dựng thuộc công trình: Sửa chữa Trường TH-THCS Mường Lựm, xã Mường Lựm, huyện Yên Châu (Điểm Trung tâm)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Sặp Vạt ",
+            "createdBy": "vnz000026917",
+            "publicDate": "2022-12-14 15:34:35",
+            "projectName": null,
+            "bidCloseDate": "2022-12-19 15:30:00",
+            "id_muasamcong": "12ee9261-3393-49ff-a459-ee31b88a0f87",
+            "tongmuc_dautu": 136399626.0,
+            "bidNamePlanNew": "PL2200074639",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng (SC TH Chiềng Tương)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826",
+            "publicDate": "2024-05-22 16:08:27",
+            "projectName": null,
+            "bidCloseDate": "2024-06-03 10:00:00",
+            "id_muasamcong": "13c9cb96-4354-45bb-afbe-f018c4d48de9",
+            "tongmuc_dautu": 2004735000.0,
+            "bidNamePlanNew": "PL2400080453",
+            "dotbien_hatang": "Thi công xây dựng (SC TH Chiềng Tương)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây lắp công trình",
+            "chudautu": "VIỄN THÔNG SƠN LA",
+            "createdBy": "vn5500115537",
+            "publicDate": "2022-10-28 09:41:11",
+            "projectName": null,
+            "bidCloseDate": "2022-11-04 09:30:00",
+            "id_muasamcong": "14aa7ac1-abbc-44ad-80dd-790454f5ce2a",
+            "tongmuc_dautu": 1021839839.0,
+            "bidNamePlanNew": "PL2200027832",
+            "dotbien_hatang": "Thi công xây lắp công trình",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-02",
+            "publicDate": "2023-06-27 11:04:58",
+            "projectName": null,
+            "bidCloseDate": "2023-06-30 16:00:00",
+            "id_muasamcong": "1559cab8-15b5-47d8-a290-3c1d1764093f",
+            "tongmuc_dautu": 697102000.0,
+            "bidNamePlanNew": "PL2300098419",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng thuộc công trình: Sửa chữa Trường TH-THCS Sặp Vạt, xã Sặp Vạt, huyện Yên Châu. Hạng mục: Sửa chữa nhà bán trú học sinh 1 tầng 2 phòng + phụ trợ",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-07",
+            "publicDate": "2024-05-14 11:12:16",
+            "projectName": null,
+            "bidCloseDate": "2024-05-21 14:00:00",
+            "id_muasamcong": "16df0eb9-cacf-41d3-807c-afb3c8be26c7",
+            "tongmuc_dautu": 340156000.0,
+            "bidNamePlanNew": "PL2400068878",
+            "dotbien_hatang": "Thi công xây dựng thuộc công trình: Sửa chữa Trường TH-THCS Sặp Vạt, xã Sặp Vạt, huyện Yên Châu. Hạng mục: Sửa chữa nhà bán trú học sinh 1 tầng 2 phòng + phụ trợ",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Phiêng Khoài ",
+            "createdBy": "vnz000029050",
+            "publicDate": "2024-11-07 18:20:02",
+            "projectName": null,
+            "bidCloseDate": "2024-11-14 10:00:00",
+            "id_muasamcong": "17888997-75c2-48ea-8f07-8c5bb4c3e3e0",
+            "tongmuc_dautu": 278040000.0,
+            "bidNamePlanNew": "PL2400257876",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng (SC MN Hoa Ban)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-01",
+            "publicDate": "2024-04-16 10:40:42",
+            "projectName": null,
+            "bidCloseDate": "2024-04-23 10:00:00",
+            "id_muasamcong": "1865159d-7aea-4cbe-abea-2211a68b907e",
+            "tongmuc_dautu": 1362467000.0,
+            "bidNamePlanNew": "PL2400054380",
+            "dotbien_hatang": "Thi công xây dựng (SC MN Hoa Ban)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Chiềng Đông  ",
+            "createdBy": "vnz000029268",
+            "publicDate": "2024-12-09 21:16:24",
+            "projectName": null,
+            "bidCloseDate": "2024-12-16 16:38:00",
+            "id_muasamcong": "18704903-99b4-4721-b772-d571ea425319",
+            "tongmuc_dautu": 275452000.0,
+            "bidNamePlanNew": "PL2400306758",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-02",
+            "publicDate": "2023-06-27 10:36:18",
+            "projectName": null,
+            "bidCloseDate": "2023-06-30 15:15:00",
+            "id_muasamcong": "1bd77509-034a-4d1a-9ffa-4ef95441d417",
+            "tongmuc_dautu": 597935000.0,
+            "bidNamePlanNew": "PL2300100946",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Lóng Phiêng ",
+            "createdBy": "vnz000026905",
+            "publicDate": "2023-06-08 20:45:26",
+            "projectName": null,
+            "bidCloseDate": "2023-06-18 10:15:00",
+            "id_muasamcong": "1bfb0080-b3b9-42c5-b1b1-31e166509888",
+            "tongmuc_dautu": 296995000.0,
+            "bidNamePlanNew": "PL2300082356",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07 (XL): Thi công xây dựng",
+            "chudautu": "Trường PTDTNT THCS&THPT huyện Yên Châu",
+            "createdBy": "vn5500374443",
+            "publicDate": "2023-07-31 11:07:17",
+            "projectName": null,
+            "bidCloseDate": "2023-08-04 16:30:00",
+            "id_muasamcong": "1d5ff057-e351-4768-b99c-e5884b4b7f45",
+            "tongmuc_dautu": 1565637000.0,
+            "bidNamePlanNew": "PL2300121427",
+            "dotbien_hatang": "Gói thầu số 07 (XL): Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826",
+            "publicDate": "2023-07-28 15:15:49",
+            "projectName": null,
+            "bidCloseDate": "2023-08-04 09:00:00",
+            "id_muasamcong": "1ebf3416-db6d-42d1-8ae2-cb3db4e70287",
+            "tongmuc_dautu": 1874903000.0,
+            "bidNamePlanNew": "PL2300122083",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 03: Thi công xây dựng sửa chữa nhà lớp học 3 tầng + phụ trợ",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826",
+            "publicDate": "2024-11-02 16:50:29",
+            "projectName": null,
+            "bidCloseDate": "2024-11-11 10:00:00",
+            "id_muasamcong": "2220f385-f001-4f3e-b5c4-a88ad54a531c",
+            "tongmuc_dautu": 1298574000.0,
+            "bidNamePlanNew": "PL2400054405",
+            "dotbien_hatang": "Gói thầu số 03: Thi công xây dựng sửa chữa nhà lớp học 3 tầng + phụ trợ",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình:Cải tạo, sửa chữa, bổ sung cơ sở vật chất Ban quản lý dự án đầu tư xây dựng huyện Yên Châu (Trụ sở làm việc cũ của phòng Giáo dục và Đào tạo huyện)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-07",
+            "publicDate": "2024-04-24 11:29:43",
+            "projectName": null,
+            "bidCloseDate": "2024-05-06 10:00:00",
+            "id_muasamcong": "233cd14f-5ee8-4347-9b08-c02743a7b55f",
+            "tongmuc_dautu": 706992000.0,
+            "bidNamePlanNew": "PL2400063526",
+            "dotbien_hatang": "Thi công xây dựng công trình:Cải tạo, sửa chữa, bổ sung cơ sở vật chất Ban quản lý dự án đầu tư xây dựng huyện Yên Châu (Trụ sở làm việc cũ của phòng Giáo dục và Đào tạo huyện)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Yên Sơn ",
+            "createdBy": "vnz000026919",
+            "publicDate": "2024-11-27 18:33:10",
+            "projectName": null,
+            "bidCloseDate": "2024-12-04 10:00:00",
+            "id_muasamcong": "25e3fcf2-79c7-4dd1-aa8c-ee53db966fa6",
+            "tongmuc_dautu": 350000000.0,
+            "bidNamePlanNew": "PL2400291385",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng thuộc công trình: Sửa chữa trường TH Chiềng On, xã Chiềng On, huyện Yên Châu (Điểm Trung tâm)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-07",
+            "publicDate": "2024-05-22 16:03:40",
+            "projectName": null,
+            "bidCloseDate": "2024-05-31 10:00:00",
+            "id_muasamcong": "25f1607b-b729-46d1-a3f5-e003ba44d289",
+            "tongmuc_dautu": 660083000.0,
+            "bidNamePlanNew": "PL2400068550",
+            "dotbien_hatang": "Thi công xây dựng thuộc công trình: Sửa chữa trường TH Chiềng On, xã Chiềng On, huyện Yên Châu (Điểm Trung tâm)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Mường Lựm ",
+            "createdBy": "vnz000026904",
+            "publicDate": "2022-12-15 08:45:33",
+            "projectName": null,
+            "bidCloseDate": "2022-12-20 09:00:00",
+            "id_muasamcong": "2806d816-7a37-4f75-bd9f-7401a80c2524",
+            "tongmuc_dautu": 136399882.0,
+            "bidNamePlanNew": "PL2200075061",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Sặp Vạt ",
+            "createdBy": "vnz000026917",
+            "publicDate": "2023-06-12 20:28:07",
+            "projectName": null,
+            "bidCloseDate": "2023-06-17 08:30:00",
+            "id_muasamcong": "284fd858-4517-4664-baef-4c0005ef0889",
+            "tongmuc_dautu": 171999000.0,
+            "bidNamePlanNew": "PL2300082361",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-02",
+            "publicDate": "2023-10-30 13:55:34",
+            "projectName": null,
+            "bidCloseDate": "2023-11-04 09:00:00",
+            "id_muasamcong": "28c95d02-7d04-44a4-a30d-7522ae9cc3a2",
+            "tongmuc_dautu": 294464000.0,
+            "bidNamePlanNew": "PL2300194608",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Chiềng On ",
+            "createdBy": "vnz000029033",
+            "publicDate": "2024-11-06 14:01:38",
+            "projectName": null,
+            "bidCloseDate": "2024-11-13 10:10:00",
+            "id_muasamcong": "2c341840-661d-407f-b178-e70a635a86fe",
+            "tongmuc_dautu": 434422000.0,
+            "bidNamePlanNew": "PL2400258076",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-02",
+            "publicDate": "2023-06-22 10:14:15",
+            "projectName": null,
+            "bidCloseDate": "2023-06-27 08:20:00",
+            "id_muasamcong": "2c652aeb-4c9f-4399-992e-fe5b2ae3be6f",
+            "tongmuc_dautu": 128828000.0,
+            "bidNamePlanNew": "PL2300098372",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng (SC THCS Lóng Phiêng)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-01",
+            "publicDate": "2024-04-20 14:03:07",
+            "projectName": null,
+            "bidCloseDate": "2024-04-28 16:30:00",
+            "id_muasamcong": "2f15e5cb-3421-45b8-a4a4-6efffc183a79",
+            "tongmuc_dautu": 1049714000.0,
+            "bidNamePlanNew": "PL2400059773",
+            "dotbien_hatang": "Thi công xây dựng (SC THCS Lóng Phiêng)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Lóng Phiêng ",
+            "createdBy": "vnz000026905",
+            "publicDate": "2024-12-12 20:22:28",
+            "projectName": null,
+            "bidCloseDate": "2024-12-19 10:05:00",
+            "id_muasamcong": "31eac926-d43d-49a4-b144-f11d500feb68",
+            "tongmuc_dautu": 137780000.0,
+            "bidNamePlanNew": "PL2400310440",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng  (SC THCS THỊ TRẤN)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-01",
+            "publicDate": "2023-06-23 23:24:14",
+            "projectName": null,
+            "bidCloseDate": "2023-06-30 09:30:00",
+            "id_muasamcong": "3363b070-9973-4795-be0b-60e67fe9b4c5",
+            "tongmuc_dautu": 984709000.0,
+            "bidNamePlanNew": "PL2300100202",
+            "dotbien_hatang": "Thi công xây dựng  (SC THCS THỊ TRẤN)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng  (SC THCS CHIỀNG HẶC)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-01",
+            "publicDate": "2023-06-23 23:24:31",
+            "projectName": null,
+            "bidCloseDate": "2023-06-30 09:20:00",
+            "id_muasamcong": "37ae02e0-d190-4f8c-bda3-c33ac66408c3",
+            "tongmuc_dautu": 598643000.0,
+            "bidNamePlanNew": "PL2300100295",
+            "dotbien_hatang": "Thi công xây dựng  (SC THCS CHIỀNG HẶC)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng (SC MN Hoa Mai)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-01",
+            "publicDate": "2024-04-20 10:24:22",
+            "projectName": null,
+            "bidCloseDate": "2024-04-28 16:00:00",
+            "id_muasamcong": "37b64d02-5add-43ef-b2bd-6a009a35d384",
+            "tongmuc_dautu": 400555000.0,
+            "bidNamePlanNew": "PL2400059710",
+            "dotbien_hatang": "Thi công xây dựng (SC MN Hoa Mai)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Chiềng On ",
+            "createdBy": "vnz000029033",
+            "publicDate": "2024-04-17 18:48:03",
+            "projectName": null,
+            "bidCloseDate": "2024-04-24 08:15:00",
+            "id_muasamcong": "387f1956-5499-4064-9ef8-ebc4c561a161",
+            "tongmuc_dautu": 350000000.0,
+            "bidNamePlanNew": "PL2400050737",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Yên Sơn ",
+            "createdBy": "vnz000026919",
+            "publicDate": "2022-12-13 17:10:03",
+            "projectName": null,
+            "bidCloseDate": "2022-12-16 17:15:00",
+            "id_muasamcong": "4299b7a6-e312-47a8-8bcb-d92fe1e88256",
+            "tongmuc_dautu": 136399976.0,
+            "bidNamePlanNew": "PL2200073976",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Chiềng Đông  ",
+            "createdBy": "vnz000029268",
+            "publicDate": "2024-12-09 21:19:01",
+            "projectName": null,
+            "bidCloseDate": "2024-12-16 10:00:00",
+            "id_muasamcong": "47e58dc2-1d29-4720-a88f-1d3fb633a0a4",
+            "tongmuc_dautu": 179666000.0,
+            "bidNamePlanNew": "PL2400306767",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826",
+            "publicDate": "2024-05-17 14:46:42",
+            "projectName": null,
+            "bidCloseDate": "2024-05-24 15:00:00",
+            "id_muasamcong": "48bdeddb-d842-4f82-9b4e-25fe1206160d",
+            "tongmuc_dautu": 735889000.0,
+            "bidNamePlanNew": "PL2400062289",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Tú Nang ",
+            "createdBy": "vnz000026940",
+            "publicDate": "2023-06-05 21:26:35",
+            "projectName": null,
+            "bidCloseDate": "2023-06-12 08:30:00",
+            "id_muasamcong": "4a34cb41-11e3-41e8-9629-b79d9f6c7bab",
+            "tongmuc_dautu": 494151000.0,
+            "bidNamePlanNew": "PL2300081082",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Mường Lựm ",
+            "createdBy": "vnz000026904",
+            "publicDate": "2023-06-05 22:23:59",
+            "projectName": null,
+            "bidCloseDate": "2023-06-12 08:45:00",
+            "id_muasamcong": "4cabcb12-8e93-4d84-a9f0-55c7534cd45e",
+            "tongmuc_dautu": 247994000.0,
+            "bidNamePlanNew": "PL2300082357",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng (SC MN Họa Mi)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-01",
+            "publicDate": "2023-06-21 18:32:39",
+            "projectName": null,
+            "bidCloseDate": "2023-06-28 09:15:00",
+            "id_muasamcong": "4cb7dedb-9de4-421f-9140-10a96353ece2",
+            "tongmuc_dautu": 512726000.0,
+            "bidNamePlanNew": "PL2300100417",
+            "dotbien_hatang": "Thi công xây dựng (SC MN Họa Mi)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Văn phòng huyện ủy Yên Châu",
+            "createdBy": "vnz000027201",
+            "publicDate": "2024-08-14 18:29:31",
+            "projectName": null,
+            "bidCloseDate": "2024-08-22 10:00:00",
+            "id_muasamcong": "4d0794d0-7ad3-47ce-9044-ea3db5c04923",
+            "tongmuc_dautu": 200637000.0,
+            "bidNamePlanNew": "PL2400161176",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng  (SC MN HOA HỒNG)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-01",
+            "publicDate": "2023-06-26 14:48:28",
+            "projectName": null,
+            "bidCloseDate": "2023-06-30 09:40:00",
+            "id_muasamcong": "56f3ee86-3d1b-4530-8ce8-d03e2a276812",
+            "tongmuc_dautu": 711736000.0,
+            "bidNamePlanNew": "PL2300100286",
+            "dotbien_hatang": "Thi công xây dựng  (SC MN HOA HỒNG)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình Nước sinh hoạt tập trung bản Khóng, xã Sặp Vạt, huyện Yên Châu",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-01",
+            "publicDate": "2023-07-25 20:52:21",
+            "projectName": null,
+            "bidCloseDate": "2023-08-01 09:00:00",
+            "id_muasamcong": "57f48724-efba-4181-82e4-5f0d967fff7f",
+            "tongmuc_dautu": 1763110000.0,
+            "bidNamePlanNew": "PL2200015516",
+            "dotbien_hatang": "Thi công xây dựng công trình Nước sinh hoạt tập trung bản Khóng, xã Sặp Vạt, huyện Yên Châu",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Chiềng Đông  ",
+            "createdBy": "vnz000029268",
+            "publicDate": "2024-12-09 21:17:38",
+            "projectName": null,
+            "bidCloseDate": "2024-12-16 10:10:00",
+            "id_muasamcong": "5a8dd712-a421-41be-96b3-5c8d34a17ed3",
+            "tongmuc_dautu": 183261000.0,
+            "bidNamePlanNew": "PL2400306763",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Nhà văn hóa bản Khá",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-01",
+            "publicDate": "2023-03-10 17:02:08",
+            "projectName": null,
+            "bidCloseDate": "2023-03-21 09:00:00",
+            "id_muasamcong": "5ca6d6a8-9049-43da-9402-7228e5b6917f",
+            "tongmuc_dautu": 1860783000.0,
+            "bidNamePlanNew": "PL2200023053",
+            "dotbien_hatang": "Thi công xây dựng công trình: Nhà văn hóa bản Khá",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Trường Trung học phổ thông Phiêng Khoài",
+            "createdBy": "vn5500518582",
+            "publicDate": "2024-10-22 10:16:55",
+            "projectName": null,
+            "bidCloseDate": "2024-10-31 09:00:00",
+            "id_muasamcong": "5cd74a81-7032-4c82-9e35-176ab40630ae",
+            "tongmuc_dautu": 393393000.0,
+            "bidNamePlanNew": "PL2400233407",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-02",
+            "publicDate": "2023-06-27 10:26:35",
+            "projectName": null,
+            "bidCloseDate": "2023-07-03 09:00:00",
+            "id_muasamcong": "60a2c394-069e-4cd1-966f-cc5143e26563",
+            "tongmuc_dautu": 673257000.0,
+            "bidNamePlanNew": "PL2300102870",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng thuộc công trình: Sửa chữa trường Mầm non Thủy Tiên, thị trấn Yên Châu, huyện Yên Châu",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-07",
+            "publicDate": "2024-05-21 10:27:28",
+            "projectName": null,
+            "bidCloseDate": "2024-05-28 10:00:00",
+            "id_muasamcong": "61cc5ed2-bf06-4a53-8008-740447872fcd",
+            "tongmuc_dautu": 717198000.0,
+            "bidNamePlanNew": "PL2400068776",
+            "dotbien_hatang": "Thi công xây dựng thuộc công trình: Sửa chữa trường Mầm non Thủy Tiên, thị trấn Yên Châu, huyện Yên Châu",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Phòng Kinh tế và hạ tầng huyện Yên Châu ",
+            "createdBy": "vnz000027037",
+            "publicDate": "2024-03-22 10:13:58",
+            "projectName": null,
+            "bidCloseDate": "2024-03-29 15:00:00",
+            "id_muasamcong": "65826185-1937-434f-ab25-23c35dd56a6d",
+            "tongmuc_dautu": 394598000.0,
+            "bidNamePlanNew": "PL2400030583",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng thuộc công trình: Sửa chữa Trường TH-THCS Chiềng Khoi, xã Chiềng Khoi, huyện Yên Châu (Điểm trung tâm)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-07",
+            "publicDate": "2024-05-22 15:47:56",
+            "projectName": null,
+            "bidCloseDate": "2024-05-30 14:00:00",
+            "id_muasamcong": "65e0ae59-6d89-4678-8acc-67616768e657",
+            "tongmuc_dautu": 428250000.0,
+            "bidNamePlanNew": "PL2400080405",
+            "dotbien_hatang": "Thi công xây dựng thuộc công trình: Sửa chữa Trường TH-THCS Chiềng Khoi, xã Chiềng Khoi, huyện Yên Châu (Điểm trung tâm)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình Nâng cấp đường Bó Mon - Cay Ton, xã Tú Nang",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826",
+            "publicDate": "2022-12-20 18:07:39",
+            "projectName": "Liên danh Công ty TNHH MTV Bảo Ngọc Tây Bắc và Công ty TNHH Dung Tuấn",
+            "bidCloseDate": "2022-12-30 17:30:00",
+            "id_muasamcong": "66dbb93c-ec3a-459d-b6e3-652e5bb36979",
+            "tongmuc_dautu": 6737021000.0,
+            "bidNamePlanNew": "PL2200079377",
+            "dotbien_hatang": "Thi công xây dựng công trình Nâng cấp đường Bó Mon - Cay Ton, xã Tú Nang",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Chiềng Đông  ",
+            "createdBy": "vnz000029268",
+            "publicDate": "2024-12-09 21:17:10",
+            "projectName": null,
+            "bidCloseDate": "2024-12-16 16:38:00",
+            "id_muasamcong": "67e75845-f7f7-4f7f-99c0-545d108407e1",
+            "tongmuc_dautu": 233349000.0,
+            "bidNamePlanNew": "PL2400306761",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng + lắp đặt thiết bị + thí nghiệm mẫu nước",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826",
+            "publicDate": "2024-08-29 10:12:33",
+            "projectName": null,
+            "bidCloseDate": "2024-09-10 15:15:00",
+            "id_muasamcong": "6866abc2-00ba-4d73-93fd-6a8b7ef6ac57",
+            "tongmuc_dautu": 3218100000.0,
+            "bidNamePlanNew": "PL2400182024",
+            "dotbien_hatang": "Thi công xây dựng + lắp đặt thiết bị + thí nghiệm mẫu nước",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Sặp Vạt ",
+            "createdBy": "vnz000026917",
+            "publicDate": "2024-11-02 07:57:06",
+            "projectName": null,
+            "bidCloseDate": "2024-11-09 08:00:00",
+            "id_muasamcong": "6a1a0c0d-98ea-407f-915d-b19366ff5c97",
+            "tongmuc_dautu": 252980000.0,
+            "bidNamePlanNew": "PL2400253302",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 09 (XL): Thi công xây dựng công trình + thiết bị",
+            "chudautu": "Sở Văn hóa, Thể thao và Du Lịch tỉnh Sơn La",
+            "createdBy": "vn5500318008",
+            "publicDate": "2024-08-27 16:05:43",
+            "projectName": null,
+            "bidCloseDate": "2024-09-09 14:00:00",
+            "id_muasamcong": "6a51b27e-e7f0-430e-aa8b-2569ba72d989",
+            "tongmuc_dautu": 6579370000.0,
+            "bidNamePlanNew": "PL2400167345",
+            "dotbien_hatang": "Gói thầu số 09 (XL): Thi công xây dựng công trình + thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Mường Lựm ",
+            "createdBy": "vnz000026904",
+            "publicDate": "2024-12-12 19:29:15",
+            "projectName": null,
+            "bidCloseDate": "2024-12-19 10:00:00",
+            "id_muasamcong": "6cb6e7ed-c28f-4493-8b1a-d731daafa454",
+            "tongmuc_dautu": 437426000.0,
+            "bidNamePlanNew": "PL2400311446",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Tú Nang ",
+            "createdBy": "vnz000026940",
+            "publicDate": "2022-12-15 18:13:35",
+            "projectName": null,
+            "bidCloseDate": "2022-12-20 08:20:00",
+            "id_muasamcong": "6dbf9b26-eaf5-426b-ab1c-04c46224e8b2",
+            "tongmuc_dautu": 136399701.0,
+            "bidNamePlanNew": "PL2200075036",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Chiềng Đông  ",
+            "createdBy": "vnz000029268",
+            "publicDate": "2023-06-24 10:07:03",
+            "projectName": null,
+            "bidCloseDate": "2023-06-29 17:30:00",
+            "id_muasamcong": "6ef1f830-3394-4150-83ad-0ed29a3a1f78",
+            "tongmuc_dautu": 134000000.0,
+            "bidNamePlanNew": "PL2300094180",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng (SC THCS CẢNH TOÀN)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-01",
+            "publicDate": "2024-04-19 14:13:05",
+            "projectName": null,
+            "bidCloseDate": "2024-04-26 15:00:00",
+            "id_muasamcong": "7000f9ce-5b75-4c2b-8dd3-f92177c85e9b",
+            "tongmuc_dautu": 262024000.0,
+            "bidNamePlanNew": "PL2400058580",
+            "dotbien_hatang": "Thi công xây dựng (SC THCS CẢNH TOÀN)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Yên Sơn ",
+            "createdBy": "vnz000026919",
+            "publicDate": "2024-07-23 20:38:21",
+            "projectName": null,
+            "bidCloseDate": "2024-07-30 10:00:00",
+            "id_muasamcong": "72042acd-c5d6-43fd-8a3c-b3f0944e309e",
+            "tongmuc_dautu": 257999616.0,
+            "bidNamePlanNew": "PL2400144989",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng (SC Tru sở)",
+            "chudautu": "Ủy ban nhân dân xã Tú Nang ",
+            "createdBy": "vnz000026940",
+            "publicDate": "2024-11-19 19:30:46",
+            "projectName": null,
+            "bidCloseDate": "2024-11-26 10:00:00",
+            "id_muasamcong": "72787a46-6b8e-4064-b23a-f4947fd982e2",
+            "tongmuc_dautu": 497386000.0,
+            "bidNamePlanNew": "PL2400271326",
+            "dotbien_hatang": "Thi công xây dựng (SC Tru sở)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng thuộc công trình: Sửa chữa Trường PTDTBT THCS Chiềng Tương, xã Chiềng Tương, huyện Yên Châu",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-07",
+            "publicDate": "2024-05-14 10:20:08",
+            "projectName": null,
+            "bidCloseDate": "2024-05-21 10:00:00",
+            "id_muasamcong": "72beb856-309c-4f01-95d1-5402afc0b9d9",
+            "tongmuc_dautu": 886063792.0,
+            "bidNamePlanNew": "PL2400068595",
+            "dotbien_hatang": "Thi công xây dựng thuộc công trình: Sửa chữa Trường PTDTBT THCS Chiềng Tương, xã Chiềng Tương, huyện Yên Châu",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Tú Nang ",
+            "createdBy": "vnz000026940",
+            "publicDate": "2024-04-16 12:58:48",
+            "projectName": null,
+            "bidCloseDate": "2024-04-23 08:10:00",
+            "id_muasamcong": "73ce1ea1-f1a1-47fc-855f-54cc1b129309",
+            "tongmuc_dautu": 493684702.0,
+            "bidNamePlanNew": "PL2400056144",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Mường Lựm ",
+            "createdBy": "vnz000026904",
+            "publicDate": "2024-04-15 12:44:27",
+            "projectName": null,
+            "bidCloseDate": "2024-04-20 08:20:00",
+            "id_muasamcong": "756fedf8-f361-4f8c-ba77-b5f82e1cb007",
+            "tongmuc_dautu": 200000000.0,
+            "bidNamePlanNew": "PL2400052028",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-02",
+            "publicDate": "2023-06-27 10:59:54",
+            "projectName": null,
+            "bidCloseDate": "2023-06-30 15:45:00",
+            "id_muasamcong": "781164c6-040e-4a9c-8246-f33c0ef11660",
+            "tongmuc_dautu": 814784000.0,
+            "bidNamePlanNew": "PL2300098385",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-02",
+            "publicDate": "2023-06-27 10:10:31",
+            "projectName": null,
+            "bidCloseDate": "2023-06-30 09:15:00",
+            "id_muasamcong": "78e526ad-17bc-44f5-b1c6-eb0026e0c934",
+            "tongmuc_dautu": 878303000.0,
+            "bidNamePlanNew": "PL2300098493",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng + thiết bị các công trình trên địa bàn xã Chiềng Tương, Yên Sơn, Chiềng On, Mường Lựm, Chiềng Đông",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826",
+            "publicDate": "2024-02-26 14:06:57",
+            "projectName": null,
+            "bidCloseDate": "2024-03-08 10:00:00",
+            "id_muasamcong": "7b1f4461-5509-4b86-aea4-99401e7906c1",
+            "tongmuc_dautu": 8458888888.0,
+            "bidNamePlanNew": "PL2300122100",
+            "dotbien_hatang": "Thi công xây dựng + thiết bị các công trình trên địa bàn xã Chiềng Tương, Yên Sơn, Chiềng On, Mường Lựm, Chiềng Đông",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Chiềng Đông  ",
+            "createdBy": "vnz000029268",
+            "publicDate": "2024-04-12 08:55:22",
+            "projectName": null,
+            "bidCloseDate": "2024-04-19 08:00:00",
+            "id_muasamcong": "7c05ccda-4693-4e23-be60-872562b43710",
+            "tongmuc_dautu": 310000000.0,
+            "bidNamePlanNew": "PL2400045291",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng thuộc công trình: Sửa chữa Trường TH Lao Khô, xã Phiêng Khoài, huyện Yên Châu (Điểm trường Trung tâm)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-07",
+            "publicDate": "2024-05-20 13:55:21",
+            "projectName": null,
+            "bidCloseDate": "2024-05-28 09:00:00",
+            "id_muasamcong": "7e5f0a04-3d48-4190-98a0-5c1efabdc29c",
+            "tongmuc_dautu": 692696000.0,
+            "bidNamePlanNew": "PL2400068749",
+            "dotbien_hatang": "Thi công xây dựng thuộc công trình: Sửa chữa Trường TH Lao Khô, xã Phiêng Khoài, huyện Yên Châu (Điểm trường Trung tâm)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 05 - Thi công xây dựng",
+            "chudautu": "Bảo hiểm Xã hội tỉnh Sơn La",
+            "createdBy": "vn5500343734",
+            "publicDate": "2024-04-01 16:53:00",
+            "projectName": null,
+            "bidCloseDate": "2024-04-06 08:00:00",
+            "id_muasamcong": "83a62373-819f-4b6a-b0d6-0f3b9a72f88b",
+            "tongmuc_dautu": 390000000.0,
+            "bidNamePlanNew": "PL2400031223",
+            "dotbien_hatang": "Gói thầu số 05 - Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-07",
+            "publicDate": "2024-08-21 17:10:08",
+            "projectName": null,
+            "bidCloseDate": "2024-08-28 10:00:00",
+            "id_muasamcong": "84219479-4d56-4705-adab-b07f9b4755b5",
+            "tongmuc_dautu": 2027541000.0,
+            "bidNamePlanNew": "PL2400169883",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng (SC TH-THCS Chiềng Pằn)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-01",
+            "publicDate": "2024-04-15 16:07:26",
+            "projectName": null,
+            "bidCloseDate": "2024-04-22 10:00:00",
+            "id_muasamcong": "84ee4b79-f21e-4b3a-b70f-750e84569cfb",
+            "tongmuc_dautu": 296808000.0,
+            "bidNamePlanNew": "PL2400054405",
+            "dotbien_hatang": "Thi công xây dựng (SC TH-THCS Chiềng Pằn)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân thị trấn Yên Châu ",
+            "createdBy": "vnz000029342",
+            "publicDate": "2023-07-19 17:15:43",
+            "projectName": null,
+            "bidCloseDate": "2023-07-22 16:30:00",
+            "id_muasamcong": "8def3f81-aeb8-470e-b5fa-c718132f29a3",
+            "tongmuc_dautu": 139271000.0,
+            "bidNamePlanNew": "PL2300117764",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng (công trình: Sửa chữa TH thị trấn)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-01",
+            "publicDate": "2023-06-20 14:19:52",
+            "projectName": null,
+            "bidCloseDate": "2023-06-26 15:30:00",
+            "id_muasamcong": "9049b7cc-eb5f-43e4-8386-2bed7713b27f",
+            "tongmuc_dautu": 516359000.0,
+            "bidNamePlanNew": "PL2300098114",
+            "dotbien_hatang": "Thi công xây dựng (công trình: Sửa chữa TH thị trấn)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng  (SC TH-THCS CHIỀNG PẰN)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-01",
+            "publicDate": "2023-06-23 08:52:19",
+            "projectName": null,
+            "bidCloseDate": "2023-06-28 09:30:00",
+            "id_muasamcong": "90e413a6-7f84-4a9c-902d-2038f171b16a",
+            "tongmuc_dautu": 598298000.0,
+            "bidNamePlanNew": "PL2300100273",
+            "dotbien_hatang": "Thi công xây dựng  (SC TH-THCS CHIỀNG PẰN)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng  (SC trường Nguyễn Cảnh Toàn)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-01",
+            "publicDate": "2023-06-23 23:51:45",
+            "projectName": null,
+            "bidCloseDate": "2023-06-30 10:00:00",
+            "id_muasamcong": "94f57a72-4fe0-4bd8-ad03-62c73dc335b0",
+            "tongmuc_dautu": 647344000.0,
+            "bidNamePlanNew": "PL2300100003",
+            "dotbien_hatang": "Thi công xây dựng  (SC trường Nguyễn Cảnh Toàn)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Phiêng Khoài ",
+            "createdBy": "vnz000029050",
+            "publicDate": "2024-11-07 19:20:39",
+            "projectName": null,
+            "bidCloseDate": "2024-11-14 10:10:00",
+            "id_muasamcong": "9774b3b5-fbc6-45d8-8144-ce8b64e16474",
+            "tongmuc_dautu": 160540000.0,
+            "bidNamePlanNew": "PL2400259974",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Sặp Vạt ",
+            "createdBy": "vnz000026917",
+            "publicDate": "2024-04-10 23:09:34",
+            "projectName": null,
+            "bidCloseDate": "2024-04-17 10:00:00",
+            "id_muasamcong": "9906772a-7ae3-4626-a855-4cb8a30d03a8",
+            "tongmuc_dautu": 283999991.0,
+            "bidNamePlanNew": "PL2400045295",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 11: Thi công xây dựng hạng mục Cầu Huổi Qua",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-01",
+            "publicDate": "2023-03-16 14:37:02",
+            "projectName": null,
+            "bidCloseDate": "2023-03-27 09:00:00",
+            "id_muasamcong": "9a0a7711-289d-49a0-b2f0-b120f2d36a7a",
+            "tongmuc_dautu": 15671749000.0,
+            "bidNamePlanNew": "20220675278",
+            "dotbien_hatang": "Gói thầu số 11: Thi công xây dựng hạng mục Cầu Huổi Qua",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng  (SC TH-THCS Sặp Vạt)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-01",
+            "publicDate": "2023-06-26 17:25:49",
+            "projectName": null,
+            "bidCloseDate": "2023-07-01 10:00:00",
+            "id_muasamcong": "9d3bee01-3885-4451-8d20-a8c4065b4450",
+            "tongmuc_dautu": 688506000.0,
+            "bidNamePlanNew": "PL2300100041",
+            "dotbien_hatang": "Thi công xây dựng  (SC TH-THCS Sặp Vạt)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-02",
+            "publicDate": "2023-06-27 10:49:17",
+            "projectName": null,
+            "bidCloseDate": "2023-06-30 08:45:00",
+            "id_muasamcong": "9da270e9-a69c-460b-b738-fb42db09adbd",
+            "tongmuc_dautu": 648368000.0,
+            "bidNamePlanNew": "PL2300098482",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826",
+            "publicDate": "2024-05-21 14:28:13",
+            "projectName": null,
+            "bidCloseDate": "2024-05-28 10:00:00",
+            "id_muasamcong": "9ea093a7-3ae1-4d2b-bb0b-f1b882e77fc0",
+            "tongmuc_dautu": 388758000.0,
+            "bidNamePlanNew": "PL2400062285",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Chiềng Hặc ",
+            "createdBy": "vnz000026884",
+            "publicDate": "2024-11-11 01:50:52",
+            "projectName": null,
+            "bidCloseDate": "2024-11-18 10:10:00",
+            "id_muasamcong": "a2f469fa-c914-4859-927f-da7f110f4cf4",
+            "tongmuc_dautu": 427203000.0,
+            "bidNamePlanNew": "PL2400265184",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Chiềng Hặc ",
+            "createdBy": "vnz000026884",
+            "publicDate": "2024-11-11 01:33:03",
+            "projectName": null,
+            "bidCloseDate": "2024-11-18 10:00:00",
+            "id_muasamcong": "a40e039d-a193-4f00-a672-61ae96799341",
+            "tongmuc_dautu": 319802000.0,
+            "bidNamePlanNew": "PL2400265180",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 02 (XL): Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-07",
+            "publicDate": "2024-08-07 09:50:28",
+            "projectName": null,
+            "bidCloseDate": "2024-08-16 14:00:00",
+            "id_muasamcong": "a68ed05c-796c-424c-b172-6edeaec96fde",
+            "tongmuc_dautu": 871600000.0,
+            "bidNamePlanNew": "PL2400140925",
+            "dotbien_hatang": "Gói thầu số 02 (XL): Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826",
+            "publicDate": "2024-03-29 10:42:15",
+            "projectName": null,
+            "bidCloseDate": "2024-04-08 10:30:00",
+            "id_muasamcong": "a69f8081-ad62-4d13-a619-41f96010e3f3",
+            "tongmuc_dautu": 11171152000.0,
+            "bidNamePlanNew": "PL2400029659",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Phiêng Khoài ",
+            "createdBy": "vnz000029050",
+            "publicDate": "2024-04-13 09:26:01",
+            "projectName": null,
+            "bidCloseDate": "2024-04-20 08:10:00",
+            "id_muasamcong": "a7759ef4-9d75-4ceb-80fe-69f9036b633d",
+            "tongmuc_dautu": 469999951.0,
+            "bidNamePlanNew": "PL2400039288",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng (SC MN Sơn Ca)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-01",
+            "publicDate": "2024-04-20 13:18:59",
+            "projectName": null,
+            "bidCloseDate": "2024-04-28 16:20:00",
+            "id_muasamcong": "a7842676-bca4-4356-93c5-c8402fa4f84e",
+            "tongmuc_dautu": 194779000.0,
+            "bidNamePlanNew": "PL2400059739",
+            "dotbien_hatang": "Thi công xây dựng (SC MN Sơn Ca)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói Thầu số 02:  Thi công xây dựng",
+            "chudautu": "CÔNG TY TNHH MỘT THÀNH VIÊN QUẢN LÝ, KHAI THÁC CÔNG TRÌNH THỦY LỢI SƠN LA",
+            "createdBy": "vn5500540813-02",
+            "publicDate": "2024-10-24 14:17:36",
+            "projectName": null,
+            "bidCloseDate": "2024-11-02 10:00:00",
+            "id_muasamcong": "a8fe731a-a41c-4404-84ab-41686659f493",
+            "tongmuc_dautu": 815386000.0,
+            "bidNamePlanNew": "PL2400240152",
+            "dotbien_hatang": "Gói Thầu số 02:  Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Phiêng Khoài ",
+            "createdBy": "vnz000029050",
+            "publicDate": "2024-04-13 08:51:29",
+            "projectName": null,
+            "bidCloseDate": "2024-04-20 08:00:00",
+            "id_muasamcong": "ac10aa2d-db29-45e4-8089-e43a6efadf54",
+            "tongmuc_dautu": 229999562.0,
+            "bidNamePlanNew": "PL2400039283",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Tú Nang ",
+            "createdBy": "vnz000026940",
+            "publicDate": "2024-11-20 18:26:29",
+            "projectName": null,
+            "bidCloseDate": "2024-11-27 10:00:00",
+            "id_muasamcong": "aca19c16-cf24-4285-9e67-d8a86b635c1e",
+            "tongmuc_dautu": 373246000.0,
+            "bidNamePlanNew": "PL2400281115",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng (TH Tú Nang)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826",
+            "publicDate": "2024-05-20 09:54:29",
+            "projectName": null,
+            "bidCloseDate": "2024-05-25 10:00:00",
+            "id_muasamcong": "ade0c28a-3c86-4ce4-a1a2-f831fba84b82",
+            "tongmuc_dautu": 580734000.0,
+            "bidNamePlanNew": "PL2400059913",
+            "dotbien_hatang": "Thi công xây dựng (TH Tú Nang)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng (BSCS TH-THCS Yên Sơn)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-01",
+            "publicDate": "2024-03-25 10:26:35",
+            "projectName": null,
+            "bidCloseDate": "2024-04-01 09:00:00",
+            "id_muasamcong": "aec5946c-2769-4a26-a614-a926e6db5e65",
+            "tongmuc_dautu": 3755866000.0,
+            "bidNamePlanNew": "PL2400032447",
+            "dotbien_hatang": "Thi công xây dựng (BSCS TH-THCS Yên Sơn)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Chiềng On ",
+            "createdBy": "vnz000029033",
+            "publicDate": "2023-06-14 19:45:02",
+            "projectName": null,
+            "bidCloseDate": "2023-06-22 17:30:00",
+            "id_muasamcong": "afcdf28d-27a9-454f-9cc0-ec6a0057ba7f",
+            "tongmuc_dautu": 296999000.0,
+            "bidNamePlanNew": "PL2300082354",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-02",
+            "publicDate": "2023-06-27 10:02:56",
+            "projectName": null,
+            "bidCloseDate": "2023-07-01 09:30:00",
+            "id_muasamcong": "afde3399-5f88-413f-9498-58816e1c1ffe",
+            "tongmuc_dautu": 670465000.0,
+            "bidNamePlanNew": "PL2300101430",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Chiềng Tương ",
+            "createdBy": "vnz000025617",
+            "publicDate": "2023-06-08 18:02:33",
+            "projectName": null,
+            "bidCloseDate": "2023-06-17 10:30:00",
+            "id_muasamcong": "afff2c4c-74bc-4cec-8e6d-13403f0f7707",
+            "tongmuc_dautu": 223886000.0,
+            "bidNamePlanNew": "PL2300083346",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Văn phòng HĐND-UBND huyện Yên Châu",
+            "createdBy": "vnz000027239",
+            "publicDate": "2023-07-19 18:10:04",
+            "projectName": null,
+            "bidCloseDate": "2023-07-26 10:00:00",
+            "id_muasamcong": "b2f8a9a2-3a30-4584-9664-31f29930fbc6",
+            "tongmuc_dautu": 465441000.0,
+            "bidNamePlanNew": "PL2300119540",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "HỘI LIÊN HIỆP PHỤ NỮ HUYỆN YÊN CHÂU",
+            "createdBy": "vn5500384730",
+            "publicDate": "2023-11-28 12:13:16",
+            "projectName": null,
+            "bidCloseDate": "2023-12-03 09:00:00",
+            "id_muasamcong": "b5658d3d-2a4e-4f18-96ee-ecdeeba68a56",
+            "tongmuc_dautu": 186718000.0,
+            "bidNamePlanNew": "PL2300235553",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Phiêng Khoài ",
+            "createdBy": "vnz000029050",
+            "publicDate": "2023-06-06 13:22:51",
+            "projectName": null,
+            "bidCloseDate": "2023-06-17 10:15:00",
+            "id_muasamcong": "b67ae00c-ef0c-4a0e-8813-2e276905dc00",
+            "tongmuc_dautu": 442979000.0,
+            "bidNamePlanNew": "PL2300083327",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng thuộc công trình:  Sửa chữa Trường Tiểu học Kim Chung, xã Phiêng Khoài, huyện Yên Châu (Điểm trường bản Tam Thanh)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-07",
+            "publicDate": "2024-05-07 11:09:16",
+            "projectName": null,
+            "bidCloseDate": "2024-05-14 10:00:00",
+            "id_muasamcong": "b830de49-66ea-4fb4-a28c-d177d6a511cf",
+            "tongmuc_dautu": 474303899.0,
+            "bidNamePlanNew": "PL2400069039",
+            "dotbien_hatang": "Thi công xây dựng thuộc công trình:  Sửa chữa Trường Tiểu học Kim Chung, xã Phiêng Khoài, huyện Yên Châu (Điểm trường bản Tam Thanh)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng (BSCSVC THCS Chiềng Đông)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-01",
+            "publicDate": "2024-03-16 11:10:51",
+            "projectName": null,
+            "bidCloseDate": "2024-03-30 09:20:00",
+            "id_muasamcong": "bd2f969d-f639-49c8-99e6-f396f3ee805b",
+            "tongmuc_dautu": null,
+            "bidNamePlanNew": "PL2400029450",
+            "dotbien_hatang": "Thi công xây dựng (BSCSVC THCS Chiềng Đông)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-02",
+            "publicDate": "2023-06-21 14:56:21",
+            "projectName": null,
+            "bidCloseDate": "2023-06-28 11:15:00",
+            "id_muasamcong": "bd923aa2-1ce0-43ca-b48e-2995b0d22d29",
+            "tongmuc_dautu": 1150562000.0,
+            "bidNamePlanNew": "PL2300098441",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng công trình: Tu bổ, phục hồi di tích lịch sử Bác Hồ nói chuyện với nhân dân các dân tộc huyện Yên Châu",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-01",
+            "publicDate": "2023-03-03 10:14:31",
+            "projectName": null,
+            "bidCloseDate": "2023-03-10 10:00:00",
+            "id_muasamcong": "c4c7bebf-5830-4a82-8809-331a55f8a3f5",
+            "tongmuc_dautu": 1627320000.0,
+            "bidNamePlanNew": "PL2300014307",
+            "dotbien_hatang": "Thi công xây dựng công trình: Tu bổ, phục hồi di tích lịch sử Bác Hồ nói chuyện với nhân dân các dân tộc huyện Yên Châu",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng + lắp đặt thiết bị + thí nghiệm mẫu nước",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-01",
+            "publicDate": "2024-08-29 06:56:53",
+            "projectName": null,
+            "bidCloseDate": "2024-09-10 11:15:00",
+            "id_muasamcong": "c6384a83-9412-4de4-a238-00ae8431934d",
+            "tongmuc_dautu": 5047155000.0,
+            "bidNamePlanNew": "PL2400182962",
+            "dotbien_hatang": "Thi công xây dựng + lắp đặt thiết bị + thí nghiệm mẫu nước",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Chiềng Đông  ",
+            "createdBy": "vnz000029268",
+            "publicDate": "2024-12-09 21:18:16",
+            "projectName": null,
+            "bidCloseDate": "2024-12-16 10:05:00",
+            "id_muasamcong": "c6a343b2-8410-4212-8feb-68b3922e64b4",
+            "tongmuc_dautu": 206165000.0,
+            "bidNamePlanNew": "PL2400306765",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng  (SC TH CHIỀNG ĐÔNG A)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-01",
+            "publicDate": "2023-06-23 17:41:56",
+            "projectName": null,
+            "bidCloseDate": "2023-06-30 09:15:00",
+            "id_muasamcong": "c7385653-03c6-4b4a-ae6d-f82622927be1",
+            "tongmuc_dautu": 517999000.0,
+            "bidNamePlanNew": "PL2300100428",
+            "dotbien_hatang": "Thi công xây dựng  (SC TH CHIỀNG ĐÔNG A)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng (công trình Sửa chữa Trường TH-THCS Chiềng Sàng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-01",
+            "publicDate": "2023-06-20 14:18:19",
+            "projectName": null,
+            "bidCloseDate": "2023-06-26 09:00:00",
+            "id_muasamcong": "c82be026-1015-4ee8-918d-92ed6516e7ec",
+            "tongmuc_dautu": 516761000.0,
+            "bidNamePlanNew": "PL2300098145",
+            "dotbien_hatang": "Thi công xây dựng (công trình Sửa chữa Trường TH-THCS Chiềng Sàng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng  (SC TH CHIỀNG ĐÔNG B)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-01",
+            "publicDate": "2023-06-21 17:52:57",
+            "projectName": null,
+            "bidCloseDate": "2023-06-28 09:00:00",
+            "id_muasamcong": "ca478866-8199-4707-8bde-16351736e420",
+            "tongmuc_dautu": 517517000.0,
+            "bidNamePlanNew": "PL2300100313",
+            "dotbien_hatang": "Thi công xây dựng  (SC TH CHIỀNG ĐÔNG B)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây lắp",
+            "chudautu": "Trường Trung học phổ thông Phiêng Khoài",
+            "createdBy": "vn5500607088",
+            "publicDate": "2022-09-30 18:03:35",
+            "projectName": null,
+            "bidCloseDate": "2022-10-11 17:00:00",
+            "id_muasamcong": "cac1f26e-e3a5-4e63-b626-a57e74957257",
+            "tongmuc_dautu": 2504408000.0,
+            "bidNamePlanNew": "PL2200009791",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây lắp",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng (NSH)",
+            "chudautu": "Ủy ban nhân dân xã Mường Lựm ",
+            "createdBy": "vnz000026904",
+            "publicDate": "2024-12-12 19:28:01",
+            "projectName": null,
+            "bidCloseDate": "2024-12-19 10:10:00",
+            "id_muasamcong": "cb6f18b2-9bf6-4590-b9e1-6108675742cc",
+            "tongmuc_dautu": 296177000.0,
+            "bidNamePlanNew": "PL2400311452",
+            "dotbien_hatang": "Thi công xây dựng (NSH)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng (Suối Phà)",
+            "chudautu": "Ủy ban nhân dân xã Tú Nang ",
+            "createdBy": "vnz000026940",
+            "publicDate": "2024-11-19 19:45:36",
+            "projectName": null,
+            "bidCloseDate": "2024-11-26 10:05:00",
+            "id_muasamcong": "ccf4cdec-a294-4f53-9a2e-2672c3c27bea",
+            "tongmuc_dautu": 290740000.0,
+            "bidNamePlanNew": "PL2400271327",
+            "dotbien_hatang": "Thi công xây dựng (Suối Phà)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Trung tâm truyền thông - Văn hóa huyện Yên Châu",
+            "createdBy": "vnz000027834",
+            "publicDate": "2024-11-24 22:39:31",
+            "projectName": null,
+            "bidCloseDate": "2024-12-02 17:00:00",
+            "id_muasamcong": "cd617fb7-5d1f-4655-8c24-f3166909924f",
+            "tongmuc_dautu": 398280000.0,
+            "bidNamePlanNew": "PL2400283766",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Tư vấn giám sát thi công xây dựng + thiết bị",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826",
+            "publicDate": "2023-12-04 11:33:16",
+            "projectName": null,
+            "bidCloseDate": "2023-12-09 10:00:00",
+            "id_muasamcong": "cef1a88c-9343-4467-bec6-dc5cc0444600",
+            "tongmuc_dautu": 680635000.0,
+            "bidNamePlanNew": "PL2300122100",
+            "dotbien_hatang": "Tư vấn giám sát thi công xây dựng + thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Chiềng On ",
+            "createdBy": "vnz000029033",
+            "publicDate": "2024-11-06 12:41:55",
+            "projectName": null,
+            "bidCloseDate": "2024-11-13 10:00:00",
+            "id_muasamcong": "cfc4d22e-3833-4425-bf12-123d3f1c6420",
+            "tongmuc_dautu": 155500000.0,
+            "bidNamePlanNew": "PL2400256749",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "UỶ BAN NHÂN DÂN XÃ CHIỀNG SÀNG",
+            "createdBy": "vn5500384850",
+            "publicDate": "2024-11-06 14:48:55",
+            "projectName": null,
+            "bidCloseDate": "2024-11-13 10:00:00",
+            "id_muasamcong": "d0655afc-493b-4125-9509-745403118c5f",
+            "tongmuc_dautu": 150900000.0,
+            "bidNamePlanNew": "PL2400257177",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng thuộc công trình: Sửa chữa đường từ QL6 vào bản Cố Nông, xã Tú Nang, huyện Yên Châu",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-07",
+            "publicDate": "2024-05-15 10:04:07",
+            "projectName": null,
+            "bidCloseDate": "2024-05-22 10:00:00",
+            "id_muasamcong": "d086ff70-8ff8-4225-bf24-87de56937ff3",
+            "tongmuc_dautu": 721229000.0,
+            "bidNamePlanNew": "PL2400068613",
+            "dotbien_hatang": "Thi công xây dựng thuộc công trình: Sửa chữa đường từ QL6 vào bản Cố Nông, xã Tú Nang, huyện Yên Châu",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng + thiết bị các công trình trên địa bàn xã Sặp Vạt + Lóng Phiêng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826",
+            "publicDate": "2023-12-07 17:51:42",
+            "projectName": "Liên danh Công ty cổ phần điện Tân Thành – Công ty TNHH Tuấn Hoài Sơn La",
+            "bidCloseDate": "2023-12-18 10:00:00",
+            "id_muasamcong": "d36338df-890f-4de4-a8c9-7d5ef5e1d0a0",
+            "tongmuc_dautu": 2485714000.0,
+            "bidNamePlanNew": "PL2300122100",
+            "dotbien_hatang": "Thi công xây dựng + thiết bị các công trình trên địa bàn xã Sặp Vạt + Lóng Phiêng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Tú Nang ",
+            "createdBy": "vnz000026940",
+            "publicDate": "2024-04-16 12:16:44",
+            "projectName": null,
+            "bidCloseDate": "2024-04-23 08:00:00",
+            "id_muasamcong": "d6720725-1914-42f0-afe0-b799147214ca",
+            "tongmuc_dautu": 470000000.0,
+            "bidNamePlanNew": "PL2400056141",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Yên Sơn ",
+            "createdBy": "vnz000026919",
+            "publicDate": "2023-06-08 21:41:06",
+            "projectName": null,
+            "bidCloseDate": "2023-06-18 10:30:00",
+            "id_muasamcong": "d788821b-7545-43c6-b696-684ccc28ae90",
+            "tongmuc_dautu": 271999000.0,
+            "bidNamePlanNew": "PL2300090744",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 07: Thi công xây dựng các công trình giao thông",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826",
+            "publicDate": "2023-07-05 07:26:14",
+            "projectName": "Liên danh Công ty TNHH XDTM Quân Huyền - Công ty TNHH XD&TM Thuyên Huế - Công ty TNHH MTV Oánh Duy và Công ty TNHH Khang Lan",
+            "bidCloseDate": "2023-07-10 08:00:00",
+            "id_muasamcong": "d9dd71fb-37eb-41b1-a645-0d4452226be7",
+            "tongmuc_dautu": 15856795930.0,
+            "bidNamePlanNew": "PL2200071782",
+            "dotbien_hatang": "Gói thầu số 07: Thi công xây dựng các công trình giao thông",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-02",
+            "publicDate": "2023-06-27 10:42:52",
+            "projectName": null,
+            "bidCloseDate": "2023-06-30 09:00:00",
+            "id_muasamcong": "daa54caf-796f-4d96-bbc0-c37bc7e0c770",
+            "tongmuc_dautu": 866924000.0,
+            "bidNamePlanNew": "PL2300098518",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng  (SC TH-THCS Chiềng Khoi)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-01",
+            "publicDate": "2023-06-26 17:25:02",
+            "projectName": null,
+            "bidCloseDate": "2023-07-01 10:10:00",
+            "id_muasamcong": "dee83857-417d-4475-b50e-37f4b0cb4f31",
+            "tongmuc_dautu": 682752000.0,
+            "bidNamePlanNew": "PL2300100130",
+            "dotbien_hatang": "Thi công xây dựng  (SC TH-THCS Chiềng Khoi)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng (SC Trung tâm chính trị huyện)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-01",
+            "publicDate": "2024-03-12 09:08:47",
+            "projectName": null,
+            "bidCloseDate": "2024-03-19 10:00:00",
+            "id_muasamcong": "df08610a-b5e4-4ea5-85c4-5e806482bc36",
+            "tongmuc_dautu": 617852000.0,
+            "bidNamePlanNew": "PL2400026504",
+            "dotbien_hatang": "Thi công xây dựng (SC Trung tâm chính trị huyện)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Văn phòng huyện ủy Yên Châu",
+            "createdBy": "vnz000027201",
+            "publicDate": "2024-11-19 18:34:21",
+            "projectName": null,
+            "bidCloseDate": "2024-11-26 10:00:00",
+            "id_muasamcong": "dfa66da5-ba55-4aac-8fae-8889be18d519",
+            "tongmuc_dautu": 185052000.0,
+            "bidNamePlanNew": "PL2400275704",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Chiềng On ",
+            "createdBy": "vnz000029033",
+            "publicDate": "2023-12-01 20:44:50",
+            "projectName": null,
+            "bidCloseDate": "2023-12-08 09:15:00",
+            "id_muasamcong": "e0d35e15-69e8-463b-99e4-e5a81c643d4e",
+            "tongmuc_dautu": 331212000.0,
+            "bidNamePlanNew": "PL2300236430",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Viêng Lán ",
+            "createdBy": "vnz000023909",
+            "publicDate": "2024-10-23 20:02:15",
+            "projectName": null,
+            "bidCloseDate": "2024-10-30 10:00:00",
+            "id_muasamcong": "e198ec05-8fb2-4250-ba2b-f60072ea1424",
+            "tongmuc_dautu": 135315000.0,
+            "bidNamePlanNew": "PL2400242957",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-01",
+            "publicDate": "2024-08-29 06:56:11",
+            "projectName": null,
+            "bidCloseDate": "2024-09-08 11:15:00",
+            "id_muasamcong": "e1c06269-4681-4cb3-80e9-8b48e630990b",
+            "tongmuc_dautu": 2079637000.0,
+            "bidNamePlanNew": "PL2400182981",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Trường mầm non Bình Minh, xã Chiềng Đông ",
+            "createdBy": "vnz000030813",
+            "publicDate": "2023-10-23 18:28:52",
+            "projectName": null,
+            "bidCloseDate": "2023-10-31 16:00:00",
+            "id_muasamcong": "e228ea53-f266-46fa-a256-303284c8284e",
+            "tongmuc_dautu": 299076000.0,
+            "bidNamePlanNew": "PL2300176236",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Gói thầu số 06: Thi công xây dựng",
+            "chudautu": "Trung tâm y tế huyện Yên Châu",
+            "createdBy": "vn5500646217",
+            "publicDate": "2022-10-10 11:23:21",
+            "projectName": null,
+            "bidCloseDate": "2022-10-18 09:00:00",
+            "id_muasamcong": "e24a53e0-56bd-445b-9bc8-272bba93b196",
+            "tongmuc_dautu": 3001003000.0,
+            "bidNamePlanNew": "PL2200012647",
+            "dotbien_hatang": "Gói thầu số 06: Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-07",
+            "publicDate": "2024-05-16 15:20:48",
+            "projectName": null,
+            "bidCloseDate": "2024-05-23 10:00:00",
+            "id_muasamcong": "e2606e0b-98c1-4c08-9e0d-f5aeba650a19",
+            "tongmuc_dautu": 651608006.0,
+            "bidNamePlanNew": "PL2400062303",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Phiêng Khoài ",
+            "createdBy": "vnz000029050",
+            "publicDate": "2023-06-06 12:52:57",
+            "projectName": null,
+            "bidCloseDate": "2023-06-17 10:00:00",
+            "id_muasamcong": "e2fe1f75-a832-4661-86f5-a28018bc0937",
+            "tongmuc_dautu": 299458000.0,
+            "bidNamePlanNew": "PL2300083326",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Chiềng Hặc ",
+            "createdBy": "vnz000026884",
+            "publicDate": "2024-04-20 09:20:09",
+            "projectName": null,
+            "bidCloseDate": "2024-04-27 07:30:00",
+            "id_muasamcong": "e3ccbabf-bf25-410d-98cc-a22ae0ff6770",
+            "tongmuc_dautu": 360000000.0,
+            "bidNamePlanNew": "PL2400043900",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng + thiết bị",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826",
+            "publicDate": "2024-05-22 09:51:42",
+            "projectName": null,
+            "bidCloseDate": "2024-05-30 10:00:00",
+            "id_muasamcong": "e45407ea-fb4b-498d-98ae-d5ff53879534",
+            "tongmuc_dautu": 1375522000.0,
+            "bidNamePlanNew": "PL2400086122",
+            "dotbien_hatang": "Thi công xây dựng + thiết bị",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Chiềng Hặc ",
+            "createdBy": "vnz000026884",
+            "publicDate": "2023-06-08 18:47:19",
+            "projectName": null,
+            "bidCloseDate": "2023-06-18 10:00:00",
+            "id_muasamcong": "e46ff69d-94f0-4ba6-98c6-5c6753b38fdf",
+            "tongmuc_dautu": 370999000.0,
+            "bidNamePlanNew": "PL2300082355",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-02",
+            "publicDate": "2023-06-27 10:08:17",
+            "projectName": null,
+            "bidCloseDate": "2023-06-30 15:00:00",
+            "id_muasamcong": "e761dc35-c89e-4016-85d1-2f40352ee846",
+            "tongmuc_dautu": 603618000.0,
+            "bidNamePlanNew": "PL2300098464",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-07",
+            "publicDate": "2024-06-10 10:04:14",
+            "projectName": null,
+            "bidCloseDate": "2024-06-17 10:00:00",
+            "id_muasamcong": "e9ad2e5f-edf7-4d0b-924a-c2c22a335e5f",
+            "tongmuc_dautu": 2041482000.0,
+            "bidNamePlanNew": "PL2400029517",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Văn phòng HĐND-UBND huyện Yên Châu",
+            "createdBy": "vnz000027239",
+            "publicDate": "2024-03-12 10:13:55",
+            "projectName": null,
+            "bidCloseDate": "2024-03-19 10:00:00",
+            "id_muasamcong": "ea364744-ee97-4f0d-942e-225a250d4eb0",
+            "tongmuc_dautu": 488199000.0,
+            "bidNamePlanNew": "PL2400025829",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826",
+            "publicDate": "2024-03-15 15:42:28",
+            "projectName": null,
+            "bidCloseDate": "2024-03-25 10:00:00",
+            "id_muasamcong": "ebc5e674-73bb-47b6-a15d-2a17f183a1fa",
+            "tongmuc_dautu": 4930583000.0,
+            "bidNamePlanNew": "PL2400027228",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Sặp Vạt ",
+            "createdBy": "vnz000026917",
+            "publicDate": "2023-11-30 23:07:04",
+            "projectName": null,
+            "bidCloseDate": "2023-12-08 09:00:00",
+            "id_muasamcong": "ee9e646f-0a10-4912-b9ce-6ca3aafb23a8",
+            "tongmuc_dautu": 216347000.0,
+            "bidNamePlanNew": "PL2300236427",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng (SC THCS  Phiêng Khoài)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-01",
+            "publicDate": "2024-04-20 11:41:41",
+            "projectName": null,
+            "bidCloseDate": "2024-04-28 16:15:00",
+            "id_muasamcong": "f0172ad1-bef4-47c0-ae24-e642226dd267",
+            "tongmuc_dautu": 314532000.0,
+            "bidNamePlanNew": "PL2400059940",
+            "dotbien_hatang": "Thi công xây dựng (SC THCS  Phiêng Khoài)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Sặp Vạt ",
+            "createdBy": "vnz000026917",
+            "publicDate": "2023-06-12 20:42:37",
+            "projectName": null,
+            "bidCloseDate": "2023-06-17 08:35:00",
+            "id_muasamcong": "f1ca46a2-4b44-435a-afba-1c343a8ab909",
+            "tongmuc_dautu": 125000000.0,
+            "bidNamePlanNew": "PL2300082360",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Tư vấn giám sát thi công xây dựng, lắp đặt thiết bị công trình cấp điện Thị trấn Yên Châu, các xã: Chiềng Pằn, Chiềng Sàng, Viêng Lán, Chiềng Khoi, Chiềng Hặc, Yên Sơn, Chiềng Đông, Mường Lựm, Tú Nang, Lóng Phiêng, Chiềng Tương, Chiềng On, Phiêng Khoài huyện Yên Châu",
+            "chudautu": "Sở Công Thương tỉnh Sơn La",
+            "createdBy": "vnz000004348",
+            "publicDate": "2022-09-30 10:04:10",
+            "projectName": null,
+            "bidCloseDate": "2022-10-20 15:00:00",
+            "id_muasamcong": "f21e70ae-84f4-4238-a3bf-b698483a26c3",
+            "tongmuc_dautu": 415900000.0,
+            "bidNamePlanNew": "PL2200001776",
+            "dotbien_hatang": "Tư vấn giám sát thi công xây dựng, lắp đặt thiết bị công trình cấp điện Thị trấn Yên Châu, các xã: Chiềng Pằn, Chiềng Sàng, Viêng Lán, Chiềng Khoi, Chiềng Hặc, Yên Sơn, Chiềng Đông, Mường Lựm, Tú Nang, Lóng Phiêng, Chiềng Tương, Chiềng On, Phiêng Khoài huyện Yên Châu",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Lóng Phiêng ",
+            "createdBy": "vnz000026905",
+            "publicDate": "2024-12-12 20:22:00",
+            "projectName": null,
+            "bidCloseDate": "2024-12-19 10:00:00",
+            "id_muasamcong": "f23761c5-7ba4-45f7-bf1d-3b7e0890372b",
+            "tongmuc_dautu": 305945000.0,
+            "bidNamePlanNew": "PL2400310435",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Lóng Phiêng ",
+            "createdBy": "vnz000026905",
+            "publicDate": "2022-12-15 18:06:29",
+            "projectName": null,
+            "bidCloseDate": "2022-12-20 08:15:00",
+            "id_muasamcong": "f2820243-fbb2-4c13-a254-1a2c37f0e204",
+            "tongmuc_dautu": 136399765.0,
+            "bidNamePlanNew": "PL2200075079",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng (Cầu Na Pản)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826",
+            "publicDate": "2024-12-17 17:58:29",
+            "projectName": null,
+            "bidCloseDate": "2024-12-26 10:00:00",
+            "id_muasamcong": "f31009cd-412a-4d96-8db2-67e8383cccf9",
+            "tongmuc_dautu": 3132499000.0,
+            "bidNamePlanNew": "PL2400311219",
+            "dotbien_hatang": "Thi công xây dựng (Cầu Na Pản)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Chiềng Tương ",
+            "createdBy": "vnz000025617",
+            "publicDate": "2024-04-11 08:27:58",
+            "projectName": null,
+            "bidCloseDate": "2024-04-18 08:00:00",
+            "id_muasamcong": "f4ef375f-2ad1-4905-8df2-d30dd976e475",
+            "tongmuc_dautu": 244998252.0,
+            "bidNamePlanNew": "PL2400040258",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng (BSCSVC THCS Chiềng Đông)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-01",
+            "publicDate": "2024-04-15 10:50:04",
+            "projectName": null,
+            "bidCloseDate": "2024-04-22 09:00:00",
+            "id_muasamcong": "f6f4434e-d9f6-40dd-95ac-89319f3043f7",
+            "tongmuc_dautu": 1875584000.0,
+            "bidNamePlanNew": "PL2400029450",
+            "dotbien_hatang": "Thi công xây dựng (BSCSVC THCS Chiềng Đông)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-07",
+            "publicDate": "2024-03-14 09:34:40",
+            "projectName": null,
+            "bidCloseDate": "2024-03-21 15:05:00",
+            "id_muasamcong": "f7e39aec-1b17-4001-82cf-eeb64421db2a",
+            "tongmuc_dautu": 1200702000.0,
+            "bidNamePlanNew": "PL2400028538",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Lóng Phiêng ",
+            "createdBy": "vnz000026905",
+            "publicDate": "2024-04-17 18:19:20",
+            "projectName": null,
+            "bidCloseDate": "2024-04-24 08:00:00",
+            "id_muasamcong": "fb45535d-884d-4612-bc15-c00c0827ca88",
+            "tongmuc_dautu": 257999949.0,
+            "bidNamePlanNew": "PL2400050763",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng  (SC trường THCS Chiềng Đông)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-01",
+            "publicDate": "2023-06-23 11:18:42",
+            "projectName": null,
+            "bidCloseDate": "2023-06-30 09:00:00",
+            "id_muasamcong": "fbbbf2a4-c835-449f-a24b-02222ab4851a",
+            "tongmuc_dautu": 1078232000.0,
+            "bidNamePlanNew": "PL2300099992",
+            "dotbien_hatang": "Thi công xây dựng  (SC trường THCS Chiềng Đông)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng (Điện chiếu sáng Chiềng Sàng)",
+            "chudautu": "Ban quản lý dự án đầu tư xây dựng huyện Yên Châu",
+            "createdBy": "vnz000012826-01",
+            "publicDate": "2023-07-14 17:38:39",
+            "projectName": null,
+            "bidCloseDate": "2023-07-22 10:00:00",
+            "id_muasamcong": "fc5f7b53-4cf8-45ba-9343-80f98158a303",
+            "tongmuc_dautu": 2210290000.0,
+            "bidNamePlanNew": "PL2300117257",
+            "dotbien_hatang": "Thi công xây dựng (Điện chiếu sáng Chiềng Sàng)",
+            "link_muasamcong": ""
+        },
+        {
+            "bidName": "Thi công xây dựng",
+            "chudautu": "Ủy ban nhân dân xã Mường Lựm ",
+            "createdBy": "vnz000026904",
+            "publicDate": "2024-12-12 19:28:46",
+            "projectName": null,
+            "bidCloseDate": "2024-12-19 10:05:00",
+            "id_muasamcong": "ffdcc25b-f83a-451b-8cd0-00ca00349642",
+            "tongmuc_dautu": 345786000.0,
+            "bidNamePlanNew": "PL2400311450",
+            "dotbien_hatang": "Thi công xây dựng",
+            "link_muasamcong": ""
+        }
+    ],
+    "so_dot_bien": 154,
+    "thu_tu_sap_xep": 79,
+    "polygon": [
+        [
+            [
+                104.227041,
+                21.185219
+            ],
+            [
+                104.230264,
+                21.181982
+            ],
+            [
+                104.232878,
+                21.178653
+            ],
+            [
+                104.234083,
+                21.176877
+            ],
+            [
+                104.234788,
+                21.176418
+            ],
+            [
+                104.235704,
+                21.176159
+            ],
+            [
+                104.236621,
+                21.175569
+            ],
+            [
+                104.236976,
+                21.174977
+            ],
+            [
+                104.237865,
+                21.172968
+            ],
+            [
+                104.240906,
+                21.16955
+            ],
+            [
+                104.241612,
+                21.168959
+            ],
+            [
+                104.244361,
+                21.167784
+            ],
+            [
+                104.249365,
+                21.165496
+            ],
+            [
+                104.251973,
+                21.16432
+            ],
+            [
+                104.254294,
+                21.164066
+            ],
+            [
+                104.25507,
+                21.163674
+            ],
+            [
+                104.255709,
+                21.162291
+            ],
+            [
+                104.256349,
+                21.16104
+            ],
+            [
+                104.257444,
+                21.15989
+            ],
+            [
+                104.260897,
+                21.158387
+            ],
+            [
+                104.26308,
+                21.157803
+            ],
+            [
+                104.263926,
+                21.157213
+            ],
+            [
+                104.266047,
+                21.154912
+            ],
+            [
+                104.267321,
+                21.153202
+            ],
+            [
+                104.269592,
+                21.148922
+            ],
+            [
+                104.270442,
+                21.147738
+            ],
+            [
+                104.272804,
+                21.14633
+            ],
+            [
+                104.277812,
+                21.142986
+            ],
+            [
+                104.280348,
+                21.142006
+            ],
+            [
+                104.282811,
+                21.141423
+            ],
+            [
+                104.285277,
+                21.140444
+            ],
+            [
+                104.286263,
+                21.140052
+            ],
+            [
+                104.286825,
+                21.140054
+            ],
+            [
+                104.289356,
+                21.140131
+            ],
+            [
+                104.28992,
+                21.139803
+            ],
+            [
+                104.29077,
+                21.138421
+            ],
+            [
+                104.295019,
+                21.131906
+            ],
+            [
+                104.29523,
+                21.13184
+            ],
+            [
+                104.297937,
+                21.131885
+            ],
+            [
+                104.299626,
+                21.131562
+            ],
+            [
+                104.301598,
+                21.130712
+            ],
+            [
+                104.304839,
+                21.129142
+            ],
+            [
+                104.30681,
+                21.128622
+            ],
+            [
+                104.307725,
+                21.128493
+            ],
+            [
+                104.309481,
+                21.128765
+            ],
+            [
+                104.311727,
+                21.129566
+            ],
+            [
+                104.313408,
+                21.130826
+            ],
+            [
+                104.315371,
+                21.132088
+            ],
+            [
+                104.317896,
+                21.133286
+            ],
+            [
+                104.31923,
+                21.133687
+            ],
+            [
+                104.320039,
+                21.133592
+            ],
+            [
+                104.322086,
+                21.131818
+            ],
+            [
+                104.322933,
+                21.131096
+            ],
+            [
+                104.323849,
+                21.130637
+            ],
+            [
+                104.326592,
+                21.130384
+            ],
+            [
+                104.327296,
+                21.130189
+            ],
+            [
+                104.328282,
+                21.129665
+            ],
+            [
+                104.330473,
+                21.127166
+            ],
+            [
+                104.33125,
+                21.126245
+            ],
+            [
+                104.334069,
+                21.124739
+            ],
+            [
+                104.336747,
+                21.123099
+            ],
+            [
+                104.340728,
+                21.121102
+            ],
+            [
+                104.344671,
+                21.119798
+            ],
+            [
+                104.346571,
+                21.119145
+            ],
+            [
+                104.349391,
+                21.11744
+            ],
+            [
+                104.351015,
+                21.115665
+            ],
+            [
+                104.353561,
+                21.112243
+            ],
+            [
+                104.35589,
+                21.109942
+            ],
+            [
+                104.357018,
+                21.10922
+            ],
+            [
+                104.359059,
+                21.1087
+            ],
+            [
+                104.360256,
+                21.108045
+            ],
+            [
+                104.36135,
+                21.107026
+            ],
+            [
+                104.365027,
+                21.102024
+            ],
+            [
+                104.366158,
+                21.100577
+            ],
+            [
+                104.376231,
+                21.095137
+            ],
+            [
+                104.37764,
+                21.094416
+            ],
+            [
+                104.379688,
+                21.092114
+            ],
+            [
+                104.38082,
+                21.09027
+            ],
+            [
+                104.38107,
+                21.089314
+            ],
+            [
+                104.381222,
+                21.086675
+            ],
+            [
+                104.381386,
+                21.080802
+            ],
+            [
+                104.381256,
+                21.07836
+            ],
+            [
+                104.380981,
+                21.076775
+            ],
+            [
+                104.380915,
+                21.075785
+            ],
+            [
+                104.384327,
+                21.074973
+            ],
+            [
+                104.391435,
+                21.072557
+            ],
+            [
+                104.393829,
+                21.071443
+            ],
+            [
+                104.394958,
+                21.070128
+            ],
+            [
+                104.395735,
+                21.06914
+            ],
+            [
+                104.396932,
+                21.068617
+            ],
+            [
+                104.398829,
+                21.068689
+            ],
+            [
+                104.400092,
+                21.069288
+            ],
+            [
+                104.401634,
+                21.070217
+            ],
+            [
+                104.402899,
+                21.070222
+            ],
+            [
+                104.405466,
+                21.06967
+            ],
+            [
+                104.408069,
+                21.069019
+            ],
+            [
+                104.408562,
+                21.068625
+            ],
+            [
+                104.408427,
+                21.067304
+            ],
+            [
+                104.408361,
+                21.066314
+            ],
+            [
+                104.408503,
+                21.065721
+            ],
+            [
+                104.409492,
+                21.06447
+            ],
+            [
+                104.413299,
+                21.061382
+            ],
+            [
+                104.414851,
+                21.059803
+            ],
+            [
+                104.416264,
+                21.057763
+            ],
+            [
+                104.417111,
+                21.056908
+            ],
+            [
+                104.418131,
+                21.056548
+            ],
+            [
+                104.423118,
+                21.057225
+            ],
+            [
+                104.424453,
+                21.057164
+            ],
+            [
+                104.425649,
+                21.056706
+            ],
+            [
+                104.426563,
+                21.056709
+            ],
+            [
+                104.427265,
+                21.056909
+            ],
+            [
+                104.428246,
+                21.05744
+            ],
+            [
+                104.42951,
+                21.057709
+            ],
+            [
+                104.430705,
+                21.057647
+            ],
+            [
+                104.431761,
+                21.057122
+            ],
+            [
+                104.434439,
+                21.054953
+            ],
+            [
+                104.437964,
+                21.052061
+            ],
+            [
+                104.439371,
+                21.051604
+            ],
+            [
+                104.441582,
+                21.052106
+            ],
+            [
+                104.443408,
+                21.052442
+            ],
+            [
+                104.444251,
+                21.052379
+            ],
+            [
+                104.445236,
+                21.052052
+            ],
+            [
+                104.445939,
+                21.051857
+            ],
+            [
+                104.448538,
+                21.052129
+            ],
+            [
+                104.451416,
+                21.052996
+            ],
+            [
+                104.452546,
+                21.05135
+            ],
+            [
+                104.453392,
+                21.050759
+            ],
+            [
+                104.45508,
+                21.050302
+            ],
+            [
+                104.455995,
+                21.049645
+            ],
+            [
+                104.456842,
+                21.048724
+            ],
+            [
+                104.458824,
+                21.044771
+            ],
+            [
+                104.458965,
+                21.044507
+            ],
+            [
+                104.459599,
+                21.043981
+            ],
+            [
+                104.460936,
+                21.043458
+            ],
+            [
+                104.463083,
+                21.042508
+            ],
+            [
+                104.468849,
+                21.041008
+            ],
+            [
+                104.471031,
+                21.040025
+            ],
+            [
+                104.47237,
+                21.038907
+            ],
+            [
+                104.474562,
+                21.034954
+            ],
+            [
+                104.476819,
+                21.032321
+            ],
+            [
+                104.477803,
+                21.032127
+            ],
+            [
+                104.478576,
+                21.032327
+            ],
+            [
+                104.479206,
+                21.032791
+            ],
+            [
+                104.48047,
+                21.033125
+            ],
+            [
+                104.481595,
+                21.03293
+            ],
+            [
+                104.48251,
+                21.032339
+            ],
+            [
+                104.483355,
+                21.031748
+            ],
+            [
+                104.484796,
+                21.031455
+            ],
+            [
+                104.488663,
+                21.030675
+            ],
+            [
+                104.490281,
+                21.029954
+            ],
+            [
+                104.491478,
+                21.029231
+            ],
+            [
+                104.493871,
+                21.027919
+            ],
+            [
+                104.495415,
+                21.028583
+            ],
+            [
+                104.496328,
+                21.028586
+            ],
+            [
+                104.497666,
+                21.027666
+            ],
+            [
+                104.499143,
+                21.027208
+            ],
+            [
+                104.506028,
+                21.027096
+            ],
+            [
+                104.506696,
+                21.027065
+            ],
+            [
+                104.5079,
+                21.023967
+            ],
+            [
+                104.508746,
+                21.023244
+            ],
+            [
+                104.509871,
+                21.022983
+            ],
+            [
+                104.512118,
+                21.023055
+            ],
+            [
+                104.513313,
+                21.022861
+            ],
+            [
+                104.514087,
+                21.022665
+            ],
+            [
+                104.519159,
+                21.01839
+            ],
+            [
+                104.524368,
+                21.014973
+            ],
+            [
+                104.525072,
+                21.014381
+            ],
+            [
+                104.525426,
+                21.013458
+            ],
+            [
+                104.526308,
+                21.012503
+            ],
+            [
+                104.535032,
+                21.00804
+            ],
+            [
+                104.539673,
+                21.006403
+            ],
+            [
+                104.545652,
+                21.003779
+            ],
+            [
+                104.546429,
+                21.002395
+            ],
+            [
+                104.546641,
+                21.001868
+            ],
+            [
+                104.546222,
+                21.001141
+            ],
+            [
+                104.543067,
+                20.999153
+            ],
+            [
+                104.542437,
+                20.998623
+            ],
+            [
+                104.540864,
+                20.996078
+            ],
+            [
+                104.54024,
+                20.993436
+            ],
+            [
+                104.537301,
+                20.989931
+            ],
+            [
+                104.534784,
+                20.986228
+            ],
+            [
+                104.533177,
+                20.983254
+            ],
+            [
+                104.532899,
+                20.982329
+            ],
+            [
+                104.532413,
+                20.980678
+            ],
+            [
+                104.532343,
+                20.980414
+            ],
+            [
+                104.531992,
+                20.980413
+            ],
+            [
+                104.529533,
+                20.980934
+            ],
+            [
+                104.526366,
+                20.982905
+            ],
+            [
+                104.524466,
+                20.984022
+            ],
+            [
+                104.521931,
+                20.986061
+            ],
+            [
+                104.520807,
+                20.986189
+            ],
+            [
+                104.520387,
+                20.985858
+            ],
+            [
+                104.519196,
+                20.984799
+            ],
+            [
+                104.517272,
+                20.982583
+            ],
+            [
+                104.515384,
+                20.979872
+            ],
+            [
+                104.513151,
+                20.975444
+            ],
+            [
+                104.512454,
+                20.973924
+            ],
+            [
+                104.511403,
+                20.973063
+            ],
+            [
+                104.507685,
+                20.971864
+            ],
+            [
+                104.502493,
+                20.970331
+            ],
+            [
+                104.501791,
+                20.970329
+            ],
+            [
+                104.49919,
+                20.971048
+            ],
+            [
+                104.497574,
+                20.971307
+            ],
+            [
+                104.497083,
+                20.971108
+            ],
+            [
+                104.496803,
+                20.970711
+            ],
+            [
+                104.496805,
+                20.970117
+            ],
+            [
+                104.497054,
+                20.969227
+            ],
+            [
+                104.497902,
+                20.967513
+            ],
+            [
+                104.498822,
+                20.96547
+            ],
+            [
+                104.499321,
+                20.96336
+            ],
+            [
+                104.499673,
+                20.962965
+            ],
+            [
+                104.500868,
+                20.962638
+            ],
+            [
+                104.50136,
+                20.962574
+            ],
+            [
+                104.501712,
+                20.962245
+            ],
+            [
+                104.501714,
+                20.961717
+            ],
+            [
+                104.50123,
+                20.959406
+            ],
+            [
+                104.501233,
+                20.958548
+            ],
+            [
+                104.501656,
+                20.958021
+            ],
+            [
+                104.503102,
+                20.955881
+            ],
+            [
+                104.505004,
+                20.954038
+            ],
+            [
+                104.505498,
+                20.953446
+            ],
+            [
+                104.505499,
+                20.952984
+            ],
+            [
+                104.505432,
+                20.95206
+            ],
+            [
+                104.504596,
+                20.950011
+            ],
+            [
+                104.503618,
+                20.948623
+            ],
+            [
+                104.50313,
+                20.947631
+            ],
+            [
+                104.503065,
+                20.946047
+            ],
+            [
+                104.503067,
+                20.945255
+            ],
+            [
+                104.503772,
+                20.944532
+            ],
+            [
+                104.506378,
+                20.941899
+            ],
+            [
+                104.507294,
+                20.940912
+            ],
+            [
+                104.507438,
+                20.940055
+            ],
+            [
+                104.507475,
+                20.939296
+            ],
+            [
+                104.50706,
+                20.937579
+            ],
+            [
+                104.506359,
+                20.936983
+            ],
+            [
+                104.505729,
+                20.936651
+            ],
+            [
+                104.503271,
+                20.936842
+            ],
+            [
+                104.501936,
+                20.936838
+            ],
+            [
+                104.501516,
+                20.936573
+            ],
+            [
+                104.500336,
+                20.93261
+            ],
+            [
+                104.499918,
+                20.931618
+            ],
+            [
+                104.49922,
+                20.930428
+            ],
+            [
+                104.49698,
+                20.928244
+            ],
+            [
+                104.496595,
+                20.92788
+            ],
+            [
+                104.495343,
+                20.924379
+            ],
+            [
+                104.494714,
+                20.923585
+            ],
+            [
+                104.492962,
+                20.92259
+            ],
+            [
+                104.487777,
+                20.919736
+            ],
+            [
+                104.485536,
+                20.918146
+            ],
+            [
+                104.484554,
+                20.917681
+            ],
+            [
+                104.483993,
+                20.917679
+            ],
+            [
+                104.482796,
+                20.918732
+            ],
+            [
+                104.481459,
+                20.919387
+            ],
+            [
+                104.480687,
+                20.919319
+            ],
+            [
+                104.479845,
+                20.919185
+            ],
+            [
+                104.479706,
+                20.918854
+            ],
+            [
+                104.481469,
+                20.916616
+            ],
+            [
+                104.482104,
+                20.915562
+            ],
+            [
+                104.479091,
+                20.913969
+            ],
+            [
+                104.474114,
+                20.91204
+            ],
+            [
+                104.470814,
+                20.912029
+            ],
+            [
+                104.467305,
+                20.911755
+            ],
+            [
+                104.466744,
+                20.911555
+            ],
+            [
+                104.466605,
+                20.911224
+            ],
+            [
+                104.466607,
+                20.910696
+            ],
+            [
+                104.467102,
+                20.909774
+            ],
+            [
+                104.469504,
+                20.905426
+            ],
+            [
+                104.470003,
+                20.90325
+            ],
+            [
+                104.470148,
+                20.901798
+            ],
+            [
+                104.469036,
+                20.898693
+            ],
+            [
+                104.467922,
+                20.896116
+            ],
+            [
+                104.467086,
+                20.894331
+            ],
+            [
+                104.46646,
+                20.892812
+            ],
+            [
+                104.467796,
+                20.891892
+            ],
+            [
+                104.468431,
+                20.891036
+            ],
+            [
+                104.468784,
+                20.890575
+            ],
+            [
+                104.469977,
+                20.890447
+            ],
+            [
+                104.470469,
+                20.890382
+            ],
+            [
+                104.47075,
+                20.890185
+            ],
+            [
+                104.470752,
+                20.889855
+            ],
+            [
+                104.470405,
+                20.888732
+            ],
+            [
+                104.470197,
+                20.887808
+            ],
+            [
+                104.470341,
+                20.88695
+            ],
+            [
+                104.470343,
+                20.88629
+            ],
+            [
+                104.470909,
+                20.884972
+            ],
+            [
+                104.471052,
+                20.884247
+            ],
+            [
+                104.470068,
+                20.884639
+            ],
+            [
+                104.469153,
+                20.885495
+            ],
+            [
+                104.468238,
+                20.886086
+            ],
+            [
+                104.466483,
+                20.886146
+            ],
+            [
+                104.465853,
+                20.885814
+            ],
+            [
+                104.465643,
+                20.885616
+            ],
+            [
+                104.465292,
+                20.885615
+            ],
+            [
+                104.464588,
+                20.886074
+            ],
+            [
+                104.464237,
+                20.886139
+            ],
+            [
+                104.463747,
+                20.885874
+            ],
+            [
+                104.462976,
+                20.885409
+            ],
+            [
+                104.461714,
+                20.885207
+            ],
+            [
+                104.460941,
+                20.885271
+            ],
+            [
+                104.459954,
+                20.886456
+            ],
+            [
+                104.459533,
+                20.88652
+            ],
+            [
+                104.459323,
+                20.88652
+            ],
+            [
+                104.458552,
+                20.885989
+            ],
+            [
+                104.45764,
+                20.885854
+            ],
+            [
+                104.456447,
+                20.885851
+            ],
+            [
+                104.45624,
+                20.884926
+            ],
+            [
+                104.455961,
+                20.884463
+            ],
+            [
+                104.455261,
+                20.883933
+            ],
+            [
+                104.45477,
+                20.883865
+            ],
+            [
+                104.453782,
+                20.885248
+            ],
+            [
+                104.453012,
+                20.88485
+            ],
+            [
+                104.45189,
+                20.88445
+            ],
+            [
+                104.450837,
+                20.884513
+            ],
+            [
+                104.450065,
+                20.884444
+            ],
+            [
+                104.448804,
+                20.883978
+            ],
+            [
+                104.447473,
+                20.883182
+            ],
+            [
+                104.446424,
+                20.882189
+            ],
+            [
+                104.446143,
+                20.882056
+            ],
+            [
+                104.445584,
+                20.881592
+            ],
+            [
+                104.444742,
+                20.881457
+            ],
+            [
+                104.444128,
+                20.881538
+            ],
+            [
+                104.441844,
+                20.882289
+            ],
+            [
+                104.441264,
+                20.882469
+            ],
+            [
+                104.441795,
+                20.881217
+            ],
+            [
+                104.4418,
+                20.879963
+            ],
+            [
+                104.441346,
+                20.879401
+            ],
+            [
+                104.440716,
+                20.87887
+            ],
+            [
+                104.43984,
+                20.878472
+            ],
+            [
+                104.438331,
+                20.878368
+            ],
+            [
+                104.437946,
+                20.8783
+            ],
+            [
+                104.436933,
+                20.877043
+            ],
+            [
+                104.436301,
+                20.876942
+            ],
+            [
+                104.435599,
+                20.877006
+            ],
+            [
+                104.435319,
+                20.877005
+            ],
+            [
+                104.435109,
+                20.876773
+            ],
+            [
+                104.43511,
+                20.876344
+            ],
+            [
+                104.435474,
+                20.875895
+            ],
+            [
+                104.436536,
+                20.874838
+            ],
+            [
+                104.437386,
+                20.87378
+            ],
+            [
+                104.438027,
+                20.871993
+            ],
+            [
+                104.438525,
+                20.870669
+            ],
+            [
+                104.438175,
+                20.870137
+            ],
+            [
+                104.434939,
+                20.868138
+            ],
+            [
+                104.433252,
+                20.866873
+            ],
+            [
+                104.433114,
+                20.866342
+            ],
+            [
+                104.433221,
+                20.865846
+            ],
+            [
+                104.433577,
+                20.865051
+            ],
+            [
+                104.43358,
+                20.864057
+            ],
+            [
+                104.433651,
+                20.863858
+            ],
+            [
+                104.434286,
+                20.863861
+            ],
+            [
+                104.435061,
+                20.863797
+            ],
+            [
+                104.43584,
+                20.863004
+            ],
+            [
+                104.435913,
+                20.862143
+            ],
+            [
+                104.435429,
+                20.859821
+            ],
+            [
+                104.435434,
+                20.858429
+            ],
+            [
+                104.435295,
+                20.857898
+            ],
+            [
+                104.434239,
+                20.857431
+            ],
+            [
+                104.433606,
+                20.857097
+            ],
+            [
+                104.433467,
+                20.856699
+            ],
+            [
+                104.433543,
+                20.855175
+            ],
+            [
+                104.433474,
+                20.854711
+            ],
+            [
+                104.432562,
+                20.853581
+            ],
+            [
+                104.432423,
+                20.853116
+            ],
+            [
+                104.43218,
+                20.852022
+            ],
+            [
+                104.430641,
+                20.849166
+            ],
+            [
+                104.430077,
+                20.849098
+            ],
+            [
+                104.429302,
+                20.849096
+            ],
+            [
+                104.428173,
+                20.84949
+            ],
+            [
+                104.427893,
+                20.848759
+            ],
+            [
+                104.427897,
+                20.847898
+            ],
+            [
+                104.42804,
+                20.847169
+            ],
+            [
+                104.426493,
+                20.846236
+            ],
+            [
+                104.425792,
+                20.845438
+            ],
+            [
+                104.425657,
+                20.843847
+            ],
+            [
+                104.425664,
+                20.841991
+            ],
+            [
+                104.426309,
+                20.839143
+            ],
+            [
+                104.426243,
+                20.837883
+            ],
+            [
+                104.42593,
+                20.836722
+            ],
+            [
+                104.424879,
+                20.83526
+            ],
+            [
+                104.422358,
+                20.831076
+            ],
+            [
+                104.421165,
+                20.829812
+            ],
+            [
+                104.421096,
+                20.829216
+            ],
+            [
+                104.421169,
+                20.828553
+            ],
+            [
+                104.421948,
+                20.827694
+            ],
+            [
+                104.424349,
+                20.826443
+            ],
+            [
+                104.42569,
+                20.825784
+            ],
+            [
+                104.428306,
+                20.823473
+            ],
+            [
+                104.429437,
+                20.822615
+            ],
+            [
+                104.430465,
+                20.820862
+            ],
+            [
+                104.43054,
+                20.819735
+            ],
+            [
+                104.430899,
+                20.817814
+            ],
+            [
+                104.431334,
+                20.814568
+            ],
+            [
+                104.43134,
+                20.812977
+            ],
+            [
+                104.430155,
+                20.809592
+            ],
+            [
+                104.429488,
+                20.808894
+            ],
+            [
+                104.427063,
+                20.807328
+            ],
+            [
+                104.426853,
+                20.807063
+            ],
+            [
+                104.426576,
+                20.805736
+            ],
+            [
+                104.426296,
+                20.805337
+            ],
+            [
+                104.42598,
+                20.805137
+            ],
+            [
+                104.424747,
+                20.8051
+            ],
+            [
+                104.424148,
+                20.805065
+            ],
+            [
+                104.423586,
+                20.804665
+            ],
+            [
+                104.422743,
+                20.803967
+            ],
+            [
+                104.42155,
+                20.802537
+            ],
+            [
+                104.421234,
+                20.802304
+            ],
+            [
+                104.420108,
+                20.801936
+            ],
+            [
+                104.418841,
+                20.801766
+            ],
+            [
+                104.418279,
+                20.8014
+            ],
+            [
+                104.417787,
+                20.800934
+            ],
+            [
+                104.417507,
+                20.800436
+            ],
+            [
+                104.417474,
+                20.799905
+            ],
+            [
+                104.417426,
+                20.798991
+            ],
+            [
+                104.416475,
+                20.800188
+            ],
+            [
+                104.41586,
+                20.800762
+            ],
+            [
+                104.415247,
+                20.801075
+            ],
+            [
+                104.413576,
+                20.801069
+            ],
+            [
+                104.412683,
+                20.801433
+            ],
+            [
+                104.412013,
+                20.802007
+            ],
+            [
+                104.410277,
+                20.804411
+            ],
+            [
+                104.408878,
+                20.805926
+            ],
+            [
+                104.408039,
+                20.806866
+            ],
+            [
+                104.407756,
+                20.807966
+            ],
+            [
+                104.407359,
+                20.809746
+            ],
+            [
+                104.406212,
+                20.811131
+            ],
+            [
+                104.405095,
+                20.812018
+            ],
+            [
+                104.402304,
+                20.813475
+            ],
+            [
+                104.39996,
+                20.814515
+            ],
+            [
+                104.398731,
+                20.815611
+            ],
+            [
+                104.397891,
+                20.816656
+            ],
+            [
+                104.397552,
+                20.817808
+            ],
+            [
+                104.397546,
+                20.819275
+            ],
+            [
+                104.397153,
+                20.82006
+            ],
+            [
+                104.396623,
+                20.820451
+            ],
+            [
+                104.393885,
+                20.82259
+            ],
+            [
+                104.392769,
+                20.822848
+            ],
+            [
+                104.391377,
+                20.822843
+            ],
+            [
+                104.390541,
+                20.822893
+            ],
+            [
+                104.389983,
+                20.8231
+            ],
+            [
+                104.38948,
+                20.823622
+            ],
+            [
+                104.388415,
+                20.825243
+            ],
+            [
+                104.387464,
+                20.826183
+            ],
+            [
+                104.384505,
+                20.827797
+            ],
+            [
+                104.379595,
+                20.829665
+            ],
+            [
+                104.379094,
+                20.829664
+            ],
+            [
+                104.378706,
+                20.829243
+            ],
+            [
+                104.377765,
+                20.82772
+            ],
+            [
+                104.377768,
+                20.827091
+            ],
+            [
+                104.378663,
+                20.826204
+            ],
+            [
+                104.37978,
+                20.825422
+            ],
+            [
+                104.380116,
+                20.824951
+            ],
+            [
+                104.380062,
+                20.824637
+            ],
+            [
+                104.379006,
+                20.823952
+            ],
+            [
+                104.378618,
+                20.823531
+            ],
+            [
+                104.378648,
+                20.822981
+            ],
+            [
+                104.378821,
+                20.821619
+            ],
+            [
+                104.3786,
+                20.820989
+            ],
+            [
+                104.378378,
+                20.820779
+            ],
+            [
+                104.377766,
+                20.820777
+            ],
+            [
+                104.375868,
+                20.821713
+            ],
+            [
+                104.374194,
+                20.822388
+            ],
+            [
+                104.372518,
+                20.823482
+            ],
+            [
+                104.371458,
+                20.824055
+            ],
+            [
+                104.370343,
+                20.824156
+            ],
+            [
+                104.369786,
+                20.824258
+            ],
+            [
+                104.369058,
+                20.825042
+            ],
+            [
+                104.368329,
+                20.826192
+            ],
+            [
+                104.368046,
+                20.827396
+            ],
+            [
+                104.36765,
+                20.828705
+            ],
+            [
+                104.367201,
+                20.829594
+            ],
+            [
+                104.365916,
+                20.830585
+            ],
+            [
+                104.364769,
+                20.831602
+            ],
+            [
+                104.363253,
+                20.834584
+            ],
+            [
+                104.361907,
+                20.836727
+            ],
+            [
+                104.361124,
+                20.837301
+            ],
+            [
+                104.358779,
+                20.838602
+            ],
+            [
+                104.356768,
+                20.839904
+            ],
+            [
+                104.35582,
+                20.840006
+            ],
+            [
+                104.355041,
+                20.83995
+            ],
+            [
+                104.354485,
+                20.839739
+            ],
+            [
+                104.353931,
+                20.838846
+            ],
+            [
+                104.353487,
+                20.838425
+            ],
+            [
+                104.352986,
+                20.838528
+            ],
+            [
+                104.352482,
+                20.839102
+            ],
+            [
+                104.3522,
+                20.839835
+            ],
+            [
+                104.352252,
+                20.840778
+            ],
+            [
+                104.352636,
+                20.841985
+            ],
+            [
+                104.352689,
+                20.842666
+            ],
+            [
+                104.35252,
+                20.843137
+            ],
+            [
+                104.351571,
+                20.843658
+            ],
+            [
+                104.34906,
+                20.844486
+            ],
+            [
+                104.347608,
+                20.845267
+            ],
+            [
+                104.3466,
+                20.846468
+            ],
+            [
+                104.346373,
+                20.847411
+            ],
+            [
+                104.346536,
+                20.848407
+            ],
+            [
+                104.347699,
+                20.849983
+            ],
+            [
+                104.347695,
+                20.851031
+            ],
+            [
+                104.346968,
+                20.851657
+            ],
+            [
+                104.345519,
+                20.851652
+            ],
+            [
+                104.343739,
+                20.851121
+            ],
+            [
+                104.342014,
+                20.850538
+            ],
+            [
+                104.340955,
+                20.850639
+            ],
+            [
+                104.340285,
+                20.851003
+            ],
+            [
+                104.339949,
+                20.851421
+            ],
+            [
+                104.339947,
+                20.85184
+            ],
+            [
+                104.340167,
+                20.852575
+            ],
+            [
+                104.339997,
+                20.853098
+            ],
+            [
+                104.33955,
+                20.853568
+            ],
+            [
+                104.337985,
+                20.854715
+            ],
+            [
+                104.336808,
+                20.856177
+            ],
+            [
+                104.336021,
+                20.857694
+            ],
+            [
+                104.335962,
+                20.858637
+            ],
+            [
+                104.33629,
+                20.860001
+            ],
+            [
+                104.336232,
+                20.860472
+            ],
+            [
+                104.335953,
+                20.86068
+            ],
+            [
+                104.335117,
+                20.860677
+            ],
+            [
+                104.33406,
+                20.860306
+            ],
+            [
+                104.333062,
+                20.85915
+            ],
+            [
+                104.33157,
+                20.856367
+            ],
+            [
+                104.331072,
+                20.855683
+            ],
+            [
+                104.330627,
+                20.855524
+            ],
+            [
+                104.329902,
+                20.855574
+            ],
+            [
+                104.329121,
+                20.855833
+            ],
+            [
+                104.328002,
+                20.856772
+            ],
+            [
+                104.326265,
+                20.859018
+            ],
+            [
+                104.326095,
+                20.859646
+            ],
+            [
+                104.326372,
+                20.860067
+            ],
+            [
+                104.327705,
+                20.861067
+            ],
+            [
+                104.32826,
+                20.861541
+            ],
+            [
+                104.32928,
+                20.863877
+            ],
+            [
+                104.331497,
+                20.866558
+            ],
+            [
+                104.332658,
+                20.868659
+            ],
+            [
+                104.333764,
+                20.870445
+            ],
+            [
+                104.335594,
+                20.872443
+            ],
+            [
+                104.335535,
+                20.873334
+            ],
+            [
+                104.335421,
+                20.87391
+            ],
+            [
+                104.333744,
+                20.875161
+            ],
+            [
+                104.332487,
+                20.875863
+            ],
+            [
+                104.331983,
+                20.876438
+            ],
+            [
+                104.331925,
+                20.876961
+            ],
+            [
+                104.331905,
+                20.881363
+            ],
+            [
+                104.331844,
+                20.882568
+            ],
+            [
+                104.331339,
+                20.883457
+            ],
+            [
+                104.330388,
+                20.884134
+            ],
+            [
+                104.32944,
+                20.884393
+            ],
+            [
+                104.32888,
+                20.884967
+            ],
+            [
+                104.328426,
+                20.886851
+            ],
+            [
+                104.327861,
+                20.888474
+            ],
+            [
+                104.327245,
+                20.889257
+            ],
+            [
+                104.32529,
+                20.89035
+            ],
+            [
+                104.323558,
+                20.891182
+            ],
+            [
+                104.32216,
+                20.892329
+            ],
+            [
+                104.320764,
+                20.892952
+            ],
+            [
+                104.318757,
+                20.893154
+            ],
+            [
+                104.318252,
+                20.893728
+            ],
+            [
+                104.31825,
+                20.894252
+            ],
+            [
+                104.318521,
+                20.895878
+            ],
+            [
+                104.318517,
+                20.896768
+            ],
+            [
+                104.318292,
+                20.897239
+            ],
+            [
+                104.315274,
+                20.899166
+            ],
+            [
+                104.313151,
+                20.900258
+            ],
+            [
+                104.31248,
+                20.900779
+            ],
+            [
+                104.312422,
+                20.901355
+            ],
+            [
+                104.312583,
+                20.902718
+            ],
+            [
+                104.312524,
+                20.903399
+            ],
+            [
+                104.312076,
+                20.903921
+            ],
+            [
+                104.309897,
+                20.905118
+            ],
+            [
+                104.307999,
+                20.905739
+            ],
+            [
+                104.306605,
+                20.905786
+            ],
+            [
+                104.305908,
+                20.905862
+            ],
+            [
+                104.304455,
+                20.906694
+            ],
+            [
+                104.303504,
+                20.907581
+            ],
+            [
+                104.302662,
+                20.908835
+            ],
+            [
+                104.3016,
+                20.909512
+            ],
+            [
+                104.300819,
+                20.909561
+            ],
+            [
+                104.300263,
+                20.909297
+            ],
+            [
+                104.298931,
+                20.908243
+            ],
+            [
+                104.298373,
+                20.908241
+            ],
+            [
+                104.297034,
+                20.908498
+            ],
+            [
+                104.296029,
+                20.90886
+            ],
+            [
+                104.29547,
+                20.909277
+            ],
+            [
+                104.294179,
+                20.911263
+            ],
+            [
+                104.293618,
+                20.911994
+            ],
+            [
+                104.292168,
+                20.91225
+            ],
+            [
+                104.291943,
+                20.912564
+            ],
+            [
+                104.292108,
+                20.913089
+            ],
+            [
+                104.294106,
+                20.914826
+            ],
+            [
+                104.294407,
+                20.916059
+            ],
+            [
+                104.294402,
+                20.917107
+            ],
+            [
+                104.293726,
+                20.918781
+            ],
+            [
+                104.292262,
+                20.921971
+            ],
+            [
+                104.29114,
+                20.923381
+            ],
+            [
+                104.290748,
+                20.923746
+            ],
+            [
+                104.290414,
+                20.92364
+            ],
+            [
+                104.289136,
+                20.922744
+            ],
+            [
+                104.288078,
+                20.922687
+            ],
+            [
+                104.287353,
+                20.922684
+            ],
+            [
+                104.286961,
+                20.922997
+            ],
+            [
+                104.286677,
+                20.924253
+            ],
+            [
+                104.286285,
+                20.924671
+            ],
+            [
+                104.284108,
+                20.925186
+            ],
+            [
+                104.283715,
+                20.925761
+            ],
+            [
+                104.283654,
+                20.927018
+            ],
+            [
+                104.282983,
+                20.927382
+            ],
+            [
+                104.281812,
+                20.927377
+            ],
+            [
+                104.280196,
+                20.927265
+            ],
+            [
+                104.279223,
+                20.926921
+            ],
+            [
+                104.278167,
+                20.926183
+            ],
+            [
+                104.277059,
+                20.924711
+            ],
+            [
+                104.276341,
+                20.923398
+            ],
+            [
+                104.275012,
+                20.921663
+            ],
+            [
+                104.274511,
+                20.921346
+            ],
+            [
+                104.272614,
+                20.92181
+            ],
+            [
+                104.270886,
+                20.921855
+            ],
+            [
+                104.270384,
+                20.9218
+            ],
+            [
+                104.269328,
+                20.921219
+            ],
+            [
+                104.26577,
+                20.919318
+            ],
+            [
+                104.26235,
+                20.917757
+            ],
+            [
+                104.261683,
+                20.917283
+            ],
+            [
+                104.261185,
+                20.916652
+            ],
+            [
+                104.260694,
+                20.914449
+            ],
+            [
+                104.260474,
+                20.913872
+            ],
+            [
+                104.259531,
+                20.912924
+            ],
+            [
+                104.259423,
+                20.912295
+            ],
+            [
+                104.259929,
+                20.911249
+            ],
+            [
+                104.26049,
+                20.910518
+            ],
+            [
+                104.262222,
+                20.909635
+            ],
+            [
+                104.263285,
+                20.908801
+            ],
+            [
+                104.263623,
+                20.908174
+            ],
+            [
+                104.263653,
+                20.907623
+            ],
+            [
+                104.262877,
+                20.906834
+            ],
+            [
+                104.259158,
+                20.903726
+            ],
+            [
+                104.258826,
+                20.903253
+            ],
+            [
+                104.258839,
+                20.900686
+            ],
+            [
+                104.258786,
+                20.900057
+            ],
+            [
+                104.257733,
+                20.898899
+            ],
+            [
+                104.257178,
+                20.898373
+            ],
+            [
+                104.256844,
+                20.898319
+            ],
+            [
+                104.256287,
+                20.898317
+            ],
+            [
+                104.255,
+                20.899307
+            ],
+            [
+                104.254161,
+                20.899984
+            ],
+            [
+                104.250757,
+                20.900755
+            ],
+            [
+                104.249251,
+                20.900958
+            ],
+            [
+                104.248137,
+                20.901006
+            ],
+            [
+                104.24769,
+                20.901161
+            ],
+            [
+                104.24741,
+                20.901474
+            ],
+            [
+                104.247403,
+                20.902889
+            ],
+            [
+                104.247233,
+                20.903412
+            ],
+            [
+                104.246503,
+                20.904405
+            ],
+            [
+                104.245353,
+                20.905893
+            ],
+            [
+                104.245017,
+                20.906258
+            ],
+            [
+                104.243789,
+                20.90662
+            ],
+            [
+                104.242393,
+                20.907295
+            ],
+            [
+                104.239203,
+                20.9099
+            ],
+            [
+                104.238022,
+                20.911834
+            ],
+            [
+                104.237401,
+                20.913403
+            ],
+            [
+                104.237453,
+                20.914137
+            ],
+            [
+                104.238253,
+                20.915896
+            ],
+            [
+                104.240031,
+                20.917004
+            ],
+            [
+                104.240418,
+                20.917478
+            ],
+            [
+                104.240082,
+                20.917895
+            ],
+            [
+                104.238799,
+                20.918152
+            ],
+            [
+                104.237405,
+                20.918198
+            ],
+            [
+                104.235566,
+                20.918085
+            ],
+            [
+                104.234952,
+                20.918292
+            ],
+            [
+                104.234951,
+                20.918501
+            ],
+            [
+                104.23545,
+                20.918975
+            ],
+            [
+                104.237729,
+                20.920243
+            ],
+            [
+                104.240558,
+                20.922875
+            ],
+            [
+                104.240778,
+                20.923505
+            ],
+            [
+                104.239826,
+                20.924497
+            ],
+            [
+                104.239822,
+                20.925125
+            ],
+            [
+                104.239988,
+                20.925545
+            ],
+            [
+                104.2411,
+                20.925969
+            ],
+            [
+                104.241961,
+                20.926628
+            ],
+            [
+                104.242271,
+                20.93145
+            ],
+            [
+                104.241989,
+                20.932183
+            ],
+            [
+                104.241205,
+                20.932808
+            ],
+            [
+                104.240311,
+                20.933328
+            ],
+            [
+                104.239139,
+                20.933532
+            ],
+            [
+                104.235737,
+                20.933936
+            ],
+            [
+                104.233895,
+                20.934347
+            ],
+            [
+                104.231219,
+                20.93444
+            ],
+            [
+                104.230493,
+                20.934647
+            ],
+            [
+                104.229934,
+                20.935011
+            ],
+            [
+                104.229595,
+                20.935795
+            ],
+            [
+                104.228804,
+                20.93794
+            ],
+            [
+                104.228578,
+                20.938463
+            ],
+            [
+                104.227852,
+                20.938827
+            ],
+            [
+                104.227042,
+                20.939059
+            ],
+            [
+                104.219405,
+                20.939024
+            ],
+            [
+                104.217845,
+                20.938964
+            ],
+            [
+                104.216177,
+                20.938118
+            ],
+            [
+                104.215007,
+                20.938008
+            ],
+            [
+                104.214336,
+                20.938319
+            ],
+            [
+                104.213608,
+                20.93905
+            ],
+            [
+                104.213436,
+                20.939887
+            ],
+            [
+                104.213542,
+                20.940936
+            ],
+            [
+                104.213536,
+                20.941984
+            ],
+            [
+                104.213199,
+                20.942559
+            ],
+            [
+                104.212471,
+                20.943132
+            ],
+            [
+                104.211019,
+                20.943701
+            ],
+            [
+                104.210127,
+                20.94375
+            ],
+            [
+                104.209737,
+                20.943695
+            ],
+            [
+                104.208903,
+                20.94322
+            ],
+            [
+                104.208067,
+                20.943164
+            ],
+            [
+                104.207454,
+                20.943161
+            ],
+            [
+                104.206726,
+                20.943681
+            ],
+            [
+                104.204261,
+                20.945975
+            ],
+            [
+                104.203591,
+                20.946339
+            ],
+            [
+                104.202477,
+                20.946124
+            ],
+            [
+                104.198522,
+                20.945425
+            ],
+            [
+                104.196181,
+                20.945361
+            ],
+            [
+                104.195066,
+                20.945513
+            ],
+            [
+                104.193837,
+                20.945979
+            ],
+            [
+                104.193164,
+                20.946605
+            ],
+            [
+                104.192544,
+                20.947859
+            ],
+            [
+                104.192148,
+                20.94901
+            ],
+            [
+                104.19181,
+                20.949585
+            ],
+            [
+                104.190633,
+                20.950784
+            ],
+            [
+                104.189624,
+                20.951828
+            ],
+            [
+                104.189566,
+                20.952247
+            ],
+            [
+                104.189786,
+                20.952719
+            ],
+            [
+                104.191117,
+                20.954088
+            ],
+            [
+                104.191503,
+                20.954876
+            ],
+            [
+                104.191389,
+                20.955452
+            ],
+            [
+                104.19094,
+                20.955973
+            ],
+            [
+                104.189208,
+                20.956646
+            ],
+            [
+                104.188538,
+                20.956748
+            ],
+            [
+                104.187315,
+                20.956061
+            ],
+            [
+                104.185982,
+                20.955269
+            ],
+            [
+                104.185146,
+                20.95516
+            ],
+            [
+                104.182024,
+                20.955197
+            ],
+            [
+                104.180464,
+                20.95498
+            ],
+            [
+                104.178963,
+                20.954239
+            ],
+            [
+                104.178182,
+                20.954183
+            ],
+            [
+                104.175699,
+                20.954721
+            ],
+            [
+                104.169789,
+                20.954745
+            ],
+            [
+                104.164658,
+                20.954982
+            ],
+            [
+                104.157965,
+                20.95563
+            ],
+            [
+                104.156654,
+                20.955755
+            ],
+            [
+                104.146469,
+                20.952613
+            ],
+            [
+                104.144969,
+                20.951714
+            ],
+            [
+                104.143693,
+                20.950608
+            ],
+            [
+                104.138576,
+                20.948486
+            ],
+            [
+                104.137269,
+                20.947982
+            ],
+            [
+                104.134481,
+                20.948177
+            ],
+            [
+                104.131132,
+                20.948841
+            ],
+            [
+                104.13018,
+                20.94957
+            ],
+            [
+                104.129562,
+                20.950405
+            ],
+            [
+                104.12696,
+                20.956942
+            ],
+            [
+                104.126703,
+                20.95791
+            ],
+            [
+                104.126622,
+                20.962206
+            ],
+            [
+                104.126612,
+                20.963935
+            ],
+            [
+                104.126331,
+                20.964405
+            ],
+            [
+                104.125379,
+                20.965029
+            ],
+            [
+                104.124315,
+                20.965914
+            ],
+            [
+                104.123193,
+                20.967061
+            ],
+            [
+                104.122348,
+                20.968524
+            ],
+            [
+                104.121054,
+                20.970509
+            ],
+            [
+                104.120438,
+                20.971029
+            ],
+            [
+                104.119405,
+                20.971312
+            ],
+            [
+                104.119386,
+                20.973734
+            ],
+            [
+                104.119614,
+                20.975865
+            ],
+            [
+                104.120054,
+                20.9769
+            ],
+            [
+                104.121108,
+                20.978713
+            ],
+            [
+                104.121552,
+                20.979135
+            ],
+            [
+                104.124674,
+                20.979797
+            ],
+            [
+                104.122506,
+                20.98056
+            ],
+            [
+                104.12147,
+                20.981394
+            ],
+            [
+                104.120914,
+                20.982521
+            ],
+            [
+                104.120694,
+                20.985005
+            ],
+            [
+                104.120592,
+                20.987699
+            ],
+            [
+                104.12062,
+                20.988765
+            ],
+            [
+                104.121061,
+                20.989703
+            ],
+            [
+                104.123181,
+                20.991489
+            ],
+            [
+                104.12412,
+                20.992446
+            ],
+            [
+                104.124964,
+                20.994839
+            ],
+            [
+                104.125538,
+                20.996681
+            ],
+            [
+                104.123298,
+                20.997896
+            ],
+            [
+                104.121794,
+                20.999422
+            ],
+            [
+                104.120098,
+                21.001737
+            ],
+            [
+                104.118685,
+                21.002407
+            ],
+            [
+                104.115519,
+                21.003424
+            ],
+            [
+                104.114829,
+                21.003807
+            ],
+            [
+                104.114828,
+                21.004098
+            ],
+            [
+                104.115475,
+                21.005005
+            ],
+            [
+                104.11816,
+                21.006972
+            ],
+            [
+                104.121205,
+                21.009214
+            ],
+            [
+                104.126237,
+                21.01221
+            ],
+            [
+                104.126595,
+                21.012744
+            ],
+            [
+                104.126964,
+                21.014295
+            ],
+            [
+                104.127373,
+                21.014781
+            ],
+            [
+                104.130691,
+                21.017316
+            ],
+            [
+                104.131718,
+                21.017999
+            ],
+            [
+                104.132817,
+                21.018166
+            ],
+            [
+                104.13371,
+                21.01817
+            ],
+            [
+                104.134572,
+                21.017691
+            ],
+            [
+                104.136159,
+                21.016504
+            ],
+            [
+                104.13802,
+                21.015513
+            ],
+            [
+                104.139551,
+                21.015021
+            ],
+            [
+                104.140548,
+                21.015026
+            ],
+            [
+                104.14209,
+                21.015776
+            ],
+            [
+                104.142567,
+                21.016424
+            ],
+            [
+                104.143657,
+                21.018011
+            ],
+            [
+                104.144239,
+                21.018433
+            ],
+            [
+                104.145302,
+                21.018762
+            ],
+            [
+                104.147949,
+                21.018517
+            ],
+            [
+                104.150872,
+                21.018112
+            ],
+            [
+                104.153196,
+                21.017268
+            ],
+            [
+                104.155789,
+                21.020508
+            ],
+            [
+                104.157362,
+                21.021839
+            ],
+            [
+                104.157359,
+                21.022227
+            ],
+            [
+                104.157244,
+                21.024356
+            ],
+            [
+                104.157239,
+                21.025228
+            ],
+            [
+                104.15787,
+                21.026183
+            ],
+            [
+                104.158487,
+                21.026412
+            ],
+            [
+                104.159517,
+                21.026546
+            ],
+            [
+                104.160029,
+                21.027097
+            ],
+            [
+                104.160977,
+                21.02962
+            ],
+            [
+                104.161927,
+                21.031755
+            ],
+            [
+                104.163189,
+                21.033504
+            ],
+            [
+                104.164285,
+                21.034187
+            ],
+            [
+                104.165485,
+                21.034548
+            ],
+            [
+                104.166033,
+                21.034905
+            ],
+            [
+                104.166339,
+                21.035552
+            ],
+            [
+                104.16681,
+                21.037362
+            ],
+            [
+                104.167491,
+                21.038431
+            ],
+            [
+                104.167834,
+                21.038626
+            ],
+            [
+                104.16852,
+                21.038726
+            ],
+            [
+                104.171511,
+                21.038579
+            ],
+            [
+                104.172436,
+                21.039003
+            ],
+            [
+                104.173086,
+                21.039555
+            ],
+            [
+                104.173084,
+                21.039943
+            ],
+            [
+                104.172495,
+                21.040811
+            ],
+            [
+                104.171977,
+                21.041293
+            ],
+            [
+                104.170222,
+                21.041672
+            ],
+            [
+                104.169602,
+                21.041862
+            ],
+            [
+                104.168291,
+                21.042921
+            ],
+            [
+                104.168148,
+                21.043856
+            ],
+            [
+                104.168385,
+                21.044438
+            ],
+            [
+                104.170651,
+                21.044837
+            ],
+            [
+                104.172179,
+                21.045054
+            ],
+            [
+                104.172897,
+                21.045703
+            ],
+            [
+                104.174973,
+                21.049489
+            ],
+            [
+                104.178217,
+                21.053249
+            ],
+            [
+                104.180035,
+                21.056953
+            ],
+            [
+                104.180914,
+                21.059507
+            ],
+            [
+                104.181701,
+                21.060286
+            ],
+            [
+                104.185756,
+                21.063452
+            ],
+            [
+                104.188979,
+                21.064855
+            ],
+            [
+                104.194675,
+                21.066529
+            ],
+            [
+                104.202313,
+                21.068356
+            ],
+            [
+                104.203718,
+                21.069137
+            ],
+            [
+                104.206211,
+                21.072054
+            ],
+            [
+                104.208112,
+                21.073305
+            ],
+            [
+                104.208965,
+                21.074503
+            ],
+            [
+                104.208959,
+                21.075568
+            ],
+            [
+                104.208918,
+                21.076924
+            ],
+            [
+                104.207802,
+                21.079985
+            ],
+            [
+                104.206931,
+                21.082176
+            ],
+            [
+                104.206737,
+                21.083127
+            ],
+            [
+                104.205946,
+                21.086335
+            ],
+            [
+                104.205522,
+                21.088527
+            ],
+            [
+                104.205958,
+                21.090627
+            ],
+            [
+                104.206155,
+                21.092306
+            ],
+            [
+                104.206011,
+                21.093565
+            ],
+            [
+                104.205191,
+                21.095739
+            ],
+            [
+                104.205187,
+                21.096514
+            ],
+            [
+                104.205493,
+                21.097225
+            ],
+            [
+                104.208215,
+                21.102564
+            ],
+            [
+                104.208954,
+                21.102551
+            ],
+            [
+                104.210086,
+                21.102976
+            ],
+            [
+                104.210703,
+                21.103366
+            ],
+            [
+                104.211317,
+                21.104176
+            ],
+            [
+                104.211789,
+                21.106018
+            ],
+            [
+                104.211811,
+                21.108438
+            ],
+            [
+                104.211568,
+                21.10876
+            ],
+            [
+                104.208986,
+                21.109458
+            ],
+            [
+                104.20759,
+                21.110146
+            ],
+            [
+                104.205997,
+                21.112333
+            ],
+            [
+                104.203434,
+                21.115871
+            ],
+            [
+                104.201753,
+                21.118332
+            ],
+            [
+                104.201236,
+                21.118685
+            ],
+            [
+                104.199964,
+                21.118679
+            ],
+            [
+                104.199653,
+                21.118936
+            ],
+            [
+                104.199375,
+                21.119451
+            ],
+            [
+                104.199509,
+                21.120129
+            ],
+            [
+                104.20067,
+                21.121652
+            ],
+            [
+                104.200941,
+                21.122298
+            ],
+            [
+                104.200817,
+                21.123121
+            ],
+            [
+                104.200607,
+                21.123765
+            ],
+            [
+                104.198327,
+                21.125788
+            ],
+            [
+                104.197287,
+                21.1273
+            ],
+            [
+                104.197141,
+                21.128849
+            ],
+            [
+                104.197667,
+                21.130287
+            ],
+            [
+                104.199031,
+                21.132295
+            ],
+            [
+                104.201628,
+                21.135244
+            ],
+            [
+                104.203022,
+                21.138317
+            ],
+            [
+                104.205009,
+                21.142925
+            ],
+            [
+                104.205344,
+                21.144605
+            ],
+            [
+                104.205093,
+                21.146508
+            ],
+            [
+                104.204413,
+                21.148167
+            ],
+            [
+                104.203689,
+                21.14868
+            ],
+            [
+                104.201932,
+                21.149253
+            ],
+            [
+                104.201173,
+                21.149637
+            ],
+            [
+                104.200964,
+                21.15012
+            ],
+            [
+                104.200851,
+                21.151991
+            ],
+            [
+                104.200836,
+                21.154735
+            ],
+            [
+                104.200504,
+                21.155718
+            ],
+            [
+                104.199949,
+                21.156651
+            ],
+            [
+                104.199877,
+                21.157199
+            ],
+            [
+                104.199942,
+                21.158039
+            ],
+            [
+                104.205765,
+                21.16557
+            ],
+            [
+                104.206927,
+                21.166835
+            ],
+            [
+                104.20751,
+                21.167192
+            ],
+            [
+                104.207957,
+                21.167323
+            ],
+            [
+                104.208919,
+                21.16736
+            ],
+            [
+                104.210364,
+                21.167399
+            ],
+            [
+                104.211738,
+                21.167728
+            ],
+            [
+                104.21232,
+                21.168086
+            ],
+            [
+                104.212712,
+                21.168846
+            ],
+            [
+                104.213359,
+                21.169979
+            ],
+            [
+                104.213905,
+                21.170821
+            ],
+            [
+                104.214246,
+                21.171371
+            ],
+            [
+                104.214141,
+                21.17179
+            ],
+            [
+                104.213276,
+                21.172819
+            ],
+            [
+                104.212272,
+                21.174073
+            ],
+            [
+                104.212166,
+                21.174557
+            ],
+            [
+                104.212695,
+                21.175285
+            ],
+            [
+                104.214202,
+                21.176454
+            ],
+            [
+                104.218382,
+                21.179572
+            ],
+            [
+                104.218881,
+                21.179874
+            ],
+            [
+                104.219802,
+                21.179945
+            ],
+            [
+                104.221074,
+                21.180815
+            ],
+            [
+                104.224391,
+                21.183558
+            ],
+            [
+                104.226508,
+                21.185679
+            ],
+            [
+                104.227041,
+                21.185219
+            ]
+        ]
+    ]
+}
