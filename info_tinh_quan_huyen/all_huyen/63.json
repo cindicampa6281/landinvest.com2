@@ -1,0 +1,119 @@
+[
+  {
+    "DistrictID": 106,
+    "ProvinceID": 63,
+    "DistrictName": "Thành phố Yên Bái",
+    "bounding_box": "{     \"north\": 21.79281 ,     \"south\": 21.6518966  ,     \"east\":  104.9549767   ,     \"west\":  104.8203591    }  ",
+    "bbox": "{'north': 21.7929952540001, 'south': 21.6515723370001, 'east': 104.954996091, 'west': 104.820782338}",
+    "id_district_goc": 132,
+    "search_volume": 1383,
+    "polygon": [
+      104.896064631,
+      21.7886727100001
+    ]
+  },
+  {
+    "DistrictID": 107,
+    "ProvinceID": 63,
+    "DistrictName": "Thị xã Nghĩa Lộ",
+    "bounding_box": "{     \"north\": 21.637283 ,     \"south\": 21.559873  ,     \"east\":  104.540914   ,     \"west\":  104.442291    }  ",
+    "bbox": "{'north': 21.632771699, 'south': 21.5648896160001, 'east': 104.53068803, 'west': 104.45194112}",
+    "id_district_goc": 133,
+    "search_volume": 234,
+    "polygon": [
+      104.516524189,
+      21.6267734480001
+    ]
+  },
+  {
+    "DistrictID": 108,
+    "ProvinceID": 63,
+    "DistrictName": "Huyện Lục Yên",
+    "bounding_box": "{     \"north\": 22.334934 ,     \"south\": 21.897224  ,     \"east\":  104.918276   ,     \"west\":  104.518617    }  ",
+    "bbox": "{'north': 22.291257473, 'south': 21.9308479650001, 'east': 104.882124093, 'west': 104.562331982}",
+    "id_district_goc": 135,
+    "search_volume": 875,
+    "polygon": [
+      104.616648879,
+      22.287004688
+    ]
+  },
+  {
+    "DistrictID": 109,
+    "ProvinceID": 63,
+    "DistrictName": "Huyện Văn Yên",
+    "bounding_box": "{     \"north\": 22.2002835 ,     \"south\": 21.661879  ,     \"east\":  104.79211   ,     \"west\":  104.338868    }  ",
+    "bbox": "{'north': 22.200411719, 'south': 21.6615633230001, 'east': 104.793396491, 'west': 104.339928761}",
+    "id_district_goc": 136,
+    "search_volume": 382,
+    "polygon": [
+      104.518945932,
+      21.7587567460001
+    ]
+  },
+  {
+    "DistrictID": 110,
+    "ProvinceID": 63,
+    "DistrictName": "Huyện Mù Căng Chải",
+    "bounding_box": "{     \"north\": 21.9668032 ,     \"south\": 21.6425872  ,     \"east\":  104.417046   ,     \"west\":  103.8862366    }  ",
+    "bbox": "{'north': 21.9669629630001, 'south': 21.6420572760001, 'east': 104.4176149, 'west': 103.886407839}",
+    "id_district_goc": 137,
+    "search_volume": 735,
+    "polygon": [
+      103.988897942,
+      21.9651665220001
+    ]
+  },
+  {
+    "DistrictID": 111,
+    "ProvinceID": 63,
+    "DistrictName": "Huyện Trấn Yên",
+    "bounding_box": "{     \"north\": 21.882878  ,     \"south\": 21.524847   ,     \"east\":  104.937358    ,     \"west\":  104.642679  }  ",
+    "bbox": "{'north': 21.87780037, 'south': 21.530977986, 'east': 104.938117945, 'west': 104.649378751}",
+    "id_district_goc": 138,
+    "search_volume": 1164,
+    "polygon": [
+      104.797998172,
+      21.8770563040001
+    ]
+  },
+  {
+    "DistrictID": 112,
+    "ProvinceID": 63,
+    "DistrictName": "Huyện Trạm Tấu",
+    "bounding_box": "{     \"north\": 21.668423 ,     \"south\": 21.351568  ,     \"east\":  104.658383   ,     \"west\":  104.280042    }  ",
+    "bbox": "{'north': 21.6686590460001, 'south': 21.3514491060001, 'east': 104.662784528, 'west': 104.277286525}",
+    "id_district_goc": 139,
+    "search_volume": 927,
+    "polygon": [
+      104.361215926,
+      21.6683669770001
+    ]
+  },
+  {
+    "DistrictID": 113,
+    "ProvinceID": 63,
+    "DistrictName": "Huyện Văn Chấn",
+    "bounding_box": "{     \"north\": 21.813605 ,     \"south\": 21.3259198  ,     \"east\":  104.9124316   ,     \"west\":  104.26692    }  ",
+    "bbox": "{'north': 21.8133173470001, 'south': 21.3256638180001, 'east': 104.912566955, 'west': 104.267643792}",
+    "id_district_goc": 140,
+    "search_volume": 234,
+    "polygon": [
+      104.277872911,
+      21.805912366
+    ]
+  },
+  {
+    "DistrictID": 114,
+    "ProvinceID": 63,
+    "DistrictName": "Huyện Yên Bình",
+    "bounding_box": "{     \"north\": 22.07262 ,     \"south\": 21.649475  ,     \"east\":  105.097597   ,     \"west\":  104.748781    }  ",
+    "bbox": "{'north': 22.0725240260001, 'south': 21.646638555, 'east': 105.100177027, 'west': 104.745556813}",
+    "id_district_goc": 141,
+    "search_volume": 334,
+    "polygon": [
+      104.894544662,
+      22.0721849660001
+    ]
+  }
+]

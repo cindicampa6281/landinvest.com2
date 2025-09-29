@@ -1,0 +1,155 @@
+[
+  {
+    "DistrictID": 636,
+    "ProvinceID": 1,
+    "DistrictName": "Thành phố Long Xuyên",
+    "bounding_box": "{     \"north\": 10.438899 ,     \"south\": 10.299456  ,     \"east\":  105.489922   ,     \"west\":  105.358504    }  ",
+    "bbox": "{'north': 10.4413468880001, 'south': 10.30307759, 'east': 105.494742165, 'west': 105.359947451}",
+    "id_district_goc": 883,
+    "search_volume": 1438,
+    "polygon": [
+      105.417049412,
+      10.4405740660001
+    ]
+  },
+  {
+    "DistrictID": 637,
+    "ProvinceID": 1,
+    "DistrictName": "Thành phố Châu Đốc",
+    "bounding_box": "{     \"north\": 10.763957 ,     \"south\": 10.610117  ,     \"east\":  105.15586   ,     \"west\":  105.025398    }  ",
+    "bbox": "{'north': 10.7651197480001, 'south': 10.6106905830001, 'east': 105.155685131, 'west': 105.022797379}",
+    "id_district_goc": 884,
+    "search_volume": 632,
+    "polygon": [
+      105.099039654,
+      10.760793904
+    ]
+  },
+  {
+    "DistrictID": 638,
+    "ProvinceID": 1,
+    "DistrictName": "Huyện An Phú",
+    "bounding_box": "{     \"north\": 10.965089 ,     \"south\": 10.698022  ,     \"east\":  105.154766   ,     \"west\":  105.042843    }  ",
+    "bbox": "{'north': 10.9622749480001, 'south': 10.710160936, 'east': 105.160587757, 'west': 105.028823972}",
+    "id_district_goc": 886,
+    "search_volume": 0,
+    "polygon": [
+      105.115646404,
+      10.961980306
+    ]
+  },
+  {
+    "DistrictID": 639,
+    "ProvinceID": 1,
+    "DistrictName": "Thị xã Tân Châu",
+    "bounding_box": "{     \"north\": 10.918841 ,     \"south\": 10.715527  ,     \"east\":  105.254534   ,     \"west\":  105.124912    }  ",
+    "bbox": "{'north': 10.923440333, 'south': 10.704728463, 'east': 105.269244471, 'west': 105.124632344}",
+    "id_district_goc": 887,
+    "search_volume": 1273,
+    "polygon": [
+      105.156528929,
+      10.9228836930001
+    ]
+  },
+  {
+    "DistrictID": 640,
+    "ProvinceID": 1,
+    "DistrictName": "Huyện Phú Tân",
+    "bounding_box": "{     \"north\": 10.767 ,     \"south\": 10.540825  ,     \"east\":  105.36761   ,     \"west\":  105.145722    }  ",
+    "bbox": "{'north': 10.7661335450001, 'south': 10.5413310970001, 'east': 105.3681363, 'west': 105.144189635}",
+    "id_district_goc": 888,
+    "search_volume": 0,
+    "polygon": [
+      105.271581027,
+      10.765059831
+    ]
+  },
+  {
+    "DistrictID": 641,
+    "ProvinceID": 1,
+    "DistrictName": "Huyện Châu Phú",
+    "bounding_box": "{     \"north\": 10.706655 ,     \"south\": 10.435984  ,     \"east\":  105.34753   ,     \"west\":  105.062572    }  ",
+    "bbox": "{'north': 10.70138982, 'south': 10.4352669900001, 'east': 105.345541991, 'west': 105.065214899}",
+    "id_district_goc": 889,
+    "search_volume": 378,
+    "polygon": [
+      105.1757607,
+      10.6996700760001
+    ]
+  },
+  {
+    "DistrictID": 642,
+    "ProvinceID": 1,
+    "DistrictName": "Huyện Tịnh Biên",
+    "bounding_box": "{     \"north\": 10.677736 ,     \"south\": 10.280982  ,     \"east\":  105.120345   ,     \"west\":  104.904738    }  ",
+    "bbox": "{'north': 10.681089593, 'south': 10.435325458, 'east': 105.115031418, 'west': 104.898405534}",
+    "id_district_goc": null,
+    "search_volume": 640,
+    "polygon": [
+      105.098500865,
+      10.4881683240001
+    ]
+  },
+  {
+    "DistrictID": 643,
+    "ProvinceID": 1,
+    "DistrictName": "Huyện Tri Tôn",
+    "bounding_box": "{     \"north\": 10.554489 ,     \"south\": 10.280982  ,     \"east\":  105.125114   ,     \"west\":  104.789345    }  ",
+    "bbox": "{'north': 10.5495202390001, 'south': 10.2706140230001, 'east': 105.124169808, 'west': 104.778319178}",
+    "id_district_goc": 891,
+    "search_volume": 1045,
+    "polygon": [
+      104.985078122,
+      10.4535317260001
+    ]
+  },
+  {
+    "DistrictID": 644,
+    "ProvinceID": 1,
+    "DistrictName": "Huyện Châu Thành",
+    "bounding_box": "{     \"north\": 10.506201 ,     \"south\": 10.345815  ,     \"east\":  105.407266   ,     \"west\":  105.112351    }  ",
+    "bbox": "{'north': 10.504619704, 'south': 10.3461364940001, 'east': 105.408734157, 'west': 105.112796894}",
+    "id_district_goc": 892,
+    "search_volume": 993,
+    "polygon": [
+      105.320438452,
+      10.504493225
+    ]
+  },
+  {
+    "DistrictID": 645,
+    "ProvinceID": 1,
+    "DistrictName": "Huyện Chợ Mới",
+    "bounding_box": "{     \"north\": 10.57738 ,     \"south\": 10.336085  ,     \"east\":  105.576004   ,     \"west\":  105.323947    }  ",
+    "bbox": "{'north': 10.5775116670001, 'south': 10.3345328990001, 'east': 105.575770017, 'west': 105.327145664}",
+    "id_district_goc": 893,
+    "search_volume": 1259,
+    "polygon": [
+      105.370418425,
+      10.5745317170001
+    ]
+  },
+  {
+    "DistrictID": 646,
+    "ProvinceID": 1,
+    "DistrictName": "Huyện Thoại Sơn",
+    "bounding_box": "{     \"north\": 10.373241 ,     \"south\": 10.188369  ,     \"east\":  105.441474   ,     \"west\":  105.095613    }  ",
+    "bbox": "{'north': 10.3721832890001, 'south': 10.1835572730001, 'east': 105.441451154, 'west': 105.0951452}",
+    "id_district_goc": 894,
+    "search_volume": 1296,
+    "polygon": [
+      105.161493564,
+      10.3721262660001
+    ]
+  },
+  {
+    "DistrictID": 765,
+    "ProvinceID": 1,
+    "DistrictName": "Thị xã Tịnh Biên",
+    "bounding_box": "{\"north\":10.65,\"south\":10.55,\"east\":105.05,\"west\":104.95}",
+    "bbox": "{\"north\":10.65,\"south\":10.55,\"east\":105.05,\"west\":104.95}",
+    "id_district_goc": 890,
+    "search_volume": 0,
+    "polygon": []
+  }
+]

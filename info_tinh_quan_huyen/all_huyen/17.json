@@ -1,0 +1,106 @@
+[
+  {
+    "DistrictID": 482,
+    "ProvinceID": 17,
+    "DistrictName": "Thành phố Gia Nghĩa",
+    "bounding_box": "{     \"north\": 12.152079 ,     \"south\": 11.869305  ,     \"east\":  107.805408   ,     \"west\":  107.56827    }  ",
+    "bbox": "{'north': 12.1401569330001, 'south': 11.8854656390001, 'east': 107.787960157, 'west': 107.576691193}",
+    "id_district_goc": 660,
+    "search_volume": 1510,
+    "polygon": [
+      107.739017431,
+      12.136836718
+    ]
+  },
+  {
+    "DistrictID": 483,
+    "ProvinceID": 17,
+    "DistrictName": "Huyện Đăk Glong",
+    "bounding_box": "{     \"north\": 12.282787 ,     \"south\": 11.759453  ,     \"east\":  108.13084   ,     \"west\":  107.674143    }  ",
+    "bbox": "{'north': 12.268895372, 'south': 11.790252148, 'east': 108.11393725, 'west': 107.716343743}",
+    "id_district_goc": 661,
+    "search_volume": 41,
+    "polygon": [
+      107.737456449,
+      12.016556553
+    ]
+  },
+  {
+    "DistrictID": 484,
+    "ProvinceID": 17,
+    "DistrictName": "Huyện Cư Jút",
+    "bounding_box": "{     \"north\": 12.826142 ,     \"south\": 12.520838  ,     \"east\":  107.94884   ,     \"west\":  107.546043    }  ",
+    "bbox": "{'north': 12.812405615, 'south': 12.549360361, 'east': 107.93487441, 'west': 107.558778018}",
+    "id_district_goc": 662,
+    "search_volume": 1308,
+    "polygon": [
+      107.859848634,
+      12.801263233
+    ]
+  },
+  {
+    "DistrictID": 485,
+    "ProvinceID": 17,
+    "DistrictName": "Huyện Đắk Mil",
+    "bounding_box": "{     \"north\": 12.724823 ,     \"south\": 12.32988  ,     \"east\":  107.882704   ,     \"west\":  107.517842    }  ",
+    "bbox": "{'north': 12.7011872030001, 'south': 12.338778819, 'east': 107.869580279, 'west': 107.54334922}",
+    "id_district_goc": 663,
+    "search_volume": 959,
+    "polygon": [
+      107.690535509,
+      12.6287957760001
+    ]
+  },
+  {
+    "DistrictID": 486,
+    "ProvinceID": 17,
+    "DistrictName": "Huyện Krông Nô",
+    "bounding_box": "{     \"north\": 12.565911 ,     \"south\": 12.168917  ,     \"east\":  108.113305   ,     \"west\":  107.661586    }  ",
+    "bbox": "{'north': 12.551686295, 'south': 12.188264561, 'east': 108.098179221, 'west': 107.700001426}",
+    "id_district_goc": 664,
+    "search_volume": 667,
+    "polygon": [
+      107.887500099,
+      12.5512283570001
+    ]
+  },
+  {
+    "DistrictID": 487,
+    "ProvinceID": 17,
+    "DistrictName": "Huyện Đắk Song",
+    "bounding_box": "{     \"north\": 12.459675 ,     \"south\": 11.982839  ,     \"east\":  107.834301   ,     \"west\":  107.391421    }  ",
+    "bbox": "{'north': 12.423175148, 'south': 12.044072602, 'east': 107.785951779, 'west': 107.437137525}",
+    "id_district_goc": 665,
+    "search_volume": 640,
+    "polygon": [
+      107.681930555,
+      12.064487055
+    ]
+  },
+  {
+    "DistrictID": 488,
+    "ProvinceID": 17,
+    "DistrictName": "Huyện Đắk R'Lấp",
+    "bounding_box": "{     \"north\": 12.063731 ,     \"south\": 11.737192  ,     \"east\":  107.685009   ,     \"west\":  107.344655    }  ",
+    "bbox": "{'north': 12.0491496060001, 'south': 11.7491384620001, 'east': 107.662004725, 'west': 107.366398101}",
+    "id_district_goc": 666,
+    "search_volume": 0,
+    "polygon": [
+      107.498034971,
+      12.016971611
+    ]
+  },
+  {
+    "DistrictID": 489,
+    "ProvinceID": 17,
+    "DistrictName": "Huyện Tuy Đức",
+    "bounding_box": "{     \"north\": 12.364781 ,     \"south\": 11.902456  ,     \"east\":  107.6361   ,     \"west\":  107.166898    }  ",
+    "bbox": "{'north': 12.3352586830001, 'south': 11.9329049200001, 'east': 107.594142483, 'west': 107.20459804}",
+    "id_district_goc": 667,
+    "search_volume": 2250,
+    "polygon": [
+      107.353955395,
+      12.3233984550001
+    ]
+  }
+]

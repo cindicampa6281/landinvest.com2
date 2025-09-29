@@ -1,0 +1,139 @@
+[
+  {
+    "DistrictID": 522,
+    "ProvinceID": 8,
+    "DistrictName": "Thành phố Thủ Dầu Một",
+    "bounding_box": "{     \"north\": 11.1089082 ,     \"south\": 10.9397232  ,     \"east\":  106.7191368   ,     \"west\":  106.595    }  ",
+    "bbox": "{'north': 11.111417541, 'south': 10.93960652, 'east': 106.719697945, 'west': 106.595185996}",
+    "id_district_goc": 718,
+    "search_volume": 10802,
+    "polygon": [
+      106.689101801,
+      11.111239638
+    ]
+  },
+  {
+    "DistrictID": 523,
+    "ProvinceID": 8,
+    "DistrictName": "Huyện Bàu Bàng",
+    "bounding_box": "{     \"north\": 11.387741 ,     \"south\": 11.1513795  ,     \"east\":  106.7216469   ,     \"west\":  106.5031799    }  ",
+    "bbox": "{'north': 11.388194888, 'south': 11.153142256, 'east': 106.722191206, 'west': 106.498923041}",
+    "id_district_goc": 719,
+    "search_volume": 9800,
+    "polygon": [
+      106.61309545,
+      11.381013744
+    ]
+  },
+  {
+    "DistrictID": 524,
+    "ProvinceID": 8,
+    "DistrictName": "Huyện Dầu Tiếng",
+    "bounding_box": "{     \"north\": 11.5097892 ,     \"south\": 11.1342741  ,     \"east\":  106.5682591   ,     \"west\":  106.331456    }  ",
+    "bbox": "{'north': 11.501245915, 'south': 11.1355553270001, 'east': 106.576793747, 'west': 106.326752365}",
+    "id_district_goc": 720,
+    "search_volume": 0,
+    "polygon": [
+      106.438001388,
+      11.501142083
+    ]
+  },
+  {
+    "DistrictID": 525,
+    "ProvinceID": 8,
+    "DistrictName": "Thị xã Bến Cát",
+    "bounding_box": "{     \"north\": 11.2296345 ,     \"south\": 11.034216  ,     \"east\":  106.6941921   ,     \"west\":  106.5077    }  ",
+    "bbox": "{'north': 11.229475827, 'south': 11.0350407070001, 'east': 106.69340121, 'west': 106.508040909}",
+    "id_district_goc": 721,
+    "search_volume": 2000,
+    "polygon": [
+      106.685059915,
+      11.2290126400001
+    ]
+  },
+  {
+    "DistrictID": 526,
+    "ProvinceID": 8,
+    "DistrictName": "Huyện Phú Giáo",
+    "bounding_box": "{     \"north\": 11.4919559 ,     \"south\": 11.1883462  ,     \"east\":  106.9532128   ,     \"west\":  106.6437094    }  ",
+    "bbox": "{'north': 11.4915905140001, 'south': 11.1877150330001, 'east': 106.952794229, 'west': 106.643914862}",
+    "id_district_goc": 722,
+    "search_volume": 8194,
+    "polygon": [
+      106.799240844,
+      11.4881439760001
+    ]
+  },
+  {
+    "DistrictID": 527,
+    "ProvinceID": 8,
+    "DistrictName": "Thị xã Tân Uyên",
+    "bounding_box": "{     \"north\": 11.1542769 ,     \"south\": 10.9592354  ,     \"east\":  106.8256482   ,     \"west\":  106.6832033    }  ",
+    "bbox": "{'north': 11.255123252, 'south': 11.019800495, 'east': 106.966944974, 'west': 106.677918156}",
+    "id_district_goc": null,
+    "search_volume": 0,
+    "polygon": [
+      106.856277713,
+      11.2547933590001
+    ]
+  },
+  {
+    "DistrictID": 528,
+    "ProvinceID": 8,
+    "DistrictName": "Thành phố Dĩ An",
+    "bounding_box": "{     \"north\": 10.969926 ,     \"south\": 10.8634587  ,     \"east\":  106.8401265   ,     \"west\":  106.7341768    }  ",
+    "bbox": "{'north': 10.969416498, 'south': 10.8641862530001, 'east': 106.840487035, 'west': 106.735550666}",
+    "id_district_goc": 724,
+    "search_volume": 11990,
+    "polygon": [
+      106.758120456,
+      10.969327548
+    ]
+  },
+  {
+    "DistrictID": 529,
+    "ProvinceID": 8,
+    "DistrictName": "Thành phố Thuận An",
+    "bounding_box": "{     \"north\": 10.9974933 ,     \"south\": 10.8657225  ,     \"east\":  106.7533589   ,     \"west\":  106.6502    }  ",
+    "bbox": "{'north': 10.997254867, 'south': 10.8660432510001, 'east': 106.752911071, 'west': 106.65000669}",
+    "id_district_goc": 725,
+    "search_volume": 13328,
+    "polygon": [
+      106.708821912,
+      10.9959319110001
+    ]
+  },
+  {
+    "DistrictID": 530,
+    "ProvinceID": 8,
+    "DistrictName": "Huyện Bắc Tân Uyên",
+    "bounding_box": "{     \"north\": 11.2554723 ,     \"south\": 11.0198138  ,     \"east\":  106.966694   ,     \"west\":  106.6789547    }  ",
+    "bbox": "{'north': 11.1540865590001, 'south': 10.959289035, 'east': 106.825982097, 'west': 106.683845458}",
+    "id_district_goc": 726,
+    "search_volume": 0,
+    "polygon": [
+      106.704071984,
+      11.1524594270001
+    ]
+  },
+  {
+    "DistrictID": 761,
+    "ProvinceID": 8,
+    "DistrictName": "Thành phố Bến Cát",
+    "bounding_box": "{\"north\":11.20,\"south\":11.10,\"east\":106.65,\"west\":106.55}",
+    "bbox": "{\"north\":11.20,\"south\":11.10,\"east\":106.65,\"west\":106.55}",
+    "id_district_goc": 721,
+    "search_volume": 2000,
+    "polygon": []
+  },
+  {
+    "DistrictID": 762,
+    "ProvinceID": 8,
+    "DistrictName": "Thành phố Tân Uyên",
+    "bounding_box": "{\"north\":11.15,\"south\":11.05,\"east\":106.80,\"west\":106.70}",
+    "bbox": "{\"north\":11.15,\"south\":11.05,\"east\":106.80,\"west\":106.70}",
+    "id_district_goc": 723,
+    "search_volume": 0,
+    "polygon": []
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "DistrictID": 86,
+    "ProvinceID": 35,
+    "DistrictName": "Thành phố Lai Châu",
+    "bounding_box": "{     \"north\": 22.452516 ,     \"south\": 22.322524  ,     \"east\":  103.532247   ,     \"west\":  103.337903    }  ",
+    "bbox": "{'north': 22.4319562650001, 'south': 22.342063733, 'east': 103.525137516, 'west': 103.354620468}",
+    "id_district_goc": 105,
+    "search_volume": 300,
+    "polygon": [
+      103.419139605,
+      22.423459182
+    ]
+  },
+  {
+    "DistrictID": 87,
+    "ProvinceID": 35,
+    "DistrictName": "Huyện Tam Đường",
+    "bounding_box": "{     \"north\": 22.54051 ,     \"south\": 22.130507  ,     \"east\":  103.816859   ,     \"west\":  103.354894    }  ",
+    "bbox": "{'north': 22.4915930560001, 'south': 22.168228734, 'east': 103.781896471, 'west': 103.415962207}",
+    "id_district_goc": 106,
+    "search_volume": 487,
+    "polygon": [
+      103.556050988,
+      22.472542241
+    ]
+  },
+  {
+    "DistrictID": 88,
+    "ProvinceID": 35,
+    "DistrictName": "Huyện Mường Tè",
+    "bounding_box": "{     \"north\": 22.855816 ,     \"south\": 22.113359  ,     \"east\":  103.050927   ,     \"west\":  102.24717    }  ",
+    "bbox": "{'north': 22.780480502, 'south': 22.1677444630001, 'east': 102.98720216, 'west': 102.320986282}",
+    "id_district_goc": 107,
+    "search_volume": 770,
+    "polygon": [
+      102.501873784,
+      22.778623902
+    ]
+  },
+  {
+    "DistrictID": 89,
+    "ProvinceID": 35,
+    "DistrictName": "Huyện Sìn Hồ",
+    "bounding_box": "{     \"north\": 22.604926 ,     \"south\": 21.933967  ,     \"east\":  103.624545   ,     \"west\":  102.969974    }  ",
+    "bbox": "{'north': 22.8164851720001, 'south': 22.4159308160001, 'east': 103.595570717, 'west': 103.120708648}",
+    "id_district_goc": 108,
+    "search_volume": 524,
+    "polygon": [
+      103.527395007,
+      22.5954249170001
+    ]
+  },
+  {
+    "DistrictID": 90,
+    "ProvinceID": 35,
+    "DistrictName": "Huyện Phong Thổ",
+    "bounding_box": "{     \"north\": 22.887768 ,     \"south\": 22.37837  ,     \"east\":  103.640061   ,     \"west\":  103.083584    }  ",
+    "bbox": "{'north': 22.519278898, 'south': 21.9701150330001, 'east': 103.591950298, 'west': 103.071030336}",
+    "id_district_goc": 109,
+    "search_volume": 68,
+    "polygon": [
+      103.129720342,
+      22.518475591
+    ]
+  },
+  {
+    "DistrictID": 91,
+    "ProvinceID": 35,
+    "DistrictName": "Huyện Than Uyên",
+    "bounding_box": "{     \"north\": 22.124206 ,     \"south\": 21.664048  ,     \"east\":  104.038675   ,     \"west\":  103.642933    }  ",
+    "bbox": "{'north': 22.082707025, 'south': 21.685561106, 'east': 103.985043705, 'west': 103.669211512}",
+    "id_district_goc": 110,
+    "search_volume": 712,
+    "polygon": [
+      103.942813057,
+      22.0808449030001
+    ]
+  },
+  {
+    "DistrictID": 92,
+    "ProvinceID": 35,
+    "DistrictName": "Huyện Tân Uyên",
+    "bounding_box": "{     \"north\": 22.367033 ,     \"south\": 21.916741  ,     \"east\":  103.987616   ,     \"west\":  103.441239    }  ",
+    "bbox": "{'north': 22.303214085, 'south': 21.948091774, 'east': 103.944353157, 'west': 103.532640586}",
+    "id_district_goc": 111,
+    "search_volume": 803,
+    "polygon": [
+      103.778670603,
+      22.3015696210001
+    ]
+  },
+  {
+    "DistrictID": 93,
+    "ProvinceID": 35,
+    "DistrictName": "Huyện Nậm Nhùn",
+    "bounding_box": "{     \"north\": 22.535733 ,     \"south\": 21.970744  ,     \"east\":  103.298487   ,     \"west\":  102.686108    }  ",
+    "bbox": "{'north': 22.485672494, 'south': 22.0268544260001, 'east': 103.199397295, 'west': 102.73686783}",
+    "id_district_goc": 112,
+    "search_volume": 368,
+    "polygon": [
+      103.07926363,
+      22.469680931
+    ]
+  }
+]

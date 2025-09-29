@@ -1,0 +1,132 @@
+[
+  {
+    "DistrictID": 115,
+    "ProvinceID": 28,
+    "DistrictName": "Thành phố Hòa Bình",
+    "bounding_box": "{     \"north\": 20.963377 ,     \"south\": 20.719  ,     \"east\":  105.410276   ,     \"west\":  105.238553    }  ",
+    "bbox": "{'north': 20.9419442940001, 'south': 20.743414681, 'east': 105.388660982, 'west': 105.263345716}",
+    "id_district_goc": null,
+    "search_volume": 3903,
+    "polygon": [
+      105.340779413,
+      20.9417744620001
+    ]
+  },
+  {
+    "DistrictID": 116,
+    "ProvinceID": 28,
+    "DistrictName": "Huyện Đà Bắc",
+    "bounding_box": "{     \"north\": 21.172973 ,     \"south\": 20.709257  ,     \"east\":  105.355626   ,     \"west\":  104.828256    }  ",
+    "bbox": "{'north': 21.1129641840001, 'south': 20.7516180980001, 'east': 105.312729833, 'west': 104.852637262}",
+    "id_district_goc": null,
+    "search_volume": 3226,
+    "polygon": [
+      104.922109847,
+      21.0796105750001
+    ]
+  },
+  {
+    "DistrictID": 117,
+    "ProvinceID": 28,
+    "DistrictName": "Huyện Lương Sơn",
+    "bounding_box": "{     \"north\": 21.002632 ,     \"south\": 20.586845  ,     \"east\":  105.725643   ,     \"west\":  105.396754    }  ",
+    "bbox": "{'north': 20.9509796630001, 'south': 20.613587793, 'east': 105.685452223, 'west': 105.429910446}",
+    "id_district_goc": null,
+    "search_volume": 11491,
+    "polygon": [
+      105.483756576,
+      20.9473961910001
+    ]
+  },
+  {
+    "DistrictID": 118,
+    "ProvinceID": 28,
+    "DistrictName": "Huyện Kim Bôi",
+    "bounding_box": "{     \"north\": 20.873085 ,     \"south\": 20.483556  ,     \"east\":  105.717082   ,     \"west\":  105.318465    }  ",
+    "bbox": "{'north': 20.8287411950001, 'south': 20.521782574, 'east': 105.684701427, 'west': 105.370224639}",
+    "id_district_goc": null,
+    "search_volume": 6515,
+    "polygon": [
+      105.630606319,
+      20.6242251900001
+    ]
+  },
+  {
+    "DistrictID": 119,
+    "ProvinceID": 28,
+    "DistrictName": "Huyện Cao Phong",
+    "bounding_box": "{     \"north\": 20.824123 ,     \"south\": 20.582888  ,     \"east\":  105.438803   ,     \"west\":  105.163177    }  ",
+    "bbox": "{'north': 20.785684604, 'south': 20.592492065, 'east': 105.419836441, 'west': 105.177524299}",
+    "id_district_goc": null,
+    "search_volume": 1043,
+    "polygon": [
+      105.177524299,
+      20.7606476460001
+    ]
+  },
+  {
+    "DistrictID": 120,
+    "ProvinceID": 28,
+    "DistrictName": "Huyện Tân Lạc",
+    "bounding_box": "{     \"north\": 20.812205 ,     \"south\": 20.411929  ,     \"east\":  105.420974   ,     \"west\":  105.087323    }  ",
+    "bbox": "{'north': 20.771532289, 'south': 20.451507486, 'east': 105.394438992, 'west': 105.111409016}",
+    "id_district_goc": null,
+    "search_volume": 1572,
+    "polygon": [
+      105.11534279,
+      20.752593618
+    ]
+  },
+  {
+    "DistrictID": 121,
+    "ProvinceID": 28,
+    "DistrictName": "Huyện Mai Châu",
+    "bounding_box": "{     \"north\": 20.921344 ,     \"south\": 20.521872  ,     \"east\":  105.193472   ,     \"west\":  104.785498    }  ",
+    "bbox": "{'north': 20.874085694, 'south': 20.5574652080001, 'east': 105.159304159, 'west': 104.835278997}",
+    "id_district_goc": null,
+    "search_volume": 2636,
+    "polygon": [
+      105.00486567,
+      20.867491638
+    ]
+  },
+  {
+    "DistrictID": 122,
+    "ProvinceID": 28,
+    "DistrictName": "Huyện Lạc Sơn",
+    "bounding_box": "{     \"north\": 20.669603 ,     \"south\": 20.307342  ,     \"east\":  105.606548   ,     \"west\":  105.221403    }  ",
+    "bbox": "{'north': 20.637274016, 'south': 20.359831823, 'east': 105.578183102, 'west': 105.258559685}",
+    "id_district_goc": null,
+    "search_volume": 3412,
+    "polygon": [
+      105.561049163,
+      20.549200802
+    ]
+  },
+  {
+    "DistrictID": 123,
+    "ProvinceID": 28,
+    "DistrictName": "Huyện Yên Thủy",
+    "bounding_box": "{     \"north\": 20.568395 ,     \"south\": 20.279298  ,     \"east\":  105.730934   ,     \"west\":  105.504511    }  ",
+    "bbox": "{'north': 20.549200802, 'south': 20.3053927550001, 'east': 105.72890647, 'west': 105.540585707}",
+    "id_district_goc": null,
+    "search_volume": 3220,
+    "polygon": [
+      105.618614236,
+      20.522880835
+    ]
+  },
+  {
+    "DistrictID": 124,
+    "ProvinceID": 28,
+    "DistrictName": "Huyện Lạc Thủy",
+    "bounding_box": "{     \"north\": 20.649242 ,     \"south\": 20.338479  ,     \"east\":  105.876442   ,     \"west\":  105.580666    }  ",
+    "bbox": "{'north': 20.6242251900001, 'south': 20.366376341, 'east': 105.857450786, 'west': 105.614047045}",
+    "id_district_goc": null,
+    "search_volume": 3236,
+    "polygon": [
+      105.669063135,
+      20.617310146
+    ]
+  }
+]

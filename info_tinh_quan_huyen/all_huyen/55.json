@@ -1,0 +1,129 @@
+[
+  {
+    "DistrictID": 125,
+    "ProvinceID": 55,
+    "DistrictName": "Thành phố Thái Nguyên",
+    "bounding_box": "{     \"north\": 21.649571 ,     \"south\": 21.500301  ,     \"east\":  105.906703   ,     \"west\":  105.71212    }  ",
+    "bbox": "{'north': 21.648697106, 'south': 21.5062785010001, 'east': 105.903298282, 'west': 105.700291721}",
+    "id_district_goc": 164,
+    "search_volume": 1465,
+    "polygon": [
+      105.819904976,
+      21.6419993650001
+    ]
+  },
+  {
+    "DistrictID": 126,
+    "ProvinceID": 55,
+    "DistrictName": "Thành phố Sông Công",
+    "bounding_box": "{     \"north\": 21.54581 ,     \"south\": 21.435279  ,     \"east\":  105.917837   ,     \"west\":  105.762655    }  ",
+    "bbox": "{'north': 21.5522964140001, 'south': 21.439051954, 'east': 105.916007889, 'west': 105.752539467}",
+    "id_district_goc": 165,
+    "search_volume": 2302,
+    "polygon": [
+      105.897673917,
+      21.540593809
+    ]
+  },
+  {
+    "DistrictID": 127,
+    "ProvinceID": 55,
+    "DistrictName": "Huyện Định Hóa",
+    "bounding_box": "{     \"north\": 22.055449 ,     \"south\": 21.737531  ,     \"east\":  105.770039   ,     \"west\":  105.481648    }  ",
+    "bbox": "{'north': 22.0476148440001, 'south': 21.7455633920001, 'east': 105.777690786, 'west': 105.493474116}",
+    "id_district_goc": 167,
+    "search_volume": 1532,
+    "polygon": [
+      105.570714799,
+      21.747447262
+    ]
+  },
+  {
+    "DistrictID": 128,
+    "ProvinceID": 55,
+    "DistrictName": "Huyện Phú Lương",
+    "bounding_box": "{     \"north\": 21.916912 ,     \"south\": 21.614646  ,     \"east\":  105.822116   ,     \"west\":  105.625735    }  ",
+    "bbox": "{'north': 21.9153195150001, 'south': 21.6140618430001, 'east': 105.822452036, 'west': 105.62508245}",
+    "id_district_goc": 168,
+    "search_volume": 1340,
+    "polygon": [
+      105.630874483,
+      21.771164587
+    ]
+  },
+  {
+    "DistrictID": 129,
+    "ProvinceID": 55,
+    "DistrictName": "Huyện Đồng Hỷ",
+    "bounding_box": "{     \"north\": 21.848956 ,     \"south\": 21.5204909  ,     \"east\":  106.07389   ,     \"west\":  105.7861118    }  ",
+    "bbox": "{'north': 21.8493402340001, 'south': 21.52031429, 'east': 106.075292534, 'west': 105.786383136}",
+    "id_district_goc": 169,
+    "search_volume": 865,
+    "polygon": [
+      106.07520569,
+      21.6123009350001
+    ]
+  },
+  {
+    "DistrictID": 130,
+    "ProvinceID": 55,
+    "DistrictName": "Huyện Võ Nhai",
+    "bounding_box": "{     \"north\": 21.9678599 ,     \"south\": 21.6040447  ,     \"east\":  106.2379808   ,     \"west\":  105.847805    }  ",
+    "bbox": "{'north': 21.966921837, 'south': 21.604243152, 'east': 106.23803219, 'west': 105.848281051}",
+    "id_district_goc": 170,
+    "search_volume": 234,
+    "polygon": [
+      106.098415398,
+      21.9380083290001
+    ]
+  },
+  {
+    "DistrictID": 131,
+    "ProvinceID": 55,
+    "DistrictName": "Huyện Đại Từ",
+    "bounding_box": "{     \"north\": 21.777377 ,     \"south\": 21.4302783  ,     \"east\":  105.7759969   ,     \"west\":  105.4775053    }  ",
+    "bbox": "{'north': 21.7762934950001, 'south': 21.430112099, 'east': 105.775905768, 'west': 105.477545578}",
+    "id_district_goc": 171,
+    "search_volume": 2054,
+    "polygon": [
+      105.631261338,
+      21.7682305330001
+    ]
+  },
+  {
+    "DistrictID": 132,
+    "ProvinceID": 55,
+    "DistrictName": "Thị xã Phổ Yên",
+    "bounding_box": "{     \"north\": 21.5770359 ,     \"south\": 21.3264833  ,     \"east\":  105.9454808   ,     \"west\":  105.665962    }  ",
+    "bbox": "{'north': 21.5781817110001, 'south': 21.3255286350001, 'east': 105.945191732, 'west': 105.666700901}",
+    "id_district_goc": null,
+    "search_volume": 2759,
+    "polygon": [
+      105.752539467,
+      21.506383564
+    ]
+  },
+  {
+    "DistrictID": 133,
+    "ProvinceID": 55,
+    "DistrictName": "Huyện Phú Bình",
+    "bounding_box": "{     \"north\": 21.590812 ,     \"south\": 21.3940376  ,     \"east\":  106.0514684   ,     \"west\":  105.8847728    }  ",
+    "bbox": "{'north': 21.59102119, 'south': 21.3942335410001, 'east': 106.051531527, 'west': 105.876023271}",
+    "id_district_goc": 173,
+    "search_volume": 2355,
+    "polygon": [
+      106.043832991,
+      21.52031429
+    ]
+  },
+  {
+    "DistrictID": 746,
+    "ProvinceID": 55,
+    "DistrictName": "Thành phố Phổ Yên",
+    "bounding_box": "{\"north\":21.45,\"south\":21.35,\"east\":105.75,\"west\":105.60}",
+    "bbox": "{\"north\":21.45,\"south\":21.35,\"east\":105.75,\"west\":105.60}",
+    "id_district_goc": 172,
+    "search_volume": 0,
+    "polygon": []
+  }
+]

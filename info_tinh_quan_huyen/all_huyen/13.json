@@ -1,0 +1,132 @@
+[
+  {
+    "DistrictID": 42,
+    "ProvinceID": 13,
+    "DistrictName": "Thành phố Cao Bằng",
+    "bounding_box": "{     \"north\": 22.703011 ,     \"south\": 22.605801  ,     \"east\":  106.302849   ,     \"west\":  106.205882    }  ",
+    "bbox": "{'north': 22.7305103680001, 'south': 22.571064957, 'east': 106.351017062, 'west': 106.172952305}",
+    "id_district_goc": 40,
+    "search_volume": 177,
+    "polygon": [
+      106.348873025,
+      22.596505248
+    ]
+  },
+  {
+    "DistrictID": 43,
+    "ProvinceID": 13,
+    "DistrictName": "Huyện Bảo Lâm",
+    "bounding_box": "{     \"north\": 11.986741 ,     \"south\": 11.299375  ,     \"east\":  108.051108   ,     \"west\":  107.419863    }  ",
+    "bbox": "{'north': 23.121518909, 'south': 22.633465132, 'east': 105.645403021, 'west': 105.270511383}",
+    "id_district_goc": 42,
+    "search_volume": 960,
+    "polygon": [
+      105.568584577,
+      23.080042561
+    ]
+  },
+  {
+    "DistrictID": 44,
+    "ProvinceID": 13,
+    "DistrictName": "Huyện Bảo Lạc",
+    "bounding_box": "{     \"north\": 23.083147 ,     \"south\": 22.6664829  ,     \"east\":  105.8797557   ,     \"west\":  105.5436657    }  ",
+    "bbox": "{'north': 23.0822488310001, 'south': 22.6664261990001, 'east': 105.880777508, 'west': 105.543358364}",
+    "id_district_goc": 43,
+    "search_volume": 968,
+    "polygon": [
+      105.870402686,
+      22.926453311
+    ]
+  },
+  {
+    "DistrictID": 45,
+    "ProvinceID": 13,
+    "DistrictName": "Huyện Hà Quảng",
+    "bounding_box": "{     \"north\": 23.035125 ,     \"south\": 22.773066  ,     \"east\":  106.305684   ,     \"west\":  105.931089    }  ",
+    "bbox": "{'north': 23.000951619, 'south': 22.7915669430001, 'east': 106.264946898, 'west': 105.954076613}",
+    "id_district_goc": 45,
+    "search_volume": 484,
+    "polygon": [
+      106.264018695,
+      22.91220438
+    ]
+  },
+  {
+    "DistrictID": 46,
+    "ProvinceID": 13,
+    "DistrictName": "Huyện Trùng Khánh",
+    "bounding_box": "{     \"north\": 22.947558 ,     \"south\": 22.693133  ,     \"east\":  106.724758   ,     \"west\":  106.405468    }  ",
+    "bbox": "{'north': 22.948478005, 'south': 22.7040160870001, 'east': 106.731535366, 'west': 106.397674511}",
+    "id_district_goc": 47,
+    "search_volume": 740,
+    "polygon": [
+      106.724434668,
+      22.854971139
+    ]
+  },
+  {
+    "DistrictID": 47,
+    "ProvinceID": 13,
+    "DistrictName": "Huyện Hạ Lang",
+    "bounding_box": "{     \"north\": 22.8492542 ,     \"south\": 22.5756227  ,     \"east\":  106.8376464   ,     \"west\":  106.5524311    }  ",
+    "bbox": "{'north': 22.84953353, 'south': 22.575782439, 'east': 106.838947114, 'west': 106.55196018}",
+    "id_district_goc": 48,
+    "search_volume": 986,
+    "polygon": [
+      106.765039706,
+      22.810002614
+    ]
+  },
+  {
+    "DistrictID": 48,
+    "ProvinceID": 13,
+    "DistrictName": "Huyện Quảng Hòa",
+    "bounding_box": "{     \"north\": 22.7940542 ,     \"south\": 22.4535416  ,     \"east\":  106.6097619   ,     \"west\":  106.2830991    }  ",
+    "bbox": "{'north': 22.7942828990001, 'south': 22.5494751310001, 'east': 106.577504989, 'west': 106.344836363}",
+    "id_district_goc": 49,
+    "search_volume": 519,
+    "polygon": [
+      106.553246449,
+      22.7135886460001
+    ]
+  },
+  {
+    "DistrictID": 49,
+    "ProvinceID": 13,
+    "DistrictName": "Huyện Hoà An",
+    "bounding_box": "{     \"north\": 22.859284 ,     \"south\": 22.517189  ,     \"east\":  106.366242   ,     \"west\":  106.018113    }  ",
+    "bbox": "{'north': 22.86268842, 'south': 22.5144178250001, 'east': 106.404886636, 'west': 106.012849946}",
+    "id_district_goc": 51,
+    "search_volume": 140,
+    "polygon": [
+      106.210076527,
+      22.8102643440001
+    ]
+  },
+  {
+    "DistrictID": 50,
+    "ProvinceID": 13,
+    "DistrictName": "Huyện Nguyên Bình",
+    "bounding_box": "{     \"north\": 22.801143 ,     \"south\": 22.495069  ,     \"east\":  106.180807   ,     \"west\":  105.742041    }  ",
+    "bbox": "{'north': 22.8026746580001, 'south': 22.4956385090001, 'east': 106.173856057, 'west': 105.727381144}",
+    "id_district_goc": 52,
+    "search_volume": 697,
+    "polygon": [
+      106.015043943,
+      22.7151216350001
+    ]
+  },
+  {
+    "DistrictID": 51,
+    "ProvinceID": 13,
+    "DistrictName": "Huyện Thạch An",
+    "bounding_box": "{     \"north\": 22.592384 ,     \"south\": 22.356352  ,     \"east\":  106.555057   ,     \"west\":  106.092258    }  ",
+    "bbox": "{'north': 22.6049758340001, 'south': 22.3569975460001, 'east': 106.569086704, 'west': 106.094113734}",
+    "id_district_goc": 53,
+    "search_volume": 703,
+    "polygon": [
+      106.295830241,
+      22.5796077540001
+    ]
+  }
+]

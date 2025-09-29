@@ -1,0 +1,132 @@
+[
+  {
+    "DistrictID": 225,
+    "ProvinceID": 31,
+    "DistrictName": "Thành phố Hưng Yên",
+    "bounding_box": "{     \"north\": 20.7164123 ,     \"south\": 20.6030956  ,     \"east\":  106.1292523   ,     \"west\":  106.0043205    }  ",
+    "bbox": "{'north': 20.716217973, 'south': 20.6032446670001, 'east': 106.129594104, 'west': 106.004407922}",
+    "id_district_goc": 323,
+    "search_volume": 1779,
+    "polygon": [
+      106.004407922,
+      20.7041516780001
+    ]
+  },
+  {
+    "DistrictID": 226,
+    "ProvinceID": 31,
+    "DistrictName": "Huyện Văn Lâm",
+    "bounding_box": "{     \"north\": 21.0069902 ,     \"south\": 20.938132  ,     \"east\":  106.1379856   ,     \"west\":  105.9613422    }  ",
+    "bbox": "{'north': 21.007305624, 'south': 20.937653031, 'east': 106.138020945, 'west': 105.961210618}",
+    "id_district_goc": 325,
+    "search_volume": 3060,
+    "polygon": [
+      106.127168282,
+      20.9837257290001
+    ]
+  },
+  {
+    "DistrictID": 227,
+    "ProvinceID": 31,
+    "DistrictName": "Huyện Văn Giang",
+    "bounding_box": "{     \"north\": 20.997488 ,     \"south\": 20.873107  ,     \"east\":  106.028902   ,     \"west\":  105.881062    }  ",
+    "bbox": "{'north': 20.975445775, 'south': 20.88304221, 'east': 106.0206175, 'west': 105.895388504}",
+    "id_district_goc": 326,
+    "search_volume": 4457,
+    "polygon": [
+      105.964074529,
+      20.96366597
+    ]
+  },
+  {
+    "DistrictID": 228,
+    "ProvinceID": 31,
+    "DistrictName": "Huyện Yên Mỹ",
+    "bounding_box": "{     \"north\": 20.954597 ,     \"south\": 20.835673  ,     \"east\":  106.085725   ,     \"west\":  105.962818    }  ",
+    "bbox": "{'north': 20.9547135330001, 'south': 20.8353003080001, 'east': 106.087122617, 'west': 105.961935407}",
+    "id_district_goc": 327,
+    "search_volume": 2241,
+    "polygon": [
+      106.039059161,
+      20.8360415760001
+    ]
+  },
+  {
+    "DistrictID": 229,
+    "ProvinceID": 31,
+    "DistrictName": "Thị xã Mỹ Hào",
+    "bounding_box": "{     \"north\": 20.977805 ,     \"south\": 20.87325  ,     \"east\":  106.1581977   ,     \"west\":  106.031498    }  ",
+    "bbox": "{'north': 20.9775755090001, 'south': 20.873382265, 'east': 106.15761489, 'west': 106.031606244}",
+    "id_district_goc": 328,
+    "search_volume": 1344,
+    "polygon": [
+      106.087122617,
+      20.883550567
+    ]
+  },
+  {
+    "DistrictID": 230,
+    "ProvinceID": 31,
+    "DistrictName": "Huyện Ân Thi",
+    "bounding_box": "{     \"north\": 20.897849 ,     \"south\": 20.727644  ,     \"east\":  106.153192   ,     \"west\":  106.033514    }  ",
+    "bbox": "{'north': 20.8976936220001, 'south': 20.7265737970001, 'east': 106.153022377, 'west': 106.033579165}",
+    "id_district_goc": 329,
+    "search_volume": 1419,
+    "polygon": [
+      106.038736474,
+      20.8075639530001
+    ]
+  },
+  {
+    "DistrictID": 231,
+    "ProvinceID": 31,
+    "DistrictName": "Huyện Khoái Châu",
+    "bounding_box": "{     \"north\": 20.904526 ,     \"south\": 20.756976  ,     \"east\":  106.042177   ,     \"west\":  105.9107142    }  ",
+    "bbox": "{'north': 20.90450443, 'south': 20.757241734, 'east': 106.042119463, 'west': 105.910871206}",
+    "id_district_goc": 330,
+    "search_volume": 1553,
+    "polygon": [
+      105.923783038,
+      20.7910181930001
+    ]
+  },
+  {
+    "DistrictID": 232,
+    "ProvinceID": 31,
+    "DistrictName": "Huyện Kim Động",
+    "bounding_box": "{     \"north\": 20.814816 ,     \"south\": 20.6938687  ,     \"east\":  106.0992   ,     \"west\":  105.9642444    }  ",
+    "bbox": "{'north': 20.8143995790001, 'south': 20.6945263380001, 'east': 106.099249377, 'west': 105.965210833}",
+    "id_district_goc": 331,
+    "search_volume": 1451,
+    "polygon": [
+      106.097856824,
+      20.7276035130001
+    ]
+  },
+  {
+    "DistrictID": 233,
+    "ProvinceID": 31,
+    "DistrictName": "Huyện Tiên Lữ",
+    "bounding_box": "{     \"north\": 20.732162 ,     \"south\": 20.6324028  ,     \"east\":  106.1988606   ,     \"west\":  106.0766876    }  ",
+    "bbox": "{'north': 20.731559077, 'south': 20.632499221, 'east': 106.198709602, 'west': 106.075940392}",
+    "id_district_goc": 332,
+    "search_volume": 1886,
+    "polygon": [
+      106.080549704,
+      20.695415903
+    ]
+  },
+  {
+    "DistrictID": 234,
+    "ProvinceID": 31,
+    "DistrictName": "Huyện Phù Cừ",
+    "bounding_box": "{     \"north\": 20.7850344 ,     \"south\": 20.6413331  ,     \"east\":  106.2695282   ,     \"west\":  106.1178236    }  ",
+    "bbox": "{'north': 20.7851235950001, 'south': 20.6411340650001, 'east': 106.269508376, 'west': 106.11807364}",
+    "id_district_goc": 333,
+    "search_volume": 1956,
+    "polygon": [
+      106.11807364,
+      20.731559077
+    ]
+  }
+]

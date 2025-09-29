@@ -1,0 +1,93 @@
+[
+  {
+    "DistrictID": 690,
+    "ProvinceID": 3,
+    "DistrictName": "Thành phố Bạc Liêu",
+    "bounding_box": "{     \"north\": 9.351457 ,     \"south\": 9.182928  ,     \"east\":  105.820287   ,     \"west\":  105.67485    }  ",
+    "bbox": "{'north': 9.33946219800004, 'south': 9.19654415400004, 'east': 105.827432122, 'west': 105.679532189}",
+    "id_district_goc": 954,
+    "search_volume": 851,
+    "polygon": [
+      105.814485225,
+      9.33331405100006
+    ]
+  },
+  {
+    "DistrictID": 691,
+    "ProvinceID": 3,
+    "DistrictName": "Huyện Hồng Dân",
+    "bounding_box": "{     \"north\": 9.67214 ,     \"south\": 9.371234  ,     \"east\":  105.578771   ,     \"west\":  105.242825    }  ",
+    "bbox": "{'north': 9.63766639100004, 'south': 9.38152642900008, 'east': 105.555616895, 'west': 105.262055331}",
+    "id_district_goc": 956,
+    "search_volume": 808,
+    "polygon": [
+      105.295413398,
+      9.63655706700007
+    ]
+  },
+  {
+    "DistrictID": 692,
+    "ProvinceID": 3,
+    "DistrictName": "Huyện Phước Long",
+    "bounding_box": "{     \"north\": 9.546205 ,     \"south\": 9.248574  ,     \"east\":  105.571262   ,     \"west\":  105.229261    }  ",
+    "bbox": "{'north': 9.49262146700005, 'south': 9.27963159000007, 'east': 105.578712514, 'west': 105.248310984}",
+    "id_district_goc": 957,
+    "search_volume": 550,
+    "polygon": [
+      105.446088189,
+      9.49101297500005
+    ]
+  },
+  {
+    "DistrictID": 693,
+    "ProvinceID": 3,
+    "DistrictName": "Huyện Vĩnh Lợi",
+    "bounding_box": "{     \"north\": 9.459512 ,     \"south\": 9.246358  ,     \"east\":  105.868078   ,     \"west\":  105.531834    }  ",
+    "bbox": "{'north': 9.42493021100006, 'south': 9.26040173400003, 'east': 105.860180989, 'west': 105.549698514}",
+    "id_district_goc": 958,
+    "search_volume": 691,
+    "polygon": [
+      105.590893441,
+      9.42346761500005
+    ]
+  },
+  {
+    "DistrictID": 694,
+    "ProvinceID": 3,
+    "DistrictName": "Thị xã Giá Rai",
+    "bounding_box": "{     \"north\": 9.373251 ,     \"south\": 9.163756  ,     \"east\":  105.554197   ,     \"west\":  105.238248    }  ",
+    "bbox": "{'north': 9.35309931900002, 'south': 9.17356455300006, 'east': 105.548229818, 'west': 105.232721452}",
+    "id_district_goc": 959,
+    "search_volume": 650,
+    "polygon": [
+      105.404261779,
+      9.35209776500005
+    ]
+  },
+  {
+    "DistrictID": 695,
+    "ProvinceID": 3,
+    "DistrictName": "Huyện Đông Hải",
+    "bounding_box": "{     \"north\": 9.286132 ,     \"south\": 8.967481  ,     \"east\":  105.586431   ,     \"west\":  105.223388    }  ",
+    "bbox": "{'north': 9.25860639700005, 'south': 9.01805618700007, 'east': 105.582449818, 'west': 105.245179139}",
+    "id_district_goc": 960,
+    "search_volume": 885,
+    "polygon": [
+      105.555009095,
+      9.23115258500007
+    ]
+  },
+  {
+    "DistrictID": 696,
+    "ProvinceID": 3,
+    "DistrictName": "Huyện Hoà Bình",
+    "bounding_box": "{     \"north\": 9.422444 ,     \"south\": 9.12123  ,     \"east\":  105.741442   ,     \"west\":  105.507806    }  ",
+    "bbox": "{'north': 9.38032264600002, 'south': 9.13566489400006, 'east': 105.729522903, 'west': 105.507256824}",
+    "id_district_goc": 961,
+    "search_volume": 435,
+    "polygon": [
+      105.571867425,
+      9.35281550300004
+    ]
+  }
+]

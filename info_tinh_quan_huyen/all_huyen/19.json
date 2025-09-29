@@ -1,0 +1,145 @@
+[
+  {
+    "DistrictID": 531,
+    "ProvinceID": 19,
+    "DistrictName": "Thành phố Biên Hòa",
+    "bounding_box": "{     \"north\": 11.02941 ,     \"south\": 10.792708  ,     \"east\":  106.999453   ,     \"west\":  106.741514    }  ",
+    "bbox": "{'north': 11.0055356980001, 'south': 10.8224606470001, 'east': 106.986578972, 'west': 106.762354395}",
+    "id_district_goc": 731,
+    "search_volume": 9911,
+    "polygon": [
+      106.886056195,
+      11.0052814700001
+    ]
+  },
+  {
+    "DistrictID": 532,
+    "ProvinceID": 19,
+    "DistrictName": "Thành phố Long Khánh",
+    "bounding_box": "{     \"north\": 11.049077 ,     \"south\": 10.826981  ,     \"east\":  107.347264   ,     \"west\":  107.128286    }  ",
+    "bbox": "{'north': 11.0323353000001, 'south': 10.845783399, 'east': 107.327356016, 'west': 107.157610914}",
+    "id_district_goc": 732,
+    "search_volume": 5607,
+    "polygon": [
+      107.260887316,
+      11.031582358
+    ]
+  },
+  {
+    "DistrictID": 533,
+    "ProvinceID": 19,
+    "DistrictName": "Huyện Tân Phú",
+    "bounding_box": "{     \"north\": 11.615312 ,     \"south\": 11.138413  ,     \"east\":  107.569658   ,     \"west\":  107.151363    }  ",
+    "bbox": "{'north': 11.5822075620001, 'south': 11.1763839400001, 'east': 107.54485582, 'west': 107.175719332}",
+    "id_district_goc": 734,
+    "search_volume": 4655,
+    "polygon": [
+      107.369946579,
+      11.5489413710001
+    ]
+  },
+  {
+    "DistrictID": 534,
+    "ProvinceID": 19,
+    "DistrictName": "Huyện Vĩnh Cửu",
+    "bounding_box": "{     \"north\": 11.575683 ,     \"south\": 10.926423  ,     \"east\":  107.318982   ,     \"west\":  106.721211    }  ",
+    "bbox": "{'north': 11.511990898, 'south': 10.9737637420001, 'east': 107.232112991, 'west': 106.774784613}",
+    "id_district_goc": 735,
+    "search_volume": 6582,
+    "polygon": [
+      107.194113559,
+      11.498234763
+    ]
+  },
+  {
+    "DistrictID": 535,
+    "ProvinceID": 19,
+    "DistrictName": "Huyện Định Quán",
+    "bounding_box": "{     \"north\": 11.451535 ,     \"south\": 10.985438  ,     \"east\":  107.486892   ,     \"west\":  107.059796    }  ",
+    "bbox": "{'north': 11.3960134430001, 'south': 11.0242144650001, 'east': 107.462008869, 'west': 107.108667803}",
+    "id_district_goc": 736,
+    "search_volume": 0,
+    "polygon": [
+      107.295818018,
+      11.39560247
+    ]
+  },
+  {
+    "DistrictID": 536,
+    "ProvinceID": 19,
+    "DistrictName": "Huyện Trảng Bom",
+    "bounding_box": "{     \"north\": 11.126689 ,     \"south\": 10.821756  ,     \"east\":  107.164551   ,     \"west\":  106.871068    }  ",
+    "bbox": "{'north': 11.1036025780001, 'south': 10.8589327560001, 'east': 107.129707088, 'west': 106.904373785}",
+    "id_district_goc": 737,
+    "search_volume": 6858,
+    "polygon": [
+      107.063745606,
+      11.103479254
+    ]
+  },
+  {
+    "DistrictID": 537,
+    "ProvinceID": 19,
+    "DistrictName": "Huyện Thống Nhất",
+    "bounding_box": "{     \"north\": 11.125709 ,     \"south\": 10.82608  ,     \"east\":  107.275799   ,     \"west\":  107.024919    }  ",
+    "bbox": "{'north': 11.0999577580001, 'south': 10.8489349920001, 'east': 107.259515539, 'west': 107.05870984}",
+    "id_district_goc": 738,
+    "search_volume": 0,
+    "polygon": [
+      107.141481966,
+      11.0997911590001
+    ]
+  },
+  {
+    "DistrictID": 538,
+    "ProvinceID": 19,
+    "DistrictName": "Huyện Cẩm Mỹ",
+    "bounding_box": "{     \"north\": 10.938789 ,     \"south\": 10.625512  ,     \"east\":  107.437737   ,     \"west\":  107.049337    }  ",
+    "bbox": "{'north': 10.9011621560001, 'south': 10.6689515410001, 'east': 107.41928389, 'west': 107.072445733}",
+    "id_district_goc": 739,
+    "search_volume": 5875,
+    "polygon": [
+      107.15739029,
+      10.9009321290001
+    ]
+  },
+  {
+    "DistrictID": 539,
+    "ProvinceID": 19,
+    "DistrictName": "Huyện Long Thành",
+    "bounding_box": "{     \"north\": 10.898089 ,     \"south\": 10.616917  ,     \"east\":  107.166917   ,     \"west\":  106.844218    }  ",
+    "bbox": "{'north': 10.8788687630001, 'south': 10.643651418, 'east': 107.146016112, 'west': 106.864613819}",
+    "id_district_goc": 740,
+    "search_volume": 0,
+    "polygon": [
+      107.056732451,
+      10.8787337630001
+    ]
+  },
+  {
+    "DistrictID": 540,
+    "ProvinceID": 19,
+    "DistrictName": "Huyện Xuân Lộc",
+    "bounding_box": "{     \"north\": 11.12675 ,     \"south\": 10.713626  ,     \"east\":  107.619049   ,     \"west\":  107.183339    }  ",
+    "bbox": "{'north': 11.088806279, 'south': 10.7654035910001, 'east': 107.577017152, 'west': 107.237813511}",
+    "id_district_goc": 741,
+    "search_volume": 0,
+    "polygon": [
+      107.292510183,
+      11.0887655970001
+    ]
+  },
+  {
+    "DistrictID": 541,
+    "ProvinceID": 19,
+    "DistrictName": "Huyện Nhơn Trạch",
+    "bounding_box": "{     \"north\": 10.822694 ,     \"south\": 10.490924  ,     \"east\":  107.082347   ,     \"west\":  106.741036    }  ",
+    "bbox": "{'north': 10.785662272, 'south': 10.5790132560001, 'east': 107.017772038, 'west': 106.751401199}",
+    "id_district_goc": 742,
+    "search_volume": 10459,
+    "polygon": [
+      106.890642568,
+      10.7850986870001
+    ]
+  }
+]

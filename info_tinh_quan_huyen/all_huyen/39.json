@@ -1,0 +1,197 @@
+[
+  {
+    "DistrictID": 572,
+    "ProvinceID": 39,
+    "DistrictName": "Thành phố Tân An",
+    "bounding_box": "{     \"north\": 10.722918 ,     \"south\": 10.332686  ,     \"east\":  107.057699   ,     \"west\":  106.669562    }  ",
+    "bbox": "{'north': 10.575621176, 'south': 10.475860261, 'east': 106.460920968, 'west': 106.34773127}",
+    "id_district_goc": 794,
+    "search_volume": 4042,
+    "polygon": [
+      106.390370621,
+      10.575621176
+    ]
+  },
+  {
+    "DistrictID": 573,
+    "ProvinceID": 39,
+    "DistrictName": "Thị xã Kiến Tường",
+    "bounding_box": "{     \"north\": 10.928104 ,     \"south\": 10.664308  ,     \"east\":  106.047804   ,     \"west\":  105.797303    }  ",
+    "bbox": "{'north': 10.9157193230001, 'south': 10.691772171, 'east': 106.005383313, 'west': 105.81768427}",
+    "id_district_goc": 795,
+    "search_volume": 3413,
+    "polygon": [
+      105.985141466,
+      10.881181753
+    ]
+  },
+  {
+    "DistrictID": 574,
+    "ProvinceID": 39,
+    "DistrictName": "Huyện Tân Hưng",
+    "bounding_box": "{     \"north\": 11.013165 ,     \"south\": 10.614469  ,     \"east\":  105.868833   ,     \"west\":  105.469722    }  ",
+    "bbox": "{'north': 10.980770196, 'south': 10.653567588, 'east': 105.819599237, 'west': 105.499035248}",
+    "id_district_goc": 796,
+    "search_volume": 2079,
+    "polygon": [
+      105.6381213,
+      10.980770196
+    ]
+  },
+  {
+    "DistrictID": 575,
+    "ProvinceID": 39,
+    "DistrictName": "Huyện Vĩnh Hưng",
+    "bounding_box": "{     \"north\": 11.064971 ,     \"south\": 10.708759  ,     \"east\":  105.92655   ,     \"west\":  105.613137    }  ",
+    "bbox": "{'north': 11.0318708770001, 'south': 10.731326906, 'east': 105.898974737, 'west': 105.6381213}",
+    "id_district_goc": 797,
+    "search_volume": 2851,
+    "polygon": [
+      105.781475392,
+      11.026976511
+    ]
+  },
+  {
+    "DistrictID": 576,
+    "ProvinceID": 39,
+    "DistrictName": "Huyện Mộc Hóa",
+    "bounding_box": "{     \"north\": 10.890552 ,     \"south\": 10.63263  ,     \"east\":  106.149086   ,     \"west\":  105.898509    }  ",
+    "bbox": "{'north': 10.8617998120001, 'south': 10.652395841, 'east': 106.117379472, 'west': 105.921149118}",
+    "id_district_goc": 798,
+    "search_volume": 3915,
+    "polygon": [
+      106.005383313,
+      10.8617640480001
+    ]
+  },
+  {
+    "DistrictID": 577,
+    "ProvinceID": 39,
+    "DistrictName": "Huyện Tân Thạnh",
+    "bounding_box": "{     \"north\": 10.756741 ,     \"south\": 10.473812  ,     \"east\":  106.135455   ,     \"west\":  105.766262    }  ",
+    "bbox": "{'north': 10.732735668, 'south': 10.522622884, 'east': 106.102436867, 'west': 105.807975771}",
+    "id_district_goc": 799,
+    "search_volume": 3178,
+    "polygon": [
+      105.922259455,
+      10.730838013
+    ]
+  },
+  {
+    "DistrictID": 578,
+    "ProvinceID": 39,
+    "DistrictName": "Huyện Thạnh Hóa",
+    "bounding_box": "{     \"north\": 10.847541 ,     \"south\": 10.53309  ,     \"east\":  106.362676   ,     \"west\":  106.001388    }  ",
+    "bbox": "{'north': 10.814605156, 'south': 10.5750993120001, 'east': 106.335343293, 'west': 106.035964971}",
+    "id_district_goc": 800,
+    "search_volume": 4121,
+    "polygon": [
+      106.190576641,
+      10.789971531
+    ]
+  },
+  {
+    "DistrictID": 579,
+    "ProvinceID": 39,
+    "DistrictName": "Huyện Đức Huệ",
+    "bounding_box": "{     \"north\": 11.018926 ,     \"south\": 10.718268  ,     \"east\":  106.41085   ,     \"west\":  106.110491    }  ",
+    "bbox": "{'north': 10.986902846, 'south': 10.741991448, 'east': 106.393411885, 'west': 106.135768992}",
+    "id_district_goc": 801,
+    "search_volume": 5857,
+    "polygon": [
+      106.253042628,
+      10.986794628
+    ]
+  },
+  {
+    "DistrictID": 580,
+    "ProvinceID": 39,
+    "DistrictName": "Huyện Đức Hòa",
+    "bounding_box": "{     \"north\": 11.062193 ,     \"south\": 10.72319  ,     \"east\":  106.560205   ,     \"west\":  106.260216    }  ",
+    "bbox": "{'north': 11.025930929, 'south': 10.740388642, 'east': 106.535529887, 'west': 106.270403748}",
+    "id_district_goc": 802,
+    "search_volume": 9399,
+    "polygon": [
+      106.297135641,
+      11.0258483160001
+    ]
+  },
+  {
+    "DistrictID": 581,
+    "ProvinceID": 39,
+    "DistrictName": "Huyện Bến Lức",
+    "bounding_box": "{     \"north\": 10.829747 ,     \"south\": 10.557618  ,     \"east\":  106.574531   ,     \"west\":  106.307118    }  ",
+    "bbox": "{'north': 10.7969457180001, 'south': 10.5888951050001, 'east': 106.55975093, 'west': 106.332092986}",
+    "id_district_goc": 803,
+    "search_volume": 10783,
+    "polygon": [
+      106.39512962,
+      10.794688588
+    ]
+  },
+  {
+    "DistrictID": 582,
+    "ProvinceID": 39,
+    "DistrictName": "Huyện Thủ Thừa",
+    "bounding_box": "{     \"north\": 10.803593 ,     \"south\": 10.519704  ,     \"east\":  106.451808   ,     \"west\":  106.201642    }  ",
+    "bbox": "{'north': 10.7780111010001, 'south': 10.543058473, 'east': 106.444824201, 'west': 106.229855226}",
+    "id_district_goc": 804,
+    "search_volume": 5913,
+    "polygon": [
+      106.297006643,
+      10.742768707
+    ]
+  },
+  {
+    "DistrictID": 583,
+    "ProvinceID": 39,
+    "DistrictName": "Huyện Tân Trụ",
+    "bounding_box": "{     \"north\": 10.616271 ,     \"south\": 10.445801  ,     \"east\":  106.584618   ,     \"west\":  106.412721    }  ",
+    "bbox": "{'north': 10.5974352710001, 'south': 10.4602289150001, 'east': 106.568940598, 'west': 106.437575367}",
+    "id_district_goc": 805,
+    "search_volume": 6787,
+    "polygon": [
+      106.448074844,
+      10.597400442
+    ]
+  },
+  {
+    "DistrictID": 584,
+    "ProvinceID": 39,
+    "DistrictName": "Huyện Cần Đước",
+    "bounding_box": "{     \"north\": 10.531487 ,     \"south\": 10.487625  ,     \"east\":  106.62139   ,     \"west\":  106.585538    }  ",
+    "bbox": "{'north': 10.640580689, 'south': 10.4359051330001, 'east': 106.739644267, 'west': 106.483138227}",
+    "id_district_goc": 806,
+    "search_volume": 9942,
+    "polygon": [
+      106.583149772,
+      10.640009413
+    ]
+  },
+  {
+    "DistrictID": 585,
+    "ProvinceID": 39,
+    "DistrictName": "Huyện Cần Giuộc",
+    "bounding_box": "{     \"north\": 10.706812 ,     \"south\": 10.474701  ,     \"east\":  106.750919   ,     \"west\":  106.534379    }  ",
+    "bbox": "{'north': 10.6579593070001, 'south': 10.496609816, 'east': 106.748713866, 'west': 106.541609896}",
+    "id_district_goc": 807,
+    "search_volume": 12663,
+    "polygon": [
+      106.605813775,
+      10.6578356270001
+    ]
+  },
+  {
+    "DistrictID": 586,
+    "ProvinceID": 39,
+    "DistrictName": "Huyện Châu Thành",
+    "bounding_box": "{     \"north\": 10.554129 ,     \"south\": 10.378533  ,     \"east\":  106.601767   ,     \"west\":  106.391338    }  ",
+    "bbox": "{'north': 10.531768315, 'south': 10.3956199950001, 'east': 106.587997859, 'west': 106.414080641}",
+    "id_district_goc": 808,
+    "search_volume": 4537,
+    "polygon": [
+      106.453152904,
+      10.529791056
+    ]
+  }
+]

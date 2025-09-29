@@ -1,0 +1,106 @@
+[
+  {
+    "DistrictID": 52,
+    "ProvinceID": 4,
+    "DistrictName": "Thành Phố Bắc Kạn",
+    "bounding_box": "{     \"north\": 22.212465 ,     \"south\": 22.0551804  ,     \"east\":  105.9304889   ,     \"west\":  105.7752014    }  ",
+    "bbox": "{'north': 22.212410576, 'south': 22.054946483, 'east': 105.930336347, 'west': 105.775158645}",
+    "id_district_goc": 58,
+    "search_volume": 516,
+    "polygon": [
+      105.923853356,
+      22.122794368
+    ]
+  },
+  {
+    "DistrictID": 53,
+    "ProvinceID": 4,
+    "DistrictName": "Huyện Pác Nặm",
+    "bounding_box": "{     \"north\": 22.7413755 ,     \"south\": 22.4794225  ,     \"east\":  105.7790727   ,     \"west\":  105.5289037    }  ",
+    "bbox": "{'north': 22.740892644, 'south': 22.4791259410001, 'east': 105.779226545, 'west': 105.529350008}",
+    "id_district_goc": 60,
+    "search_volume": 902,
+    "polygon": [
+      105.747787885,
+      22.7304773770001
+    ]
+  },
+  {
+    "DistrictID": 54,
+    "ProvinceID": 4,
+    "DistrictName": "Huyện Ba Bể",
+    "bounding_box": "{     \"north\": 22.5512755 ,     \"south\": 22.2704552  ,     \"east\":  105.9044419   ,     \"west\":  105.5486145    }  ",
+    "bbox": "{'north': 22.551308271, 'south': 22.2706034940001, 'east': 105.904924118, 'west': 105.548864921}",
+    "id_district_goc": 61,
+    "search_volume": 563,
+    "polygon": [
+      105.904370614,
+      22.495831799
+    ]
+  },
+  {
+    "DistrictID": 55,
+    "ProvinceID": 4,
+    "DistrictName": "Huyện Ngân Sơn",
+    "bounding_box": "{     \"north\": 22.5774018 ,     \"south\": 22.2844662  ,     \"east\":  106.1847986   ,     \"west\":  105.8500232    }  ",
+    "bbox": "{'north': 22.5776805580001, 'south': 22.284561459, 'east': 106.184897205, 'west': 105.850891816}",
+    "id_district_goc": 62,
+    "search_volume": 606,
+    "polygon": [
+      105.970840641,
+      22.2946397700001
+    ]
+  },
+  {
+    "DistrictID": 56,
+    "ProvinceID": 4,
+    "DistrictName": "Huyện Bạch Thông",
+    "bounding_box": "{     \"north\": 22.3173256 ,     \"south\": 22.0867157  ,     \"east\":  106.0493697   ,     \"west\":  105.6513533    }  ",
+    "bbox": "{'north': 22.3176505390001, 'south': 22.0865352050001, 'east': 106.048706466, 'west': 105.651600225}",
+    "id_district_goc": 63,
+    "search_volume": 168,
+    "polygon": [
+      105.970840641,
+      22.2946397700001
+    ]
+  },
+  {
+    "DistrictID": 57,
+    "ProvinceID": 4,
+    "DistrictName": "Huyện Chợ Đồn",
+    "bounding_box": "{     \"north\": 22.4192687 ,     \"south\": 21.9556522  ,     \"east\":  105.7287126   ,     \"west\":  105.4311192    }  ",
+    "bbox": "{'north': 22.4185022520001, 'south': 21.9555910230001, 'east': 105.728338426, 'west': 105.431530613}",
+    "id_district_goc": 64,
+    "search_volume": 978,
+    "polygon": [
+      105.43582967,
+      22.2236285390001
+    ]
+  },
+  {
+    "DistrictID": 58,
+    "ProvinceID": 4,
+    "DistrictName": "Huyện Chợ Mới",
+    "bounding_box": "{     \"north\": 22.1261811 ,     \"south\": 21.804335  ,     \"east\":  106.0246026   ,     \"west\":  105.6925734    }  ",
+    "bbox": "{'north': 22.125847236, 'south': 21.8044205790001, 'east': 106.024590552, 'west': 105.692819609}",
+    "id_district_goc": 65,
+    "search_volume": 1229,
+    "polygon": [
+      105.949920732,
+      22.1027065970001
+    ]
+  },
+  {
+    "DistrictID": 59,
+    "ProvinceID": 4,
+    "DistrictName": "Huyện Na Rì",
+    "bounding_box": "{     \"north\": 22.3879653 ,     \"south\": 21.9375758  ,     \"east\":  106.2469976   ,     \"west\":  105.9265656    }  ",
+    "bbox": "{'north': 22.3873596240001, 'south': 21.9380083290001, 'east': 106.246931899, 'west': 105.927583571}",
+    "id_district_goc": 66,
+    "search_volume": 904,
+    "polygon": [
+      106.185349153,
+      22.38643039
+    ]
+  }
+]

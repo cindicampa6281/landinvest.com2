@@ -1,0 +1,158 @@
+[
+  {
+    "DistrictID": 624,
+    "ProvinceID": 20,
+    "DistrictName": "Thành phố Cao Lãnh",
+    "bounding_box": "{     \"north\": 10.515555 ,     \"south\": 10.396927  ,     \"east\":  105.691774   ,     \"west\":  105.56751    }  ",
+    "bbox": "{'north': 10.672195475, 'south': 10.2892884940001, 'east': 105.838314828, 'west': 105.553639833}",
+    "id_district_goc": 866,
+    "search_volume": 639,
+    "polygon": [
+      105.635785404,
+      10.67219125
+    ]
+  },
+  {
+    "DistrictID": 625,
+    "ProvinceID": 20,
+    "DistrictName": "Thành phố Sa Đéc",
+    "bounding_box": "{     \"north\": 10.391786 ,     \"south\": 10.252237  ,     \"east\":  105.77898   ,     \"west\":  105.712259    }  ",
+    "bbox": "{'north': 10.3821257550001, 'south': 10.2612269430001, 'east': 105.782810832, 'west': 105.704629874}",
+    "id_district_goc": 867,
+    "search_volume": 1655,
+    "polygon": [
+      105.730787036,
+      10.380462402
+    ]
+  },
+  {
+    "DistrictID": 626,
+    "ProvinceID": 20,
+    "DistrictName": "Thành phố Hồng Ngự",
+    "bounding_box": "{     \"north\": 10.750385 ,     \"south\": 10.316015  ,     \"east\":  105.453894   ,     \"west\":  10.904414    }  ",
+    "bbox": "{'north': 10.9121360180001, 'south': 10.6924539620001, 'east': 105.37477671, 'west': 105.188918283}",
+    "id_district_goc": 868,
+    "search_volume": 1393,
+    "polygon": [
+      105.201254322,
+      10.912028981
+    ]
+  },
+  {
+    "DistrictID": 627,
+    "ProvinceID": 20,
+    "DistrictName": "Huyện Tân Hồng",
+    "bounding_box": "{     \"north\": 10.992608 ,     \"south\": 10.767  ,     \"east\":  105.606171   ,     \"west\":  105.387618    }  ",
+    "bbox": "{'north': 10.973570662, 'south': 10.7846435760001, 'east': 105.612468988, 'west': 105.370375773}",
+    "id_district_goc": 869,
+    "search_volume": 2033,
+    "polygon": [
+      105.451158357,
+      10.9551054340001
+    ]
+  },
+  {
+    "DistrictID": 628,
+    "ProvinceID": 20,
+    "DistrictName": "Huyện Hồng Ngự",
+    "bounding_box": "{     \"north\": 10.929049 ,     \"south\": 10.732416  ,     \"east\":  105.428177   ,     \"west\":  105.316808    }  ",
+    "bbox": "{'north': 10.9121360180001, 'south': 10.6924539620001, 'east': 105.37477671, 'west': 105.188918283}",
+    "id_district_goc": 870,
+    "search_volume": 0,
+    "polygon": [
+      105.201254322,
+      10.912028981
+    ]
+  },
+  {
+    "DistrictID": 629,
+    "ProvinceID": 20,
+    "DistrictName": "Huyện Tam Nông",
+    "bounding_box": "{     \"north\": 21.431681 ,     \"south\": 21.195302  ,     \"east\":  105.36682   ,     \"west\":  105.129049    }  ",
+    "bbox": "{'north': 10.8233848560001, 'south': 10.6479551950001, 'east': 105.682225072, 'west': 105.355949412}",
+    "id_district_goc": 871,
+    "search_volume": 1471,
+    "polygon": [
+      105.682225072,
+      10.7507041110001
+    ]
+  },
+  {
+    "DistrictID": 630,
+    "ProvinceID": 20,
+    "DistrictName": "Huyện Tháp Mười",
+    "bounding_box": "{     \"north\": 10.81767 ,     \"south\": 10.329568  ,     \"east\":  105.904685   ,     \"west\":  105.656381    }  ",
+    "bbox": "{'north': 10.7507041110001, 'south': 10.3660230080001, 'east': 105.942162749, 'west': 105.6357357}",
+    "id_district_goc": 872,
+    "search_volume": 1266,
+    "polygon": [
+      105.68243124,
+      10.750511789
+    ]
+  },
+  {
+    "DistrictID": 631,
+    "ProvinceID": 20,
+    "DistrictName": "Huyện Cao Lãnh",
+    "bounding_box": "{     \"north\": 10.677076 ,     \"south\": 10.292031  ,     \"east\":  105.834993   ,     \"west\":  105.555239    }  ",
+    "bbox": "{'north': 10.672195475, 'south': 10.2892884940001, 'east': 105.838314828, 'west': 105.553639833}",
+    "id_district_goc": 873,
+    "search_volume": 639,
+    "polygon": [
+      105.635785404,
+      10.67219125
+    ]
+  },
+  {
+    "DistrictID": 632,
+    "ProvinceID": 20,
+    "DistrictName": "Huyện Thanh Bình",
+    "bounding_box": "{     \"north\": 10.713866 ,     \"south\": 10.499473  ,     \"east\":  105.633823   ,     \"west\":  105.342483    }  ",
+    "bbox": "{'north': 10.702952356, 'south': 10.5155680390001, 'east': 105.623836339, 'west': 105.339127205}",
+    "id_district_goc": 874,
+    "search_volume": 1129,
+    "polygon": [
+      105.37477671,
+      10.701485613
+    ]
+  },
+  {
+    "DistrictID": 633,
+    "ProvinceID": 20,
+    "DistrictName": "Huyện Lấp Vò",
+    "bounding_box": "{     \"north\": 10.451942 ,     \"south\": 10.254014  ,     \"east\":  105.724978   ,     \"west\":  105.482797    }  ",
+    "bbox": "{'north': 10.435166103, 'south': 10.2786576930001, 'east': 105.720917207, 'west': 105.487621347}",
+    "id_district_goc": 875,
+    "search_volume": 1428,
+    "polygon": [
+      105.563475348,
+      10.4305058640001
+    ]
+  },
+  {
+    "DistrictID": 634,
+    "ProvinceID": 20,
+    "DistrictName": "Huyện Lai Vung",
+    "bounding_box": "{     \"north\": 10.368859 ,     \"south\": 10.129296  ,     \"east\":  105.73832   ,     \"west\":  105.542163    }  ",
+    "bbox": "{'north': 10.3544517780001, 'south': 10.1340348410001, 'east': 105.734845924, 'west': 105.558021317}",
+    "id_district_goc": 876,
+    "search_volume": 1762,
+    "polygon": [
+      105.711222839,
+      10.3495608050001
+    ]
+  },
+  {
+    "DistrictID": 635,
+    "ProvinceID": 20,
+    "DistrictName": "Huyện Châu Thành",
+    "bounding_box": "{     \"north\": 10.305876 ,     \"south\": 10.136871  ,     \"east\":  105.913762   ,     \"west\":  105.699594    }  ",
+    "bbox": "{'north': 10.29809198, 'south': 10.1489114020001, 'east': 105.919662219, 'west': 105.705310306}",
+    "id_district_goc": 877,
+    "search_volume": 0,
+    "polygon": [
+      105.818088723,
+      10.149570252
+    ]
+  }
+]

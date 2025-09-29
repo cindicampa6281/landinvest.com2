@@ -1,0 +1,106 @@
+[
+  {
+    "DistrictID": 616,
+    "ProvinceID": 61,
+    "DistrictName": "Thành phố Vĩnh Long",
+    "bounding_box": "{     \"north\": 10.278931 ,     \"south\": 10.21266  ,     \"east\":  106.006014   ,     \"west\":  105.872982    }  ",
+    "bbox": "{'north': 10.284170422, 'south': 10.220685664, 'east': 105.995673223, 'west': 105.877063652}",
+    "id_district_goc": 855,
+    "search_volume": 1803,
+    "polygon": [
+      105.938328256,
+      10.275156371
+    ]
+  },
+  {
+    "DistrictID": 617,
+    "ProvinceID": 61,
+    "DistrictName": "Huyện Long Hồ",
+    "bounding_box": "{     \"north\": 10.136734115323687 ,     \"south\": 10.103325328140015  ,     \"east\":  106.03632341849796   ,     \"west\":  105.86912523671339    }  ",
+    "bbox": "{'north': 10.3308957530001, 'south': 10.133743087, 'east': 106.037861132, 'west': 105.86999994}",
+    "id_district_goc": 857,
+    "search_volume": 1748,
+    "polygon": [
+      106.036320853,
+      10.265171035
+    ]
+  },
+  {
+    "DistrictID": 618,
+    "ProvinceID": 61,
+    "DistrictName": "Huyện Mang Thít",
+    "bounding_box": "{     \"north\": 10.259981846681441 ,     \"south\": 10.103325328140015  ,     \"east\":  106.17221471964831   ,     \"west\":  106.00212997664113    }  ",
+    "bbox": "{'north': 10.2596320930001, 'south': 10.1054455680001, 'east': 106.175983799, 'west': 105.998870466}",
+    "id_district_goc": 858,
+    "search_volume": 0,
+    "polygon": [
+      106.031304349,
+      10.145502116
+    ]
+  },
+  {
+    "DistrictID": 619,
+    "ProvinceID": 61,
+    "DistrictName": "Huyện  Vũng Liêm",
+    "bounding_box": "{     \"north\": 10.176484949341038 ,     \"south\": 9.939176446564193  ,     \"east\":  106.27568343399557   ,     \"west\":  106.06145003428145    }  ",
+    "bbox": "{'north': 10.1760203970001, 'south': 9.93853007500007, 'east': 106.289297428, 'west': 106.065881126}",
+    "id_district_goc": 859,
+    "search_volume": 1678,
+    "polygon": [
+      106.191353342,
+      10.174122644
+    ]
+  },
+  {
+    "DistrictID": 620,
+    "ProvinceID": 61,
+    "DistrictName": "Huyện Tam Bình",
+    "bounding_box": "{     \"north\": 10.166071785788045 ,     \"south\": 9.9660325940581  ,     \"east\":  106.08100711923001   ,     \"west\":  105.86237527411674    }  ",
+    "bbox": "{'north': 10.165759956, 'south': 9.96610939400006, 'east': 106.079518269, 'west': 105.856973141}",
+    "id_district_goc": 860,
+    "search_volume": 1523,
+    "polygon": [
+      105.984225432,
+      10.150186505
+    ]
+  },
+  {
+    "DistrictID": 621,
+    "ProvinceID": 61,
+    "DistrictName": "Thị xã Bình Minh",
+    "bounding_box": "{     \"north\": 10.108345503933753 ,     \"south\": 9.986644875972342  ,     \"east\":  105.89314362206797   ,     \"west\":  105.79804321866924    }  ",
+    "bbox": "{'north': 10.1090876380001, 'south': 9.98293999600003, 'east': 105.897648135, 'west': 105.79434389}",
+    "id_district_goc": 861,
+    "search_volume": 1550,
+    "polygon": [
+      105.879379811,
+      10.051421932
+    ]
+  },
+  {
+    "DistrictID": 622,
+    "ProvinceID": 61,
+    "DistrictName": "Huyện Trà Ôn",
+    "bounding_box": "{     \"north\": 10.092871492581777 ,     \"south\": 9.88797278806689  ,     \"east\":  106.09583934108643   ,     \"west\":  105.84281047046527    }  ",
+    "bbox": "{'north': 10.0930671730001, 'south': 9.88326256200003, 'east': 106.09659574, 'west': 105.83549743}",
+    "id_district_goc": 862,
+    "search_volume": 0,
+    "polygon": [
+      106.059002876,
+      10.0927246410001
+    ]
+  },
+  {
+    "DistrictID": 623,
+    "ProvinceID": 61,
+    "DistrictName": "Huyện Bình Tân",
+    "bounding_box": "{     \"north\": 10.20746377930085 ,     \"south\": 10.062138567857382  ,     \"east\":  105.86743653166249   ,     \"west\":  105.68581879376381    }  ",
+    "bbox": "{'north': 10.2050743560001, 'south': 10.0548575070001, 'east': 105.866432072, 'west': 105.682628098}",
+    "id_district_goc": 863,
+    "search_volume": 1657,
+    "polygon": [
+      105.86447665,
+      10.1468772270001
+    ]
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "DistrictID": 259,
+    "ProvinceID": 42,
+    "DistrictName": "Thành phố Ninh Bình",
+    "bounding_box": "{     \"north\": 20.306967 ,     \"south\": 20.189096  ,     \"east\":  106.035383   ,     \"west\":  105.914259    }  ",
+    "bbox": "{'north': 20.2891206910001, 'south': 20.1993614470001, 'east': 106.02481199, 'west': 105.927275976}",
+    "id_district_goc": null,
+    "search_volume": 782,
+    "polygon": [
+      105.982961816,
+      20.271565433
+    ]
+  },
+  {
+    "DistrictID": 260,
+    "ProvinceID": 42,
+    "DistrictName": "Thành phố Tam Điệp",
+    "bounding_box": "{     \"north\": 20.238412 ,     \"south\": 20.072558  ,     \"east\":  105.9808   ,     \"west\":  105.777443    }  ",
+    "bbox": "{'north': 20.2186451700001, 'south': 20.1020515430001, 'east': 105.967446161, 'west': 105.792617578}",
+    "id_district_goc": 370,
+    "search_volume": 841,
+    "polygon": [
+      105.947350581,
+      20.17964857
+    ]
+  },
+  {
+    "DistrictID": 261,
+    "ProvinceID": 42,
+    "DistrictName": "Huyện Nho Quan",
+    "bounding_box": "{     \"north\": 20.491725 ,     \"south\": 20.114951  ,     \"east\":  105.93004   ,     \"west\":  105.509734    }  ",
+    "bbox": "{'north': 20.4546385460001, 'south': 20.16851353, 'east': 105.887437502, 'west': 105.542850372}",
+    "id_district_goc": 372,
+    "search_volume": 2171,
+    "polygon": [
+      105.82056832,
+      20.4203078090001
+    ]
+  },
+  {
+    "DistrictID": 262,
+    "ProvinceID": 42,
+    "DistrictName": "Huyện Gia Viễn",
+    "bounding_box": "{     \"north\": 20.452817 ,     \"south\": 20.218228  ,     \"east\":  105.971322   ,     \"west\":  105.781603    }  ",
+    "bbox": "{'north': 20.4267427350001, 'south': 20.2328465960001, 'east': 105.953831526, 'west': 105.794817261}",
+    "id_district_goc": 373,
+    "search_volume": 1516,
+    "polygon": [
+      105.863439366,
+      20.418494793
+    ]
+  },
+  {
+    "DistrictID": 263,
+    "ProvinceID": 42,
+    "DistrictName": "Huyện Hoa Lư",
+    "bounding_box": "{     \"north\": 20.344755 ,     \"south\": 20.15354  ,     \"east\":  106.019686   ,     \"west\":  105.85795    }  ",
+    "bbox": "{'north': 20.327238473, 'south': 20.1723225380001, 'east': 105.988781604, 'west': 105.877450901}",
+    "id_district_goc": null,
+    "search_volume": 827,
+    "polygon": [
+      105.887437502,
+      20.2186451700001
+    ]
+  },
+  {
+    "DistrictID": 264,
+    "ProvinceID": 42,
+    "DistrictName": "Huyện Yên Khánh",
+    "bounding_box": "{     \"north\": 20.280189 ,     \"south\": 20.086431  ,     \"east\":  106.196793   ,     \"west\":  105.96706    }  ",
+    "bbox": "{'north': 20.2555630690001, 'south': 20.123869644, 'east': 106.168072145, 'west': 105.987651015}",
+    "id_district_goc": 375,
+    "search_volume": 1243,
+    "polygon": [
+      106.097087585,
+      20.2513332300001
+    ]
+  },
+  {
+    "DistrictID": 265,
+    "ProvinceID": 42,
+    "DistrictName": "Huyện Kim Sơn",
+    "bounding_box": "{     \"north\": 20.180916 ,     \"south\": 19.895831  ,     \"east\":  106.185446   ,     \"west\":  106.000127    }  ",
+    "bbox": "{'north': 20.1559573600001, 'south': 19.9174696900001, 'east': 106.162567471, 'west': 106.024606693}",
+    "id_district_goc": 376,
+    "search_volume": 324,
+    "polygon": [
+      106.151700429,
+      20.1397696650001
+    ]
+  },
+  {
+    "DistrictID": 266,
+    "ProvinceID": 42,
+    "DistrictName": "Huyện Yên Mô",
+    "bounding_box": "{     \"north\": 20.21895 ,     \"south\": 20.04568  ,     \"east\":  106.084909   ,     \"west\":  105.903945    }  ",
+    "bbox": "{'north': 20.197511424, 'south': 20.0597814870001, 'east': 106.071175049, 'west': 105.923920724}",
+    "id_district_goc": 377,
+    "search_volume": 746,
+    "polygon": [
+      106.063355763,
+      20.1287964540001
+    ]
+  },
+  {
+    "DistrictID": 755,
+    "ProvinceID": 42,
+    "DistrictName": "Thành phố Hoa Lư",
+    "bounding_box": "{\"north\":20.30,\"south\":20.20,\"east\":106.00,\"west\":105.90}",
+    "bbox": "{\"north\":20.30,\"south\":20.20,\"east\":106.00,\"west\":105.90}",
+    "id_district_goc": 374,
+    "search_volume": 0,
+    "polygon": []
+  }
+]

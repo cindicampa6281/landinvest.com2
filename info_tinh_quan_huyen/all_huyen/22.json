@@ -1,0 +1,155 @@
+[
+  {
+    "DistrictID": 31,
+    "ProvinceID": 22,
+    "DistrictName": "Thành phố Hà Giang",
+    "bounding_box": "{     \"north\": 22.89719 ,     \"south\": 22.652347  ,     \"east\":  105.150426   ,     \"west\":  104.841743    }  ",
+    "bbox": "{'north': 22.878463056, 'south': 22.754110096, 'east': 105.076430315, 'west': 104.862154267}",
+    "id_district_goc": 24,
+    "search_volume": 205,
+    "polygon": [
+      105.030541465,
+      22.8719919920001
+    ]
+  },
+  {
+    "DistrictID": 32,
+    "ProvinceID": 22,
+    "DistrictName": "Huyện Đồng Văn",
+    "bounding_box": "{     \"north\": 23.415138 ,     \"south\": 23.062325  ,     \"east\":  105.425706   ,     \"west\":  105.097465    }  ",
+    "bbox": "{'north': 23.3928505600001, 'south': 23.0930393460001, 'east': 105.40811501, 'west': 105.121024367}",
+    "id_district_goc": 26,
+    "search_volume": 994,
+    "polygon": [
+      105.329986861,
+      23.384286473
+    ]
+  },
+  {
+    "DistrictID": 33,
+    "ProvinceID": 22,
+    "DistrictName": "Huyện Mèo Vạc",
+    "bounding_box": "{     \"north\": 23.347173 ,     \"south\": 22.962001  ,     \"east\":  105.58118   ,     \"west\":  105.254791    }  ",
+    "bbox": "{'north': 23.31702818, 'south': 22.9895406740001, 'east': 105.591439702, 'west': 105.298937334}",
+    "id_district_goc": 27,
+    "search_volume": 1033,
+    "polygon": [
+      105.538310478,
+      23.193612264
+    ]
+  },
+  {
+    "DistrictID": 34,
+    "ProvinceID": 22,
+    "DistrictName": "Huyện Yên Minh",
+    "bounding_box": "{     \"north\": 23.317039 ,     \"south\": 22.824691  ,     \"east\":  105.435303   ,     \"west\":  104.934152    }  ",
+    "bbox": "{'north': 23.2692664580001, 'south': 22.8750795020001, 'east': 105.383298366, 'west': 104.956823808}",
+    "id_district_goc": 28,
+    "search_volume": 781,
+    "polygon": [
+      105.121024367,
+      23.2516005470001
+    ]
+  },
+  {
+    "DistrictID": 35,
+    "ProvinceID": 22,
+    "DistrictName": "Huyện Quản Bạ",
+    "bounding_box": "{     \"north\": 23.219299 ,     \"south\": 22.908099  ,     \"east\":  105.168975   ,     \"west\":  104.762886    }  ",
+    "bbox": "{'north': 23.1930649780001, 'south': 22.9426465920001, 'east': 105.1418389, 'west': 104.801362227}",
+    "id_district_goc": 29,
+    "search_volume": 642,
+    "polygon": [
+      105.001913414,
+      23.171029484
+    ]
+  },
+  {
+    "DistrictID": 36,
+    "ProvinceID": 22,
+    "DistrictName": "Huyện Vị Xuyên",
+    "bounding_box": "{     \"north\": 23.066405 ,     \"south\": 22.456689  ,     \"east\":  105.239841   ,     \"west\":  104.693657    }  ",
+    "bbox": "{'north': 23.0449488510001, 'south': 22.48412441, 'east': 105.157961027, 'west': 104.724412518}",
+    "id_district_goc": 30,
+    "search_volume": 197,
+    "polygon": [
+      105.132996205,
+      22.9583741010001
+    ]
+  },
+  {
+    "DistrictID": 37,
+    "ProvinceID": 22,
+    "DistrictName": "Huyện Bắc Mê",
+    "bounding_box": "{     \"north\": 22.967507 ,     \"south\": 22.570879  ,     \"east\":  105.555877   ,     \"west\":  105.026399    }  ",
+    "bbox": "{'north': 22.9224767650001, 'south': 22.60367862, 'east': 105.499876122, 'west': 105.050418522}",
+    "id_district_goc": 31,
+    "search_volume": 761,
+    "polygon": [
+      105.224886301,
+      22.884626661
+    ]
+  },
+  {
+    "DistrictID": 38,
+    "ProvinceID": 22,
+    "DistrictName": "Huyện Hoàng Su Phì",
+    "bounding_box": "{     \"north\": 22.882017 ,     \"south\": 22.512353  ,     \"east\":  104.873092   ,     \"west\":  104.516927    }  ",
+    "bbox": "{'north': 22.852689132, 'south': 22.5345614, 'east': 104.813616167, 'west': 104.524402853}",
+    "id_district_goc": 32,
+    "search_volume": 669,
+    "polygon": [
+      104.650929933,
+      22.835093181
+    ]
+  },
+  {
+    "DistrictID": 39,
+    "ProvinceID": 22,
+    "DistrictName": "Huyện Xín Mần",
+    "bounding_box": "{     \"north\": 22.830002 ,     \"south\": 22.442631  ,     \"east\":  104.652284   ,     \"west\":  104.298367    }  ",
+    "bbox": "{'north': 22.8074248390001, 'south': 22.463277164, 'east': 104.61973881, 'west': 104.334192828}",
+    "id_district_goc": 33,
+    "search_volume": 752,
+    "polygon": [
+      104.61914031,
+      22.573437321
+    ]
+  },
+  {
+    "DistrictID": 40,
+    "ProvinceID": 22,
+    "DistrictName": "Huyện Bắc Quang",
+    "bounding_box": "{     \"north\": 22.667189 ,     \"south\": 22.139676  ,     \"east\":  105.153913   ,     \"west\":  104.66056    }  ",
+    "bbox": "{'north': 22.624061038, 'south': 22.1661925440001, 'east': 105.118241149, 'west': 104.722700331}",
+    "id_district_goc": 34,
+    "search_volume": 811,
+    "polygon": [
+      104.795842384,
+      22.6230841070001
+    ]
+  },
+  {
+    "DistrictID": 41,
+    "ProvinceID": 22,
+    "DistrictName": "Huyện Quang Bình",
+    "bounding_box": "{     \"north\": 22.616954 ,     \"south\": 22.155499  ,     \"east\":  104.848063   ,     \"west\":  104.40275    }  ",
+    "bbox": "{'north': 22.573437321, 'south': 22.19762108, 'east': 104.792688002, 'west': 104.446090353}",
+    "id_district_goc": 35,
+    "search_volume": 822,
+    "polygon": [
+      104.79201451,
+      22.5522185520001
+    ]
+  },
+  {
+    "DistrictID": 710,
+    "ProvinceID": 22,
+    "DistrictName": "Thị Trấn Đồng Văn",
+    "bounding_box": "{\"north\": 23.3928505600001, \"south\": 23.0930393460001, \"east\": 105.40811501, \"west\": 105.121024367}",
+    "bbox": "{'north': 23.3928505600001, 'south': 23.0930393460001, 'east': 105.40811501, 'west': 105.121024367}",
+    "id_district_goc": null,
+    "search_volume": 0,
+    "polygon": []
+  }
+]

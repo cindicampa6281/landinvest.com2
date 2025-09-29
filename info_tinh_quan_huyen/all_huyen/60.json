@@ -1,0 +1,93 @@
+[
+  {
+    "DistrictID": 60,
+    "ProvinceID": 60,
+    "DistrictName": "Thành phố Tuyên Quang",
+    "bounding_box": "{     \"north\": 21.865935 ,     \"south\": 21.699198  ,     \"east\":  105.288436   ,     \"west\":  105.170677    }  ",
+    "bbox": "{'north': 21.8649141770001, 'south': 21.7004831250001, 'east': 105.292898491, 'west': 105.174641982}",
+    "id_district_goc": 70,
+    "search_volume": 1611,
+    "polygon": [
+      105.291754048,
+      21.7705146540001
+    ]
+  },
+  {
+    "DistrictID": 61,
+    "ProvinceID": 60,
+    "DistrictName": "Huyện Lâm Bình",
+    "bounding_box": "{     \"north\": 22.701484 ,     \"south\": 22.311937  ,     \"east\":  105.390915   ,     \"west\":  105.076033    }  ",
+    "bbox": "{'north': 22.6907118290001, 'south': 22.3180007770001, 'east': 105.402510404, 'west': 105.072641651}",
+    "id_district_goc": 71,
+    "search_volume": 854,
+    "polygon": [
+      105.150418227,
+      22.689185825
+    ]
+  },
+  {
+    "DistrictID": 62,
+    "ProvinceID": 60,
+    "DistrictName": "Huyện Na Hang",
+    "bounding_box": "{     \"north\": 22.64572 ,     \"south\": 22.251729  ,     \"east\":  105.59982   ,     \"west\":  105.24344    }  ",
+    "bbox": "{'north': 22.6415954140001, 'south': 22.2559743310001, 'east': 105.597950396, 'west': 105.258583673}",
+    "id_district_goc": 72,
+    "search_volume": 958,
+    "polygon": [
+      105.321554331,
+      22.2559743310001
+    ]
+  },
+  {
+    "DistrictID": 63,
+    "ProvinceID": 60,
+    "DistrictName": "Huyện Chiêm Hóa",
+    "bounding_box": "{     \"north\": 22.408846 ,     \"south\": 21.930665  ,     \"east\":  105.477434   ,     \"west\":  105.051713    }  ",
+    "bbox": "{'north': 22.397275875, 'south': 21.9413755510001, 'east': 105.493285157, 'west': 104.99490628}",
+    "id_district_goc": 73,
+    "search_volume": 384,
+    "polygon": [
+      105.25324254,
+      22.397275875
+    ]
+  },
+  {
+    "DistrictID": 64,
+    "ProvinceID": 60,
+    "DistrictName": "Huyện Hàm Yên",
+    "bounding_box": "{     \"north\": 22.379018 ,     \"south\": 21.809837  ,     \"east\":  105.203608   ,     \"west\":  104.803476    }  ",
+    "bbox": "{'north': 22.3489147220001, 'south': 21.8397958640001, 'east': 105.162053018, 'west': 104.848861693}",
+    "id_district_goc": 74,
+    "search_volume": 604,
+    "polygon": [
+      104.919542788,
+      22.3300230580001
+    ]
+  },
+  {
+    "DistrictID": 65,
+    "ProvinceID": 60,
+    "DistrictName": "Huyện Yên Sơn",
+    "bounding_box": "{     \"north\": 22.058696 ,     \"south\": 21.65403  ,     \"east\":  105.544413   ,     \"west\":  105.05791    }  ",
+    "bbox": "{'north': 22.06920539, 'south': 21.658750883, 'east': 105.555651952, 'west': 105.056649031}",
+    "id_district_goc": 75,
+    "search_volume": 1369,
+    "polygon": [
+      105.222709197,
+      22.063792898
+    ]
+  },
+  {
+    "DistrictID": 66,
+    "ProvinceID": 60,
+    "DistrictName": "Huyện Sơn Dương",
+    "bounding_box": "{     \"north\": 21.85607 ,     \"south\": 21.499429  ,     \"east\":  105.526302   ,     \"west\":  105.230706    }  ",
+    "bbox": "{'north': 21.8463729860001, 'south': 21.497128006, 'east': 105.542403503, 'west': 105.224973932}",
+    "id_district_goc": 76,
+    "search_volume": 2131,
+    "polygon": [
+      105.499331492,
+      21.7724315500001
+    ]
+  }
+]

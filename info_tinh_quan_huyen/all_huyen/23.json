@@ -1,0 +1,90 @@
+[
+  {
+    "DistrictID": 243,
+    "ProvinceID": 23,
+    "DistrictName": "Thành phố Phủ Lý",
+    "bounding_box": "{     \"north\": 20.583835 ,     \"south\": 20.498998  ,     \"east\":  105.963373   ,     \"west\":  105.871683    }  ",
+    "bbox": "{'north': 20.6031022920001, 'south': 20.4835883750001, 'east': 105.999350057, 'west': 105.8766853}",
+    "id_district_goc": 347,
+    "search_volume": 825,
+    "polygon": [
+      105.946385273,
+      20.5918368280001
+    ]
+  },
+  {
+    "DistrictID": 244,
+    "ProvinceID": 23,
+    "DistrictName": "Thị xã Duy Tiên",
+    "bounding_box": "{     \"north\": 20.727291 ,     \"south\": 20.52738  ,     \"east\":  106.068538   ,     \"west\":  105.870042    }  ",
+    "bbox": "{'north': 20.704222401, 'south': 20.5585924660001, 'east': 106.046801576, 'west': 105.890993613}",
+    "id_district_goc": 349,
+    "search_volume": 1638,
+    "polygon": [
+      106.004407922,
+      20.7041516780001
+    ]
+  },
+  {
+    "DistrictID": 245,
+    "ProvinceID": 23,
+    "DistrictName": "Huyện Kim Bảng",
+    "bounding_box": "{     \"north\": 20.683835 ,     \"south\": 20.460972  ,     \"east\":  105.955594   ,     \"west\":  105.74867    }  ",
+    "bbox": "{'north': 20.665425833, 'south': 20.47751269, 'east': 105.923919352, 'west': 105.769778262}",
+    "id_district_goc": null,
+    "search_volume": 2459,
+    "polygon": [
+      105.890993613,
+      20.648218043
+    ]
+  },
+  {
+    "DistrictID": 246,
+    "ProvinceID": 23,
+    "DistrictName": "Huyện Thanh Liêm",
+    "bounding_box": "{     \"north\": 20.570177 ,     \"south\": 20.350578  ,     \"east\":  106.025653   ,     \"west\":  105.835384    }  ",
+    "bbox": "{'north': 20.528132015, 'south': 20.3631382670001, 'east': 105.991226085, 'west': 105.85143138}",
+    "id_district_goc": 351,
+    "search_volume": 1338,
+    "polygon": [
+      105.989440731,
+      20.517447138
+    ]
+  },
+  {
+    "DistrictID": 247,
+    "ProvinceID": 23,
+    "DistrictName": "Huyện Bình Lục",
+    "bounding_box": "{     \"north\": 20.600206 ,     \"south\": 20.380193  ,     \"east\":  106.162915   ,     \"west\":  105.928931    }  ",
+    "bbox": "{'north': 20.5824019510001, 'south': 20.3955570410001, 'east': 106.141911683, 'west': 105.980974559}",
+    "id_district_goc": 352,
+    "search_volume": 1143,
+    "polygon": [
+      106.140483048,
+      20.493825078
+    ]
+  },
+  {
+    "DistrictID": 248,
+    "ProvinceID": 23,
+    "DistrictName": "Huyện Lý Nhân",
+    "bounding_box": "{     \"north\": 20.653669 ,     \"south\": 20.45125  ,     \"east\":  106.217557   ,     \"west\":  105.96371    }  ",
+    "bbox": "{'north': 20.6271045770001, 'south': 20.468469021, 'east': 106.185507925, 'west': 105.980900693}",
+    "id_district_goc": 353,
+    "search_volume": 1294,
+    "polygon": [
+      106.002759246,
+      20.573247607
+    ]
+  },
+  {
+    "DistrictID": 754,
+    "ProvinceID": 23,
+    "DistrictName": "Thị xã Kim Bảng",
+    "bounding_box": "{\"north\":20.60,\"south\":20.50,\"east\":106.00,\"west\":105.85}",
+    "bbox": "{\"north\":20.60,\"south\":20.50,\"east\":106.00,\"west\":105.85}",
+    "id_district_goc": 350,
+    "search_volume": 0,
+    "polygon": []
+  }
+]

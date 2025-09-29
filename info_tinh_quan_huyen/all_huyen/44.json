@@ -1,0 +1,171 @@
+[
+  {
+    "DistrictID": 168,
+    "ProvinceID": 44,
+    "DistrictName": "Thành phố Việt Trì",
+    "bounding_box": "{     \"north\": 21.426942 ,     \"south\": 21.2444  ,     \"east\":  105.470625   ,     \"west\":  105.27547    }  ",
+    "bbox": "{'north': 21.4001674570001, 'south': 21.264762967, 'east': 105.457103258, 'west': 105.291606859}",
+    "id_district_goc": 227,
+    "search_volume": 435,
+    "polygon": [
+      105.35436288,
+      21.2901576470001
+    ]
+  },
+  {
+    "DistrictID": 169,
+    "ProvinceID": 44,
+    "DistrictName": "Thị xã Phú Thọ",
+    "bounding_box": "{     \"north\": 21.477 ,     \"south\": 21.354805  ,     \"east\":  105.29761   ,     \"west\":  105.169309    }  ",
+    "bbox": "{'north': 21.4660277690001, 'south': 21.3643615570001, 'east': 105.2845237, 'west': 105.176694677}",
+    "id_district_goc": 228,
+    "search_volume": 1836,
+    "polygon": [
+      105.249266015,
+      21.3837028790001
+    ]
+  },
+  {
+    "DistrictID": 170,
+    "ProvinceID": 44,
+    "DistrictName": "Huyện Đoan Hùng",
+    "bounding_box": "{     \"north\": 21.750178 ,     \"south\": 21.494906  ,     \"east\":  105.294108   ,     \"west\":  105.002726    }  ",
+    "bbox": "{'north': 21.7200973710001, 'south': 21.5107455780001, 'east': 105.274728502, 'west': 105.016205259}",
+    "id_district_goc": 230,
+    "search_volume": 435,
+    "polygon": [
+      105.211753894,
+      21.51127797
+    ]
+  },
+  {
+    "DistrictID": 171,
+    "ProvinceID": 44,
+    "DistrictName": "Huyện Hạ Hoà",
+    "bounding_box": "{     \"north\": 21.709364 ,     \"south\": 21.4638  ,     \"east\":  105.166361   ,     \"west\":  104.848408    }  ",
+    "bbox": "{'north': 21.691843052, 'south': 21.483569662, 'east': 105.145993046, 'west': 104.867987175}",
+    "id_district_goc": 231,
+    "search_volume": 1795,
+    "polygon": [
+      105.025235733,
+      21.688976827
+    ]
+  },
+  {
+    "DistrictID": 172,
+    "ProvinceID": 44,
+    "DistrictName": "Huyện Thanh Ba",
+    "bounding_box": "{     \"north\": 21.588842 ,     \"south\": 21.314353  ,     \"east\":  105.240704   ,     \"west\":  105.048373    }  ",
+    "bbox": "{'north': 21.576808495, 'south': 21.3244124620001, 'east': 105.229852196, 'west': 105.076967214}",
+    "id_district_goc": 232,
+    "search_volume": 1654,
+    "polygon": [
+      105.153004534,
+      21.5480404370001
+    ]
+  },
+  {
+    "DistrictID": 173,
+    "ProvinceID": 44,
+    "DistrictName": "Huyện Phù Ninh",
+    "bounding_box": "{     \"north\": 21.566035 ,     \"south\": 21.348588  ,     \"east\":  105.410072   ,     \"west\":  105.201971    }  ",
+    "bbox": "{'north': 21.5431707220001, 'south': 21.3714925030001, 'east': 105.398687571, 'west': 105.211559111}",
+    "id_district_goc": 233,
+    "search_volume": 2348,
+    "polygon": [
+      105.211753894,
+      21.51127797
+    ]
+  },
+  {
+    "DistrictID": 174,
+    "ProvinceID": 44,
+    "DistrictName": "Huyện Yên Lập",
+    "bounding_box": "{     \"north\": 21.588334 ,     \"south\": 21.175931  ,     \"east\":  105.175318   ,     \"west\":  104.858176    }  ",
+    "bbox": "{'north': 21.5441290800001, 'south': 21.201355859, 'east': 105.170173254, 'west': 104.877196652}",
+    "id_district_goc": 234,
+    "search_volume": 1535,
+    "polygon": [
+      104.917663489,
+      21.53826421
+    ]
+  },
+  {
+    "DistrictID": 175,
+    "ProvinceID": 44,
+    "DistrictName": "Huyện Cẩm Khê",
+    "bounding_box": "{     \"north\": 21.526009 ,     \"south\": 21.24915  ,     \"east\":  105.221803   ,     \"west\":  104.974435    }  ",
+    "bbox": "{'north': 21.5003057550001, 'south': 21.268795073, 'east': 105.203543115, 'west': 104.978250247}",
+    "id_district_goc": 235,
+    "search_volume": 1289,
+    "polygon": [
+      104.992417539,
+      21.4969169610001
+    ]
+  },
+  {
+    "DistrictID": 176,
+    "ProvinceID": 44,
+    "DistrictName": "Huyện Tam Nông",
+    "bounding_box": "{     \"north\": 21.431681 ,     \"south\": 21.195302  ,     \"east\":  105.36682   ,     \"west\":  105.129049    }  ",
+    "bbox": "{'north': 21.397057977, 'south': 21.21654441, 'east': 105.353359243, 'west': 105.146745125}",
+    "id_district_goc": 236,
+    "search_volume": 1911,
+    "polygon": [
+      105.249266015,
+      21.3837028790001
+    ]
+  },
+  {
+    "DistrictID": 177,
+    "ProvinceID": 44,
+    "DistrictName": "Huyện Lâm Thao",
+    "bounding_box": "{     \"north\": 21.427994 ,     \"south\": 21.230628  ,     \"east\":  105.379506   ,     \"west\":  105.236449    }  ",
+    "bbox": "{'north': 21.407094402, 'south': 21.246884784, 'east': 105.356550784, 'west': 105.249266015}",
+    "id_district_goc": 237,
+    "search_volume": 435,
+    "polygon": [
+      105.353359243,
+      21.258400264
+    ]
+  },
+  {
+    "DistrictID": 178,
+    "ProvinceID": 44,
+    "DistrictName": "Huyện Thanh Sơn",
+    "bounding_box": "{     \"north\": 21.29594 ,     \"south\": 20.880865  ,     \"east\":  105.386463   ,     \"west\":  105.011029    }  ",
+    "bbox": "{'north': 21.256458594, 'south': 20.916935134, 'east': 105.344651152, 'west': 105.035338841}",
+    "id_district_goc": 238,
+    "search_volume": 3558,
+    "polygon": [
+      105.34135244,
+      20.941221425
+    ]
+  },
+  {
+    "DistrictID": 179,
+    "ProvinceID": 44,
+    "DistrictName": "Huyện Thanh Thuỷ",
+    "bounding_box": "{     \"north\": 21.256322 ,     \"south\": 20.985158  ,     \"east\":  105.371601   ,     \"west\":  105.219392    }  ",
+    "bbox": "{'north': 21.24483001, 'south': 21.00235674, 'east': 105.347152769, 'west': 105.232714058}",
+    "id_district_goc": 239,
+    "search_volume": 4504,
+    "polygon": [
+      105.347152769,
+      21.226749635
+    ]
+  },
+  {
+    "DistrictID": 180,
+    "ProvinceID": 44,
+    "DistrictName": "Huyện Tân Sơn",
+    "bounding_box": "{     \"north\": 21.397883 ,     \"south\": 20.978769  ,     \"east\":  105.145736   ,     \"west\":  104.791119    }  ",
+    "bbox": "{'north': 21.3654867060001, 'south': 21.015017238, 'east': 105.116821235, 'west': 104.813587009}",
+    "id_district_goc": 240,
+    "search_volume": 345,
+    "polygon": [
+      104.869564989,
+      21.352974725
+    ]
+  }
+]

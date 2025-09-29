@@ -1,0 +1,217 @@
+[
+  {
+    "DistrictID": 467,
+    "ProvinceID": 16,
+    "DistrictName": "Thành phố Buôn Ma Thuột",
+    "bounding_box": "{     \"north\": 12.808997 ,     \"south\": 12.532786  ,     \"east\":  108.192119   ,     \"west\":  107.84097    }  ",
+    "bbox": "{'north': 12.7702406280001, 'south': 12.5534823630001, 'east': 108.165627951, 'west': 107.892030286}",
+    "id_district_goc": 643,
+    "search_volume": 1049,
+    "polygon": [
+      108.109063371,
+      12.761144743
+    ]
+  },
+  {
+    "DistrictID": 468,
+    "ProvinceID": 16,
+    "DistrictName": "Thị Xã Buôn Hồ",
+    "bounding_box": "{     \"north\": 12.970282 ,     \"south\": 12.731447  ,     \"east\":  108.394188   ,     \"west\":  108.167903    }  ",
+    "bbox": "{'north': 12.949137933, 'south': 12.752580112, 'east': 108.372151887, 'west': 108.187613867}",
+    "id_district_goc": 644,
+    "search_volume": 387,
+    "polygon": [
+      108.30068852,
+      12.928555406
+    ]
+  },
+  {
+    "DistrictID": 469,
+    "ProvinceID": 16,
+    "DistrictName": "Huyện Ea H'leo",
+    "bounding_box": "{     \"north\": 13.478622 ,     \"south\": 12.999338  ,     \"east\":  108.505165   ,     \"west\":  107.916185    }  ",
+    "bbox": "{'north': 13.4168573010001, 'south': 13.0471176880001, 'east': 108.465402611, 'west': 107.954834474}",
+    "id_district_goc": 645,
+    "search_volume": 1020,
+    "polygon": [
+      108.144475841,
+      13.407777692
+    ]
+  },
+  {
+    "DistrictID": 470,
+    "ProvinceID": 16,
+    "DistrictName": "Huyện Ea Súp",
+    "bounding_box": "{     \"north\": 13.461279 ,     \"south\": 12.884144  ,     \"east\":  108.120688   ,     \"west\":  107.43449    }  ",
+    "bbox": "{'north': 13.4003623670001, 'south': 12.9615896190001, 'east': 108.050989424, 'west': 107.512842121}",
+    "id_district_goc": 646,
+    "search_volume": 1433,
+    "polygon": [
+      107.84461745,
+      13.395864391
+    ]
+  },
+  {
+    "DistrictID": 471,
+    "ProvinceID": 16,
+    "DistrictName": "Huyện Buôn Đôn",
+    "bounding_box": "{     \"north\": 13.169629 ,     \"south\": 12.601882  ,     \"east\":  108.08578   ,     \"west\":  107.45075    }  ",
+    "bbox": "{'north': 13.0892301490001, 'south': 12.6684540470001, 'east': 108.029610675, 'west': 107.484515791}",
+    "id_district_goc": 647,
+    "search_volume": 1455,
+    "polygon": [
+      107.569016419,
+      13.086017745
+    ]
+  },
+  {
+    "DistrictID": 472,
+    "ProvinceID": 16,
+    "DistrictName": "Huyện Cư M'gar",
+    "bounding_box": "{     \"north\": 13.101702 ,     \"south\": 12.663638  ,     \"east\":  108.268518   ,     \"west\":  107.841816    }  ",
+    "bbox": "{'north': 13.076234378, 'south': 12.715632312, 'east': 108.22780511, 'west': 107.917006664}",
+    "id_district_goc": 648,
+    "search_volume": 968,
+    "polygon": [
+      108.045749564,
+      13.0545442370001
+    ]
+  },
+  {
+    "DistrictID": 473,
+    "ProvinceID": 16,
+    "DistrictName": "Huyện Krông Búk",
+    "bounding_box": "{     \"north\": 13.154035 ,     \"south\": 12.868113  ,     \"east\":  108.32926   ,     \"west\":  108.057337    }  ",
+    "bbox": "{'north': 13.1296706530001, 'south': 12.900506169, 'east': 108.30068852, 'west': 108.096153528}",
+    "id_district_goc": 649,
+    "search_volume": 819,
+    "polygon": [
+      108.277736143,
+      13.1238603460001
+    ]
+  },
+  {
+    "DistrictID": 474,
+    "ProvinceID": 16,
+    "DistrictName": "Huyện Krông Năng",
+    "bounding_box": "{     \"north\": 13.183273 ,     \"south\": 12.789536  ,     \"east\":  108.561341   ,     \"west\":  108.220286    }  ",
+    "bbox": "{'north': 13.1480776230001, 'south': 12.840490964, 'east': 108.519729039, 'west': 108.274052361}",
+    "id_district_goc": 650,
+    "search_volume": 525,
+    "polygon": [
+      108.512816111,
+      13.0341148480001
+    ]
+  },
+  {
+    "DistrictID": 475,
+    "ProvinceID": 16,
+    "DistrictName": "Huyện Ea Kar",
+    "bounding_box": "{     \"north\": 13.06338 ,     \"south\": 12.515735  ,     \"east\":  108.781925   ,     \"west\":  108.319506    }  ",
+    "bbox": "{'north': 13.0343102140001, 'south': 12.5728714140001, 'east': 108.725292716, 'west': 108.371619413}",
+    "id_district_goc": 651,
+    "search_volume": 314,
+    "polygon": [
+      108.676675126,
+      12.995682985
+    ]
+  },
+  {
+    "DistrictID": 476,
+    "ProvinceID": 16,
+    "DistrictName": "Huyện M'Đrắk",
+    "bounding_box": "{     \"north\": 13.021072 ,     \"south\": 12.416345  ,     \"east\":  109.05232   ,     \"west\":  108.522834    }  ",
+    "bbox": "{'north': 12.9521010060001, 'south': 12.45302847, 'east': 108.994821448, 'west': 108.58219412}",
+    "id_district_goc": 652,
+    "search_volume": 710,
+    "polygon": [
+      108.991333542,
+      12.7054069060001
+    ]
+  },
+  {
+    "DistrictID": 477,
+    "ProvinceID": 16,
+    "DistrictName": "Huyện Krông Bông",
+    "bounding_box": "{     \"north\": 12.704136 ,     \"south\": 12.191594  ,     \"east\":  108.769341   ,     \"west\":  108.113182    }  ",
+    "bbox": "{'north': 12.627053796, 'south': 12.2768578660001, 'east': 108.728928499, 'west': 108.176226389}",
+    "id_district_goc": 653,
+    "search_volume": 847,
+    "polygon": [
+      108.488908927,
+      12.5997773080001
+    ]
+  },
+  {
+    "DistrictID": 478,
+    "ProvinceID": 16,
+    "DistrictName": "Huyện Krông Pắc",
+    "bounding_box": "{     \"north\": 12.876878 ,     \"south\": 12.496696  ,     \"east\":  108.526289   ,     \"west\":  108.097415    }  ",
+    "bbox": "{'north': 12.840490964, 'south': 12.5362216250001, 'east': 108.497145013, 'west': 108.131526293}",
+    "id_district_goc": 654,
+    "search_volume": 374,
+    "polygon": [
+      108.488908927,
+      12.5997773080001
+    ]
+  },
+  {
+    "DistrictID": 479,
+    "ProvinceID": 16,
+    "DistrictName": "Huyện Krông A Na",
+    "bounding_box": "{     \"north\": 12.625357 ,     \"south\": 12.351103  ,     \"east\":  108.191613   ,     \"west\":  107.843647    }  ",
+    "bbox": "{'north': 12.5933867590001, 'south': 12.3976002090001, 'east': 108.177250379, 'west': 107.886654404}",
+    "id_district_goc": 655,
+    "search_volume": 1052,
+    "polygon": [
+      107.983338523,
+      12.576654881
+    ]
+  },
+  {
+    "DistrictID": 480,
+    "ProvinceID": 16,
+    "DistrictName": "Huyện Lắk",
+    "bounding_box": "{     \"north\": 12.549903 ,     \"south\": 12.090764  ,     \"east\":  108.566497   ,     \"west\":  107.819863    }  ",
+    "bbox": "{'north': 12.4832297140001, 'south': 12.161139242, 'east': 108.503607206, 'west': 107.912583331}",
+    "id_district_goc": 656,
+    "search_volume": 1184,
+    "polygon": [
+      108.186039864,
+      12.475411977
+    ]
+  },
+  {
+    "DistrictID": 481,
+    "ProvinceID": 16,
+    "DistrictName": "Huyện Cư Kuin",
+    "bounding_box": "{     \"north\": 12.690059 ,     \"south\": 12.465688  ,     \"east\":  108.312352   ,     \"west\":  108.034749    }  ",
+    "bbox": "{'north': 12.6638426220001, 'south': 12.490786009, 'east': 108.284850231, 'west': 108.060532585}",
+    "id_district_goc": 657,
+    "search_volume": 895,
+    "polygon": [
+      108.283092979,
+      12.6277532190001
+    ]
+  },
+  {
+    "DistrictID": 709,
+    "ProvinceID": 16,
+    "DistrictName": "Huyện Krông Bu'k",
+    "bounding_box": " {     \"north\": 13.132874 ,     \"south\": 12.892525 ,     \"east\":  108.304825    ,     \"west\": 108.091761   }    ",
+    "bbox": "{'north': 13.076234378, 'south': 12.715632312, 'east': 108.22780511, 'west': 107.917006664}",
+    "id_district_goc": null,
+    "search_volume": 0,
+    "polygon": []
+  },
+  {
+    "DistrictID": 720,
+    "ProvinceID": 16,
+    "DistrictName": "đak r’lap",
+    "bounding_box": "{     \"north\": 13.461279 ,     \"south\": 12.884144  ,     \"east\":  108.120688   ,     \"west\":  107.43449    }  ",
+    "bbox": "{'north': 13.4003623670001, 'south': 12.9615896190001, 'east': 108.050989424, 'west': 107.512842121}",
+    "id_district_goc": 646,
+    "search_volume": 1439,
+    "polygon": []
+  }
+]

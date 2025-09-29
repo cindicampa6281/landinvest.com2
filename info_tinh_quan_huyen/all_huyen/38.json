@@ -1,0 +1,158 @@
+[
+  {
+    "DistrictID": 490,
+    "ProvinceID": 38,
+    "DistrictName": "Thành phố Đà Lạt",
+    "bounding_box": "{     \"north\": 12.022123 ,     \"south\": 11.780676  ,     \"east\":  108.61248   ,     \"west\":  108.295671    }  ",
+    "bbox": "{'north': 12.007324657, 'south': 11.8093427530001, 'east': 108.592937474, 'west': 108.315380038}",
+    "id_district_goc": 672,
+    "search_volume": 1404,
+    "polygon": [
+      108.571441161,
+      11.962888595
+    ]
+  },
+  {
+    "DistrictID": 491,
+    "ProvinceID": 38,
+    "DistrictName": "Thành phố Bảo Lộc",
+    "bounding_box": "{     \"north\": 11.680582 ,     \"south\": 11.40938  ,     \"east\":  107.917505   ,     \"west\":  107.662875    }  ",
+    "bbox": "{'north': 11.6543203030001, 'south': 11.4386147050001, 'east': 107.894429278, 'west': 107.696171778}",
+    "id_district_goc": 673,
+    "search_volume": 2388,
+    "polygon": [
+      107.740472747,
+      11.654286948
+    ]
+  },
+  {
+    "DistrictID": 492,
+    "ProvinceID": 38,
+    "DistrictName": "Huyện Đam Rông",
+    "bounding_box": "{     \"north\": 12.281824 ,     \"south\": 11.823379  ,     \"east\":  108.451878   ,     \"west\":  107.915758    }  ",
+    "bbox": "{'north': 12.2307409850001, 'south': 11.8537520460001, 'east': 108.390136154, 'west': 107.963383524}",
+    "id_district_goc": 674,
+    "search_volume": 14,
+    "polygon": [
+      108.104472233,
+      11.876167187
+    ]
+  },
+  {
+    "DistrictID": 493,
+    "ProvinceID": 38,
+    "DistrictName": "Huyện Lạc Dương",
+    "bounding_box": "{     \"north\": 12.373282 ,     \"south\": 11.885296  ,     \"east\":  108.790818   ,     \"west\":  108.265046    }  ",
+    "bbox": "{'north': 12.317606187, 'south': 11.9254886630001, 'east': 108.728928867, 'west': 108.275805911}",
+    "id_district_goc": 675,
+    "search_volume": 1179,
+    "polygon": [
+      108.728928867,
+      12.162132636
+    ]
+  },
+  {
+    "DistrictID": 494,
+    "ProvinceID": 38,
+    "DistrictName": "Huyện Lâm Hà",
+    "bounding_box": "{     \"north\": 12.121007 ,     \"south\": 11.575387  ,     \"east\":  108.516315   ,     \"west\":  107.927192    }  ",
+    "bbox": "{'north': 12.0710648950001, 'south': 11.6502486320001, 'east': 108.426159538, 'west': 107.969073208}",
+    "id_district_goc": 676,
+    "search_volume": 1476,
+    "polygon": [
+      108.316584412,
+      12.027265358
+    ]
+  },
+  {
+    "DistrictID": 495,
+    "ProvinceID": 38,
+    "DistrictName": "Huyện Đơn Dương",
+    "bounding_box": "{     \"north\": 12.041285 ,     \"south\": 11.587447  ,     \"east\":  108.734842   ,     \"west\":  108.327268    }  ",
+    "bbox": "{'north': 11.9710782290001, 'south': 11.639727141, 'east': 108.701295463, 'west': 108.392397816}",
+    "id_district_goc": 677,
+    "search_volume": 1325,
+    "polygon": [
+      108.661098976,
+      11.9681445680001
+    ]
+  },
+  {
+    "DistrictID": 496,
+    "ProvinceID": 38,
+    "DistrictName": "Huyện Đức Trọng",
+    "bounding_box": "{     \"north\": 11.924163 ,     \"south\": 11.447738  ,     \"east\":  108.592715   ,     \"west\":  108.136075    }  ",
+    "bbox": "{'north': 11.8856194160001, 'south': 11.5054667250001, 'east': 108.584048113, 'west': 108.215169488}",
+    "id_district_goc": 678,
+    "search_volume": 1581,
+    "polygon": [
+      108.487973532,
+      11.82524893
+    ]
+  },
+  {
+    "DistrictID": 497,
+    "ProvinceID": 38,
+    "DistrictName": "Huyện Di Linh",
+    "bounding_box": "{     \"north\": 11.874993 ,     \"south\": 11.151609  ,     \"east\":  108.409997   ,     \"west\":  107.769092    }  ",
+    "bbox": "{'north': 11.823307116, 'south': 11.215566645, 'east': 108.307724279, 'west': 107.873902274}",
+    "id_district_goc": 679,
+    "search_volume": 14,
+    "polygon": [
+      107.948510332,
+      11.818780944
+    ]
+  },
+  {
+    "DistrictID": 498,
+    "ProvinceID": 38,
+    "DistrictName": "Huyện Bảo Lâm",
+    "bounding_box": "{     \"north\": 11.986741 ,     \"south\": 11.299375  ,     \"east\":  108.051108   ,     \"west\":  107.419863    }  ",
+    "bbox": "{'north': 11.9222760010001, 'south': 11.357380296, 'east': 107.967639139, 'west': 107.4854843}",
+    "id_district_goc": 680,
+    "search_volume": 2475,
+    "polygon": [
+      107.724930587,
+      11.915889808
+    ]
+  },
+  {
+    "DistrictID": 499,
+    "ProvinceID": 38,
+    "DistrictName": "Huyện Đạ Huoai",
+    "bounding_box": "{     \"north\": 11.620069 ,     \"south\": 11.284569  ,     \"east\":  107.839831   ,     \"west\":  107.43914    }  ",
+    "bbox": "{'north': 11.5811113720001, 'south': 11.3224853410001, 'east': 107.798744911, 'west': 107.474950854}",
+    "id_district_goc": 682,
+    "search_volume": 331,
+    "polygon": [
+      107.668187247,
+      11.581070273
+    ]
+  },
+  {
+    "DistrictID": 500,
+    "ProvinceID": 38,
+    "DistrictName": "Huyện Đạ Tẻh",
+    "bounding_box": "{     \"north\": 11.72718 ,     \"south\": 11.395395  ,     \"east\":  107.708534   ,     \"west\":  107.361234    }  ",
+    "bbox": "{'north': 11.706383245, 'south': 11.419190132, 'east': 107.674030352, 'west': 107.396813271}",
+    "id_district_goc": null,
+    "search_volume": 3431,
+    "polygon": [
+      107.484983325,
+      11.706254734
+    ]
+  },
+  {
+    "DistrictID": 501,
+    "ProvinceID": 38,
+    "DistrictName": "Huyện Cát Tiên",
+    "bounding_box": "{     \"north\": 11.835681 ,     \"south\": 11.488336  ,     \"east\":  107.560379   ,     \"west\":  107.22205    }  ",
+    "bbox": "{'north': 11.8038595850001, 'south': 11.5151087730001, 'east': 107.521324391, 'west': 107.265863652}",
+    "id_district_goc": null,
+    "search_volume": 3747,
+    "polygon": [
+      107.508974535,
+      11.7979463900001
+    ]
+  }
+]

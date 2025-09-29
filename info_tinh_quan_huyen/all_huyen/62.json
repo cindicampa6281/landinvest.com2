@@ -1,0 +1,129 @@
+[
+  {
+    "DistrictID": 181,
+    "ProvinceID": 62,
+    "DistrictName": "Thành phố Vĩnh Yên",
+    "bounding_box": "{     \"north\": 21.348325 ,     \"south\": 21.267116  ,     \"east\":  105.643794   ,     \"west\":  105.541724    }  ",
+    "bbox": "{'north': 21.3452146230001, 'south': 21.264866016, 'east': 105.639595397, 'west': 105.548261162}",
+    "id_district_goc": 243,
+    "search_volume": 2356,
+    "polygon": [
+      105.55405508,
+      21.275312854
+    ]
+  },
+  {
+    "DistrictID": 182,
+    "ProvinceID": 62,
+    "DistrictName": "Thành phố Phúc Yên",
+    "bounding_box": "{     \"north\": 21.424616 ,     \"south\": 21.207052  ,     \"east\":  105.792337   ,     \"west\":  105.672411    }  ",
+    "bbox": "{'north': 21.4161521680001, 'south': 21.212406753, 'east': 105.786593877, 'west': 105.680554805}",
+    "id_district_goc": 244,
+    "search_volume": 4025,
+    "polygon": [
+      105.732652827,
+      21.233899724
+    ]
+  },
+  {
+    "DistrictID": 183,
+    "ProvinceID": 62,
+    "DistrictName": "Huyện Lập Thạch",
+    "bounding_box": "{     \"north\": 21.540843 ,     \"south\": 21.2731  ,     \"east\":  105.561494   ,     \"west\":  105.382676    }  ",
+    "bbox": "{'north': 21.52821987, 'south': 21.294770897, 'east': 105.537116537, 'west': 105.423443899}",
+    "id_district_goc": 246,
+    "search_volume": 1899,
+    "polygon": [
+      105.423443899,
+      21.497128006
+    ]
+  },
+  {
+    "DistrictID": 184,
+    "ProvinceID": 62,
+    "DistrictName": "Huyện Tam Dương",
+    "bounding_box": "{     \"north\": 21.455693 ,     \"south\": 21.26741  ,     \"east\":  105.622922   ,     \"west\":  105.496058    }  ",
+    "bbox": "{'north': 21.4472725850001, 'south': 21.2749269770001, 'east': 105.623341188, 'west': 105.499601421}",
+    "id_district_goc": 247,
+    "search_volume": 641,
+    "polygon": [
+      105.535431282,
+      21.284368118
+    ]
+  },
+  {
+    "DistrictID": 185,
+    "ProvinceID": 62,
+    "DistrictName": "Huyện Tam Đảo",
+    "bounding_box": "{     \"north\": 21.598122 ,     \"south\": 21.335128  ,     \"east\":  105.699232   ,     \"west\":  105.459846    }  ",
+    "bbox": "{'north': 21.5740463490001, 'south': 21.3442398180001, 'east': 105.687070592, 'west': 105.487357017}",
+    "id_district_goc": 248,
+    "search_volume": 2311,
+    "polygon": [
+      105.687003756,
+      21.4428820950001
+    ]
+  },
+  {
+    "DistrictID": 186,
+    "ProvinceID": 62,
+    "DistrictName": "Huyện Bình Xuyên",
+    "bounding_box": "{     \"north\": 21.453968 ,     \"south\": 21.207933  ,     \"east\":  105.736012   ,     \"west\":  105.584526    }  ",
+    "bbox": "{'north': 21.4428820950001, 'south': 21.2157482750001, 'east': 105.725314218, 'west': 105.603170444}",
+    "id_district_goc": 249,
+    "search_volume": 2088,
+    "polygon": [
+      105.635670742,
+      21.2171162880001
+    ]
+  },
+  {
+    "DistrictID": 187,
+    "ProvinceID": 62,
+    "DistrictName": "Huyện Yên Lạc",
+    "bounding_box": "{     \"north\": 21.293064 ,     \"south\": 21.150646  ,     \"east\":  105.63865   ,     \"west\":  105.519517    }  ",
+    "bbox": "{'north': 21.284368118, 'south': 21.152331781, 'east': 105.639328629, 'west': 105.522278095}",
+    "id_district_goc": 251,
+    "search_volume": 5870,
+    "polygon": [
+      105.538209389,
+      21.1551150710001
+    ]
+  },
+  {
+    "DistrictID": 188,
+    "ProvinceID": 62,
+    "DistrictName": "Huyện Vĩnh Tường",
+    "bounding_box": "{     \"north\": 21.349224 ,     \"south\": 21.149446  ,     \"east\":  105.551756   ,     \"west\":  105.4367    }  ",
+    "bbox": "{'north': 21.3416092200001, 'south': 21.154962594, 'east': 105.546831237, 'west': 105.44328332}",
+    "id_district_goc": 252,
+    "search_volume": 4130,
+    "polygon": [
+      105.474870479,
+      21.1722643730001
+    ]
+  },
+  {
+    "DistrictID": 189,
+    "ProvinceID": 62,
+    "DistrictName": "Huyện Sông Lô",
+    "bounding_box": "{     \"north\": 21.534602 ,     \"south\": 21.321272  ,     \"east\":  105.463896   ,     \"west\":  105.318237    }  ",
+    "bbox": "{'north': 21.524728575, 'south': 21.3258363730001, 'east': 105.455172008, 'west': 105.322688363}",
+    "id_district_goc": 253,
+    "search_volume": 2550,
+    "polygon": [
+      105.324751834,
+      21.506573605
+    ]
+  },
+  {
+    "DistrictID": 759,
+    "ProvinceID": 62,
+    "DistrictName": "Huyện Phú Quí",
+    "bounding_box": "{\"north\":10.55,\"south\":10.45,\"east\":109.00,\"west\":108.90}",
+    "bbox": "{\"north\":10.55,\"south\":10.45,\"east\":109.00,\"west\":108.90}",
+    "id_district_goc": 602,
+    "search_volume": 0,
+    "polygon": []
+  }
+]

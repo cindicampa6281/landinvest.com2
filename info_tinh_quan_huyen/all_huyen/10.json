@@ -1,0 +1,155 @@
+[
+  {
+    "DistrictID": 502,
+    "ProvinceID": 10,
+    "DistrictName": "Thị xã Phước Long",
+    "bounding_box": "{     \"north\": 11.8772989 ,     \"south\": 11.7733881  ,     \"east\":  107.0757774   ,     \"west\":  106.9231675    }  ",
+    "bbox": "{'north': 11.876982485, 'south': 11.773532415, 'east': 107.075132714, 'west': 106.922892892}",
+    "id_district_goc": 688,
+    "search_volume": 0,
+    "polygon": [
+      106.96054318,
+      11.8769394060001
+    ]
+  },
+  {
+    "DistrictID": 503,
+    "ProvinceID": 10,
+    "DistrictName": "Thành phố Đồng Xoài",
+    "bounding_box": "{     \"north\": 11.5771801 ,     \"south\": 11.4611345  ,     \"east\":  106.9330416   ,     \"west\":  106.755153    }  ",
+    "bbox": "{'north': 11.576952766, 'south': 11.460987215, 'east': 106.932837184, 'west': 106.755323456}",
+    "id_district_goc": 689,
+    "search_volume": 5778,
+    "polygon": [
+      106.898519629,
+      11.573770687
+    ]
+  },
+  {
+    "DistrictID": 504,
+    "ProvinceID": 10,
+    "DistrictName": "Thị xã Bình Long",
+    "bounding_box": "{     \"north\": 11.7406422 ,     \"south\": 11.6046392  ,     \"east\":  106.6467265   ,     \"west\":  106.4956742    }  ",
+    "bbox": "{'north': 11.7401660400001, 'south': 11.603666348, 'east': 106.646698175, 'west': 106.496085675}",
+    "id_district_goc": 690,
+    "search_volume": 5201,
+    "polygon": [
+      106.608987229,
+      11.740077678
+    ]
+  },
+  {
+    "DistrictID": 505,
+    "ProvinceID": 10,
+    "DistrictName": "Huyện Bù Gia Mập",
+    "bounding_box": "{     \"north\": 12.2984546 ,     \"south\": 11.8219086  ,     \"east\":  107.2405762   ,     \"west\":  106.7482262    }  ",
+    "bbox": "{'north': 12.2974861480001, 'south': 11.8226067460001, 'east': 107.240578258, 'west': 106.748496471}",
+    "id_district_goc": 691,
+    "search_volume": 0,
+    "polygon": [
+      107.207737248,
+      12.2877271140001
+    ]
+  },
+  {
+    "DistrictID": 506,
+    "ProvinceID": 10,
+    "DistrictName": "Huyện Lộc Ninh",
+    "bounding_box": "{     \"north\": 12.023187 ,     \"south\": 11.637968  ,     \"east\":  106.773511   ,     \"west\":  106.401879    }  ",
+    "bbox": "{'north': 11.9892128610001, 'south': 11.6576249250001, 'east': 106.763723619, 'west': 106.410852572}",
+    "id_district_goc": 692,
+    "search_volume": 4636,
+    "polygon": [
+      106.662055724,
+      11.7538993490001
+    ]
+  },
+  {
+    "DistrictID": 507,
+    "ProvinceID": 10,
+    "DistrictName": "Huyện Bù Đốp",
+    "bounding_box": "{     \"north\": 12.0938208 ,     \"south\": 11.8794052  ,     \"east\":  106.9947887   ,     \"west\":  106.6703693    }  ",
+    "bbox": "{'north': 12.0926291440001, 'south': 11.8796603500001, 'east': 106.994816297, 'west': 106.670305982}",
+    "id_district_goc": 693,
+    "search_volume": 4137,
+    "polygon": [
+      106.982809949,
+      12.0617665300001
+    ]
+  },
+  {
+    "DistrictID": 508,
+    "ProvinceID": 10,
+    "DistrictName": "Huyện Hớn Quản",
+    "bounding_box": "{     \"north\": 11.7835256 ,     \"south\": 11.467357  ,     \"east\":  106.7826358   ,     \"west\":  106.4225016    }  ",
+    "bbox": "{'north': 11.784109046, 'south': 11.4678874470001, 'east': 106.782876213, 'west': 106.422743569}",
+    "id_district_goc": 694,
+    "search_volume": 5435,
+    "polygon": [
+      106.744029831,
+      11.784109046
+    ]
+  },
+  {
+    "DistrictID": 509,
+    "ProvinceID": 10,
+    "DistrictName": "Huyện Đồng Phú",
+    "bounding_box": "{     \"north\": 11.6567355 ,     \"south\": 11.3015859  ,     \"east\":  107.1426085   ,     \"west\":  106.7645406    }  ",
+    "bbox": "{'north': 11.6576047940001, 'south': 11.3015604230001, 'east': 107.146085693, 'west': 106.764758621}",
+    "id_district_goc": 695,
+    "search_volume": 0,
+    "polygon": [
+      106.954794976,
+      11.653358187
+    ]
+  },
+  {
+    "DistrictID": 510,
+    "ProvinceID": 10,
+    "DistrictName": "Huyện Bù Đăng",
+    "bounding_box": "{     \"north\": 12.0390534 ,     \"south\": 11.5015265  ,     \"east\":  107.4271366   ,     \"west\":  107.0487907    }  ",
+    "bbox": "{'north': 12.0392821500001, 'south': 11.501133839, 'east': 107.427258418, 'west': 107.048576339}",
+    "id_district_goc": 696,
+    "search_volume": 3964,
+    "polygon": [
+      107.243163879,
+      12.0287830950001
+    ]
+  },
+  {
+    "DistrictID": 511,
+    "ProvinceID": 10,
+    "DistrictName": "Huyện Chơn Thành",
+    "bounding_box": "{     \"north\": 11.6068104 ,     \"south\": 11.3537498  ,     \"east\":  106.7774239   ,     \"west\":  106.5388709    }  ",
+    "bbox": "{'north': 11.6077187130001, 'south': 11.35450525, 'east': 106.777435241, 'west': 106.539299444}",
+    "id_district_goc": null,
+    "search_volume": 6749,
+    "polygon": [
+      106.693806111,
+      11.6059983370001
+    ]
+  },
+  {
+    "DistrictID": 512,
+    "ProvinceID": 10,
+    "DistrictName": "Huyện Phú Riềng",
+    "bounding_box": "{     \"north\": 11.8734421 ,     \"south\": 11.6051545  ,     \"east\":  107.0813543   ,     \"west\":  106.7411925    }  ",
+    "bbox": "{'north': 11.87284372, 'south': 11.6049414190001, 'east': 107.084584617, 'west': 106.740945919}",
+    "id_district_goc": 698,
+    "search_volume": 0,
+    "polygon": [
+      106.91464989,
+      11.653074372
+    ]
+  },
+  {
+    "DistrictID": 760,
+    "ProvinceID": 10,
+    "DistrictName": "Thị xã Chơn Thành",
+    "bounding_box": "{\"north\":11.50,\"south\":11.40,\"east\":106.75,\"west\":106.60}",
+    "bbox": "{\"north\":11.50,\"south\":11.40,\"east\":106.75,\"west\":106.60}",
+    "id_district_goc": 697,
+    "search_volume": 0,
+    "polygon": []
+  }
+]

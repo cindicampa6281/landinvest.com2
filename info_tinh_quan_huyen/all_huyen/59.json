@@ -1,0 +1,119 @@
+[
+  {
+    "DistrictID": 607,
+    "ProvinceID": 59,
+    "DistrictName": "Thành phố Trà Vinh",
+    "bounding_box": "{     \"north\": 10.03184 ,     \"south\": 9.871005  ,     \"east\":  106.402894   ,     \"west\":  106.286359    }  ",
+    "bbox": "{'north': 10.0168539960001, 'south': 9.88656022100002, 'east': 106.389720131, 'west': 106.301646009}",
+    "id_district_goc": 842,
+    "search_volume": 1215,
+    "polygon": [
+      106.320980746,
+      10.016523615
+    ]
+  },
+  {
+    "DistrictID": 608,
+    "ProvinceID": 59,
+    "DistrictName": "Huyện Càng Long",
+    "bounding_box": "{     \"north\": 10.106995 ,     \"south\": 9.847069  ,     \"east\":  106.330691   ,     \"west\":  106.096103    }  ",
+    "bbox": "{'north': 10.0817410720001, 'south': 9.86030752600004, 'east': 106.320481861, 'west': 106.112725113}",
+    "id_district_goc": 844,
+    "search_volume": 1434,
+    "polygon": [
+      106.314276247,
+      10.012388437
+    ]
+  },
+  {
+    "DistrictID": 609,
+    "ProvinceID": 59,
+    "DistrictName": "Huyện Cầu Kè",
+    "bounding_box": "{     \"north\": 9.984173 ,     \"south\": 9.732708  ,     \"east\":  106.185524   ,     \"west\":  105.943944    }  ",
+    "bbox": "{'north': 9.96037473400003, 'south': 9.75487480400005, 'east': 106.167692009, 'west': 105.953660628}",
+    "id_district_goc": 845,
+    "search_volume": 1376,
+    "polygon": [
+      106.106498223,
+      9.94505808100007
+    ]
+  },
+  {
+    "DistrictID": 610,
+    "ProvinceID": 59,
+    "DistrictName": "Huyện Tiểu Cần",
+    "bounding_box": "{     \"north\": 9.912294 ,     \"south\": 9.697228  ,     \"east\":  106.324648   ,     \"west\":  106.082647    }  ",
+    "bbox": "{'north': 9.89288402300002, 'south': 9.72640928300007, 'east': 106.307861262, 'west': 106.099521382}",
+    "id_district_goc": 846,
+    "search_volume": 993,
+    "polygon": [
+      106.184936667,
+      9.88794871800008
+    ]
+  },
+  {
+    "DistrictID": 611,
+    "ProvinceID": 59,
+    "DistrictName": "Huyện Châu Thành",
+    "bounding_box": "{     \"north\": 10.030223 ,     \"south\": 9.729512  ,     \"east\":  106.623693   ,     \"west\":  106.198902    }  ",
+    "bbox": "{'north': 9.97967124200005, 'south': 9.76578013800003, 'east': 106.601985988, 'west': 106.219797311}",
+    "id_district_goc": 847,
+    "search_volume": 1003,
+    "polygon": [
+      106.381643668,
+      9.97735535500004
+    ]
+  },
+  {
+    "DistrictID": 612,
+    "ProvinceID": 59,
+    "DistrictName": "Huyện Cầu Ngang",
+    "bounding_box": "{     \"north\": 9.924736 ,     \"south\": 9.651781  ,     \"east\":  106.564283   ,     \"west\":  106.307824    }  ",
+    "bbox": "{'north': 9.89601161100006, 'south': 9.67806600700004, 'east': 106.549243509, 'west': 106.324596678}",
+    "id_district_goc": 848,
+    "search_volume": 1003,
+    "polygon": [
+      106.446203561,
+      9.89383845300006
+    ]
+  },
+  {
+    "DistrictID": 613,
+    "ProvinceID": 59,
+    "DistrictName": "Huyện Trà Cú",
+    "bounding_box": "{     \"north\": 9.836797 ,     \"south\": 9.555646  ,     \"east\":  106.435506   ,     \"west\":  106.127557    }  ",
+    "bbox": "{'north': 9.79833265100007, 'south': 9.60237161500004, 'east': 106.417507462, 'west': 106.132778801}",
+    "id_district_goc": 849,
+    "search_volume": 934,
+    "polygon": [
+      106.314808839,
+      9.79703556000004
+    ]
+  },
+  {
+    "DistrictID": 614,
+    "ProvinceID": 59,
+    "DistrictName": "Huyện Duyên Hải",
+    "bounding_box": "{     \"north\": 9.737673 ,     \"south\": 9.489756  ,     \"east\":  106.540933   ,     \"west\":  106.246043    }  ",
+    "bbox": "{'north': 9.79581400300003, 'south': 9.56574638400002, 'east': 106.579727873, 'west': 106.439988568}",
+    "id_district_goc": 850,
+    "search_volume": 1459,
+    "polygon": [
+      106.57773108,
+      9.76578013800003
+    ]
+  },
+  {
+    "DistrictID": 615,
+    "ProvinceID": 59,
+    "DistrictName": "Thị xã Duyên Hải",
+    "bounding_box": "{     \"north\": 9.827688 ,     \"south\": 9.549355  ,     \"east\":  106.633381   ,     \"west\":  106.407894    }  ",
+    "bbox": "{'north': 9.79581400300003, 'south': 9.56574638400002, 'east': 106.579727873, 'west': 106.439988568}",
+    "id_district_goc": 851,
+    "search_volume": 1459,
+    "polygon": [
+      106.57773108,
+      9.76578013800003
+    ]
+  }
+]

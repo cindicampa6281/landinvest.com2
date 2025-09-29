@@ -1,0 +1,145 @@
+[
+  {
+    "DistrictID": 679,
+    "ProvinceID": 51,
+    "DistrictName": "Thành phố Sóc Trăng",
+    "bounding_box": "{     \"north\": 9.6606854 ,     \"south\": 9.5594117  ,     \"east\":  106.0412997   ,     \"west\":  105.9285373    }  ",
+    "bbox": "{'north': 9.66049861700003, 'south': 9.55938522100007, 'east': 106.043053788, 'west': 105.92876212}",
+    "id_district_goc": 941,
+    "search_volume": 835,
+    "polygon": [
+      105.992246148,
+      9.65720098300005
+    ]
+  },
+  {
+    "DistrictID": 680,
+    "ProvinceID": 51,
+    "DistrictName": "Huyện Châu Thành",
+    "bounding_box": "{     \"north\": 9.752583 ,     \"south\": 9.5889864  ,     \"east\":  105.9974563   ,     \"west\":  105.7989889    }  ",
+    "bbox": "{'north': 9.75261259900003, 'south': 9.58921519000006, 'east': 105.996542423, 'west': 105.797209543}",
+    "id_district_goc": 942,
+    "search_volume": 866,
+    "polygon": [
+      105.864634227,
+      9.75079302000006
+    ]
+  },
+  {
+    "DistrictID": 681,
+    "ProvinceID": 51,
+    "DistrictName": "Huyện Kế Sách",
+    "bounding_box": "{     \"north\": 9.9380667 ,     \"south\": 9.7106782  ,     \"east\":  106.073573   ,     \"west\":  105.843497    }  ",
+    "bbox": "{'north': 9.93806359500007, 'south': 9.71060345200004, 'east': 106.073598899, 'west': 105.84344073}",
+    "id_district_goc": 943,
+    "search_volume": 1263,
+    "polygon": [
+      105.897763687,
+      9.93765580600007
+    ]
+  },
+  {
+    "DistrictID": 682,
+    "ProvinceID": 51,
+    "DistrictName": "Huyện Mỹ Tú",
+    "bounding_box": "{     \"north\": 9.721967 ,     \"south\": 9.5227717  ,     \"east\":  105.9453744   ,     \"west\":  105.6690007    }  ",
+    "bbox": "{'north': 9.72019370500004, 'south': 9.52409714600003, 'east': 105.946151845, 'west': 105.669345623}",
+    "id_district_goc": 944,
+    "search_volume": 860,
+    "polygon": [
+      105.92153378,
+      9.57198434100007
+    ]
+  },
+  {
+    "DistrictID": 683,
+    "ProvinceID": 51,
+    "DistrictName": "Huyện Cù Lao Dung",
+    "bounding_box": "{     \"north\": 9.7744104 ,     \"south\": 9.4904822  ,     \"east\":  106.3022143   ,     \"west\":  106.073573    }  ",
+    "bbox": "{'north': 9.77453843400002, 'south': 9.50185107900006, 'east': 106.315211049, 'west': 106.073266054}",
+    "id_district_goc": 945,
+    "search_volume": 1176,
+    "polygon": [
+      106.074720296,
+      9.77361927800007
+    ]
+  },
+  {
+    "DistrictID": 684,
+    "ProvinceID": 51,
+    "DistrictName": "Huyện Long Phú",
+    "bounding_box": "{     \"north\": 9.7840371 ,     \"south\": 9.5415974  ,     \"east\":  106.1837732   ,     \"west\":  105.9827176    }  ",
+    "bbox": "{'north': 9.78417652200005, 'south': 9.54195185300006, 'east': 106.184058455, 'west': 105.983001889}",
+    "id_district_goc": 946,
+    "search_volume": 1115,
+    "polygon": [
+      106.046665438,
+      9.78411095800004
+    ]
+  },
+  {
+    "DistrictID": 685,
+    "ProvinceID": 51,
+    "DistrictName": "Huyện Mỹ Xuyên",
+    "bounding_box": "{     \"north\": 9.583961 ,     \"south\": 9.3528988  ,     \"east\":  106.0089201   ,     \"west\":  105.7534202    }  ",
+    "bbox": "{'north': 9.58396152700004, 'south': 9.35307492100003, 'east': 106.009160943, 'west': 105.753624797}",
+    "id_district_goc": 947,
+    "search_volume": 906,
+    "polygon": [
+      105.9657782,
+      9.55943796400004
+    ]
+  },
+  {
+    "DistrictID": 686,
+    "ProvinceID": 51,
+    "DistrictName": "Thị xã Ngã Năm",
+    "bounding_box": "{     \"north\": 9.6417916 ,     \"south\": 9.4113924  ,     \"east\":  105.7051411   ,     \"west\":  105.5440061    }  ",
+    "bbox": "{'north': 9.64148432900004, 'south': 9.41098788900007, 'east': 105.70417884, 'west': 105.54391623}",
+    "id_district_goc": 948,
+    "search_volume": 768,
+    "polygon": [
+      105.689116506,
+      9.50881105900004
+    ]
+  },
+  {
+    "DistrictID": 687,
+    "ProvinceID": 51,
+    "DistrictName": "Huyện Thạnh Trị",
+    "bounding_box": "{     \"north\": 9.5563838 ,     \"south\": 9.3774586  ,     \"east\":  105.8485883   ,     \"west\":  105.5876181    }  ",
+    "bbox": "{'north': 9.55575566200002, 'south': 9.37754362000004, 'east': 105.850147323, 'west': 105.588389656}",
+    "id_district_goc": 949,
+    "search_volume": 832,
+    "polygon": [
+      105.779859715,
+      9.54272018200004
+    ]
+  },
+  {
+    "DistrictID": 688,
+    "ProvinceID": 51,
+    "DistrictName": "Thị xã Vĩnh Châu",
+    "bounding_box": "{     \"north\": 9.4536432 ,     \"south\": 9.2450076  ,     \"east\":  106.1881158   ,     \"west\":  105.8120928    }  ",
+    "bbox": "{'north': 9.45351603300003, 'south': 9.24470426500005, 'east': 106.189332198, 'west': 105.812480273}",
+    "id_district_goc": 950,
+    "search_volume": 1158,
+    "polygon": [
+      106.06368935,
+      9.45323058900004
+    ]
+  },
+  {
+    "DistrictID": 689,
+    "ProvinceID": 51,
+    "DistrictName": "Huyện Trần Đề",
+    "bounding_box": "{     \"north\": 9.5874101 ,     \"south\": 9.4012645  ,     \"east\":  106.2226629   ,     \"west\":  105.9645679    }  ",
+    "bbox": "{'north': 9.58733583400004, 'south': 9.40164945400005, 'east': 106.220476815, 'west': 105.964438034}",
+    "id_district_goc": 951,
+    "search_volume": 1130,
+    "polygon": [
+      106.049379772,
+      9.58728423200006
+    ]
+  }
+]

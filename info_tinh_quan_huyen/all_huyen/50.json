@@ -1,0 +1,132 @@
+[
+  {
+    "DistrictID": 336,
+    "ProvinceID": 50,
+    "DistrictName": "Thành phố Đông Hà",
+    "bounding_box": "{     \"north\": 16.87496 ,     \"south\": 16.732374  ,     \"east\":  107.139146   ,     \"west\":  107.019127    }  ",
+    "bbox": "{'north': 16.8623420050001, 'south': 16.7434753050001, 'east': 107.148461531, 'west': 107.030546166}",
+    "id_district_goc": 461,
+    "search_volume": 345,
+    "polygon": [
+      107.124581288,
+      16.8470344020001
+    ]
+  },
+  {
+    "DistrictID": 337,
+    "ProvinceID": 50,
+    "DistrictName": "Thị xã Quảng Trị",
+    "bounding_box": "{     \"north\": 16.768003 ,     \"south\": 16.621541  ,     \"east\":  107.212607   ,     \"west\":  107.064338    }  ",
+    "bbox": "{'north': 16.759055156, 'south': 16.6279244900001, 'east': 107.203423495, 'west': 107.067380959}",
+    "id_district_goc": 462,
+    "search_volume": 454,
+    "polygon": [
+      107.079961067,
+      16.6279244900001
+    ]
+  },
+  {
+    "DistrictID": 338,
+    "ProvinceID": 50,
+    "DistrictName": "Huyện Vĩnh Linh",
+    "bounding_box": "{     \"north\": 17.203294 ,     \"south\": 16.867814  ,     \"east\":  107.13536   ,     \"west\":  106.675994    }  ",
+    "bbox": "{'north': 17.1646206840001, 'south': 16.889195891, 'east': 107.116317652, 'west': 106.681498431}",
+    "id_district_goc": 464,
+    "search_volume": 435,
+    "polygon": [
+      107.073404042,
+      17.1091411090001
+    ]
+  },
+  {
+    "DistrictID": 339,
+    "ProvinceID": 50,
+    "DistrictName": "Huyện Hướng Hóa",
+    "bounding_box": "{     \"north\": 17.039673 ,     \"south\": 16.385561  ,     \"east\":  106.835636   ,     \"west\":  106.491244    }  ",
+    "bbox": "{'north': 16.9979728110001, 'south': 16.410587032, 'east': 106.830997106, 'west': 106.515453464}",
+    "id_district_goc": 465,
+    "search_volume": 746,
+    "polygon": [
+      106.563063176,
+      16.987854127
+    ]
+  },
+  {
+    "DistrictID": 340,
+    "ProvinceID": 50,
+    "DistrictName": "Huyện Gio Linh",
+    "bounding_box": "{     \"north\": 17.049108 ,     \"south\": 16.776475  ,     \"east\":  107.20274   ,     \"west\":  106.676083    }  ",
+    "bbox": "{'north': 17.0152617090001, 'south': 16.810219546, 'east': 107.193074784, 'west': 106.68636699}",
+    "id_district_goc": 466,
+    "search_volume": 499,
+    "polygon": [
+      106.991306474,
+      16.859853287
+    ]
+  },
+  {
+    "DistrictID": 341,
+    "ProvinceID": 50,
+    "DistrictName": "Huyện Đa Krông",
+    "bounding_box": "{     \"north\": 16.873837 ,     \"south\": 16.280228  ,     \"east\":  107.158127   ,     \"west\":  106.709061    }  ",
+    "bbox": "{'north': 16.83445506, 'south': 16.2966460170001, 'east': 107.152982588, 'west': 106.711508374}",
+    "id_district_goc": 467,
+    "search_volume": 454,
+    "polygon": [
+      106.831125275,
+      16.810919207
+    ]
+  },
+  {
+    "DistrictID": 342,
+    "ProvinceID": 50,
+    "DistrictName": "Huyện Cam Lộ",
+    "bounding_box": "{     \"north\": 16.902883 ,     \"south\": 16.665732  ,     \"east\":  107.118194   ,     \"west\":  106.83931    }  ",
+    "bbox": "{'north': 16.885554418, 'south': 16.6849699740001, 'east': 107.10374343, 'west': 106.830019224}",
+    "id_district_goc": 468,
+    "search_volume": 446,
+    "polygon": [
+      107.049592074,
+      16.884666054
+    ]
+  },
+  {
+    "DistrictID": 343,
+    "ProvinceID": 50,
+    "DistrictName": "Huyện Triệu Phong",
+    "bounding_box": "{     \"north\": 16.942709 ,     \"south\": 16.635885  ,     \"east\":  107.296433   ,     \"west\":  107.002338    }  ",
+    "bbox": "{'north': 16.9049037940001, 'south': 16.6450696220001, 'east': 107.308136787, 'west': 107.002373287}",
+    "id_district_goc": 469,
+    "search_volume": 670,
+    "polygon": [
+      107.308136787,
+      16.8021757020001
+    ]
+  },
+  {
+    "DistrictID": 344,
+    "ProvinceID": 50,
+    "DistrictName": "Huyện Hải Lăng",
+    "bounding_box": "{     \"north\": 16.830143 ,     \"south\": 16.532754  ,     \"east\":  107.386275   ,     \"west\":  107.073552    }  ",
+    "bbox": "{'north': 16.8021757020001, 'south': 16.5665174280001, 'east': 107.388103632, 'west': 107.079961067}",
+    "id_district_goc": 470,
+    "search_volume": 1071,
+    "polygon": [
+      107.315261919,
+      16.796411489
+    ]
+  },
+  {
+    "DistrictID": 345,
+    "ProvinceID": 50,
+    "DistrictName": "Huyện Cồn Cỏ",
+    "bounding_box": "{     \"north\": 17.170148 ,     \"south\": 17.147643  ,     \"east\":  107.350602   ,     \"west\":  107.327387    }  ",
+    "bbox": "{'north': 17.166508477, 'south': 17.1501777140001, 'east': 107.347885509, 'west': 107.331743022}",
+    "id_district_goc": null,
+    "search_volume": 1656,
+    "polygon": [
+      107.342826963,
+      17.1502177470001
+    ]
+  }
+]

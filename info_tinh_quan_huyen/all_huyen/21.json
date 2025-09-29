@@ -1,0 +1,223 @@
+[
+  {
+    "DistrictID": 450,
+    "ProvinceID": 21,
+    "DistrictName": "Thành phố Pleiku",
+    "bounding_box": "{     \"north\": 14.123863 ,     \"south\": 13.80388  ,     \"east\":  108.148031   ,     \"west\":  107.813937    }  ",
+    "bbox": "{'north': 14.0816458260001, 'south': 13.8338416880001, 'east': 108.098606854, 'west': 107.839910552}",
+    "id_district_goc": 622,
+    "search_volume": 805,
+    "polygon": [
+      108.049380083,
+      14.0763399640001
+    ]
+  },
+  {
+    "DistrictID": 451,
+    "ProvinceID": 21,
+    "DistrictName": "Thị xã An Khê",
+    "bounding_box": "{     \"north\": 14.146301 ,     \"south\": 13.894515  ,     \"east\":  108.788799   ,     \"west\":  108.597306    }  ",
+    "bbox": "{'north': 14.1287830090001, 'south': 13.915355216, 'east': 108.763698538, 'west': 108.625042089}",
+    "id_district_goc": 623,
+    "search_volume": 920,
+    "polygon": [
+      108.692958517,
+      14.1210867240001
+    ]
+  },
+  {
+    "DistrictID": 452,
+    "ProvinceID": 21,
+    "DistrictName": "Thị xã Ayun Pa",
+    "bounding_box": "{     \"north\": 13.470093 ,     \"south\": 13.14845  ,     \"east\":  108.560115   ,     \"west\":  108.283109    }  ",
+    "bbox": "{'north': 13.4404860440001, 'south': 13.1806772780001, 'east': 108.52420073, 'west': 108.310726941}",
+    "id_district_goc": 624,
+    "search_volume": 214,
+    "polygon": [
+      108.52420073,
+      13.3650232100001
+    ]
+  },
+  {
+    "DistrictID": 453,
+    "ProvinceID": 21,
+    "DistrictName": "Huyện KBang",
+    "bounding_box": "{     \"north\": 14.657261 ,     \"south\": 13.943622  ,     \"east\":  108.785553   ,     \"west\":  108.19704    }  ",
+    "bbox": "{'north': 14.601887237, 'south': 13.9996691710001, 'east': 108.687008574, 'west': 108.291231382}",
+    "id_district_goc": 625,
+    "search_volume": 1019,
+    "polygon": [
+      108.547102888,
+      14.588871652
+    ]
+  },
+  {
+    "DistrictID": 454,
+    "ProvinceID": 21,
+    "DistrictName": "Huyện Đăk Đoa",
+    "bounding_box": "{     \"north\": 14.461345 ,     \"south\": 13.768641  ,     \"east\":  108.406984   ,     \"west\":  107.90371    }  ",
+    "bbox": "{'north': 14.396809574, 'south': 13.8347693920001, 'east': 108.322503226, 'west': 107.997993546}",
+    "id_district_goc": 626,
+    "search_volume": 887,
+    "polygon": [
+      108.252968758,
+      14.391252868
+    ]
+  },
+  {
+    "DistrictID": 455,
+    "ProvinceID": 21,
+    "DistrictName": "Huyện Chư Păh",
+    "bounding_box": "{     \"north\": 14.460119 ,     \"south\": 13.983548  ,     \"east\":  108.303622   ,     \"west\":  107.623964    }  ",
+    "bbox": "{'north': 14.392172912, 'south': 14.0518078710001, 'east': 108.232458203, 'west': 107.658267857}",
+    "id_district_goc": 627,
+    "search_volume": 972,
+    "polygon": [
+      108.230333636,
+      14.3918662880001
+    ]
+  },
+  {
+    "DistrictID": 456,
+    "ProvinceID": 21,
+    "DistrictName": "Huyện Ia Grai",
+    "bounding_box": "{     \"north\": 14.190146 ,     \"south\": 13.763068  ,     \"east\":  108.035927   ,     \"west\":  107.382512    }  ",
+    "bbox": "{'north': 14.14038155, 'south': 13.8412842320001, 'east': 107.987836413, 'west': 107.454776586}",
+    "id_district_goc": 628,
+    "search_volume": 1175,
+    "polygon": [
+      107.68544621,
+      14.1298424560001
+    ]
+  },
+  {
+    "DistrictID": 457,
+    "ProvinceID": 21,
+    "DistrictName": "Huyện Mang Yang",
+    "bounding_box": "{     \"north\": 14.2896 ,     \"south\": 13.623022  ,     \"east\":  108.527595   ,     \"west\":  108.097737    }  ",
+    "bbox": "{'north': 14.2390401490001, 'south': 13.672814139, 'east': 108.463369371, 'west': 108.161290216}",
+    "id_district_goc": 629,
+    "search_volume": 786,
+    "polygon": [
+      108.318226773,
+      14.2347552430001
+    ]
+  },
+  {
+    "DistrictID": 458,
+    "ProvinceID": 21,
+    "DistrictName": "Huyện Kông Chro",
+    "bounding_box": "{     \"north\": 14.065465 ,     \"south\": 13.492515  ,     \"east\":  108.934193   ,     \"west\":  108.296985    }  ",
+    "bbox": "{'north': 13.9694410600001, 'south': 13.554775681, 'east': 108.852511636, 'west': 108.350298407}",
+    "id_district_goc": 630,
+    "search_volume": 976,
+    "polygon": [
+      108.794662574,
+      13.8209299280001
+    ]
+  },
+  {
+    "DistrictID": 459,
+    "ProvinceID": 21,
+    "DistrictName": "Huyện Đức Cơ",
+    "bounding_box": "{     \"north\": 13.972232 ,     \"south\": 13.574989  ,     \"east\":  107.871977   ,     \"west\":  107.409257    }  ",
+    "bbox": "{'north': 13.922161085, 'south': 13.6180654390001, 'east': 107.832765653, 'west': 107.450321162}",
+    "id_district_goc": 631,
+    "search_volume": 1301,
+    "polygon": [
+      107.548236568,
+      13.697060025
+    ]
+  },
+  {
+    "DistrictID": 460,
+    "ProvinceID": 21,
+    "DistrictName": "Huyện Chư Prông",
+    "bounding_box": "{     \"north\": 13.951756 ,     \"south\": 13.217707  ,     \"east\":  108.15228   ,     \"west\":  107.410343    }  ",
+    "bbox": "{'north': 13.881155253, 'south': 13.3042026530001, 'east': 108.019327214, 'west': 107.574084674}",
+    "id_district_goc": 632,
+    "search_volume": 1148,
+    "polygon": [
+      107.997846507,
+      13.8404186940001
+    ]
+  },
+  {
+    "DistrictID": 461,
+    "ProvinceID": 21,
+    "DistrictName": "Huyện Chư Sê",
+    "bounding_box": "{     \"north\": 13.931284 ,     \"south\": 13.478528  ,     \"east\":  108.347903   ,     \"west\":  107.928571    }  ",
+    "bbox": "{'north': 13.862828086, 'south': 13.5329211280001, 'east': 108.315640872, 'west': 107.971554984}",
+    "id_district_goc": 633,
+    "search_volume": 576,
+    "polygon": [
+      108.109280301,
+      13.8620064
+    ]
+  },
+  {
+    "DistrictID": 462,
+    "ProvinceID": 21,
+    "DistrictName": "Huyện Đăk Pơ",
+    "bounding_box": "{     \"north\": 14.121119 ,     \"south\": 13.751025  ,     \"east\":  108.822962   ,     \"west\":  108.376562    }  ",
+    "bbox": "{'north': 14.067554215, 'south': 13.7896364900001, 'east': 108.797386768, 'west': 108.414666215}",
+    "id_district_goc": 634,
+    "search_volume": 965,
+    "polygon": [
+      108.445971466,
+      14.0632653010001
+    ]
+  },
+  {
+    "DistrictID": 463,
+    "ProvinceID": 21,
+    "DistrictName": "Huyện Ia Pa",
+    "bounding_box": "{     \"north\": 13.7544 ,     \"south\": 13.311051  ,     \"east\":  108.790704   ,     \"west\":  108.232876    }  ",
+    "bbox": "{'north': 13.694188361, 'south': 13.360080285, 'east': 108.74241285, 'west': 108.282157846}",
+    "id_district_goc": 635,
+    "search_volume": 980,
+    "polygon": [
+      108.742301923,
+      13.5569946200001
+    ]
+  },
+  {
+    "DistrictID": 464,
+    "ProvinceID": 21,
+    "DistrictName": "Huyện Krông Pa",
+    "bounding_box": "{     \"north\": 13.539689 ,     \"south\": 12.926056  ,     \"east\":  108.968559   ,     \"west\":  108.362982    }  ",
+    "bbox": "{'north': 13.4743796270001, 'south': 12.995682985, 'east': 108.873361115, 'west': 108.43680237}",
+    "id_district_goc": 637,
+    "search_volume": 888,
+    "polygon": [
+      108.807297499,
+      13.4010573900001
+    ]
+  },
+  {
+    "DistrictID": 465,
+    "ProvinceID": 21,
+    "DistrictName": "Huyện Phú Thiện",
+    "bounding_box": "{     \"north\": 13.700199 ,     \"south\": 13.308506  ,     \"east\":  108.463622   ,     \"west\":  108.155451    }  ",
+    "bbox": "{'north': 13.665551652, 'south': 13.3462981640001, 'east': 108.436638839, 'west': 108.20220672}",
+    "id_district_goc": 638,
+    "search_volume": 928,
+    "polygon": [
+      108.282157846,
+      13.661715423
+    ]
+  },
+  {
+    "DistrictID": 466,
+    "ProvinceID": 21,
+    "DistrictName": "Huyện Chư Pưh",
+    "bounding_box": "{     \"north\": 13.694328 ,     \"south\": 13.311276  ,     \"east\":  108.256167   ,     \"west\":  107.860402    }  ",
+    "bbox": "{'north': 13.645074536, 'south': 13.3730002340001, 'east': 108.233394753, 'west': 107.919179101}",
+    "id_district_goc": 639,
+    "search_volume": 919,
+    "polygon": [
+      108.108505586,
+      13.638661697
+    ]
+  }
+]

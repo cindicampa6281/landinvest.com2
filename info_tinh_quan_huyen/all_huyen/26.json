@@ -1,0 +1,158 @@
+[
+  {
+    "DistrictID": 198,
+    "ProvinceID": 26,
+    "DistrictName": "Thành phố Hải Dương",
+    "bounding_box": "{     \"north\": 20.9864593 ,     \"south\": 20.8799731  ,     \"east\":  106.40433   ,     \"west\":  106.2591641    }  ",
+    "bbox": "{'north': 20.98706745, 'south': 20.893097186, 'east': 106.393153825, 'west': 106.260091489}",
+    "id_district_goc": 288,
+    "search_volume": 1021,
+    "polygon": [
+      106.388240261,
+      20.985873885
+    ]
+  },
+  {
+    "DistrictID": 199,
+    "ProvinceID": 26,
+    "DistrictName": "Thành phố Chí Linh",
+    "bounding_box": "{     \"north\": 21.2369932 ,     \"south\": 21.0197525  ,     \"east\":  106.5018799   ,     \"west\":  106.2951392    }  ",
+    "bbox": "{'north': 21.236878217, 'south': 21.0196751500001, 'east': 106.501348681, 'west': 106.295474842}",
+    "id_district_goc": 290,
+    "search_volume": 1709,
+    "polygon": [
+      106.295476942,
+      21.10767309
+    ]
+  },
+  {
+    "DistrictID": 200,
+    "ProvinceID": 26,
+    "DistrictName": "Huyện Nam Sách",
+    "bounding_box": "{     \"north\": 21.0868758 ,     \"south\": 20.9567065  ,     \"east\":  106.4135201   ,     \"west\":  106.2719351    }  ",
+    "bbox": "{'north': 21.086521669, 'south': 20.956524116, 'east': 106.413103003, 'west': 106.271658554}",
+    "id_district_goc": 291,
+    "search_volume": 1190,
+    "polygon": [
+      106.410054695,
+      21.021322952
+    ]
+  },
+  {
+    "DistrictID": 201,
+    "ProvinceID": 26,
+    "DistrictName": "Thị xã Kinh Môn",
+    "bounding_box": "{     \"north\": 21.0693826 ,     \"south\": 20.930512  ,     \"east\":  106.6115432   ,     \"west\":  106.4060834    }  ",
+    "bbox": "{'north': 21.069291865, 'south': 20.930747308, 'east': 106.611762111, 'west': 106.405853217}",
+    "id_district_goc": 292,
+    "search_volume": 1728,
+    "polygon": [
+      106.611762111,
+      21.0212140360001
+    ]
+  },
+  {
+    "DistrictID": 202,
+    "ProvinceID": 26,
+    "DistrictName": "Huyện Kim Thành",
+    "bounding_box": "{     \"north\": 21.0031628 ,     \"south\": 20.8509409  ,     \"east\":  106.5524304   ,     \"west\":  106.3875469    }  ",
+    "bbox": "{'north': 21.003138462, 'south': 20.8512401, 'east': 106.55211485, 'west': 106.387710799}",
+    "id_district_goc": 293,
+    "search_volume": 1548,
+    "polygon": [
+      106.546599948,
+      20.947900223
+    ]
+  },
+  {
+    "DistrictID": 203,
+    "ProvinceID": 26,
+    "DistrictName": "Huyện Thanh Hà",
+    "bounding_box": "{     \"north\": 20.9752723 ,     \"south\": 20.7997457  ,     \"east\":  106.516029   ,     \"west\":  106.3732351    }  ",
+    "bbox": "{'north': 20.976255548, 'south': 20.799886573, 'east': 106.515892501, 'west': 106.345087291}",
+    "id_district_goc": 294,
+    "search_volume": 1448,
+    "polygon": [
+      106.481009514,
+      20.867967853
+    ]
+  },
+  {
+    "DistrictID": 204,
+    "ProvinceID": 26,
+    "DistrictName": "Huyện Cẩm Giàng",
+    "bounding_box": "{     \"north\": 21.0012428 ,     \"south\": 20.9007098  ,     \"east\":  106.2933742   ,     \"west\":  106.1273113    }  ",
+    "bbox": "{'north': 21.001216238, 'south': 20.8998500370001, 'east': 106.293301068, 'west': 106.126676876}",
+    "id_district_goc": 295,
+    "search_volume": 2015,
+    "polygon": [
+      106.135959464,
+      20.9598779340001
+    ]
+  },
+  {
+    "DistrictID": 205,
+    "ProvinceID": 26,
+    "DistrictName": "Huyện Bình Giang",
+    "bounding_box": "{     \"north\": 20.9334687 ,     \"south\": 20.818274  ,     \"east\":  106.2593854   ,     \"west\":  106.1243692    }  ",
+    "bbox": "{'north': 20.934559689, 'south': 20.81820952, 'east': 106.259668344, 'west': 106.124641012}",
+    "id_district_goc": 296,
+    "search_volume": 2071,
+    "polygon": [
+      106.140316769,
+      20.8191999100001
+    ]
+  },
+  {
+    "DistrictID": 206,
+    "ProvinceID": 26,
+    "DistrictName": "Huyện Gia Lộc",
+    "bounding_box": "{     \"north\": 20.9130242 ,     \"south\": 20.7757409  ,     \"east\":  106.3515904   ,     \"west\":  106.2384604    }  ",
+    "bbox": "{'north': 20.918879336, 'south': 20.7768429340001, 'east': 106.351477509, 'west': 106.23820243}",
+    "id_district_goc": 297,
+    "search_volume": 1694,
+    "polygon": [
+      106.332887173,
+      20.893097186
+    ]
+  },
+  {
+    "DistrictID": 207,
+    "ProvinceID": 26,
+    "DistrictName": "Huyện Tứ Kỳ",
+    "bounding_box": "{     \"north\": 20.8936394 ,     \"south\": 20.720144  ,     \"east\":  106.4984329   ,     \"west\":  106.3076204    }  ",
+    "bbox": "{'north': 20.907937093, 'south': 20.720390762, 'east': 106.498158565, 'west': 106.307615841}",
+    "id_district_goc": 298,
+    "search_volume": 1737,
+    "polygon": [
+      106.485832984,
+      20.799886803
+    ]
+  },
+  {
+    "DistrictID": 208,
+    "ProvinceID": 26,
+    "DistrictName": "Huyện Ninh Giang",
+    "bounding_box": "{     \"north\": 20.8162246 ,     \"south\": 20.6895895  ,     \"east\":  106.4132629   ,     \"west\":  106.2623194    }  ",
+    "bbox": "{'north': 20.8166540660001, 'south': 20.6893068690001, 'east': 106.413197237, 'west': 106.262455832}",
+    "id_district_goc": 299,
+    "search_volume": 1863,
+    "polygon": [
+      106.412569756,
+      20.7343920930001
+    ]
+  },
+  {
+    "DistrictID": 209,
+    "ProvinceID": 26,
+    "DistrictName": "Huyện Thanh Miện",
+    "bounding_box": "{     \"north\": 20.847712 ,     \"south\": 20.684379  ,     \"east\":  106.2878214   ,     \"west\":  106.1310838    }  ",
+    "bbox": "{'north': 20.847512205, 'south': 20.6841224030001, 'east': 106.287606249, 'west': 106.131451957}",
+    "id_district_goc": 300,
+    "search_volume": 1992,
+    "polygon": [
+      106.249602039,
+      20.8406769440001
+    ]
+  }
+]

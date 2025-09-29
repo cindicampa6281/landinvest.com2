@@ -1,0 +1,132 @@
+[
+  {
+    "DistrictID": 76,
+    "ProvinceID": 18,
+    "DistrictName": "Thành phố Điện Biên Phủ",
+    "bounding_box": "{     \"north\": 21.471403 ,     \"south\": 21.353807  ,     \"east\":  103.105779   ,     \"west\":  102.972147    }  ",
+    "bbox": "{'north': 21.461224074, 'south': 21.3654171160001, 'east': 103.090725966, 'west': 102.993072901}",
+    "id_district_goc": 94,
+    "search_volume": 601,
+    "polygon": [
+      103.040328228,
+      21.4611253730001
+    ]
+  },
+  {
+    "DistrictID": 77,
+    "ProvinceID": 18,
+    "DistrictName": "Thị Xã Mường Lay",
+    "bounding_box": "{     \"north\": 22.116579 ,     \"south\": 21.948087  ,     \"east\":  103.201149   ,     \"west\":  103.030767    }  ",
+    "bbox": "{'north': 22.102273229, 'south': 21.958500848, 'east': 103.190849934, 'west': 103.046335027}",
+    "id_district_goc": 95,
+    "search_volume": 282,
+    "polygon": [
+      103.145742213,
+      22.067008931
+    ]
+  },
+  {
+    "DistrictID": 78,
+    "ProvinceID": 18,
+    "DistrictName": "Huyện Mường Nhé",
+    "bounding_box": "{     \"north\": 22.599514 ,     \"south\": 21.934062  ,     \"east\":  102.795905   ,     \"west\":  102.100322    }  ",
+    "bbox": "{'north': 22.548380771, 'south': 21.9762006390001, 'east': 102.760873146, 'west': 102.144028483}",
+    "id_district_goc": 96,
+    "search_volume": 880,
+    "polygon": [
+      102.322632744,
+      22.543674917
+    ]
+  },
+  {
+    "DistrictID": 79,
+    "ProvinceID": 18,
+    "DistrictName": "Huyện Mường Chà",
+    "bounding_box": "{     \"north\": 22.118611 ,     \"south\": 21.561749  ,     \"east\":  103.376901   ,     \"west\":  102.884094    }  ",
+    "bbox": "{'north': 22.0700373350001, 'south': 21.5878743690001, 'east': 103.30405423, 'west': 102.972597765}",
+    "id_district_goc": 97,
+    "search_volume": 206,
+    "polygon": [
+      103.198888259,
+      22.0681106750001
+    ]
+  },
+  {
+    "DistrictID": 80,
+    "ProvinceID": 18,
+    "DistrictName": "Huyện Tủa Chùa",
+    "bounding_box": "{     \"north\": 22.205126 ,     \"south\": 21.750731  ,     \"east\":  103.54851   ,     \"west\":  103.198819    }  ",
+    "bbox": "{'north': 22.156426331, 'south': 21.784564964, 'east': 103.519094929, 'west': 103.250423115}",
+    "id_district_goc": 98,
+    "search_volume": 295,
+    "polygon": [
+      103.391520889,
+      22.1534246950001
+    ]
+  },
+  {
+    "DistrictID": 81,
+    "ProvinceID": 18,
+    "DistrictName": "Huyện Tuần Giáo",
+    "bounding_box": "{     \"north\": 21.896896 ,     \"south\": 21.394648  ,     \"east\":  103.668078   ,     \"west\":  103.098276    }  ",
+    "bbox": "{'north': 21.8642800260001, 'south': 21.426340317, 'east': 103.598771905, 'west': 103.139405557}",
+    "id_district_goc": 99,
+    "search_volume": 118,
+    "polygon": [
+      103.522136404,
+      21.8623205910001
+    ]
+  },
+  {
+    "DistrictID": 82,
+    "ProvinceID": 18,
+    "DistrictName": "Huyện Điện Biên",
+    "bounding_box": "{     \"north\": 21.675088 ,     \"south\": 20.8032  ,     \"east\":  103.345812   ,     \"west\":  102.708812    }  ",
+    "bbox": "{'north': 21.617988607, 'south': 20.892719297, 'east': 103.298895747, 'west': 102.807631642}",
+    "id_district_goc": 101,
+    "search_volume": 810,
+    "polygon": [
+      103.040785517,
+      21.612567825
+    ]
+  },
+  {
+    "DistrictID": 83,
+    "ProvinceID": 18,
+    "DistrictName": "Huyện Điện Biên Đông",
+    "bounding_box": "{     \"north\": 21.486754 ,     \"south\": 20.984398  ,     \"east\":  103.489094   ,     \"west\":  103.025863    }  ",
+    "bbox": "{'north': 21.4376428950001, 'south': 21.0286788510001, 'east': 103.440835065, 'west': 103.067527405}",
+    "id_district_goc": null,
+    "search_volume": 0,
+    "polygon": [
+      103.190815856,
+      21.437271133
+    ]
+  },
+  {
+    "DistrictID": 84,
+    "ProvinceID": 18,
+    "DistrictName": "Huyện Mường Ảng",
+    "bounding_box": "{     \"north\": 21.68675 ,     \"south\": 21.367488  ,     \"east\":  103.433049   ,     \"west\":  103.082312    }  ",
+    "bbox": "{'north': 21.6317868100001, 'south': 21.402405631, 'east': 103.412855559, 'west': 103.104668095}",
+    "id_district_goc": 102,
+    "search_volume": 0,
+    "polygon": [
+      103.142041853,
+      21.6297600180001
+    ]
+  },
+  {
+    "DistrictID": 85,
+    "ProvinceID": 18,
+    "DistrictName": "Huyện Nậm Pồ",
+    "bounding_box": "{     \"north\": 22.452568 ,     \"south\": 22.324631  ,     \"east\":  103.532327   ,     \"west\":  103.343015    }  ",
+    "bbox": "{'north': 22.116976058, 'south': 21.6541484700001, 'east': 103.027541036, 'west': 102.501166884}",
+    "id_district_goc": 103,
+    "search_volume": 622,
+    "polygon": [
+      102.541477455,
+      22.0344970040001
+    ]
+  }
+]

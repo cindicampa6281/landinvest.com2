@@ -1,0 +1,392 @@
+[
+  {
+    "DistrictID": 1,
+    "ProvinceID": 24,
+    "DistrictName": "Quận Ba Đình",
+    "bounding_box": "{     \"north\": 21.055814 ,     \"south\": 21.015839  ,     \"east\":  105.857167   ,     \"west\":  105.800776    }  ",
+    "bbox": "{'north': 21.053886376, 'south': 21.0158551700001, 'east': 105.857163698, 'west': 105.801469498}",
+    "id_district_goc": 1,
+    "search_volume": 14185,
+    "polygon": [
+      105.801469498,
+      21.0304271810001
+    ]
+  },
+  {
+    "DistrictID": 2,
+    "ProvinceID": 24,
+    "DistrictName": "Quận Hoàn Kiếm",
+    "bounding_box": "{     \"north\": 21.046828 ,     \"south\": 21.016305  ,     \"east\":  105.868645   ,     \"west\":  105.838221    }  ",
+    "bbox": "{'north': 21.0419926700001, 'south': 21.017912589, 'east': 105.868260277, 'west': 105.841908374}",
+    "id_district_goc": 2,
+    "search_volume": 11689,
+    "polygon": [
+      105.842790286,
+      21.0287423180001
+    ]
+  },
+  {
+    "DistrictID": 3,
+    "ProvinceID": 24,
+    "DistrictName": "Quận Tây Hồ",
+    "bounding_box": "{     \"north\": 21.100269 ,     \"south\": 21.035591  ,     \"east\":  105.850901   ,     \"west\":  105.782975    }  ",
+    "bbox": "{'north': 21.098025987, 'south': 21.039003816, 'east': 105.849083243, 'west': 105.793107642}",
+    "id_district_goc": 3,
+    "search_volume": 13616,
+    "polygon": [
+      105.794909104,
+      21.050823258
+    ]
+  },
+  {
+    "DistrictID": 4,
+    "ProvinceID": 24,
+    "DistrictName": "Quận Long Biên",
+    "bounding_box": "{     \"north\": 21.087693 ,     \"south\": 20.993235  ,     \"east\":  105.950025   ,     \"west\":  105.837749    }  ",
+    "bbox": "{'north': 21.0820576130001, 'south': 20.9944872560001, 'east': 105.938712301, 'west': 105.836237361}",
+    "id_district_goc": 4,
+    "search_volume": 8974,
+    "polygon": [
+      105.849083243,
+      21.053886376
+    ]
+  },
+  {
+    "DistrictID": 5,
+    "ProvinceID": 24,
+    "DistrictName": "Quận Cầu Giấy",
+    "bounding_box": "{     \"north\": 21.063654 ,     \"south\": 20.997609  ,     \"east\":  105.820384   ,     \"west\":  105.761494    }  ",
+    "bbox": "{'north': 21.059029206, 'south': 21.00095602, 'east': 105.814017024, 'west': 105.768365039}",
+    "id_district_goc": 5,
+    "search_volume": 18895,
+    "polygon": [
+      105.792565657,
+      21.00095602
+    ]
+  },
+  {
+    "DistrictID": 6,
+    "ProvinceID": 24,
+    "DistrictName": "Quận Đống Đa",
+    "bounding_box": "{     \"north\": 21.033 ,     \"south\": 20.995232  ,     \"east\":  105.847817   ,     \"west\":  105.793329    }  ",
+    "bbox": "{'north': 21.032202957, 'south': 20.9973581690001, 'east': 105.843442033, 'west': 105.797905656}",
+    "id_district_goc": 6,
+    "search_volume": 15646,
+    "polygon": [
+      105.814017024,
+      21.0084007090001
+    ]
+  },
+  {
+    "DistrictID": 7,
+    "ProvinceID": 24,
+    "DistrictName": "Quận Hai Bà Trưng",
+    "bounding_box": "{     \"north\": 21.02381 ,     \"south\": 20.988507  ,     \"east\":  105.884145   ,     \"west\":  105.834826    }  ",
+    "bbox": "{'north': 21.0215965310001, 'south': 20.9911136370001, 'east': 105.882425316, 'west': 105.842414377}",
+    "id_district_goc": 7,
+    "search_volume": 11333,
+    "polygon": [
+      105.842420415,
+      20.9916070510001
+    ]
+  },
+  {
+    "DistrictID": 8,
+    "ProvinceID": 24,
+    "DistrictName": "Quận Hoàng Mai",
+    "bounding_box": "{     \"north\": 21.007412 ,     \"south\": 20.940768  ,     \"east\":  105.914554   ,     \"west\":  105.798187    }  ",
+    "bbox": "{'north': 21.0035285010001, 'south': 20.9463508060001, 'east': 105.909162455, 'west': 105.806579285}",
+    "id_district_goc": 8,
+    "search_volume": 11785,
+    "polygon": [
+      105.899228453,
+      20.9944872560001
+    ]
+  },
+  {
+    "DistrictID": 9,
+    "ProvinceID": 24,
+    "DistrictName": "Quận Thanh Xuân",
+    "bounding_box": "{     \"north\": 21.010321 ,     \"south\": 20.978537  ,     \"east\":  105.845857   ,     \"west\":  105.788983    }  ",
+    "bbox": "{'north': 21.0085186420001, 'south': 20.980555731, 'east': 105.843095435, 'west': 105.791069196}",
+    "id_district_goc": 9,
+    "search_volume": 16538,
+    "polygon": [
+      105.796504371,
+      20.983196693
+    ]
+  },
+  {
+    "DistrictID": 10,
+    "ProvinceID": 24,
+    "DistrictName": "Huyện Sóc Sơn",
+    "bounding_box": "{     \"north\": 21.391374 ,     \"south\": 21.169609  ,     \"east\":  105.954643   ,     \"west\":  105.695336    }  ",
+    "bbox": "{'north': 21.3855144820001, 'south': 21.176969865, 'east': 105.938750408, 'west': 105.723011257}",
+    "id_district_goc": 16,
+    "search_volume": 5243,
+    "polygon": [
+      105.894191117,
+      21.327071931
+    ]
+  },
+  {
+    "DistrictID": 11,
+    "ProvinceID": 24,
+    "DistrictName": "Huyện Đông Anh",
+    "bounding_box": "{     \"north\": 21.221936 ,     \"south\": 21.055626  ,     \"east\":  105.944009   ,     \"west\":  105.709578    }  ",
+    "bbox": "{'north': 21.206961313, 'south': 21.0663662630001, 'east': 105.926519087, 'west': 105.731828316}",
+    "id_district_goc": 17,
+    "search_volume": 9904,
+    "polygon": [
+      105.906817329,
+      21.1921052230001
+    ]
+  },
+  {
+    "DistrictID": 12,
+    "ProvinceID": 24,
+    "DistrictName": "Huyện Gia Lâm",
+    "bounding_box": "{     \"north\": 21.124626 ,     \"south\": 20.919394  ,     \"east\":  106.036152   ,     \"west\":  105.796311    }  ",
+    "bbox": "{'north': 21.1214674980001, 'south': 20.926487541, 'east': 106.020154616, 'west': 105.880722911}",
+    "id_district_goc": 18,
+    "search_volume": 5572,
+    "polygon": [
+      105.984823437,
+      21.069932619
+    ]
+  },
+  {
+    "DistrictID": 13,
+    "ProvinceID": 24,
+    "DistrictName": "Quận Nam Từ Liêm",
+    "bounding_box": "{     \"north\": 21.059383 ,     \"south\": 20.975502  ,     \"east\":  105.806529   ,     \"west\":  105.717532    }  ",
+    "bbox": "{'north': 21.0559480250001, 'south': 20.980158083, 'east': 105.798419367, 'west': 105.726960239}",
+    "id_district_goc": 19,
+    "search_volume": 23623,
+    "polygon": [
+      105.735146305,
+      20.997018602
+    ]
+  },
+  {
+    "DistrictID": 14,
+    "ProvinceID": 24,
+    "DistrictName": "Huyện Thanh Trì",
+    "bounding_box": "{     \"north\": 20.992271 ,     \"south\": 20.894739  ,     \"east\":  105.919334   ,     \"west\":  105.777448    }  ",
+    "bbox": "{'north': 20.987749143, 'south': 20.8973357410001, 'east': 105.913110543, 'west': 105.788315719}",
+    "id_district_goc": 20,
+    "search_volume": 11976,
+    "polygon": [
+      105.789342734,
+      20.9393510680001
+    ]
+  },
+  {
+    "DistrictID": 15,
+    "ProvinceID": 24,
+    "DistrictName": "Quận Bắc Từ Liêm",
+    "bounding_box": "{     \"north\": 21.107126 ,     \"south\": 21.034511  ,     \"east\":  105.809632   ,     \"west\":  105.707433    }  ",
+    "bbox": "{'north': 21.1076021220001, 'south': 21.038045073, 'east': 105.806833909, 'west': 105.716845833}",
+    "id_district_goc": 21,
+    "search_volume": 19025,
+    "polygon": [
+      105.72967785,
+      21.0559480250001
+    ]
+  },
+  {
+    "DistrictID": 16,
+    "ProvinceID": 24,
+    "DistrictName": "Huyện Mê Linh",
+    "bounding_box": "{     \"north\": 21.249219 ,     \"south\": 21.112882  ,     \"east\":  105.799155   ,     \"west\":  105.600714    }  ",
+    "bbox": "{'north': 21.239320213, 'south': 21.1202383350001, 'east': 105.790584763, 'west': 105.616161222}",
+    "id_district_goc": 250,
+    "search_volume": 10547,
+    "polygon": [
+      105.688497201,
+      21.2335778500001
+    ]
+  },
+  {
+    "DistrictID": 17,
+    "ProvinceID": 24,
+    "DistrictName": "Quận Hà Đông",
+    "bounding_box": "{     \"north\": 21.000188 ,     \"south\": 20.905641  ,     \"east\":  105.806007   ,     \"west\":  105.689291    }  ",
+    "bbox": "{'north': 20.997018602, 'south': 20.9108046310001, 'east': 105.804096843, 'west': 105.706586429}",
+    "id_district_goc": 268,
+    "search_volume": 25804,
+    "polygon": [
+      105.794442119,
+      20.9856147080001
+    ]
+  },
+  {
+    "DistrictID": 18,
+    "ProvinceID": 24,
+    "DistrictName": "Thị xã Sơn Tây",
+    "bounding_box": "{     \"north\": 21.171053 ,     \"south\": 21.015057  ,     \"east\":  105.542844   ,     \"west\":  105.423024    }  ",
+    "bbox": "{'north': 21.1722643730001, 'south': 21.0204000480001, 'east': 105.536860297, 'west': 105.414898997}",
+    "id_district_goc": 269,
+    "search_volume": 10459,
+    "polygon": [
+      105.524331001,
+      21.08980924
+    ]
+  },
+  {
+    "DistrictID": 19,
+    "ProvinceID": 24,
+    "DistrictName": "Huyện Ba Vì",
+    "bounding_box": "{     \"north\": 21.311215 ,     \"south\": 20.992834  ,     \"east\":  105.50182   ,     \"west\":  105.251814    }  ",
+    "bbox": "{'north': 21.3039457940001, 'south': 21.0076590510001, 'east': 105.474870479, 'west': 105.28500419}",
+    "id_district_goc": 271,
+    "search_volume": 5754,
+    "polygon": [
+      105.44328332,
+      21.264859566
+    ]
+  },
+  {
+    "DistrictID": 20,
+    "ProvinceID": 24,
+    "DistrictName": "Huyện Phúc Thọ",
+    "bounding_box": "{     \"north\": 21.185303 ,     \"south\": 21.03301  ,     \"east\":  105.675383   ,     \"west\":  105.482612    }  ",
+    "bbox": "{'north': 21.17582428, 'south': 21.04394395, 'east': 105.665201264, 'west': 105.500782888}",
+    "id_district_goc": 272,
+    "search_volume": 15213,
+    "polygon": [
+      105.516290161,
+      21.156204926
+    ]
+  },
+  {
+    "DistrictID": 21,
+    "ProvinceID": 24,
+    "DistrictName": "Huyện Đan Phượng",
+    "bounding_box": "{     \"north\": 21.181975 ,     \"south\": 21.055605  ,     \"east\":  105.749304   ,     \"west\":  105.603046    }  ",
+    "bbox": "{'north': 21.167036281, 'south': 21.0654587560001, 'east': 105.741091655, 'west': 105.623191975}",
+    "id_district_goc": 273,
+    "search_volume": 17530,
+    "polygon": [
+      105.664299913,
+      21.0654587560001
+    ]
+  },
+  {
+    "DistrictID": 22,
+    "ProvinceID": 24,
+    "DistrictName": "Huyện Hoài Đức",
+    "bounding_box": "{     \"north\": 21.097801 ,     \"south\": 20.952878  ,     \"east\":  105.753031   ,     \"west\":  105.637966    }  ",
+    "bbox": "{'north': 21.089185813, 'south': 20.955073903, 'east': 105.74206962, 'west': 105.645603706}",
+    "id_district_goc": 274,
+    "search_volume": 30594,
+    "polygon": [
+      105.716933807,
+      21.072034893
+    ]
+  },
+  {
+    "DistrictID": 23,
+    "ProvinceID": 24,
+    "DistrictName": "Huyện Quốc Oai",
+    "bounding_box": "{     \"north\": 21.060427 ,     \"south\": 20.899472  ,     \"east\":  105.733209   ,     \"west\":  105.463243    }  ",
+    "bbox": "{'north': 21.0443290970001, 'south': 20.9082729300001, 'east': 105.725719504, 'west': 105.483756576}",
+    "id_district_goc": 275,
+    "search_volume": 28126,
+    "polygon": [
+      105.639840929,
+      21.043986563
+    ]
+  },
+  {
+    "DistrictID": 24,
+    "ProvinceID": 24,
+    "DistrictName": "Huyện Thạch Thất",
+    "bounding_box": "{     \"north\": 21.118421 ,     \"south\": 20.930985  ,     \"east\":  105.64731   ,     \"west\":  105.370623    }  ",
+    "bbox": "{'north': 21.1024567810001, 'south': 20.946764413, 'east': 105.639500695, 'west': 105.39206637}",
+    "id_district_goc": 276,
+    "search_volume": 16087,
+    "polygon": [
+      105.634350682,
+      21.0443290970001
+    ]
+  },
+  {
+    "DistrictID": 25,
+    "ProvinceID": 24,
+    "DistrictName": "Huyện Chương Mỹ",
+    "bounding_box": "{     \"north\": 20.986576 ,     \"south\": 20.783972  ,     \"east\":  105.776434   ,     \"west\":  105.530655    }  ",
+    "bbox": "{'north': 20.9625370040001, 'south': 20.792496194, 'east': 105.761177966, 'west': 105.550780155}",
+    "id_district_goc": 277,
+    "search_volume": 24057,
+    "polygon": [
+      105.694979934,
+      20.955231419
+    ]
+  },
+  {
+    "DistrictID": 26,
+    "ProvinceID": 24,
+    "DistrictName": "Huyện Thanh Oai",
+    "bounding_box": "{     \"north\": 20.950562 ,     \"south\": 20.773489  ,     \"east\":  105.839017   ,     \"west\":  105.710964    }  ",
+    "bbox": "{'north': 20.9395249470001, 'south': 20.780584817, 'east': 105.841869919, 'west': 105.722902003}",
+    "id_district_goc": 278,
+    "search_volume": 14942,
+    "polygon": [
+      105.816363668,
+      20.9027814460001
+    ]
+  },
+  {
+    "DistrictID": 27,
+    "ProvinceID": 24,
+    "DistrictName": "Huyện Thường Tín",
+    "bounding_box": "{     \"north\": 20.924206 ,     \"south\": 20.736553  ,     \"east\":  105.944305   ,     \"west\":  105.793966    }  ",
+    "bbox": "{'north': 20.9130010550001, 'south': 20.7519317860001, 'east': 105.936300794, 'west': 105.812684724}",
+    "id_district_goc": 279,
+    "search_volume": 6207,
+    "polygon": [
+      105.832590443,
+      20.801145682
+    ]
+  },
+  {
+    "DistrictID": 28,
+    "ProvinceID": 24,
+    "DistrictName": "Huyện Phú Xuyên",
+    "bounding_box": "{     \"north\": 20.819359 ,     \"south\": 20.636017  ,     \"east\":  106.008342   ,     \"west\":  105.784409    }  ",
+    "bbox": "{'north': 20.8071704290001, 'south': 20.6505368580001, 'east': 106.003191686, 'west': 105.791897213}",
+    "id_district_goc": 280,
+    "search_volume": 3559,
+    "polygon": [
+      105.90714056,
+      20.667562821
+    ]
+  },
+  {
+    "DistrictID": 29,
+    "ProvinceID": 24,
+    "DistrictName": "Huyện Ứng Hòa",
+    "bounding_box": "{     \"north\": 20.834309 ,     \"south\": 20.600699  ,     \"east\":  105.905985   ,     \"west\":  105.676242    }  ",
+    "bbox": "{'north': 20.8093562560001, 'south': 20.611912918, 'east': 105.90714056, 'west': 105.696830614}",
+    "id_district_goc": 281,
+    "search_volume": 5994,
+    "polygon": [
+      105.735127456,
+      20.8090917590001
+    ]
+  },
+  {
+    "DistrictID": 30,
+    "ProvinceID": 24,
+    "DistrictName": "Huyện Mỹ Đức",
+    "bounding_box": "{     \"north\": 20.846048 ,     \"south\": 20.543599  ,     \"east\":  105.844888   ,     \"west\":  105.592633    }  ",
+    "bbox": "{'north': 20.8289377900001, 'south': 20.5642508770001, 'east': 105.812965011, 'west': 105.648249477}",
+    "id_district_goc": 282,
+    "search_volume": 7374,
+    "polygon": [
+      105.709201976,
+      20.809338724
+    ]
+  }
+]

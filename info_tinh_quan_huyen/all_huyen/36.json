@@ -1,0 +1,119 @@
+[
+  {
+    "DistrictID": 67,
+    "ProvinceID": 36,
+    "DistrictName": "Thành phố Lào Cai",
+    "bounding_box": "{     \"north\": 22.5274526 ,     \"south\": 22.3106556  ,     \"east\":  104.0865268   ,     \"west\":  103.8962674    }  ",
+    "bbox": "{'north': 22.5262159860001, 'south': 22.310771516, 'east': 104.062873399, 'west': 103.896698785}",
+    "id_district_goc": 80,
+    "search_volume": 435,
+    "polygon": [
+      104.006051589,
+      22.518484249
+    ]
+  },
+  {
+    "DistrictID": 68,
+    "ProvinceID": 36,
+    "DistrictName": "Huyện Bát Xát",
+    "bounding_box": "{     \"north\": 22.797962 ,     \"south\": 22.3963061  ,     \"east\":  103.9553881   ,     \"west\":  103.5294336    }  ",
+    "bbox": "{'north': 22.796894407, 'south': 22.396049217, 'east': 103.961978939, 'west': 103.527395007}",
+    "id_district_goc": 82,
+    "search_volume": 674,
+    "polygon": [
+      103.938254384,
+      22.5262159860001
+    ]
+  },
+  {
+    "DistrictID": 69,
+    "ProvinceID": 36,
+    "DistrictName": "Huyện Mường Khương",
+    "bounding_box": "{     \"north\": 22.8449153 ,     \"south\": 22.5258075  ,     \"east\":  104.2711685   ,     \"west\":  104.0051973    }  ",
+    "bbox": "{'north': 22.84488996, 'south': 22.526282517, 'east': 104.273421156, 'west': 104.005347047}",
+    "id_district_goc": 83,
+    "search_volume": 650,
+    "polygon": [
+      104.26636518,
+      22.8408493320001
+    ]
+  },
+  {
+    "DistrictID": 70,
+    "ProvinceID": 36,
+    "DistrictName": "Huyện Si Ma Cai",
+    "bounding_box": "{     \"north\": 22.74162 ,     \"south\": 22.5849976  ,     \"east\":  104.3634573   ,     \"west\":  104.1740781    }  ",
+    "bbox": "{'north': 22.7419694340001, 'south': 22.5852033210001, 'east': 104.363299264, 'west': 104.172778807}",
+    "id_district_goc": 84,
+    "search_volume": 661,
+    "polygon": [
+      104.341285993,
+      22.710509696
+    ]
+  },
+  {
+    "DistrictID": 71,
+    "ProvinceID": 36,
+    "DistrictName": "Huyện Bắc Hà",
+    "bounding_box": "{     \"north\": 22.6806024 ,     \"south\": 22.3248148  ,     \"east\":  104.4666856   ,     \"west\":  104.1650296    }  ",
+    "bbox": "{'north': 22.6804281710001, 'south': 22.3242256460001, 'east': 104.464509051, 'west': 104.165760201}",
+    "id_district_goc": 85,
+    "search_volume": 516,
+    "polygon": [
+      104.447948726,
+      22.500741122
+    ]
+  },
+  {
+    "DistrictID": 72,
+    "ProvinceID": 36,
+    "DistrictName": "Huyện Bảo Thắng",
+    "bounding_box": "{     \"north\": 22.5599609 ,     \"south\": 22.1980019  ,     \"east\":  104.3316283   ,     \"west\":  104.0018449    }  ",
+    "bbox": "{'north': 22.560782107, 'south': 22.198588038, 'east': 104.330496544, 'west': 104.002280094}",
+    "id_district_goc": 86,
+    "search_volume": 235,
+    "polygon": [
+      104.147268011,
+      22.5371863610001
+    ]
+  },
+  {
+    "DistrictID": 73,
+    "ProvinceID": 36,
+    "DistrictName": "Huyện Bảo Yên",
+    "bounding_box": "{     \"north\": 22.5012667 ,     \"south\": 22.0863541  ,     \"east\":  104.6286551   ,     \"west\":  104.2082624    }  ",
+    "bbox": "{'north': 22.50170058, 'south': 22.0871143140001, 'east': 104.628864054, 'west': 104.208627717}",
+    "id_district_goc": 87,
+    "search_volume": 634,
+    "polygon": [
+      104.447948726,
+      22.500741122
+    ]
+  },
+  {
+    "DistrictID": 74,
+    "ProvinceID": 36,
+    "DistrictName": "Thị xã Sa Pa",
+    "bounding_box": "{     \"north\": 22.4933446 ,     \"south\": 22.1374235  ,     \"east\":  104.0835929   ,     \"west\":  103.7286454    }  ",
+    "bbox": "{'north': 22.4928637400001, 'south': 22.1373131070001, 'east': 104.084012549, 'west': 103.728788356}",
+    "id_district_goc": 88,
+    "search_volume": 4555,
+    "polygon": [
+      103.932388661,
+      22.4061158440001
+    ]
+  },
+  {
+    "DistrictID": 75,
+    "ProvinceID": 36,
+    "DistrictName": "Huyện Văn Bàn",
+    "bounding_box": "{     \"north\": 22.26684 ,     \"south\": 21.808833  ,     \"east\":  104.480484   ,     \"west\":  103.843312    }  ",
+    "bbox": "{'north': 22.2530049920001, 'south': 21.876484039, 'east': 104.432471106, 'west': 103.938281091}",
+    "id_district_goc": 89,
+    "search_volume": 626,
+    "polygon": [
+      104.239124513,
+      22.242441989
+    ]
+  }
+]

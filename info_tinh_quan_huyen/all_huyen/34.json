@@ -1,0 +1,146 @@
+[
+  {
+    "DistrictID": 440,
+    "ProvinceID": 34,
+    "DistrictName": "Thành phố Kon Tum",
+    "bounding_box": "{     \"north\": 14.48357 ,     \"south\": 14.197124  ,     \"east\":  108.145959   ,     \"west\":  107.81223    }  ",
+    "bbox": "{'north': 14.453357338, 'south': 14.2283719220001, 'east': 108.089194998, 'west': 107.850029875}",
+    "id_district_goc": 608,
+    "search_volume": 841,
+    "polygon": [
+      108.010158747,
+      14.45071131
+    ]
+  },
+  {
+    "DistrictID": 441,
+    "ProvinceID": 34,
+    "DistrictName": "Huyện Đắk Glei",
+    "bounding_box": "{     \"north\": 15.500699 ,     \"south\": 14.796264  ,     \"east\":  108.054893   ,     \"west\":  107.424457    }  ",
+    "bbox": "{'north': 15.4173303050001, 'south': 14.8565144510001, 'east': 108.004254623, 'west': 107.466419461}",
+    "id_district_goc": 610,
+    "search_volume": 1639,
+    "polygon": [
+      108.001813745,
+      15.12197065
+    ]
+  },
+  {
+    "DistrictID": 442,
+    "ProvinceID": 34,
+    "DistrictName": "Huyện Ngọc Hồi",
+    "bounding_box": "{     \"north\": 15.019758 ,     \"south\": 14.459316  ,     \"east\":  107.863889   ,     \"west\":  107.394801    }  ",
+    "bbox": "{'north': 14.974594659, 'south': 14.5032072880001, 'east': 107.794554374, 'west': 107.507084237}",
+    "id_district_goc": 611,
+    "search_volume": 1138,
+    "polygon": [
+      107.540380621,
+      14.628316635
+    ]
+  },
+  {
+    "DistrictID": 443,
+    "ProvinceID": 34,
+    "DistrictName": "Huyện Đắk Tô",
+    "bounding_box": "{     \"north\": 14.871051 ,     \"south\": 14.493085  ,     \"east\":  107.987123   ,     \"west\":  107.656031    }  ",
+    "bbox": "{'north': 14.8461996450001, 'south': 14.521173983, 'east': 107.938442083, 'west': 107.701782718}",
+    "id_district_goc": 612,
+    "search_volume": 23,
+    "polygon": [
+      107.74451766,
+      14.632746108
+    ]
+  },
+  {
+    "DistrictID": 444,
+    "ProvinceID": 34,
+    "DistrictName": "Huyện Kon Plông",
+    "bounding_box": "{     \"north\": 15.13713 ,     \"south\": 14.486636  ,     \"east\":  108.611299   ,     \"west\":  108.071847    }  ",
+    "bbox": "{'north': 15.062035248, 'south': 14.543699862, 'east': 108.547102888, 'west': 108.125137675}",
+    "id_district_goc": 613,
+    "search_volume": 889,
+    "polygon": [
+      108.238393088,
+      15.0319223660001
+    ]
+  },
+  {
+    "DistrictID": 445,
+    "ProvinceID": 34,
+    "DistrictName": "Huyện Kon Rẫy",
+    "bounding_box": "{     \"north\": 14.837442 ,     \"south\": 14.294221  ,     \"east\":  108.474342   ,     \"west\":  107.985083    }  ",
+    "bbox": "{'north': 14.7652413930001, 'south': 14.33405293, 'east': 108.384104154, 'west': 108.059422475}",
+    "id_district_goc": 614,
+    "search_volume": 625,
+    "polygon": [
+      108.177391903,
+      14.3678544050001
+    ]
+  },
+  {
+    "DistrictID": 446,
+    "ProvinceID": 34,
+    "DistrictName": "Huyện Đắk Hà",
+    "bounding_box": "{     \"north\": 14.851949 ,     \"south\": 14.366718  ,     \"east\":  108.195938   ,     \"west\":  107.800449    }  ",
+    "bbox": "{'north': 14.829831174, 'south': 14.3971901250001, 'east': 108.141775114, 'west': 107.86137928}",
+    "id_district_goc": 615,
+    "search_volume": 212,
+    "polygon": [
+      108.057804067,
+      14.814828302
+    ]
+  },
+  {
+    "DistrictID": 447,
+    "ProvinceID": 34,
+    "DistrictName": "Huyện Sa Thầy",
+    "bounding_box": "{     \"north\": 14.707701 ,     \"south\": 13.834242  ,     \"east\":  108.001106   ,     \"west\":  107.192709    }  ",
+    "bbox": "{'north': 14.6129443990001, 'south': 13.9960801890001, 'east': 107.888722772, 'west': 107.419099232}",
+    "id_district_goc": 616,
+    "search_volume": 1207,
+    "polygon": [
+      [
+        107.523729949,
+        13.9960801890001
+      ],
+      [
+        107.523080732,
+        13.9989790660001
+      ],
+      [
+        107.523080765,
+        13.9989789210001
+      ],
+      [
+        107.523729949,
+        13.9960801890001
+      ]
+    ]
+  },
+  {
+    "DistrictID": 448,
+    "ProvinceID": 34,
+    "DistrictName": "Huyện Tu Mơ Rông",
+    "bounding_box": "{     \"north\": 15.084842 ,     \"south\": 14.70489  ,     \"east\":  108.208114   ,     \"west\":  107.70302    }  ",
+    "bbox": "{'north': 15.03691586, 'south': 14.7375804500001, 'east': 108.159105191, 'west': 107.775308597}",
+    "id_district_goc": 617,
+    "search_volume": 1212,
+    "polygon": [
+      107.99126278,
+      14.998274807
+    ]
+  },
+  {
+    "DistrictID": 449,
+    "ProvinceID": 34,
+    "DistrictName": "Huyện Ia H' Drai",
+    "bounding_box": "{     \"north\": 14.12153 ,     \"south\": 14.071129  ,     \"east\":  107.478491   ,     \"west\":  107.42205    }  ",
+    "bbox": "{'north': 14.3790567090001, 'south': 13.9209134330001, 'east': 107.687602645, 'west': 107.332476685}",
+    "id_district_goc": 618,
+    "search_volume": 1418,
+    "polygon": [
+      107.377725619,
+      14.0828678980001
+    ]
+  }
+]
